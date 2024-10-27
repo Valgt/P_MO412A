@@ -1,0 +1,1018 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167779924000970</prism:url><dc:identifier>doi:10.1016/j.tibtech.2024.04.005</dc:identifier><eid>1-s2.0-S0167779924000970</eid><prism:doi>10.1016/j.tibtech.2024.04.005</prism:doi><pii>S0167-7799(24)00097-0</pii><dc:title>Microfluidic electrochemical biosensors: tools for advancing the sustainable development goals </dc:title><prism:publicationName>Trends in Biotechnology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>ssu</pubType><prism:issn>01677799</prism:issn><prism:volume>42</prism:volume><prism:issueIdentifier>10</prism:issueIdentifier><prism:startingPage>1207</prism:startingPage><prism:endingPage>1210</prism:endingPage><prism:pageRange>1207-1210</prism:pageRange><prism:number>10</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2024-10-31</prism:coverDate><prism:coverDisplayDate>October 2024</prism:coverDisplayDate><prism:copyright>© 2024 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Koumbia, Mkliwa</dc:creator><dc:creator>Ngoepe, Mpho</dc:creator><dc:creator>Holman, Joseph Benjamin</dc:creator><dc:creator>Mufamadi, Maluta Steven</dc:creator><dc:creator>Takai, Madoka</dc:creator><dc:description>
+                  New technologies can help to achieve the sustainable development goals (SDGs) of the United Nations. We discuss the contribution of microfluidic electrochemical biosensors to advancing the SDGs. These sensors can be applied in various fields given their low cost, self-powering ability, environmental compatibility, ease of use, and small sample volume requirements.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>microfluidics</dcterms:subject><dcterms:subject>electrochemical biosensors</dcterms:subject><dcterms:subject>sustainable development goals</dcterms:subject><dcterms:subject>developing countries</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167779924000970" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167779924000970" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="508" height="310" size="57343">https://api.elsevier.com/content/object/eid/1-s2.0-S0167779924000970-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="134" size="12041">https://api.elsevier.com/content/object/eid/1-s2.0-S0167779924000970-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2250" height="1375" size="765906">https://api.elsevier.com/content/object/eid/1-s2.0-S0167779924000970-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85192074416</scopus-id><scopus-eid>2-s2.0-85192074416</scopus-eid><pubmed-id>38714388</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85192074416" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271201</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291808</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Trends in Biotechnology</xocs:srctitle>
+      <xocs:normalized-srctitle>TRENDSINBIOTECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240506">2024-05-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240506">2024-05-06</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20241002">2024-10-02</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20241002">2024-10-02</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-09-25T19:55:57.166771Z</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167779924000970</xocs:eid>
+      <xocs:pii-formatted>S0167-7799(24)00097-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167779924000970</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.tibtech.2024.04.005</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167779923X00110</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20241002">2024-10-02T14:45:54.713025Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20241001</xocs:date-search-begin>
+      <xocs:date-search-end>20241031</xocs:date-search-end>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1714972140">2024-05-06T05:09:00.414377Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authkeywords authlast orcid primabst pubtype ref teaserabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-7799</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01677799</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>42</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>42</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 42, Issue 10</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>1207</xocs:first-fp>
+      <xocs:last-lp>1210</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1207</xocs:first-page>
+         <xocs:last-page>1210</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202410</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>October 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-10-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2024-10-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Science &amp; Society</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>ssu</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>MICROFLUIDICELECTROCHEMICALBIOSENSORSTOOLSFORADVANCINGSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KOUMBIA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>An urgent need to speed up the achievement of SDGs</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Leveraging the use of microfluidic electrochemical biosensors to advance the SDGs</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Advancing poverty eradication (SDG 1), and food security, nutrition, and sustainable agriculture (SDG 2)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Ensuring healthy lives and promoting well-being for all at all ages (SDG 3)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Ensuring availability and sustainable management of water and sanitation for all (SDG 6)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Reducing inequality (SDG 10), and strengthening multi-stakeholder partnerships (SGD 17)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Advancing responsible consumption and production (SDG 12), and climate action and synergies (SDG 13)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Concluding remarks and future perspectives</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>WARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1253</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1261</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>KRUK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e1196</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e1252</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>FERNANDEZLAVILLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>175</xocs:ref-first-fp>
+            <xocs:ref-last-lp>185</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>100211</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>PANDEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>493</xocs:ref-first-fp>
+            <xocs:ref-last-lp>500</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>TRENTINAGLIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>39</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>YAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1013</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1021</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>eaax0649</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>CHAIYO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>540</xocs:ref-first-fp>
+            <xocs:ref-last-lp>549</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>FEDINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>NP23202</xocs:ref-first-fp>
+            <xocs:ref-last-lp>NP23221</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>ESKANDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>750</xocs:ref-first-fp>
+            <xocs:ref-last-lp>756</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>YIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>694</xocs:ref-first-fp>
+            <xocs:ref-last-lp>705</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>BANDODKAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>eaav3294</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>PUNGJUNUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>124906</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KOUMBIAX2024X1207</xocs:refkey3>
+         <xocs:refkey4lp>KOUMBIAX2024X1207X1210</xocs:refkey4lp>
+         <xocs:refkey4ai>KOUMBIAX2024X1207XM</xocs:refkey4ai>
+         <xocs:refkey5>KOUMBIAX2024X1207X1210XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-agreements>
+            <xocs:or-agreement>
+               <xocs:or-agreement-name>NR_JUSTICE</xocs:or-agreement-name>
+               <xocs:or-agreement-terms>publishAcceptedManuscriptIndexable</xocs:or-agreement-terms>
+            </xocs:or-agreement>
+         </xocs:or-agreements>
+         <xocs:or-agreement-license>http://www.elsevier.com/open-access/userlicense/1.0/</xocs:or-agreement-license>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2025-10-02T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-7799(24)00097-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167779924000970</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167779924000970</xocs:eid>
+         <xocs:doi>10.1016/j.tibtech.2024.04.005</xocs:doi>
+         <xocs:cid>271201</xocs:cid>
+         <xocs:timestamp>2024-10-02T14:30:49.977273Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-10-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2024-10-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167779924000970-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779924000970/MAIN/application/pdf/9660208823386e0db45bd645a35450af/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>866776</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167779924000970-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779924000970/PREVIEW/image/png/7a72ed237af16c6bf64fbd2ed8bce2bb/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>71275</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167779924000970-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779924000970/gr1/DOWNSAMPLED/image/jpeg/59a237fe1eb007fb3c001f0d4483c14e/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57343</xocs:filesize>
+               <xocs:pixel-height>310</xocs:pixel-height>
+               <xocs:pixel-width>508</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167779924000970-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779924000970/gr1/THUMBNAIL/image/gif/a1cd564fc7faf5ad8aff8ced65f10940/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12041</xocs:filesize>
+               <xocs:pixel-height>134</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167779924000970-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779924000970/HIGHRES/image/jpeg/5ca3c417184d72fc258ca36ef823599b/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>765906</xocs:filesize>
+               <xocs:pixel-height>1375</xocs:pixel-height>
+               <xocs:pixel-width>2250</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" docsubtype="ssu" xml:lang="en">
+         <item-info>
+            <jid>TIBTEC</jid>
+            <aid>2494</aid>
+            <ce:pii>S0167-7799(24)00097-0</ce:pii>
+            <ce:doi>10.1016/j.tibtech.2024.04.005</ce:doi>
+            <ce:copyright type="full-transfer" year="2024">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Figure 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">Conceptual design of a microfluidic electrochemical biosensor and its operation for advancing the sustainable development goals (SDGs) of the United Nations.</ce:simple-para>
+                  <ce:simple-para id="sp0010" view="all">The figure shows the main components of the microfluidic electrochemical biosensor in the middle (a three-electrode electrochemical biosensor, a microfluidic component, and microchannels for low volume sample flow through inlets and outlets). By using paper materials and biodegradable polymers, an environmentally friendly microfluidic system can be fabricated at low cost by electrospinning, 3D printing, and laser engraving. A microcontroller unit that can integrate a Bluetooth system allows connection between the biosensor and different types of portable and miniaturized devices such as point-of-care devices, smartwatches, smartphones, and laptops. Abbreviation: MIP, molecular imprinted polymer.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Figure 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S0167779924000970/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:textbox id="b0005">
+               <ce:label>Box 1</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0015" view="all">The 17 sustainable development goals (SDGs) for achieving a better world</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Box 1</ce:alt-text>
+               <ce:textbox-body>
+                  <ce:sections>
+                     <ce:para id="p0005" view="all">The SDGs are a set of 17 global objectives adopted by all United Nations Member States in 2015 as part of the 2030 Agenda for Sustainable Development (<ce:inter-ref id="ir0005" xlink:href="https://sdgs.un.org/goals" xlink:type="simple">https://sdgs.un.org/goals</ce:inter-ref>). They serve as a universal call to action to end poverty, protect the planet, and ensure prosperity for all. Each goal has specific targets to be achieved by 2030, covering a wide range of interconnected issues. By providing a common framework and shared goals, the SDGs promote collaboration among governments, businesses, civil society, and individuals to work towards a more equitable, resilient, and sustainable future for all people and the planet. The 17 SDGs are listed here.</ce:para>
+                     <ce:para id="p0010" view="all">(i) No poverty; (ii) zero hunger; (iii) good health and well-being; (iv) quality education; (v) gender equality; (vi) clean water and sanitation; (vii) affordable and clean energy; (viii) decent work and economic growth; (ix) industry, innovation, and infrastructure; (x) reduce inequalities; (xi) sustainable cities and communities; (xii) responsible consumption and production; (xiii) climate action; (xiv) life below water; (xv) life on land; (xvi) peace, justice, and strong institutions; (xvii) partnerships for the goals.</ce:para>
+                  </ce:sections>
+               </ce:textbox-body>
+            </ce:textbox>
+            <ce:textbox id="b0010">
+               <ce:label>Box 2</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0020" view="all">Biodetection tools in achieving the SDGs</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Box 2</ce:alt-text>
+               <ce:textbox-body>
+                  <ce:sections>
+                     <ce:para id="p0015" view="all">
+                        <ce:bold>Conventional tools</ce:bold>
+                     </ce:para>
+                     <ce:para id="p0020" view="all">Traditional methods of quantitative biodetection, including electrophoresis, ELISA, and PCR tests, have been pivotal in identifying food, plants, water, and environment pathogens, as well as in healthcare for many years. However, several challenges hinder their alignment with the 17 SDGs set to be achieved by 2030 [<ce:cross-ref id="cf0005" refid="bb0010">2</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0025" view="all">Conventional methods often require significant electricity usage, contradicting efforts to reduce energy consumption. Moreover, the need for various accessories generates waste and raises concerns about sustainable consumption and climate effects. The high associated costs limit access, particularly in developing countries, exacerbating inequality, unequal healthcare access, and exposure to unclean water. In addition, the absence of comprehensive health insurance obliges residents to allocate significant economic resources to healthcare, thereby perpetuating poverty and hunger in areas lacking infrastructure or skilled personnel [<ce:cross-ref id="cf0010" refid="bb0010">2</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0030" view="all">Lateral flow assays (LFAs) used for immuno-chromatography are low-cost alternatives to address high-cost and staffing limitations caused by the aforementioned systems. However, they provide only qualitative or semi-quantitative results, and lack precision in evaluating analyte quantity and infection severity. In addition, LFAs have specificity limitations, leading to frequent false results, and interpretation discrepancies may arise among users.</ce:para>
+                     <ce:para id="p0035" view="all">
+                        <ce:bold>Design principles for microfluidic electrochemical biosensors</ce:bold>
+                     </ce:para>
+                     <ce:para id="p0040" view="all">For microfluidic electrochemical biosensors to contribute to the SDGs, careful selection of materials and fabrication techniques is necessary to achieve the desired features in next-generation biodetection tools [<ce:cross-ref id="cf0015" refid="bb0015">3</ce:cross-ref>]. Biocompatible and eco-friendly polymers such as cellulose, polymethylmethacrylate (PMMA), and poly(lactic acid) (PLA), along with porous and cost-effective materials such as paper, have garnered significant attention in biosensor design, contributing to characteristics such as portability, affordability, and environmental friendliness. Technologies including electrospinning, laser engraving, lithography, and 3D printing are commonly employed to create microfluidic systems and channels. These devices enable the use of small sample volumes, reduce reagent consumption, and minimize waste generation [<ce:cross-ref id="cf0020" refid="bb0015">3</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0045" view="all">Moreover, combining electrochemical strategies, that are known for their high sensitivity and ease of miniaturization compared with optical and fluorescent methods, can achieve unprecedented levels of sensitivity, specificity, low detection limits, and portability, surpassing conventional detection technologies [<ce:cross-ref id="cf0025" refid="bb0015">3</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0050" view="all">Microfluidic electrochemical biosensors can operate independently by integrating microcontroller units with electrochromic display screens into their design. They can also function as cartridges or chips for direct connection to miniaturized point-of-care devices. These devices can integrate Bluetooth modules, allowing them to connect to various devices such as smartwatches, smartphones, and laptops for continuous and real-time monitoring [<ce:cross-ref id="cf0030" refid="bb0065">11</ce:cross-ref>].</ce:para>
+                  </ce:sections>
+               </ce:textbox-body>
+            </ce:textbox>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dh0005">
+               <ce:textfn id="tn0005">Science &amp; Society</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0005">Microfluidic electrochemical biosensors: tools for advancing the sustainable development goals</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0167779924000970-1f7083e05910c453ae4c98d90be5f6db">
+                  <ce:given-name>Mkliwa</ce:given-name>
+                  <ce:surname>Koumbia</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0035">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0001-7682-9489" id="au0010" author-id="S0167779924000970-0d257312ac2bbd4920e739d5812dbe8f">
+                  <ce:given-name>Mpho</ce:given-name>
+                  <ce:surname>Ngoepe</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0040">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0002-1214-3717" id="au0015" author-id="S0167779924000970-8de53a6fe8aa88cb8a18f666ceb0cca9">
+                  <ce:given-name>Joseph Benjamin</ce:given-name>
+                  <ce:surname>Holman</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0045">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0002-2112-7137" id="au0020" author-id="S0167779924000970-478d9fc1027196cd1c6d9a1318bf9d72">
+                  <ce:given-name>Maluta Steven</ce:given-name>
+                  <ce:surname>Mufamadi</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0050">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0002-6238-6717" id="au0025" author-id="S0167779924000970-f2444d92eb6bd881d3ad9352184d7dfc">
+                  <ce:given-name>Madoka</ce:given-name>
+                  <ce:surname>Takai</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0055">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0060">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S0167779924000970-5fa2cdfc5c954f0db74c54a742ebb4c6">
+                  <ce:label>1</ce:label>
+                  <ce:textfn id="tn0010">School of Engineering, The University of Tokyo, 2-11-16 Yayoi, Bunkyo-Ku, Tokyo 113-8656, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Engineering, The University of Tokyo</sa:organization>
+                     <sa:address-line>2-11-16 Yayoi</sa:address-line>
+                     <sa:city>Bunkyo-Ku</sa:city>
+                     <sa:state>Tokyo</sa:state>
+                     <sa:postal-code>113-8656</sa:postal-code>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">School of Engineering, The University of Tokyo, 2-11-16 Yayoi, Bunkyo-Ku, Tokyo 113-8656, Japan</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S0167779924000970-0fd88db0d783347caf008899b63e8da9">
+                  <ce:label>2</ce:label>
+                  <ce:textfn id="tn0015">DSI-Mandela Nanomedicine Platform, Nelson Mandela University, Gqeberha, 6001, Eastern Cape, South Africa</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>DSI-Mandela Nanomedicine Platform</sa:organization>
+                     <sa:organization>Nelson Mandela University</sa:organization>
+                     <sa:city>Gqeberha</sa:city>
+                     <sa:state>Eastern Cape</sa:state>
+                     <sa:postal-code>6001</sa:postal-code>
+                     <sa:country>South Africa</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0010">DSI-Mandela Nanomedicine Platform, Nelson Mandela University, Gqeberha, 6001 Eastern Cape, South Africa</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0015" affiliation-id="S0167779924000970-32d1880ee6870dfab65dc5cd5fd9bc1d">
+                  <ce:label>3</ce:label>
+                  <ce:textfn id="tn0020">Department of Electronic Engineering and Information Science, University of Science and Technology of China, Hefei, Anhui 230027, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Electronic Engineering and Information Science</sa:organization>
+                     <sa:organization>University of Science and Technology of China</sa:organization>
+                     <sa:city>Hefei</sa:city>
+                     <sa:state>Anhui</sa:state>
+                     <sa:postal-code>230027</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0015">Department of Electronic Engineering and Information Science, University of Science and Technology of China, Hefei, Anhui 230027, China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Correspondence:</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0025" view="all">New technologies can help to achieve the sustainable development goals (SDGs) of the United Nations. We discuss the contribution of microfluidic electrochemical biosensors to advancing the SDGs. These sensors can be applied in various fields given their low cost, self-powering ability, environmental compatibility, ease of use, and small sample volume requirements.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract xml:lang="en" id="ab0010" class="teaser" view="all">
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0030" view="all">New technologies can help to achieve the sustainable development goals (SDGs) of the United Nations. We discuss the contribution of microfluidic electrochemical biosensors to advancing the SDGs. These sensors can be applied in various fields given their low cost, self-powering ability, environmental compatibility, ease of use, and small sample volume requirements.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0005">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">microfluidics</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">electrochemical biosensors</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">sustainable development goals</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">developing countries</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:section-title id="st0010">An urgent need to speed up the achievement of SDGs</ce:section-title>
+                  <ce:para id="p0055" view="all">Several countries, organizations, and companies are working to improve the quality of life by addressing social and climate issues. Despite considerable efforts and advances in addressing these issues, several challenges appear to be unattainable by 2030 in many developing countries [<ce:cross-ref id="cf0065" refid="bb0005">1</ce:cross-ref>]. To expedite the attainment of SDGs (<ce:cross-ref id="cf0070" refid="b0005">Box 1</ce:cross-ref>
+                     <ce:float-anchor refid="b0005"/>), innovative approaches are required. Disease monitoring and biomarker detection (biodetection) are serious challenges in developing countries [<ce:cross-ref id="cf0075" refid="bb0010">2</ce:cross-ref>]. Current biodetection strategies have shown some limitations that potentially impact on the achievement of SDGs (<ce:cross-ref id="cf0080" refid="b0010">Box 2</ce:cross-ref>
+                     <ce:float-anchor refid="b0010"/>). However, emerging tools such as microfluidic electrochemical biosensors exhibit some specific features that make them suitable for advancing these goals [<ce:cross-ref id="cf0085" refid="bb0015">3</ce:cross-ref>].</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:section-title id="st0015">Leveraging the use of microfluidic electrochemical biosensors to advance the SDGs</ce:section-title>
+                  <ce:para id="p0060" view="all">Microfluidic electrochemical biosensors are powerful tools for measuring various analytes in small volume samples. They have applications in healthcare, agriculture, food, and environmental monitoring [<ce:cross-refs id="cf0090" refid="bb0020 bb0025 bb0030">4–6</ce:cross-refs>]. The main component of these devices is an electrochemical biosensor made of a bioreceptor that selectively binds to target analytes, generating an electrochemical signal that can be measured using miniaturized and sensitive methods such as amperometry, potentiometry, or impedance methods [<ce:cross-ref id="cf0095" refid="bb0015">3</ce:cross-ref>], thus enabling early biodetection. <ce:cross-ref id="cf0100" refid="f0005">Figure 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/> illustrates the typical components of a microfluidic electrochemical biosensor, its fabrication strategies, and how it can be operated through connection to portable devices. These microfluidic electrochemical biosensors can directly or indirectly contribute to advancing the 17 SDGs given their various advantages and unique properties (<ce:cross-ref id="cf0105" refid="b0010">Box 2</ce:cross-ref>). In this article prioritizing developing countries which account for 85.54% of the world population (<ce:inter-ref id="ir0010" xlink:href="https://www.worlddata.info/developing-countries.php" xlink:type="simple">https://www.worlddata.info/developing-countries.php</ce:inter-ref>), we have identified some critical SDGs that need to be advanced and discuss how the current technology could contribute to achieving these goals by 2030.</ce:para>
+                  <ce:section id="s0015" view="all">
+                     <ce:section-title id="st0020">Advancing poverty eradication (SDG 1), and food security, nutrition, and sustainable agriculture (SDG 2)</ce:section-title>
+                     <ce:para id="p0065" view="all">Agriculture remains the primary source of income for individuals residing in rural areas and developing countries [<ce:cross-ref id="cf0110" refid="bb0035">7</ce:cross-ref>]. However, this sector is significantly impacted by various plant pathogens and pests that can cause complete devastation to crops. To address these issues, continuous monitoring of plant pathogens, soil quality, plant nutrients, and animal breeding conditions is necessary to improve productivity [<ce:cross-ref id="cf0115" refid="bb0025">5</ce:cross-ref>,<ce:cross-ref id="cf0120" refid="bb0030">6</ce:cross-ref>]. Current biodetection strategies require specialists, such as agronomy technicians, to visit farms or animal cages and collect samples. These samples are then transported to a laboratory for analysis. However, this can take several days, allowing pathogens to spread, damaging the production process, and ultimately contributing to poverty, hunger, and malnutrition.</ce:para>
+                     <ce:para id="p0070" view="all">Unlike conventional strategies, microfluidic electrochemical biosensors can be attached to animal skin or organs, attached to plant leaves, or hung in the garden/farm to provide real-time and accurate identification of disease outbreaks and environmental conditions such as pH, humidity, temperature, nutrient levels, moisture, pesticides, and fertilizer content [<ce:cross-ref id="cf0125" refid="bb0025">5</ce:cross-ref>,<ce:cross-ref id="cf0130" refid="bb0030">6</ce:cross-ref>,<ce:cross-ref id="cf0135" refid="bb0040">8</ce:cross-ref>]. This allows onsite continuous monitoring that can advance beneficial agricultural practices, increase production, and improve lives of farmers and their families, thereby contributing to SDG 1 and SDG 2.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:section-title id="st0025">Ensuring healthy lives and promoting well-being for all at all ages (SDG 3)</ce:section-title>
+                     <ce:para id="p0075" view="all">Due to their low incomes, people in developing countries have difficulty in accessing healthcare facilities. In addition, the few healthcare facilities that do exist are mostly characterized by a lack of healthcare professionals and quality equipment to provide timely diagnosis and effective treatment. This obliges people to rely on traditional treatment strategies characterized by nonspecific self-medication and the use of herbal infusions, which have many side effects and can lead to drug resistance [<ce:cross-ref id="cf0140" refid="bb0010">2</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0080" view="all">To overcome this long-standing problem and to advance the achievement of SDG 3, microfluidic electrochemical biosensors seem to be a good approach [<ce:cross-ref id="cf0145" refid="bb0015">3</ce:cross-ref>]. In fact, because of their low cost, portability, and high performance, these devices can be accessible to hospitals in these areas, allowing early and accurate diagnosis of diseases combined with appropriate treatment. In addition, since these devices are easy to use and do not require specific skills, individuals can purchase them for their families, reducing long waits in hospitals for diagnosis and overcapacity due to hospitalizations.</ce:para>
+                     <ce:para id="p0085" view="all">Many low-cost and easy-to-use glucose sensors have already been developed that improve the management of diabetes patients. Similarly, several microfluidic electrochemical biosensors are under development for simultaneous and continuous detection of several biomarkers [<ce:cross-ref id="cf0150" refid="bb0020">4</ce:cross-ref>,<ce:cross-ref id="cf0155" refid="bb0045">9</ce:cross-ref>] in biofluids.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:section-title id="st0030">Ensuring availability and sustainable management of water and sanitation for all (SDG 6)</ce:section-title>
+                     <ce:para id="p0090" view="all">Access to clean water is considered to be a fundamental human right. However, according to a recent report from the World Health Organization (WHO) in the 'Progress on Household Drinking Water, Sanitation and Hygiene 2000–2020: Five Years into the SDGs', one in four individuals still lack access to clean water. For this reason, it is crucial to ensure that water is safe for human consumption.</ce:para>
+                     <ce:para id="p0095" view="all">The crisis is due to concerns over both water quantity and quality. To address this issue, the WHO/United Nations Children's Fund (UNICEF) Joint Monitoring Program (JMP) emphasizes the detection of fecal contamination, elevated levels of arsenic, and fluoride in pursuit of effective water supply, sanitation, and hygiene. To satisfy this requirement, chemists and specialists must frequently collect water samples from sources such as wells, rivers, and taps for laboratory tests. However, there is a risk of contamination or infection before the results are available because of open and minimally protected sources. Microfluidic electrochemical biosensors offer a solution by allowing on-site continuous monitoring of water quality. They detect harmful bacteria and substances, thereby enhancing clean water access and curbing waterborne diseases [<ce:cross-ref id="cf0170" refid="bb0060">10</ce:cross-ref>].</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:section-title id="st0035">Reducing inequality (SDG 10), and strengthening multi-stakeholder partnerships (SGD 17)</ce:section-title>
+                     <ce:para id="p0100" view="all">Access to diagnostic tools has been unevenly distributed worldwide, leaving developing countries with outdated and poorly maintained diagnostic tools owing to a lack of specialists [<ce:cross-ref id="cf0175" refid="bb0010">2</ce:cross-ref>]. The high foreign dependency of these technologies and their consumables poses a crucial problem for timely intervention, troubleshooting, accessibility, and storage of reagents, which ultimately impacts on the delivery of diagnostic tests and the accuracy of the results [<ce:cross-ref id="cf0180" refid="bb0010">2</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0105" view="all">During the recent coronavirus disease 2019 (COVID-19) pandemic, as well as for other infectious diseases such as malaria, disparities in access to diagnostic equipment, vaccines, and personal protective gear were evident within and between countries, particularly in developing nations [<ce:cross-ref id="cf0185" refid="bb0065">11</ce:cross-ref>]. Microfluidic electrochemical biosensors offer the potential for rapid, precise, and sensitive early detection. They could serve as affordable, noninvasive alternatives to conventional methods, thereby reducing high foreign dependency and contributing to reducing inequalities by providing access to these precious tools.</ce:para>
+                     <ce:para id="p0110" view="all">Although progress has been made, developing nations continue to lag behind in advancing and adopting cutting-edge technologies, particularly in microfluidic electrochemical biosensors. Promoting global collaboration to develop microfluidic electrochemical biosensors in developing countries offers a valuable opportunity for fostering partnerships between research institutions and industries aligning with SDG 17.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:section-title id="st0040">Advancing responsible consumption and production (SDG 12), and climate action and synergies (SDG 13)</ce:section-title>
+                     <ce:para id="p0115" view="all">The world is facing unprecedented climate and energy problems, primarily caused by human activities which are significantly affecting the quality of life on and under the Earth. To address this, measures such as reduction of gas emissions, using environmentally friendly materials for production, use of renewable energies, and reducing waste generation through responsible consumption of biodegradable or recyclable materials are recommended [<ce:cross-ref id="cf0190" refid="bb0070">12</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0120" view="all">Microfluidic electrochemical biosensors have an important future in these areas, although achieving this goal is still a long way off. These devices use small sample volumes with little or no reagents and can be powered by small batteries or connected to smartwatches and smartphones [<ce:cross-ref id="cf0195" refid="bb0075">13</ce:cross-ref>], thus promoting the efficient use of resources in analytical processes in line with SDG 12. Furthermore, by developing microfluidic electrochemical biosensors that are able to power themselves and use fewer electronic parts without needing a separate battery, we can help to reduce electronic waste, make devices smaller, and make them easier to reuse and recycle [<ce:cross-ref id="cf0200" refid="bb0080">14</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0125" view="all">In addition, microfluidic electrochemical biosensors can be used to assess the effects of biotic and abiotic stressors on plants resulting from climate change. They are also valuable for detecting air pollutants and monitoring environmental conditions [<ce:cross-ref id="cf0205" refid="bb0085">15</ce:cross-ref>], which can provide governments with accurate and timely information to address climate change and mitigate environmental pollution.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:section-title id="st0045">Concluding remarks and future perspectives</ce:section-title>
+                  <ce:para id="p0130" view="all">The significance of microfluidic electrochemical biosensors in advancing SDGs cannot be overstated. Their precision, sensitivity, miniaturization, low power consumption, scalability, and adaptability offer unparalleled opportunities for biodetection across diverse fields from resource-efficient agriculture to healthcare, air, water, food, and environmental monitoring. Looking to the future, investment in microfluidic electrochemical biosensor technology promises groundbreaking solutions to address pressing global challenges highlighted by the SDGs. By promoting collaboration among scientists, engineers, policymakers, and industry leaders from developed and developing countries, we can unlock the full potential of these devices to drive sustainable development and create a brighter, more resilient future for generations to come in developing nations.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0005" view="all">
+               <ce:section-title id="st0050">Declaration of interests</ce:section-title>
+               <ce:para id="p0135" view="all">The authors declare no competing interests.</ce:para>
+            </ce:conflict-of-interest>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0055">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>1.</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.J.</ce:given-name>
+                                 <ce:surname>Ward</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simulation-based estimates and projections of global, regional and country-level maternal mortality by cause, 1990–2050</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Med.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1253</sb:first-page>
+                              <sb:last-page>1261</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0020">Ward, Z.J. et al. (2023) Simulation-based estimates and projections of global, regional and country-level maternal mortality by cause, 1990–2050. Nat. Med. 29, 1253–1261</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>2.</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Kruk</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-quality health systems in the sustainable development goals era: time for a revolution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e1196</sb:first-page>
+                              <sb:last-page>e1252</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0025">Kruk, M.E. et al. (2018) High-quality health systems in the sustainable development goals era: time for a revolution. Lancet Glob. Health 6, e1196–e1252</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>3.</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Fernández-la-Villa</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microfluidics and electrochemistry: an emerging tandem for next-generation analytical microsystems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Electrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>175</sb:first-page>
+                              <sb:last-page>185</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0030">Fernández-la-Villa, A. et al. (2019) Microfluidics and electrochemistry: an emerging tandem for next-generation analytical microsystems. Curr. Opin. Electrochem. 15, 175–185</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>4.</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dual-signal readout paper-based wearable biosensor with a 3D origami structure for multiplexed analyte detection in sweat</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microsyst. Nanoeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0035">Cheng, Y. et al. (2023) Dual-signal readout paper-based wearable biosensor with a 3D origami structure for multiplexed analyte detection in sweat. Microsys. Nanoeng. 9, 36</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>5.</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The monitoring of plant physiology and ecology: from materials to flexible devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chin. J. Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100211</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">Sun, J.Q. et al. (2023) The monitoring of plant physiology and ecology: from materials to flexible devices. Chin. J. Analyt. Chem. 51, 100211</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>6.</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pandey</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integrated electrochemical chip-on-plant functional sensor for monitoring gene expression under stress</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biosens. Bioelectron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>493</sb:first-page>
+                              <sb:last-page>500</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0045">Pandey, R. et al. (2018) Integrated electrochemical chip-on-plant functional sensor for monitoring gene expression under stress. Biosens. Bioelectron. 117, 493–500</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>7.</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Trentinaglia</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Supporting agriculture in developing countries: new insights on the impact of official development assistance using a climate perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Agric. Food Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>39</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0050">Trentinaglia, M.T. et al. (2023) Supporting agriculture in developing countries: new insights on the impact of official development assistance using a climate perspective. Agric. Food Econom.11, 39</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>8.</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A microfluidic impedance biosensor based on immunomagnetic separation and urease catalysis for continuous-flow detection of <ce:italic>E. coli</ce:italic> O157:H7</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensors Actuators B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>259</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1013</sb:first-page>
+                              <sb:last-page>1021</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0055">Yao, L. et al. (2018) A microfluidic impedance biosensor based on immunomagnetic separation and urease catalysis for continuous-flow detection of E. coli O157:H7. Sens. Actuators B Chem. 259, 1013–1021</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>9.</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integrated textile sensor patch for real-time and multiplex sweat analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>eaax0649</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0060">He, W. et al. (2019) Integrated textile sensor patch for real-time and multiplex sweat analysis. Sci. Adv. 5, eaax0649</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>10.</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chaiyo</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High sensitivity and specificity simultaneous determination of lead, cadmium and copper using μPAD with dual electrochemical and colorimetric detection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensors Actuators B Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>233</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>540</sb:first-page>
+                              <sb:last-page>549</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0075">Chaiyo, S. et al. (2016) High sensitivity and specificity simultaneous determination of lead, cadmium and copper using μPAD with dual electrochemical and colorimetric detection. Sens. Actuators B Chem. 233, 540–549</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>11.</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fedina</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Racial and gender inequalities in food, housing, and healthcare insecurity associated with intimate partner and sexual violence</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Interpers. Violence</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>NP23202</sb:first-page>
+                              <sb:last-page>NP23221</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0080">Fedina, L. et al. (2022) Racial and gender inequalities in food, housing, and healthcare insecurity associated with intimate partner and sexual violence. J. Interpers. Violence 37, NP23202–NP23221</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>12.</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.M.S.U.</ce:given-name>
+                                 <ce:surname>Eskander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fankhauser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reduction in greenhouse gas emissions from national climate legislation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Clim. Chang.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>750</sb:first-page>
+                              <sb:last-page>756</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0085">Eskander, S.M.S.U. and Fankhauser, S. (2020) Reduction in greenhouse gas emissions from national climate legislation. Nat. Clim. Change 10, 750–756</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>13.</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A stretchable epidermal sweat sensing platform with an integrated printed battery and electrochromic display</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>694</sb:first-page>
+                              <sb:last-page>705</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0090">Yin, L. et al. (2022) A stretchable epidermal sweat sensing platform with an integrated printed battery and electrochromic display. Nat. Electron. 5, 694–705</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>14.</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Bandodkar</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Battery-free, skin-interfaced microfluidic/electronic systems for simultaneous electrochemical, colorimetric, and volumetric analysis of sweat</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>eaav3294</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0095">Bandodkar, A.J. et al. (2019) Battery-free, skin-interfaced microfluidic/electronic systems for simultaneous electrochemical, colorimetric, and volumetric analysis of sweat. Sci. Adv. 5, eaav3294</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>15.</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Pungjunun</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A facile and automated microfluidic electrochemical platform for the in-field speciation analysis of inorganic arsenic</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>265</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>124906</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0100">Pungjunun, K. et al. (2023) A facile and automated microfluidic electrochemical platform for the in-field speciation analysis of inorganic arsenic. Talanta 265, 124906</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

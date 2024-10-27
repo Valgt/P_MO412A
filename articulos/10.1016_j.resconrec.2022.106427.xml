@@ -1,0 +1,1739 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0921344922002701</prism:url><dc:identifier>doi:10.1016/j.resconrec.2022.106427</dc:identifier><eid>1-s2.0-S0921344922002701</eid><prism:doi>10.1016/j.resconrec.2022.106427</prism:doi><pii>S0921-3449(22)00270-1</pii><dc:title>Realising the sustainable development goals through organisational learning and efficient resource management in construction </dc:title><prism:publicationName>Resources, Conservation and Recycling</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>09213449</prism:issn><prism:volume>184</prism:volume><prism:startingPage>106427</prism:startingPage><prism:pageRange>106427</prism:pageRange><articleNumber>106427</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2022-09-30</prism:coverDate><prism:coverDisplayDate>September 2022</prism:coverDisplayDate><prism:copyright>© 2022 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Opoku, Alex</dc:creator><dc:creator>Ahmed, Vian</dc:creator><dc:creator>Ofori, George</dc:creator><dc:description>
+                  The construction industry has a critical role to play in a achieving the SDGs; construction and demolition activities generate large volumes of waste, and this requires the adoption of practices that will reduce waste generated and maximise re-use. The construction industry as a sector could influence the realisation of the SDGs by formulating policies and regulatory frameworks that drive the adoption of sustainable construction practices. The link between organisational learning and sustainability is receiving an increasing amount of attention in construction management research and practice since the ability of construction organisations to cope with the journey towards a sustainable change requires organisational learning. It is essential that construction organisations engage in organisational learning methods that embraces sustainability and innovation. This Virtual Special Issue (VSI) is on “The Sustainable Development Goals, Organisational Learning and Efficient Resource Management in Construction” (VSI: Construction &amp; SDGs).
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Construction</dcterms:subject><dcterms:subject>Organisational learning</dcterms:subject><dcterms:subject>Circular economy</dcterms:subject><dcterms:subject>Resource management</dcterms:subject><dcterms:subject>SDGS</dcterms:subject><dcterms:subject>Built environment</dcterms:subject><dcterms:subject>SDGs</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0921344922002701" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0921344922002701" rel="scidir"/></coredata><scopus-id>85131453820</scopus-id><scopus-eid>2-s2.0-85131453820</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85131453820" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271808</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291705</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291768</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Resources, Conservation and Recycling</xocs:srctitle>
+      <xocs:normalized-srctitle>RESOURCESCONSERVATIONRECYCLING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220602">2022-06-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220602">2022-06-02</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220602">2022-06-02</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220602">2022-06-02</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-09-08T03:00:12</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0921344922002701</xocs:eid>
+      <xocs:pii-formatted>S0921-3449(22)00270-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0921344922002701</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.resconrec.2022.106427</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0921344922X00062</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240908">2024-09-08T02:29:22.696882Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220901</xocs:date-search-begin>
+      <xocs:date-search-end>20220930</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1654163503">2022-06-02T09:51:43.314441Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0921-3449</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09213449</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>184</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>184</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 184</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>42</xocs:sort-order>
+      <xocs:first-fp>106427</xocs:first-fp>
+      <xocs:article-number>106427</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>106427</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202209</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>REALISINGSUSTAINABLEDEVELOPMENTGOALSTHROUGHORGANISATIONALLEARNINGEFFICIENTRESOURCEMANAGEMENTINCONSTRUCTION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>OPOKU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Organisational learning for sustainable development</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Efficient resource management in construction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Organisational learning and efficient resource management towards the SDGs</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Contributions to this virtual special issue (VSI)</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion and future research direction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>AGYABENGMENSAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>648</xocs:ref-first-fp>
+            <xocs:ref-last-lp>662</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>ARORA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>104581</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>ARYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>APPROACHFORINTEGRATINGSUSTAINABLEDEVELOPMENTGOALSSDGSTHROUGHORGANICWASTEMANAGEMENTFIRSTEDITADVANCEDORGANICWASTEMANAGEMENTFIRSTEDIT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>BASIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>161</xocs:ref-first-fp>
+            <xocs:ref-last-lp>174</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>BELMONTEURENA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>CALABRESE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>128624</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>DICLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>958</xocs:ref-first-fp>
+            <xocs:ref-last-lp>967</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>GALVEZMARTOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>166</xocs:ref-first-fp>
+            <xocs:ref-last-lp>178</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>GLASS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-last-lp>58</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>HALKOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>94</xocs:ref-first-fp>
+            <xocs:ref-last-lp>122</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>HUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>141875</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>DEJONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>100087</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013">
+            <xocs:ref-normalized-surname>KEDIR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>125443</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0014">
+            <xocs:ref-normalized-surname>KHALED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>127599</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>LOPEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>245</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016">
+            <xocs:ref-normalized-surname>MADURAIELAVARASAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>116665</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0017">
+            <xocs:ref-normalized-surname>OPOKU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>98</xocs:ref-first-fp>
+            <xocs:ref-last-lp>107</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0018">
+            <xocs:ref-normalized-surname>OZKANOZEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>104986</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-normalized-surname>SILVIUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>938</xocs:ref-first-fp>
+            <xocs:ref-last-lp>947</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>TABARES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>124615</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0021">
+            <xocs:ref-normalized-surname>TORTORELLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>284</xocs:ref-first-fp>
+            <xocs:ref-last-lp>294</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0022">
+            <xocs:ref-normalized-surname>TU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>504</xocs:ref-first-fp>
+            <xocs:ref-last-lp>516</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0023">
+            <xocs:ref-normalized-surname>WEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>107091</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0024">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>104407</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>105809</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0026">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>149892</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0027">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>141749</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>OPOKUX2022X106427</xocs:refkey3>
+         <xocs:refkey4ai>OPOKUX2022X106427XA</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2024-06-02T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2024-06-02T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-06-12T00:32:13.575Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp-car</xocs:funding-addon-type>
+         <xocs:funding-text>The Managing Guest Editors wish to thank all the contributing authors and the anonymous reviewers for their time and hard work in making this VSI a reality.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0921-3449(22)00270-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0921344922002701</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0921344922002701</xocs:eid>
+         <xocs:doi>10.1016/j.resconrec.2022.106427</xocs:doi>
+         <xocs:cid>271808</xocs:cid>
+         <xocs:timestamp>2024-09-08T02:29:22.696882Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0921344922002701-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921344922002701/MAIN/application/pdf/f1af8fb5766ea7d1626508b553a154a9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>431009</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0921344922002701-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921344922002701/PREVIEW/image/png/92bfade1abee8b94dc0bc4ebd20ef45d/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64263</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>RECYCL</jid>
+            <aid>106427</aid>
+            <ce:article-number>106427</ce:article-number>
+            <ce:pii>S0921-3449(22)00270-1</ce:pii>
+            <ce:doi>10.1016/j.resconrec.2022.106427</ce:doi>
+            <ce:copyright type="unknown" year="2022"/>
+         </item-info>
+         <ce:floats>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara001" view="all">- Summary of published papers in this Virtual Special Issue (VSI: Construction &amp; SDGs).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Table 1</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <colspec colnum="3" colname="col3" align="left"/>
+                  <colspec colnum="4" colname="col4" align="left"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0001" colname="col1" valign="top">#</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0002" colname="col2" valign="top">Paper Title</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0003" colname="col3" valign="top">Author(s)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0004" colname="col4" valign="top">VSI Theme</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0005" colname="col1" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0006" colname="col2" valign="top">Analysis of industrial water–energy–labour nexus zones for economic and resource-based impact assessment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0007" colname="col3" valign="top">Sang-Hyun Lee, Makoto Taniguchi, Naoki Masuhara, Rabi H. Mohtar, Seung-Hwan Yoo and Masahiko Haraguchi</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0008" colname="col4" valign="top">Sustainable business models in construction</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0009" colname="col1" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0010" colname="col2" valign="top">A novel approach for recycling engineering sediment waste as sustainable supplementary cementitious materials</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0011" colname="col3" valign="top">Ao Zhou, Wenjie Zhang, Huinan Wei, Tiejun Liu, Dujian Zou and Henghui Guo</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0012" colname="col4" valign="top">Sustainable consumption of materials and resources</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0013" colname="col1" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0014" colname="col2" valign="top">Social value, organisational learning, and the sustainable development goals in the built environment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0015" colname="col3" valign="top">Ani Raiden and Andrew King</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0016" colname="col4" valign="top">Organizational learning and sustainability</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0017" colname="col1" valign="top">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0018" colname="col2" valign="top">Environmental impact of construction transport and the effects of building certification schemes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0019" colname="col3" valign="top">Ahmet Anil Sezer and Anna Fredriksson</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0020" colname="col4" valign="top">Sustainable construction</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0021" colname="col1" valign="top">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0022" colname="col2" valign="top">Multi-participant construction waste demolition and transportation decision-making system</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0023" colname="col3" valign="top">Ting-Kwei Wang, Zeqing Wu and Chunyan Luo</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0024" colname="col4" valign="top">Construction &amp; demolition waste management</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0025" colname="col1" valign="top">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0026" colname="col2" valign="top">Contributions of the circular economy to the UN sustainable development goals through sustainable construction</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0027" colname="col3" valign="top">Olabode Emmanuel, Ogunmakinde, Temitope Egbelakin and William Sher</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0028" colname="col4" valign="top">Construction and the circular economy</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Realising the sustainable development goals through organisational learning and efficient resource management in construction</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S0921344922002701-b4755c14f6504115ada50476a10724d6">
+                  <ce:given-name>Alex</ce:given-name>
+                  <ce:surname>Opoku</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0002" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0002" author-id="S0921344922002701-70221d7bf428eb03df0c7169ad889356">
+                  <ce:given-name>Vian</ce:given-name>
+                  <ce:surname>Ahmed</ce:surname>
+                  <ce:cross-ref id="crf0003" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0003" author-id="S0921344922002701-1bec8174d6d065661e04c40ca32dead0">
+                  <ce:given-name>George</ce:given-name>
+                  <ce:surname>Ofori</ce:surname>
+                  <ce:cross-ref id="crf0004" refid="aff0003">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S0921344922002701-38d111b35db8d498695499562c21165b">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">Department of Architectural Engineering, College of Engineering, University of Sharjah, UAE</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Architectural Engineering</sa:organization>
+                     <sa:organization>College of Engineering, University of Sharjah</sa:organization>
+                     <sa:country>UAE</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">aDepartment of Architectural Engineering, College of Engineering, University of Sharjah, UAE</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S0921344922002701-997c3c67b92395b53c1da7c48df7d143">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">Department of Industrial Engineering, American University of Sharjah, UAE</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Industrial Engineering</sa:organization>
+                     <sa:organization>American University of Sharjah</sa:organization>
+                     <sa:country>UAE</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0002">bDepartment of Industrial Engineering, American University of Sharjah, UAE</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0003" affiliation-id="S0921344922002701-95f23f9cb137395cd332c1b05bfff90e">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="cetextfn0003">School of Built Environment &amp; Architecture, London South Bank University, London, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Built Environment &amp; Architecture, London South Bank University</sa:organization>
+                     <sa:city>London</sa:city>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0003">cSchool of Built Environment &amp; Architecture, London South Bank University, London, UK</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara002" view="all">The construction industry has a critical role to play in a achieving the SDGs; construction and demolition activities generate large volumes of waste, and this requires the adoption of practices that will reduce waste generated and maximise re-use. The construction industry as a sector could influence the realisation of the SDGs by formulating policies and regulatory frameworks that drive the adoption of sustainable construction practices. The link between organisational learning and sustainability is receiving an increasing amount of attention in construction management research and practice since the ability of construction organisations to cope with the journey towards a sustainable change requires organisational learning. It is essential that construction organisations engage in organisational learning methods that embraces sustainability and innovation. This Virtual Special Issue (VSI) is on “The Sustainable Development Goals, Organisational Learning and Efficient Resource Management in Construction” (VSI: Construction &amp; SDGs).</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0002">Construction</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0003">Organisational learning</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0004">Circular economy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0005">Resource management</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0005">
+                  <ce:text id="cetext0006">SDGS</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0006">
+                  <ce:text id="cetext0007">Built environment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="pc_xvsxb2ISyp">
+                  <ce:text>SDGs</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0001" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="cesectitle0003">Introduction</ce:section-title>
+                  <ce:para id="para0001" view="all">People have been able to thrive through the economic stages of the world through significant developments like industrialization, globalization, urbanization, green revolution and even digitalization (<ce:cross-ref id="crf0005" refid="bib0016">Madurai Elavarasan et al., 2021</ce:cross-ref>). Nonetheless, most of these developments do not have sustainability approaches integrated into them, which have yielded in the negative impacts witnessed in the world (<ce:cross-ref id="crf0006" refid="bib0016">Madurai Elavarasan et al., 2021</ce:cross-ref>). According to <ce:cross-ref id="crf0007" refid="bib0010">Halkos and Gkampoura (2021)</ce:cross-ref>, sustainable development (SD) is the development that meet needs of the present generation whiles creating the opportunity for the future generation to meet their needs too. Furthermore, the focus of SD is on increasing environmental protection whiles providing socio-economic needs of both present and future generations. According to <ce:cross-ref id="crf0008" refid="bib0012">de Jong and Vijge (2021)</ce:cross-ref>, the discourse of SD has been and is still highly influential in national governance framework as well as the world's framework.</ce:para>
+                  <ce:para id="para0002" view="all">The 17 Sustainable Development Goals (SDGs) and its 169 targets were introduced by the United Nations (UN) in 2015 to direct people's actions that would aid humanity and the ecosystem to evolve as a single self-sustaining system (<ce:cross-ref id="crf0009" refid="bib0010">Halkos and Gkampoura, 2021</ce:cross-ref>; <ce:cross-ref id="crf0010" refid="bib0016">Madurai Elavarasan et al., 2021</ce:cross-ref>). These SDGs were adopted by about 193 UN member countries to achieve the aim of SD. Although the emphasizes of SDGs was to be achieved everywhere, the world has increasingly evolved in connectivity in socio-economic and environmental sustainability that little is known in the entirety of the goals and purposes of SDGs (<ce:cross-ref id="crf0011" refid="bib0027">Zhao et al., 2021</ce:cross-ref>). According to <ce:cross-ref id="crf0012" refid="bib0023">Wen et al. (2020)</ce:cross-ref>, SDGs provide a clear and comprehensive framework towards achieving global sustainability by 2030. This is because the construction industry gradually harbours activities that has made the realization of the SDGs to be considered. Again, <ce:cross-ref id="crf0013" refid="bib0027">Zhao et al. (2021)</ce:cross-ref> revealed that the SDGs can be achieved everywhere and at every level (i.e., local, reginal, national and international) if more efforts are put into achieving these goals at all levels by creating socio-economic synergies. According to <ce:cross-ref id="crf0014" refid="bib0012">de Jong and Vijge (2021)</ce:cross-ref>, aside SDGs being a more comprehensive approach to SD, they are people-centred development agenda. The SDGs call for participation of all parts of society including the private sectors. Again, there has been many shifts off SDGs, nonetheless, the aim of the SDGs is still at promoting multilateral trade by increasing the market access that is consistent with the world trade organisation decisions.</ce:para>
+                  <ce:para id="para0003" view="all">Furthermore, the construction industry has contributed immensely to economic growth but at the cost of high resource consumption and environmental issues that undermines the global ecology (<ce:cross-ref id="crf0015" refid="bib0023">Wen et al., 2020</ce:cross-ref>). Again, concepts, such as Green Building has been introduced into the economy to help achieve the goals of sustainability that were introduce over the years (<ce:cross-ref id="crf0016" refid="bib0023">Wen et al., 2020</ce:cross-ref>). <ce:cross-ref id="crf0017" refid="bib0023">Wen et al. (2020)</ce:cross-ref> further stated that by properly comprehending the relationship between SDGs and certain economic sectors such as the construction sector, public awareness and policy development can be properly promoted. It is also therefore imperative that the approaches to transform the SDGs from the global to local and even project-specific levels are develop (<ce:cross-ref id="crf0018" refid="bib0023">Wen et al., 2020</ce:cross-ref>). According to <ce:cross-ref id="crf0019" refid="bib0012">de Jong and Vijge (2021)</ce:cross-ref>, the SDGs present a greater integrated approach to SD with a large focus on the core of SDGs (i.e., economic, social, and environmental dimensions of SD). According to <ce:cross-ref id="crf0020" refid="bib0011">Huan et al. (2021)</ce:cross-ref>, the performance of achieving SDGs from 2000 to 2018 has been regarded as a dynamic progress.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="cesectitle0004">Organisational learning for sustainable development</ce:section-title>
+                  <ce:para id="para0004" view="all">The link between Organisational learning and sustainability is receiving an increasing amount of attention in construction management research and practice (<ce:cross-ref id="crf0021" refid="bib0017">Opoku and Fortune, 2011</ce:cross-ref>). Organisational learning has been defined by <ce:cross-ref id="crf0022" refid="bib0015">Lopez et al. (2005)</ce:cross-ref> as the process of creating, acquiring, and integrating knowledge with the aim of developing resources and capabilities that contribute to organisational performance.</ce:para>
+                  <ce:para id="para0005" view="all">A learning organisation is one that continuously learns and develop itself. However, a learning organisation is supposed to effectively sustain innovation towards improved performance achievement (<ce:cross-ref id="crf0023" refid="bib0021">Tortorella et al., 2020</ce:cross-ref>). Organisational learning (OL), is seen as an improvement process rather than an event that links organisational cultures and the environment together (<ce:cross-ref id="crf0024" refid="bib0021">Tortorella et al., 2020</ce:cross-ref>). The emergence of OL capabilities have allowed business growth, impacted organisational knowledge, beliefs and behaviours that brought about innovative routines in businesses and organisations (<ce:cross-ref id="crf0025" refid="bib0021">Tortorella et al., 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0006" view="all">There have been many misleading truths about OL such as OL being the sum of individuals learning in an organisation (<ce:cross-ref id="crf0026" refid="bib0021">Tortorella et al., 2020</ce:cross-ref>). However, <ce:cross-ref id="crf0027" refid="bib0004">Bašić (2021)</ce:cross-ref> revealed that OL enhances an organisation's competitiveness to a market need aligned to the organisation's environment. Furthermore, to create a firm's core competences, there has to be availability, heterogeneity, and immobility of scarce and tangible resources to keep the firm in a competitive advantage. Again, <ce:cross-ref id="crf0028" refid="bib0004">Bašić (2021)</ce:cross-ref> expounded that through OL capabilities, resource efficiency can be prolonged, and resource obsolesce can be prevented.</ce:para>
+                  <ce:para id="para0007" view="all">According to <ce:cross-ref id="crf0029" refid="bib0021">Tortorella et al. (2020)</ce:cross-ref>, there were two main approaches to follow to allow OL to occur. The first was a type of learning that is gotten through trials and error situations which allow the organisation to accrue experiences and consolidate new knowledge, whiles the second comprised of work procedures and routines that were developed from stored knowledge in an organisation's memory applied to subsequent situations similar to situations experienced before. Learning that enhances innovation is vital to sustainability. However, <ce:cross-ref id="crf0030" refid="bib0004">Bašić (2021)</ce:cross-ref> also revealed two types of knowledge crucial for successful innovation in OL. These were technical knowledge and market knowledge for exploratory and exploitative learning respectively. Furthermore, <ce:cross-ref id="crf0031" refid="bib0021">Tortorella et al. (2020)</ce:cross-ref> stated that learning accompanied with sharing of knowledge across an organisation can improve its performance but to achieve effective OL, individuals, teams and the organisation as a unit would be significantly challenged in job routines and procedures. Again, literature has therefore, revealed that OL is vital for sustainable performance improvements. Nonetheless, the challenges and barriers that impair the widespread of OL ought to be severely comprehended (<ce:cross-ref id="crf0032" refid="bib0021">Tortorella et al., 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0008" view="all">According to <ce:cross-ref id="crf0033" refid="bib0019">Silvius and Marnewick (2021)</ce:cross-ref>, matters of social, environmental and economic sustainability emerged in the early 18th century but only became pronounced until the late 20th century and broadly recognized as a managerial, societal and political challenge. Again, it was in the 20th century that the concept of sustainability was incorporated into businesses and organisation, thereby, creating a link between sustainable development and Corporate Social Responsibility (CSR). According to <ce:cross-ref id="crf0034" refid="bib0019">Silvius and Marnewick (2021)</ce:cross-ref>, CSR opened the door for firms and businesses to assume roles that allowed social sustainability to thrive. Furthermore, changes in resources, products, services, policies, and processes were accommodated by firms and businesses to achieve sustainable development.</ce:para>
+                  <ce:para id="para0009" view="all">In analysing other aspects of sustainability towards corporate performance, <ce:cross-ref id="crf0035" refid="bib0022">Tu and Wu (2021)</ce:cross-ref> revealed that many studies had been carried out to examine the effect of green innovation on business competitiveness. It was revealed that knowledge-based view (KBV) emerged to provide insight into the sources of sustainable competitive advantage. Furthermore, with the help of OL, business strategies would be effectively understood, recognised, and executed within a firm. OL, which is a means of creating new knowledge and integrating resources in an organisation, is essential to carrying out business strategies and achieving sustainable competitive advantage. <ce:cross-ref id="crf0036" refid="bib0022">Tu and Wu (2021)</ce:cross-ref> revealed that green innovation can positively affect enterprises’ competitive advantage through the underlying mechanism of KBV. It was further revealed that enterprises could combine exploitative and exploratory learning to mitigate the conflicts between green innovation strategies and existing business model. Also, OL at different organisational levels and with different characteristics improves employees’ recognition of new strategies, increase enterprises’ self-capability to cope with sustainable production requirements and also enhance corporate comparative advantage in catering to green consumption trend and ultimately boosting their competitive advantage (<ce:cross-ref id="crf0037" refid="bib0022">Tu and Wu, 2021</ce:cross-ref>). <ce:cross-ref id="crf0038" refid="bib0017">Opoku and Fortune (2011)</ce:cross-ref> argue that the ability of construction organisations to cope with the journey towards a sustainable change requires organisational learning.</ce:para>
+               </ce:section>
+               <ce:section id="sec0003" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="cesectitle0005">Efficient resource management in construction</ce:section-title>
+                  <ce:para id="para0010" view="all">The reasons for the inefficient utilization of construction resources are the fragmented, project-based approach and the linear economy approach in which construction resources are sourced, utilised, and discarded with little re-use or recycling. Resource efficiency in housing construction was proposed to address the gap between housing demand and current construction methods (<ce:cross-ref id="crf0039" refid="bib0013">Kedir and Hall, 2021</ce:cross-ref>). According to <ce:cross-ref id="crf0040" refid="bib0013">Kedir and Hall (2021)</ce:cross-ref>, to measure resource efficiency in construction, most studies and scholars perform a life-cycle impact assessment of flows of materials, energy and water. The world has therefore evolved from the linear economic model of “take, make and dispose” with high levels of waste generation pressure to the circular economic model of utilizing the “R-principles” in a closed resource loop in an industrial ecosystem (<ce:cross-ref id="crf0041" refid="bib0026">Zhang et al., 2022</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0011" view="all">Material footprint reduction and achieving sustainable resources consumption remains very vital to climate change mitigation and adaption strategies, since materials usage continue to drive the global emissions and extreme levels of waste generation (<ce:cross-ref id="crf0042" refid="bib0002">Arora et al., 2020</ce:cross-ref>). However, <ce:cross-ref id="crf0043" refid="bib0026">Zhang et al. (2022)</ce:cross-ref> revealed that the R-principles of circular economy operate to prevent the generation of wastes and also turning the wastes into resources. Again, the circular economic model originated from the “spaceship theory” introduced by Boulding (1966), which views the earth as a circular system where there is no exchange of matter with the outside environment. The circular economic model ultimately looks to decouple global economic development from finite resource and consumption (<ce:cross-ref id="crf0044" refid="bib0026">Zhang et al., 2022</ce:cross-ref>). Again, <ce:cross-ref id="crf0045" refid="bib0026">Zhang et al. (2022)</ce:cross-ref> revealed that the R-principles of circular economy are highly related to the waste hierarchy. To a larger extent, both the circular economy and waste hierarchy consider the whole life cycle of a product from the pre-use phase to use phase and to post-use phase.</ce:para>
+                  <ce:para id="para0012" view="all">According to <ce:cross-ref id="crf0046" refid="bib0002">Arora et al. (2020)</ce:cross-ref>, although one of the basic motivations of material stock assessment remains a sustainability of resources, there is a gap in linking in-stock and end-of-life resources with materials inflows for consumption and /or new construction. However, a significant understanding on grow consumption patterns and stocks accumulations inspired urban mining efforts and have since been accelerated with circular economy efforts at institutional and geographical scales in an attempt for environmental and /or material efficiencies (<ce:cross-ref id="crf0047" refid="bib0002">Arora et al., 2020</ce:cross-ref>). <ce:cross-ref id="crf0048" refid="bib0026">Zhang et al. (2022)</ce:cross-ref> further corroborated that the circular economy and waste hierarchy have evolved over time emphasizing on designing and using resources efficiently before they reach the waste generation level. Also, the aim of the circular economy and waste hierarchy is to manage waste by rethinking, redesigning, and repurposing to achieve resource efficiency in product use and reducing the levels ad adverse impact of waste.</ce:para>
+                  <ce:para id="para0013" view="all">Construction waste over the years have had great impacts on the environment through diverse aspects such as the ecosystem, natural resources, and environmental sustainability, whiles the recycling of construction materials from wastes can lessen the pressure on constrained natural resources (<ce:cross-ref id="crf0049" refid="bib0025">Yang et al., 2021</ce:cross-ref>). Construction and demolition waste (CDW) as a by-product of construction, demolition and renovation has become one of the most significant flows which amounts to about 30%–40% of the total urban waste generation (<ce:cross-ref id="crf0050" refid="bib0024">Wu et al., 2019</ce:cross-ref>). However, with enhancing the concepts of sustainability, the social and environmental impacts have been highlighted in assessing CDW management performance. Furthermore, as an essential aspect of improving CDW management performance, the effectiveness of the waste management systems ought to be critically evaluated (<ce:cross-ref id="crf0051" refid="bib0024">Wu et al., 2019</ce:cross-ref>). For example, construction and demolition activities generate large volumes of waste and this requires the adoption of practices that will reduce waste generated and maximise re-use with the aim of improving efficient resource use and reduce negative impact on the environment (<ce:cross-ref id="crf0052" refid="bib0008">Gálvez-Martos et al., 2018</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0014" view="all">Furthermore, studies have proven that the quality and completeness of data are very critical for the purposes of data analysis. However, when it comes to construction activities, some of the data is often incomplete. These ‘missing data’ serve as misleading values to major information barriers to the ever present challenges to the monitoring and evaluation in CDW management (<ce:cross-ref id="crf0053" refid="bib0025">Yang et al., 2021</ce:cross-ref>). Again, to make these CDW management more efficient, the construction industry has adopted various informatization technologies such as sensor technology, geographic information system (GIS), internet of things (IoT), computer vision and amongst others. Studies have also shown that some construction activities have applied diversified technologies, trades and complex processes in managing CDW (<ce:cross-ref id="crf0054" refid="bib0025">Yang et al., 2021</ce:cross-ref>). According to <ce:cross-ref id="crf0055" refid="bib0025">Yang et al. (2021)</ce:cross-ref>, issues that hinders efficient CDW management in the construction industry from digitalization and data-driven decision making is missing data as an aspects of information barrier.</ce:para>
+                  <ce:para id="para0015" view="all">Furthermore, <ce:cross-ref id="crf0056" refid="bib0018">Ozkan-Ozen et al. (2020)</ce:cross-ref> stated that there were so many contentions and pressures for companies to transition from industry 3.0 to industry 4.0 or digitalization. The progress on transition would be regarded as industry 3.5 and moving towards circular economy are two significant concepts for organisations that need to make wholesale alterations to their existing managing systems. Again, the transition stage of industry 3.5 can be seen as a hybrid strategy for technological transition in production systems and also managing disruptive impact like total resource management for sustainability (<ce:cross-ref id="crf0057" refid="bib0018">Ozkan-Ozen et al., 2020</ce:cross-ref>). Again, supply chain management is considered as a vital aspect within sustainable resource management, where circular economy which can be used to minimize resource utilization and waste reduction, can also be seen as a holistic and most appropriate approach of how to transform the supply chain in the age of industry 4.0 (<ce:cross-ref id="crf0058" refid="bib0018">Ozkan-Ozen et al., 2020</ce:cross-ref>). This implies that in the process of developing high technological manufacturing environment, it is now possible to integrate sustainable resource management (<ce:cross-ref id="crf0059" refid="bib0018">Ozkan-Ozen et al., 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0016" view="all">According to <ce:cross-ref id="crf0060" refid="bib0005">Belmonte-Ureña et al. (2021)</ce:cross-ref>, in order to achieve efficient resource management in the construction industry towards the attainment of sustainable development, other conceptual approaches like circular economy, degrowth and green growth were developed. Whiles circular economy looks at advocating an economic system that dissociates environmental pressure from economic growth through the replacement of the traditional or linear economy of production for a circular production where waste becomes a vital resource, degrowth also assumes resource limitations and advocates smaller growth rates, even negative, to balance the natural and economic systems of production. Under green growth, the focus is on generating economic growth through investments in activities that protect or restore the natural environment (<ce:cross-ref id="crf0061" refid="bib0005">Belmonte-Ureña et al., 2021</ce:cross-ref>). <ce:cross-ref id="crf0062" refid="bib0009">Glass et al. (2012)</ce:cross-ref> add that construction materials and products should be procured from responsible sources that can certify the origin of all materials.</ce:para>
+               </ce:section>
+               <ce:section id="sec0004" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="cesectitle0006">Organisational learning and efficient resource management towards the SDGs</ce:section-title>
+                  <ce:para id="para0017" view="all">Organisational learning, according to <ce:cross-ref id="crf0063" refid="bib0001">Agyabeng-Mensah et al. (2021)</ce:cross-ref>, has received much attention from scholars and also from several management disciplines, and has also resulted in many diverse definitions in literature. Most of the definitions focused the extent of OL as a process where experience obtained from performing a task is transformed into knowledge, which subsequently changes the firm and influences the future of the firm's performance (<ce:cross-ref id="crf0064" refid="bib0001">Agyabeng-Mensah et al., 2021</ce:cross-ref>). According to <ce:cross-ref id="crf0065" refid="bib0007">Dicle and Köse (2014)</ce:cross-ref>, OL is the pathway towards sustainable development, as SD cannot be achieved without innovation, and innovation is also achieved in a culture that embraces and nurtures learning and change. Also, in the private sector, companies are allowed to select and prioritize corporate sustainable issues and to align strategies towards specific sustainable goals. However, achieving the SDGs is hindered by a fundamental difficulty, that is, limited knowledge of the actual sustainability practices on SDGs (<ce:cross-ref id="crf0066" refid="bib0006">Calabrese et al., 2021</ce:cross-ref>). So, for an organisation to transition towards sustainability requires a cultural change in the form of new shared values, norms, procedures, and strategic renewal in which the organisation can integrate the people, planet and profit which can be attained from the concept of OL (<ce:cross-ref id="crf0067" refid="bib0007">Dicle and Köse, 2014</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0018" view="all">OL, according to many studies is very vital to the performance and progress of firms and businesses. According to <ce:cross-ref id="crf0068" refid="bib0004">Bašić (2021)</ce:cross-ref>, by adopting certain types of knowledge like technical and market knowledge, exploratory and exploitative learning would be acquired by the organisation to allow for successful innovation in OL to take place. According to <ce:cross-ref id="crf0069" refid="bib0019">Silvius and Marnewick (2021)</ce:cross-ref>, by incorporating sustainable developments into corporate firms and organisations, it allowed firms and businesses to assume roles that allowed social sustainability to thrive. According to <ce:cross-ref id="crf0070" refid="bib0014">Khaled et al. (2021)</ce:cross-ref>, firms’ progress toward achieving the SDGs from an impact point of view can be assessed by measuring the impact of SDGs on corporate sustainability performance. In addition, <ce:cross-ref id="crf0071" refid="bib0006">Calabrese et al. (2021)</ce:cross-ref> stated that the role of the private sector in achieving SDGs should not be underestimated because of their ability to influence stakeholders, mobilise resources and to innovate. It has also been reported that the number of companies that contribute to SDGs through their reporting practices are increasing (<ce:cross-ref id="crf0072" refid="bib0006">Calabrese et al., 2021</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0019" view="all">According to <ce:cross-ref id="crf0073" refid="bib0003">Arya et al. (2022)</ce:cross-ref>, sustainability is the foundational block for continuous development. The extreme levels of waste generation and its management integrated with SDGs will lead to enhance social, economic and environmental improvements. <ce:cross-ref id="crf0074" refid="bib0020">Tabares (2021)</ce:cross-ref> also stated that the SDGs agreed upon by the United Nation in 2015 consisted of 17 goals which aimed at integrating matters of humanity's most pressing problems. <ce:cross-ref id="crf0075" refid="bib0003">Arya et al. (2022)</ce:cross-ref> further stated that the organic waste management integrated with SDGs were meant to reduce the burden of waste generation with other benefits. However, <ce:cross-ref id="crf0076" refid="bib0003">Arya et al. (2022)</ce:cross-ref> further stated that adopting recycling organic waste as a friendly environmental approach, will aid in obtaining sustainable products which also attributed to achieving the SDGs. For instance, extended business opportunities will be created by recycling organic waste. Also, new markets in recycling will be unlocked, and scientific and technological aspects of attaining the SDGs such as SDGs 3,6,7,8,11,12 and 13, will be strengthened.</ce:para>
+                  <ce:para id="para0020" view="all">Again, adopting sustainable and scientific methods coupled with the R-based principles of circular economy, could contribute to achieving the SDGs and its targets at a rapid pace. Also, supports of governing authorities can go a long way to affect the effective waste management plan (<ce:cross-ref id="crf0077" refid="bib0003">Arya et al., 2022</ce:cross-ref>). According to <ce:cross-ref id="crf0078" refid="bib0007">Dicle and Köse (2014)</ce:cross-ref>, on the path to a sustainable world, corporate firms and businesses have both the responsibility and resources to take necessary actions. Nonetheless, literature have revealed a lack of empirical studies proposing a strong linkage between OL and corporate environmentalism. By understanding the dynamics and interactions on these concepts can go long way to provide insights to guide management of firms and researchers in creating solutions to attaining sustainable development (<ce:cross-ref id="crf0079" refid="bib0007">Dicle and Köse, 2014</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0021" view="all">According to <ce:cross-ref id="crf0080" refid="bib0005">Belmonte-Ureña et al. (2021)</ce:cross-ref>, although a plethora of sustainable approaches have been introduced in the construction industry, yet these concepts have not been fully understood to the extent to which these concepts embrace the breadth of topics encompassed by the SDGs or whether the knowledge accrued can be used to achieve the goals and targets under the SDGs. However, the studies of <ce:cross-ref id="crf0081" refid="bib0005">Belmonte-Ureña et al. (2021)</ce:cross-ref> revealed that with regard to the knowledge domains and SDGs examined in their studies, i.e., Circular economy, Degrowth and Green growth, each knowledge domain was skewed towards the attainment of a very few SDGs, notably, SDG 3, 12, 8 and 13. The other SDGs that were less addressed or were consistently low across the knowledge domains examined were SDG 1, 5, 14 and 17. According to <ce:cross-ref id="crf0082" refid="bib0005">Belmonte-Ureña et al. (2021)</ce:cross-ref>, several commentaries have been raised in literature to warn against the isolation treatment of the SDGs since they were created to be interdependent. However, to implement these goals on the industry level, businesses and governing bodies have adopted a “pick and mix” strategy for the implementation of the SDGs they feel were more confident to advance.</ce:para>
+               </ce:section>
+               <ce:section id="sec0005" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="cesectitle0007">Contributions to this virtual special issue (VSI)</ce:section-title>
+                  <ce:para id="para0022" view="all">The call for the VSI attracted over 40 abstract submissions and over 30 full paper submissions but unfortunately the resulted in the acceptance and publication of only 6 papers after a rigorous blind review and revision process as presented in <ce:cross-ref id="crf0083" refid="tbl0001">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl0001"/>. Most papers were desktop rejected by the editorial team of the RCR due to the academic quality and relevance to the VSI.</ce:para>
+                  <ce:para id="para0023" view="all">Lee et al. (2021) presents first paper on the “<ce:italic>Analysis of industrial water–energy–labour nexus zones for economic and resource-based impact assessment</ce:italic>”. The paper analyses a framework for sustainable economic growth considering the trade-offs among economic inequality, resource security, and labour requirement through an industrial water, energy, and labour (I-WEL) nexus approach. It analysed the economic intensity of industrial water, energy, and labour in 47 prefectures in Japan and found that the more industrialized prefectures showed lower water but higher energy intensities than relatively less industrialized prefectures. The paper classified four I-WEL nexus zones—high efficiency, labour-intensive, water-intensive, and water- and energy-intensive zones—based on their economic intensities and by using the K-means clustering method. The paper also applied economic growth scenarios, weighted by I-WEL nexus zones, and quantified water, energy, and labour requirements by scenario at the local, regional, and national scales. The results of the study show that, by using weighted economic growth in the high-efficiency I-WEL nexus zones and relative to the baseline scenario (which assigns equal ratios of increased economic growth to all prefectures), a potential savings of 337 Mm3/year of freshwater and 184 PJ/year of energy can be realized.</ce:para>
+                  <ce:para id="para0024" view="all">The second paper by Zhou et al. (2021) examine “<ce:italic>A novel approach for recycling engineering sediment waste as sustainable supplementary cementitious materials</ce:italic>”. It discusses a novel green recycling approach where engineering sediment waste is recycled with mechanical treatment and calcination and used as supplementary cementitious material to partially substitute cement to prepare mortar for construction application. The study investigates mechanical properties of the prepared mortar and the mechanism behind the proposed recycling approach was discovered through microscale characterizations. The result of the study shows that, recycled engineering sediment can promote the secondary hydration in mortar, improving the compressive strength. The environmental impact of the proposed recycling approach and current landfilling method was compared through life cycle assessment (LCA). The proposed recycling approach can save 1204.1 MJ/t of energy consumption, and 326.1 kg CO2eq/t of global warming potential compared to those of landfilling method. The research provides an effective recycling scheme of engineering sediment waste on a vast scale and contribute to a sustainable construction waste management strategy.</ce:para>
+                  <ce:para id="para0025" view="all">The third paper by Raiden and King (2021) is on “<ce:italic>Social value, organisational learning, and the sustainable development goals in the built environment</ce:italic>”. The study examines clients’, consultant, local authority, and contractors’ social value organisational learning journeys towards sustainable development. The paper reveals how organisations have transformed their systems towards more sustainable production by collectively aligning to achieve social value and thus realise the SDGs beyond what any individual project or initiative would be able to deliver alone. The paper is based on transformative case study of social value in practice, which has a partnership model at its heart, and the potential to inform future methodologies for business and community engagement to improve social outcomes. The study shows that contractors play a central role in bringing together the different influences and managing agency-structure interplay within this social practice. The partnership approach explored in this paper offers a way to ensure more efficient use of resources in the hugely important development of the built environment.</ce:para>
+                  <ce:para id="para0026" view="all">The fourth paper by Sezer and Fredriksson (2021) describe “<ce:bold>
+                        <ce:italic>Environmental impact of construction transport and the effects of building certification schemes</ce:italic>
+                     </ce:bold>”. The research investigates the environmental impact of construction transport and the influence of building certification scheme for a construction project on its transport arrangements. The paper is based on a multiple case study of 40 Swedish projects and the results show that construction projects with better environmental ratings generated less emissions from construction transport. However, among the ten projects with highest transport/m2, five were certified. This study contributes to a better understanding of construction transport patterns and reducing environmental harm of these transports. The results of this paper are beneficial for construction site managers, logistics consultants and transport companies, helping them to implement Construction logistics solutions (CLSs) in a more useful way, depending on the phase and type of project.</ce:para>
+                  <ce:para id="para0027" view="all">Wang et al. (2021) paper on “<ce:italic>Multi-participant construction waste demolition and transportation decision-making system</ce:italic>” present a BIM and cost-optimisation-based decision-making system for construction and demolition waste (C&amp;DW) transportation. The system is capable of coordinating involved C&amp;DW participants and suggest a cost-effective transportation and demolition plan. The model can determine the optimal demolition company, transport company and disposal company through cost analysis, and a demolition plan decision model was developed based on the work efficiency analysis of the selected participants. The decision-making system can also extract material type and volume information about C&amp;DW emissions and emission types from BIM models. The system provides a cost-effective transportation plan and formulates a demolition plan that can avoid the accumulation of C&amp;DW on site based on the decision models. Using a case study approach, the result of the study shows that, the system can realise the information flow of all links in the construction waste management and improve the efficiency of decision-making concerning construction waste.</ce:para>
+                  <ce:para id="para0028" view="all">The final paper on the “<ce:italic>Contributions of the circular economy to the UN sustainable development goals through sustainable construction</ce:italic>” is by Ogunmakinde et al. (2022). The paper argues that contextualising the Circular Economy (CE) as part of the discourse towards implementing the SDGs is crucial for managing the increasing amounts of waste generated by the construction industry. It provides a framework that establishes a detailed relationship between the SDGs, construction waste management and the circular economy to direct future sustainable development research, policies, and innovations. The study adopted a narrative literature review methodology using Scopus and Web of Science for relevant literature published between 2015 and 2021. The paper argues that an understanding of the SDGs-circular economy linkages in construction waste management is integral to establishing long-term innovative solutions for developing multi-sectorial measures for waste prevention, eco-design, and re-use of materials. These linkages increase competitiveness, stimulate innovation, and boost economic growth. This study proposes that all stakeholders who generate waste should apply new innovative technologies, methods and strategies leading to transdisciplinary and transformative change</ce:para>
+               </ce:section>
+               <ce:section id="sec0006" view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title id="cesectitle0008">Conclusion and future research direction</ce:section-title>
+                  <ce:para id="para0029" view="all">The aim of this VSI was to bring together empirical research papers that explore the link between the sustainable development goals, organisational learning, and efficient resource management in construction. The VSI was focusing on topics such Sustainable construction &amp; SDGs, Sustainable supply chain management, the role of business in achieving the SDGs, organisational learning and sustainability, sustainable procurement, construction &amp; demolition waste management, sustainable consumption of materials &amp; resources and construction and the circular economy etc. However, the limitation of VSI is that organisational learning towards the SDGs is still an emerging research area with limited research outputs to attract enough papers for the special issue. At heart of this VSI was the SDGs, and the expectation was that papers to the special issue will demonstrate the link between the topics under investigation and the SDGs. Most of the papers failed to fully present a comprehensive discussion on the theme of this VSI; “The Sustainable Development Goals, Organisational Learning and Efficient Resource Management in Construction”. Future research should explore how organisational learning in the construction industry fosters efficient resource management and contribute to the realisation of the SDGs. Despite the above limitations, this paper highlights the important role of the construction industry in adopting efficient resource management through organisational learning practices by collaborating with government agencies, industry peers and policymakers to integrate the SDGs into long-term business strategies and work towards the realisation of the world we want by 2030.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0001" view="all">
+               <ce:section-title id="cesectitle0009">Acknowledgement</ce:section-title>
+               <ce:para id="para0030" view="all">The Managing Guest Editors wish to thank all the contributing authors and the anonymous reviewers for their time and hard work in making this VSI a reality.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0010">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>Agyabeng-Mensah et al., 2021</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Agyabeng-Mensah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Afum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Baah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Dacosta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Organisational identity and circular economy: are inter and intra organisational learning, lean management and zero waste practices worth pursuing?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>SSustain. Prod. Consum.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>648</sb:first-page>
+                              <sb:last-page>662</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.spc.2021.06.018</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">Agyabeng-Mensah, Y., Tang, L., Afum, E., Baah, C. and Dacosta, E. (2021), ‘Organisational identity and circular economy: are inter and intra organisational learning, lean management and zero waste practices worth pursuing?’, SSustain. Prod. Consum., 28, pp. 648–662. doi: 10.1016/j.spc.2021.06.018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>Arora et al., 2020</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Arora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Raspall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cheah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Silva</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Buildings and the circular economy: estimating urban mining, recovery and reuse potential of building components</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>154</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>October 2019</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>104581</sb:article-number>
+                           <ce:doi>10.1016/j.resconrec.2019.104581</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">Arora, M., Raspall, F., Cheah, L. and Silva, A. (2020), ‘Buildings and the circular economy: estimating urban mining, recovery and reuse potential of building components’, Resour. Conserv. Recycl., 154(October 2019), p. 104581. doi: 10.1016/j.resconrec.2019.104581.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>Arya et al., 2022</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Arya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chavan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Vishwakarma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An Approach For Integrating Sustainable Development Goals (SDGs) Through Organic Waste management. First Edit, Advanced Organic Waste Management. First Edit</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2022</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier Ltd</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                           <ce:doi>10.1016/b978-0-323-85792-5.00010-1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0003">Arya, S., Chavan, D., Vishwakarma, S. and Kumar, S. (2022), An Approach For Integrating Sustainable Development Goals (SDGs) Through Organic Waste management. First Edit, Advanced Organic Waste Management. First Edit. Elsevier Ltd. doi: 10.1016/b978-0-323-85792-5.00010-1.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>Bašić, 2021</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bašić</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Organisational learning antecedents and open innovation: differences in internationalisation level</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Innov. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>161</sb:first-page>
+                              <sb:last-page>174</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijis.2021.12.001</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">Bašić, M. (2021), ‘Organisational learning antecedents and open innovation: differences in internationalisation level’, Int. J. Innov. Stud., 5(4), pp. 161–174. doi: 10.1016/j.ijis.2021.12.001.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Belmonte-Ureña et al., 2021</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Belmonte-Ureña</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Plaza-Úbeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Vazquez-Brust</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yakovleva</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Circular economy, degrowth and green growth as pathways for research on sustainable development goals: a global analysis and future agenda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>185</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>August 2020</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ecolecon.2021.107050</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">Belmonte-Ureña, L.J., Plaza-Úbeda, J.A., Vazquez-Brust, D. and Yakovleva, N. (2021), ‘Circular economy, degrowth and green growth as pathways for research on sustainable development goals: a global analysis and future agenda’, Ecol. Econ., 185(August 2020). doi: 10.1016/j.ecolecon.2021.107050.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>Calabrese et al., 2021</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Calabrese</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Costa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gastaldi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Levialdi Ghiron</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Villazon Montalvan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Implications for sustainable development goals: a framework to assess company disclosure in sustainability reporting</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>319</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>November 2020</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>128624</sb:article-number>
+                           <ce:doi>10.1016/j.jclepro.2021.128624</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Calabrese, A., Costa, R., Gastaldi, M., Levialdi Ghiron, N. and Villazon Montalvan, R.A. (2021), ‘Implications for sustainable development goals: a framework to assess company disclosure in sustainability reporting’, J. Clean. Prod., 319(November 2020), p. 128624. doi: 10.1016/j.jclepro.2021.128624.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>Dicle and Köse, 2014</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Ü.</ce:given-name>
+                                 <ce:surname>Dicle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Köse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impact of organizational learning on corporate sustainability and strategy formulation with the moderating effect of industry type</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Procedia Soc. Behav. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>958</sb:first-page>
+                              <sb:last-page>967</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.sbspro.2014.09.108</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">Dicle, Ü. and Köse, C. (2014), ‘The impact of organizational learning on corporate sustainability and strategy formulation with the moderating effect of industry type’, Procedia Soc. Behav. Sci., 150, pp. 958–967. doi: 10.1016/j.sbspro.2014.09.108.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>Gálvez-Martos et al., 2018</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-.L.</ce:given-name>
+                                 <ce:surname>Gálvez-Martos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>David Styles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Schoenberger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Zeschmar-Lahl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Construction and demolition waste best management practice in Europe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>136</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>166</sb:first-page>
+                              <sb:last-page>178</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">Gálvez-Martos, J.-.L., David Styles, D., Schoenberger, H., and Zeschmar-Lahl, D. (2018), Construction and demolition waste best management practice in Europe, Resour. Conserv. Recycl., 136, 166–178</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>Glass et al., 2012</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Glass</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Achour</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Parry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Nicholson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Engaging small firms in sustainable supply chains: responsible sourcing practices in the UK construction industry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Agile Syst. Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                              <sb:last-page>58</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">Glass, J., Achour, N., Parry, T. and Nicholson, I. (2012), Engaging small firms in sustainable supply chains: responsible sourcing practices in the UK construction industry, Int. J. Agile Syst. Manag., 5 (1), 29–58</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Halkos and Gkampoura, 2021</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Halkos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Gkampoura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Where do we stand on the 17 Sustainable Development Goals? An overview on progress</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Econ. Anal. Policy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>94</sb:first-page>
+                              <sb:last-page>122</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.eap.2021.02.001</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">Halkos, G. and Gkampoura, E.C. (2021), ‘Where do we stand on the 17 Sustainable Development Goals? An overview on progress’, Econ. Anal. Policy, 70, pp. 94–122. doi: 10.1016/j.eap.2021.02.001.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>Huan et al., 2021</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A systematic method for assessing progress of achieving sustainable development goals: a case study of 15 countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>752</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>141875</sb:article-number>
+                           <ce:doi>10.1016/j.scitotenv.2020.141875</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">Huan, Y., Liang, T., Li, H. and Zhang, C. (2021), ‘A systematic method for assessing progress of achieving sustainable development goals: a case study of 15 countries’, Sci. Total Environ., 752, p. 141875. doi: 10.1016/j.scitotenv.2020.141875.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>de Jong and Vijge, 2021</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>de Jong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Vijge</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>From millennium to sustainable development goals: evolving discourses and their reflection in policy coherence for development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Earth System Governance</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100087</sb:article-number>
+                           <ce:doi>10.1016/j.esg.2020.100087</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">de Jong, E. and Vijge, M.J. (2021), ‘From millennium to sustainable development goals: evolving discourses and their reflection in policy coherence for development’, Earth System Governance, 7, p. 100087. doi: 10.1016/j.esg.2020.100087.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>Kedir and Hall, 2021</ce:label>
+                     <sb:reference id="sbref0013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Kedir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Hall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resource efficiency in industrialized housing construction – A systematic review of current performance and future opportunities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>286</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>125443</sb:article-number>
+                           <ce:doi>10.1016/j.jclepro.2020.125443</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0013">Kedir, F. and Hall, D.M. (2021), ‘Resource efficiency in industrialized housing construction – A systematic review of current performance and future opportunities’, J. Clean. Prod., 286, p. 125443. doi: 10.1016/j.jclepro.2020.125443.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>Khaled et al., 2021</ce:label>
+                     <sb:reference id="sbref0014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Khaled</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.K.A.</ce:given-name>
+                                 <ce:surname>Mohamed</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The sustainable development goals and corporate sustainability performance: mapping, extent and determinants</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>311</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>May</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>127599</sb:article-number>
+                           <ce:doi>10.1016/j.jclepro.2021.127599</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0014">Khaled, R., Ali, H. and Mohamed, E.K.A. (2021), ‘The sustainable development goals and corporate sustainability performance: mapping, extent and determinants’, J. Clean. Prod., 311(May), p. 127599. doi: 10.1016/j.jclepro.2021.127599.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Lopez et al., 2005</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Lopez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Peon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.V.</ce:given-name>
+                                 <ce:surname>Ordas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Organizational learning as a determining factor in business performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Learn. Organ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>245</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0015">Lopez, S.P., Peon, J.M. and Ordas, C.J.V. (2005), Organizational learning as a determining factor in business performance, Learn. Organ., 12 (3), 227–245</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>Madurai Elavarasan et al., 2021</ce:label>
+                     <sb:reference id="sbref0016">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Madurai Elavarasan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pugazhendhi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jamal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dyduch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Arif</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Manoj Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Shafiullah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Chopra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Nadarajah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Envisioning the UN Sustainable Development Goals (SDGs) through the lens of energy sustainability (SDG 7) in the post-COVID-19 world</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>292</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>August 2020</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>116665</sb:article-number>
+                           <ce:doi>10.1016/j.apenergy.2021.116665</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0016">Madurai Elavarasan, R., Pugazhendhi, R., Jamal, T., Dyduch, J., Arif, M.T., Manoj Kumar, N., Shafiullah, G.M., Chopra, S.S. and Nadarajah, M. (2021), ‘Envisioning the UN Sustainable Development Goals (SDGs) through the lens of energy sustainability (SDG 7) in the post-COVID-19 world’, Appl. Energy, 292(August 2020), p. 116665. doi: 10.1016/j.apenergy.2021.116665.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>Opoku and Fortune, 2011</ce:label>
+                     <sb:reference id="sbref0017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Opoku</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Fortune</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Organizational learning and sustainability in the construction industry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Built Human Environ. Review</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>98</sb:first-page>
+                              <sb:last-page>107</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Special Issue(2011) [Online]</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0017">Opoku, A. and Fortune, C. (2011), Organizational learning and sustainability in the construction industry, Built Human Environ. Review, Vol. 4, Special Issue1, (2011) [Online], pp.98–107</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>Ozkan-Ozen et al., 2020</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Ozkan-Ozen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kazancoglu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kumar Mangla</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synchronized barriers for circular supply chains in industry 3.5/industry 4.0 transition for sustainable resource management</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>161</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>May</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>104986</sb:article-number>
+                           <ce:doi>10.1016/j.resconrec.2020.104986</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0018">Ozkan-Ozen, Y.D., Kazancoglu, Y. and Kumar Mangla, S. (2020), ‘Synchronized barriers for circular supply chains in industry 3.5/industry 4.0 transition for sustainable resource management’, Resour. Conserv. Recycl., 161(May), p. 104986. doi: 10.1016/j.resconrec.2020.104986.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>Silvius and Marnewick, 2021</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Silvius</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Marnewick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interlinking sustainability in organizational strategy, project portfolio management and project management a conceptual framework</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Procedia Comput. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2021</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>938</sb:first-page>
+                              <sb:last-page>947</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.procs.2021.12.095</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0019">Silvius, G. and Marnewick, C. (2021), ‘Interlinking sustainability in organizational strategy, project portfolio management and project management a conceptual framework’, Procedia Comput. Sci., 196(2021), pp. 938–947. doi: 10.1016/j.procs.2021.12.095.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Tabares, 2021</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tabares</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Do hybrid organizations contribute to sustainable development goals? Evidence from B Corps in Colombia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>280</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>124615</sb:article-number>
+                           <ce:doi>10.1016/j.jclepro.2020.124615</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0020">Tabares, S. (2021), ‘Do hybrid organizations contribute to sustainable development goals? Evidence from B Corps in Colombia’, J. Clean. Prod., 280, p. 124615. doi: 10.1016/j.jclepro.2020.124615.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>Tortorella et al., 2020</ce:label>
+                     <sb:reference id="sbref0021">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Tortorella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Cawley Vergara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Garza-Reyes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sawhney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Organizational learning paths based upon industry 4.0 adoption: an empirical study with Brazilian manufacturers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>219</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>April 2019</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>284</sb:first-page>
+                              <sb:last-page>294</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijpe.2019.06.023</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0021">Tortorella, G.L., Cawley Vergara, A.M., Garza-Reyes, J.A. and Sawhney, R. (2020), ‘Organizational learning paths based upon industry 4.0 adoption: an empirical study with Brazilian manufacturers’, Int. J. Prod. Econ., 219(April 2019), pp. 284–294. doi: 10.1016/j.ijpe.2019.06.023.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0022">
+                     <ce:label>Tu and Wu, 2021</ce:label>
+                     <sb:reference id="sbref0022">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How does green innovation improve enterprises’ competitive advantage? The role of organizational learning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustain. Prod. Consum.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>504</sb:first-page>
+                              <sb:last-page>516</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.spc.2020.12.031</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0022">Tu, Y. and Wu, W. (2021), ‘How does green innovation improve enterprises’ competitive advantage? The role of organizational learning’, Sustain. Prod. Consum., 26, pp. 504–516. doi: 10.1016/j.spc.2020.12.031.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0023">
+                     <ce:label>Wen et al., 2020</ce:label>
+                     <sb:reference id="sbref0023">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.N.</ce:given-name>
+                                 <ce:surname>Musa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Onn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramesh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role and contribution of green buildings on sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Build. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>185</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>August</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>107091</sb:article-number>
+                           <ce:doi>10.1016/j.buildenv.2020.107091</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0023">Wen, B., Musa, S.N., Onn, C.C., Ramesh, S., Liang, L., Wang, W. and Ma, K. (2020), ‘The role and contribution of green buildings on sustainable development goals’, Build. Environ., 185(August), p. 107091. doi: 10.1016/j.buildenv.2020.107091.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0024">
+                     <ce:label>Wu et al., 2019</ce:label>
+                     <sb:reference id="sbref0024">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zillante</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review of performance assessment mthods for construction and demolition waste management</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>March</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>104407</sb:article-number>
+                           <ce:doi>10.1016/j.resconrec.2019.104407</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0024">Wu, H., Zuo, J., Yuan, H., Zillante, G. and Wang, J. (2019), ‘A review of performance assessment mthods for construction and demolition waste management’, Resour. Conserv. Recycl., 150(March), p. 104407. doi: 10.1016/j.resconrec.2019.104407.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Yang et al., 2021</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Handling missing data for construction waste management: machine learning based on aggregated waste generation behaviors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>June</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>105809</sb:article-number>
+                           <ce:doi>10.1016/j.resconrec.2021.105809</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0025">Yang, Z., Xue, F. and Lu, W. (2021), ‘Handling missing data for construction waste management: machine learning based on aggregated waste generation behaviors’, Resour. Conserv. Recycl., 175(June), p. 105809. doi: 10.1016/j.resconrec.2021.105809.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0026">
+                     <ce:label>Zhang et al., 2022</ce:label>
+                     <sb:reference id="sbref0026">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Di Maio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Sprecher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tukker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An overview of the waste hierarchy framework for analyzing the circularity in construction and demolition waste management in Europe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>803</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>149892</sb:article-number>
+                           <ce:doi>10.1016/j.scitotenv.2021.149892</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0026">Zhang, C., Hu, M., Di Maio, F., Sprecher, B., Yang, X. and Tukker, A. (2022), ‘An overview of the waste hierarchy framework for analyzing the circularity in construction and demolition waste management in Europe’, Sci. Total Environ., 803, p. 149892. doi: 10.1016/j.scitotenv.2021.149892.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0027">
+                     <ce:label>Zhao et al., 2021</ce:label>
+                     <sb:reference id="sbref0027">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Winkler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Connor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Ouyang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synergies and tradeoffs among Sustainable Development Goals across boundaries in a metacoupled world</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>751</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>141749</sb:article-number>
+                           <ce:doi>10.1016/j.scitotenv.2020.141749</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0027">Zhao, Z., Cai, M., Wang, F., Winkler, J.A., Connor, T., Chung, M.G., Zhang, J., Yang, H., Xu, Z., Tang, Y., Ouyang, Z., Zhang, H., and Liu, J. (2021), ‘Synergies and tradeoffs among Sustainable Development Goals across boundaries in a metacoupled world’, Sci. Total Environ., 751, p. 141749. doi: 10.1016/j.scitotenv.2020.141749.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

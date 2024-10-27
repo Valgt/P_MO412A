@@ -1,0 +1,963 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2095927321000487</prism:url><dc:identifier>doi:10.1016/j.scib.2021.01.012</dc:identifier><eid>1-s2.0-S2095927321000487</eid><prism:doi>10.1016/j.scib.2021.01.012</prism:doi><pii>S2095-9273(21)00048-7</pii><dc:title>Big Earth Data: a practice of sustainability science to achieve the Sustainable Development Goals </dc:title><prism:publicationName>Science Bulletin</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>20959273</prism:issn><prism:volume>66</prism:volume><prism:issueIdentifier>11</prism:issueIdentifier><prism:startingPage>1050</prism:startingPage><prism:endingPage>1053</prism:endingPage><prism:pageRange>1050-1053</prism:pageRange><prism:number>11</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2021-06-15</prism:coverDate><prism:coverDisplayDate>15 June 2021</prism:coverDisplayDate><prism:copyright>© 2021 Science China Press. Published by Elsevier B.V. and Science China Press.</prism:copyright><prism:publisher>Science China Press. Published by Elsevier B.V. and Science China Press.</prism:publisher><dc:creator>Guo, Huadong</dc:creator><dc:creator>Chen, Fang</dc:creator><dc:creator>Sun, Zhongchang</dc:creator><dc:creator>Liu, Jie</dc:creator><dc:creator>Liang, Dong</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S2095927321000487" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2095927321000487" rel="scidir"/></coredata><objects><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="111" height="155" size="6486">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="111" height="156" size="5972">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-fx2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="460" size="74864">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="164" size="13902">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="116" height="163" size="12879">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-fx2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="206" height="164" size="14272">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="295" height="413" size="18280">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="295" height="415" size="16212">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-fx2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1689" height="1345" size="257170">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="887511">https://api.elsevier.com/content/object/eid/1-s2.0-S2095927321000487-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85100310619</scopus-id><scopus-eid>2-s2.0-85100310619</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85100310619" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>315713</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291806</xocs:ssid>
+         <xocs:ssid type="subj">291848</xocs:ssid>
+         <xocs:ssid type="subj">291884</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Science Bulletin</xocs:srctitle>
+      <xocs:normalized-srctitle>SCIENCEBULLETIN</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210119">2021-01-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210119">2021-01-19</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210529">2021-05-29</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210529">2021-05-29</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-06-07T23:56:12</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2095927321000487</xocs:eid>
+      <xocs:pii-formatted>S2095-9273(21)00048-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2095927321000487</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.scib.2021.01.012</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2095927321X00114</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210607">2021-06-07T23:06:02.157183Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210615</xocs:date-search-begin>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1611048190">2021-01-19T09:23:10.13807Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body acknowledge affil articletitle auth authfirstini authfull authlast pubtype ref vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2095-9273</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>20959273</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>66</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>66</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>11</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>11</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 66, Issue 11</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>1050</xocs:first-fp>
+      <xocs:last-lp>1053</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1050</xocs:first-page>
+         <xocs:last-page>1053</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20210615</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 June 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-06-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>News &amp; Views</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Science China Press. Published by Elsevier B.V. and Science China Press.</xocs:copyright-line>
+      <xocs:normalized-article-title>BIGEARTHDATAAPRACTICESUSTAINABILITYSCIENCEACHIEVESUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GUO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>MESSERLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>GLOBALSUSTAINABLEDEVELOPMENTREPORT2019FUTURENOWSCIENCEFORACHIEVINGSUSTAINABLEDEVELOPMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>SACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>805</xocs:ref-first-fp>
+            <xocs:ref-last-lp>814</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015"/>
+         <xocs:ref-info refid="h0020"/>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIGEARTHDATAINSUPPORTSUSTAINABLEDEVELOPMENTGOALS2019</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>ZUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>304</xocs:ref-first-fp>
+            <xocs:ref-last-lp>313</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>ACUTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-last-lp>87</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>752</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060"/>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIGEARTHDATAINSUPPORTSUSTAINABLEDEVELOPMENTGOALS2020</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>104388</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>137</xocs:ref-first-fp>
+            <xocs:ref-last-lp>147</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GUOX2021X1050</xocs:refkey3>
+         <xocs:refkey4lp>GUOX2021X1050X1053</xocs:refkey4lp>
+         <xocs:refkey4ai>GUOX2021X1050XH</xocs:refkey4ai>
+         <xocs:refkey5>GUOX2021X1050X1053XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2022-05-29T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-05-29T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Science China Press. Published by Elsevier B.V. and Science China Press.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-03-26T08:05:43.561Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S2095927321000487</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Chinese Academy of Sciences</xocs:funding-agency-matched-string>
+            <xocs:funding-id>XDA19090000</xocs:funding-id>
+            <xocs:funding-id>XDA19030000</xocs:funding-id>
+            <xocs:funding-agency-acronym>CAS</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Chinese Academy of Sciences</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100002367</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (XDA19030000, XDA19090000). We thank the CASEarth SDG Team’s contributions and the anonymous reviewers for their helpful comments. </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2095-9273(21)00048-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2095927321000487</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2095927321000487</xocs:eid>
+         <xocs:doi>10.1016/j.scib.2021.01.012</xocs:doi>
+         <xocs:cid>315713</xocs:cid>
+         <xocs:timestamp>2021-06-07T23:06:02.157183Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-06-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/MAIN/application/pdf/7203caf41122359b5dd8569efa84ce6e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>592516</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2095927321000487-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/PREVIEW/image/png/425fb4396dc5ed20185fe5e72b2b27fb/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>70293</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/fx1/DOWNSAMPLED/image/jpeg/722b1baefac4d3049a25eb4caed69da3/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>6486</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-fx2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/fx2/DOWNSAMPLED/image/jpeg/0a82e702f10d8ba8f71817b70b8c2170/fx2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>5972</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/gr1/DOWNSAMPLED/image/jpeg/2b55f33f19f61bfc5b4debd11c90ab09/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>74864</xocs:filesize>
+               <xocs:pixel-height>460</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/fx1/THUMBNAIL/image/gif/36bc195e5feba5bbd7dc2f56a36423bb/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13902</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-fx2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/fx2/THUMBNAIL/image/gif/41fdfe6d507819b0f183dc8600eeaf9b/fx2.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12879</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>116</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/gr1/THUMBNAIL/image/gif/a86438c1ad0e6dd6781e02a24563cb08/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14272</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>206</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/fx1/HIGHRES/image/jpeg/d19e40ccbcac85a3249c0100bdfd70be/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18280</xocs:filesize>
+               <xocs:pixel-height>413</xocs:pixel-height>
+               <xocs:pixel-width>295</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-fx2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/fx2/HIGHRES/image/jpeg/5dcfe4b9d4f78dbbb662d51383b4b2ec/fx2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16212</xocs:filesize>
+               <xocs:pixel-height>415</xocs:pixel-height>
+               <xocs:pixel-width>295</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095927321000487/gr1/HIGHRES/image/jpeg/288b23586eb465cb408dbc749dd79db9/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>257170</xocs:filesize>
+               <xocs:pixel-height>1345</xocs:pixel-height>
+               <xocs:pixel-width>1689</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095927321000487-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1058L6P4VDC/MAIN/application/pdf/455e47fbfd2b848f60bbcc55ffd5c7f7/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>887511</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>SCIB</jid>
+            <aid>1340</aid>
+            <ce:pii>S2095-9273(21)00048-7</ce:pii>
+            <ce:doi>10.1016/j.scib.2021.01.012</ce:doi>
+            <ce:copyright type="society" year="2021">Science China Press</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0005" view="all">Big Earth Data for the Sustainable Development Goals (SDGs). Big Earth Data supports the implementation of SDGs in three broad aspects (data products, methods/models, and decision support) at the global, regional, national, and local scales.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk00005" locator="gr1" xlink:href="pii:S2095927321000487/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="dh005">
+               <ce:textfn>News &amp; Views</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tm005">Big Earth Data: a practice of sustainability science to achieve the Sustainable Development Goals</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author biographyid="bg005" id="au005" author-id="S2095927321000487-78f865151962df4e1d519cbf221c026f">
+                  <ce:given-name>Huadong</ce:given-name>
+                  <ce:surname>Guo</ce:surname>
+                  <ce:cross-ref id="c0005" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="c0010" refid="af010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c524176">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author biographyid="bg010" id="au010" author-id="S2095927321000487-6d017c52bd6beb5a27c576dde32a5762">
+                  <ce:given-name>Fang</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref id="c0015" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="c0020" refid="af010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c52411">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au015" author-id="S2095927321000487-d87f8c789a1a01f2419de3c65e35b835">
+                  <ce:given-name>Zhongchang</ce:given-name>
+                  <ce:surname>Sun</ce:surname>
+                  <ce:cross-ref id="c0025" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S2095927321000487-28be95b297f26e32f00f0784d8e0fd3a">
+                  <ce:given-name>Jie</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:cross-ref id="c0030" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au025" author-id="S2095927321000487-80ae6487f878d72e25edaaa7425bd279">
+                  <ce:given-name>Dong</ce:given-name>
+                  <ce:surname>Liang</ce:surname>
+                  <ce:cross-ref id="c0035" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="c0040" refid="af010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S2095927321000487-f98035bbcf30435e35d99bff309a4bdc">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Key Laboratory of Digital Earth Science, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing 100094, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Digital Earth Science</sa:organization>
+                     <sa:organization>Aerospace Information Research Institute</sa:organization>
+                     <sa:organization>Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100094</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">Key Laboratory of Digital Earth Science, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing 100094, China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S2095927321000487-211f68de21a03e3ac29ba11672433b3a">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>University of Chinese Academy of Sciences, Beijing 100049, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>University of Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100049</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">University of Chinese Academy of Sciences, Beijing 100049, China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0005" view="all">The 2030 Agenda for Sustainable Development is a programmatic document for future global development. In the past five years, all countries of the world have made great efforts to achieve the United Nations Sustainable Development Goals (SDGs). However, the implementation of the agenda faces a number of challenges, including insufficient data, imperfect methods, interlinked and constrained targets, diverse localization issues, and other constraints on the pace of progress. Unfortunately, under the existing business as usual models, the world seems to be moving away from the goal of “leaving no one behind”. There are still nearly 1 billion people living close to extreme poverty ($1.90 per person/d). More than 820 million people are hungry, but nearly 12 million hectares of agricultural land are not being used for food production every year. Global climate change and environmental degradation are increasing. Approximately 70% of global greenhouse gas emissions are derived from burning fossil fuels in cities, 66% of the ocean area is suffering from the increasingly serious cumulative impacts of human activity, and more than 85% of wetlands have disappeared <ce:cross-ref id="c0045" refid="b0005">[1]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0010" view="all">Many stakeholders have realized that the achievement of the SDGs depends on the coordinated development of economic, social, and environmental dimensions, and we urgently need more transformative and comprehensive countermeasures <ce:cross-ref id="c0050" refid="b0010">[2]</ce:cross-ref>. In this context, the United Nations has proposed six entry points and four levers to guide the implementation of the SDGs in a transformative way <ce:cross-ref id="c0055" refid="b0005">[1]</ce:cross-ref>. This has also created the opportunity to develop a more participatory academic discipline, sustainability science, which combines several scientific disciplines, including the social sciences and humanities, in a problem-solving manner. This will reveal the complex, often controversial, and valuable interactions between nature and society, generating useful scientific knowledge for the implementation of sustainable development.</ce:para>
+               <ce:para id="p0015" view="all">Sustainability science is expected to provide the key knowledge to underpin the transformation that is necessary to achieve the balance required for all aspects of sustainable development, but it faces severe data challenges in its practical application. Comprehensive access to and sharing of economic, social, and environmental data are the basis for conducting sustainable scientific analyses, timely measurement of the progress of the SDGs, and improving and adjusting the national plans and strategies in various countries. However, due to the differences between various countries and regions in the possession and application of information and network technologies for statistical surveys, many countries, and especially developing countries, have not effectively carried out the acquisition and analysis of high-quality disaggregated data. This has hindered the evidence-driven pathways to transformation. For example, only half of the 54 African countries have conducted comparable surveys for the SDGs, and only 96 indicators have data available for assessment, accounting for only 41.4% of the global SDG indicator framework <ce:cross-ref id="c0060" refid="b0015">[3]</ce:cross-ref>. The importance of data, as well as science, technology, and innovation (STI) in the transformation toward sustainable development was highlighted by UN Secretary-General António Guterres who stated the need for “<ce:italic>better use of data; and harnessing science, technology and innovation with a greater focus on digital transformation</ce:italic>” <ce:cross-ref id="c0065" refid="b0020">[4]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0020" view="all">Big Earth Data, which consists of all the data related to Earth systems, has become the basis of data-intensive scientific discovery in the Earth sciences <ce:cross-ref id="c0070" refid="b0025">[5]</ce:cross-ref>. As an important practice in the Technology Facilitation Mechanism (TFM), Big Earth Data science aims to provide a tool to generate knowledge from a variety of complex data sources. This will ensure the creation of a sustainable human society, which is essential to the protection of the Earth <ce:cross-refs id="r0005" refid="b0030 b0035">[6,7]</ce:cross-refs>. Heterogeneous Big Earth Data contains a large amount of information in a complex framework and has brought a new impetus to the Earth and social sciences. To shape science-based policies and data-driven decision mechanisms in the service of the SDGs, the Chinese Academy of Sciences (CAS) initiated the “Big Earth Data Science Engineering Program” (CASEarth) in 2018 <ce:cross-ref id="c0075" refid="b0035">[7]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0025" view="all">The CASEarth program aims to support the implementation of the SDGs through three main actions (<ce:cross-ref id="c0080" refid="f0005">Fig. 1</ce:cross-ref>
+                  <ce:float-anchor refid="f0005"/>): (1) fill in missing data and explore innovative technologies to generate new sources of data for SDG evaluation; (2) develop methodologies and models to evaluate SDGs utilizing Big Earth Data; and (3) provide decision support to SDGs by monitoring and identifying progress.</ce:para>
+               <ce:para id="p0030" view="all">In consideration of the six entry points and four levers, as one of its top priorities CASEarth has identified Big Earth Data’s scientific and technical potential to catalyze change across multiple SDGs by working through the science and technology lever and the following three entry points: (1) building sustainable food systems and healthy nutrition patterns, (2) promoting sustainable urban and <ce:italic>peri</ce:italic>-urban development, and (3) securing the global environmental commons. The CASEarth program has therefore developed a Big Earth Data integration system for SDG indicators and has initially prioritized more than 20 indicators from six SDGs, aiding SDG implementation at the global, regional, national, and local scales (<ce:cross-ref id="c0085" refid="f0005">Fig. 1</ce:cross-ref>). The six selected goals are closely related to Earth’s surface, environment, and natural resources, and have the characteristics of being large-scale with cyclical changes. The macroscopic and dynamic monitoring capabilities of Big Earth Data are an important means for the assessment of progress toward sustainable development.<ce:list id="l0005">
+                     <ce:list-item id="o0005">
+                        <ce:label>(i)</ce:label>
+                        <ce:para id="p0035" view="all">Food systems and nutrition patterns. To achieve sustainable food systems, there should be a focus on enabling more equitable global access to nutritional foods, maximizing the nutritional value of produce, and minimizing the climate and environmental impacts of production. For example, Big Earth Data analytics have been used to evaluate the long-term environmental impacts of food production in China from 1990 to 2018. Combining the massive amounts of data available for land use, irrigation water consumption, and excess fertilizer application, it was found that the environmental impacts per unit of production have decreased since 2000, indicating that China’s cropping systems are becoming more sustainable <ce:cross-ref id="c0090" refid="b0040">[8]</ce:cross-ref>. Desert locusts threatened East African agriculture in 2020. Because of their potential threat to food security, Big Earth Data analytics have been used to dynamically monitor the spatiotemporal distribution of desert locust reproduction and migration in Africa, West Asia, and South Asia, providing timely and valuable information regarding agriculture and animal husbandry losses for various stakeholders.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0010">
+                        <ce:label>(ii)</ce:label>
+                        <ce:para id="p0040" view="all">Urban and <ce:italic>peri</ce:italic>-urban development. Sustainable cities and communities are central to achieving all 17 of the SDGs <ce:cross-ref id="c0095" refid="b0045">[9]</ce:cross-ref>. The transformative processes that shape sustainable urbanization need to be understood. Big Earth Data analytics has been applied to assess the scale of urbanization from 1990 to 2015 in China, integrating data for urban land-use efficiency, gross domestic product (GDP), population, and global 10-m impervious surface satellite products, with the results revealing major challenges for urban sustainable development in China <ce:cross-refs id="r0010" refid="b0050 b0055">[10,11]</ce:cross-refs>. To respond to disease transmission within the city, Big Earth Data analytics is being used to monitor and evaluate the sustainability of Wuhan City in the context of COVID-19, using data for public health, the emergency capacity of medical public health resources, urban management, individual and collective action, and socio-economic resilience <ce:cross-ref id="c0100" refid="b0060">[12]</ce:cross-ref>. The outcomes will provide valuable resources for scientific studies of COVID-19 and for experts active in the prevention and control of the COVID-19 pandemic.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0015">
+                        <ce:label>(iii)</ce:label>
+                        <ce:para id="p0045" view="all">Global environmental commons. Achieving a global environmental commons requires not only a long time series of historical data, but also the latest updated data. Big Earth Data science can help to dynamically assess and understand global environment change scenarios. For example, CASEarth is expanding the cloud-computing-based system to improve environmental monitoring. Global land degradation was evaluated from 2015 to 2018 and it was found that China’s net restored land area increased by 60.30% and accounted for approximately 1/5 of the world’s total, making it the number one contributor to global land degradation neutrality <ce:cross-ref id="c0105" refid="b0065">[13]</ce:cross-ref>. Meanwhile, deep learning methods and various marine environmental datasets have been integrated into Big Earth Data analytics. The abundance of floating debris in 22 typical coastal areas of China in 2018 was approximately 25% below the 2010 to 2014 average <ce:cross-ref id="c0110" refid="b0065">[13]</ce:cross-ref>.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:para>
+               <ce:para id="p0050" view="all">Four practical steps need to be taken to fill the data and knowledge gaps that will enable the development of sustainability science.<ce:list id="l0010">
+                     <ce:list-item id="o0020">
+                        <ce:label>(i)</ce:label>
+                        <ce:para id="p0055" view="all">Establish SDG data infrastructure. The six entry points involve different types of data. They often correspond to social phenomena or environmental problems that occur in different spaces and over different time scales. At present, the main data sources used for SDG evaluation are statistical surveys, but it is difficult to meet the SDG evaluation needs due to the different survey timelines, and the quantity and quality of surveys vary. To use data to understand the synergy among the six entry points, we need to improve the existing statistical data acquisition methods. There is a need to improve the construction of SDG data infrastructure through the use of Big Earth Data analytics. An open data infrastructure and advanced data processing methods could contribute to the collection and analysis of the vast amounts of data required <ce:cross-refs id="r0015" refid="b0070 b0075">[14,15]</ce:cross-refs>. For example, the use of cloud services to support agricultural sampling systems using a smartphone can provide a cost-effective data solution for monitoring and tracking crop planting status at any time and in any place. More than 100,000 data of sample sites regarding crop planting structure are obtained by users of these systems every year.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0025">
+                        <ce:label>(ii)</ce:label>
+                        <ce:para id="p0060" view="all">Improve data access and sharing capabilities. Many organizations are committed to building data and information platforms to support SDG assessments. However, due to the lack of a consensus in the sharing strategy at the policy level, no unified standard that includes data structure and security has been developed at the technical level. Users may be prevented from accessing data owned by other agencies, or some data may be generated based on specific statistical units that cannot be directly used by others. Models and technical standards for SDG data access and sharing should be developed jointly among scientific, governmental, private sector, and civil society actors. The CASEarth Big Earth Data platform (<ce:inter-ref id="ir005" xlink:href="http://data.casearth.cn/" xlink:type="simple">http://data.casearth.cn/</ce:inter-ref>), launched on January 2019, now has 8 PB of data for SDG analysis (e.g., satellite data, biological and ecological data, and omics data). Users can browse metadata or conduct keyword searches and download data freely. The SDG data from the other platforms or missions will need to be incorporated.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0030">
+                        <ce:label>(iii)</ce:label>
+                        <ce:para id="p0065" view="all">Promote the demonstration and application of data. The outcomes of Big Earth Data applications used for SDG assessment must be available, accessible, and attractive enough to encourage widespread adoption. The scientific and technological advantages of Big Earth Data for the SDGs need to be understood and applied by people of different ages, genders, and education and economic levels in a direct, clear, and understandable way, to ensure that the core role of science and technology can be used as a lever. Demonstration projects, such as the Digital Belt and Road Program, need to be extended <ce:cross-ref id="c0115" refid="b0030">[6]</ce:cross-ref>. Through the Big Earth Data service feature of “display, share, analysis”, national agencies in Mozambique, Zambia, and Zimbabwe have been able to easily access and use information relating to agricultural and water resources for SDG progress evaluations.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0035">
+                        <ce:label>(iv)</ce:label>
+                        <ce:para id="p0070" view="all">Establish networks for co-design. The United Nations has established a complex governance system under the framework of the SDG indicators, involving many stakeholders at both the United Nations and the national level. CASEarth has cooperated with the United Nations Educational, Scientific and Cultural Organization (UNESCO), United Nations Environment Programme (UNEP), United Nations Office for Disaster Risk Reduction (UNDRR), United Nations, Convention to Combat Desertification (UNCCD), Committee on Data (CODATA), Pan-Eurasian Experiment (PEEX), Integrated Research on Disaster Risk (IRDR), and Group on Earth Observations (GEO) to build a technology facilitation mechanism with Big Earth Data as the core, serving the SDGs objectives. To further bridge the gap between knowledge and policy by comprehensively analyzing and identifying evidence driven transformation approaches, an international center of Big Earth Data for SDGs should be established for gathering expertise from all over the world.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:para>
+               <ce:para id="p0075" view="all">It can be seen that Big Earth Data, as a new approach to sustainability science, has great potential for determining the six entry points for transformation and four levers for change of the SDGs for China and countries around the world.</ce:para>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st010">Conflict of interest</ce:section-title>
+               <ce:para id="p0085" view="all">The authors declare that they have no conflict of interest.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st015">Acknowledgments</ce:section-title>
+               <ce:para id="p0090" view="all">This work was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (XDA19030000, and XDA19090000). We thank the CASEarth SDG Team’s contributions and the anonymous reviewers for their helpful comments.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st020">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Messerli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Murniningtyas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global sustainable development report 2019: the future is now – science for achieving sustainable development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx015">Messerli P, Murniningtyas E. Global sustainable development report 2019: the future is now - science for achieving sustainable development. New York: United Nations, 2019.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Sachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Schmidt-Traub</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mazzucato</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Six transformations to achieve the sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat Sustain</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>805</sb:first-page>
+                              <sb:last-page>814</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">Sachs JD, Schmidt-Traub G, Mazzucato M, et al. Six Transformations to achieve the Sustainable Development Goals. Nat Sustain, 2019; 2:805-814.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="h0015">
+                        <ce:textref>SDG Center for Africa and Sustainable Development Solutions Network. Africa SDG index and dashboards report 2019. Kigali and New York: SDG Center for Africa and Sustainable Development Solutions Network, 2019.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="h0020">
+                        <ce:textref>United Nations. The Sustainable Development Goals Report 2019. New York: United Nations, 2019</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Big Earth data: a new frontier in Earth and information sciences</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Big Earth Data</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4</sb:first-page>
+                              <sb:last-page>20</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">Guo HD. Big Earth data: a new frontier in Earth and information sciences. Big Earth Data 2017; 1:1-2, 4-20.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Steps to the digital Silk Road</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>554</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>27</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">Guo HD. Steps to the digital Silk Road. Nature 2018; 554: 25-27.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Big Earth Data in support of the Sustainable Development Goals (2019)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Science Press</sb:name>
+                                 <sb:location>Beijing</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">Guo HD. Big Earth Data in support of the Sustainable Development Goals (2019). Beijing: Science Press, 2019.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Zuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Carlson</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progress towards sustainable intensification in China challenged by land-use change</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat Sustain</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>304</sb:first-page>
+                              <sb:last-page>313</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">Zuo LJ, Zhang ZX, Carlson KM, et al. Progress towards sustainable intensification in China challenged by land-use change. Nat Sustain 2018; 1: 304-313.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Acuto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Parnell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Seto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Building a global urban science</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat Sustain</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2</sb:first-page>
+                              <sb:last-page>4</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">Acuto M, Parnell S, Seto KC. Building a global urban science. Nat Sustain 2018; 1: 2-4.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.C.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Assessing 40 years of spatial dynamics and patterns in megacities along the Belt and Road region using satellite imagery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Digit Earth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                              <sb:last-page>87</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">Jiang HP, Sun ZC, Guo HD, et al. Twenty-five years of spatiotemporal evolution of urbanization in China using land use efficiency indicators. Urban Sustain, 2020.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.C.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-resolution urban land mapping in China from Sentinel 1A/2 imagery based on Google Earth Engine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Remote Sens</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>752</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">Sun ZC, Xu R, Du WJ, et al. High-resolution urban land mapping in China from Sentinel 1A/2 imagery based on Google Earth Engine. Remote Sens, 2019; 11: 752.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="h0060">
+                        <ce:textref>Cheng R, Gao J, Sun ZC, et al. Research on vehicle target detection method based on deep learning-taking Wuhan as an example during the COVID-19 epidemic period. Bull Surv Mapp, 2021 (In press).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Big Earth Data in support of the Sustainable Development Goals (2020)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Chinese Academy of Sciences</sb:name>
+                                 <sb:location>Beijing</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">Guo HD. Big Earth Data in support of the Sustainable Development Goals (2020). Beijing: Chinese Academy of Sciences; 2020.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Landslide detection based on contour-based deep learning framework in case of national scale of Nepal in 2015</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Comput Geosci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>135</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>104388</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">Yu B, Chen F, Xu C. Landslide detection based on contour-based deep learning framework in case of national scale of Nepal in 2015. Comput Geosci, 2020; 135: 104388.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Segmentation of large-scale remotely sensed images on a Spark Platform: a strategy for handling massive image tiles with the MapReduce model</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ISPRS-J Photogramm Remote Sens</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>162</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>137</sb:first-page>
+                              <sb:last-page>147</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">Wang N, Chen F, Yu B, et al. Segmentation of large-scale remotely sensed images on a Spark Platform: a strategy for handling massive image tiles with the MapReduce model. ISPRS-J Photogramm Remote Sens 2020; 162:137-147.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="bg005" view="all">
+               <ce:link id="lk00010" locator="fx1" xlink:href="pii:S2095927321000487/fx1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:simple-para id="sp0010" view="all">Huadong Guo is a professor at the Aerospace Information Research Institute, Chinese Academy of Sciences. He presently serves as Member of the UN 10-Member Group to support the Technology Facilitation Mechanism for the United Nations Sustainable Development Goals (SDGs). He specializes in remote sensing, radar for Earth observation, and digital Earth science.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="bg010" view="all">
+               <ce:link id="lk00015" locator="fx2" xlink:href="pii:S2095927321000487/fx2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:simple-para id="sp0015" view="all">Fang Chen is a professor at the Aerospace Information Research Institute, Chinese Academy of Sciences. He conducts interdisciplinary work combining remote sensing, ecology, and other fields of study to assess spatial patterns of disaster risk. His current work also focuses on adapting Big Earth Data technologies to meet the United Nations Sustainable Development Goals (SDGs) assessment needs (mainly for SDG 11 and SDG 13).</ce:simple-para>
+            </ce:biography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

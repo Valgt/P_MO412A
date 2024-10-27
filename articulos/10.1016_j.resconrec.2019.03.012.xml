@@ -1,0 +1,728 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0921344919301181</prism:url><dc:identifier>doi:10.1016/j.resconrec.2019.03.012</dc:identifier><eid>1-s2.0-S0921344919301181</eid><prism:doi>10.1016/j.resconrec.2019.03.012</prism:doi><pii>S0921-3449(19)30118-1</pii><dc:title>Sustainable management of natural resources toward sustainable development goals </dc:title><prism:publicationName>Resources, Conservation and Recycling</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>09213449</prism:issn><prism:volume>145</prism:volume><prism:startingPage>419</prism:startingPage><prism:endingPage>421</prism:endingPage><prism:pageRange>419-421</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-06-30</prism:coverDate><prism:coverDisplayDate>June 2019</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Tseng, Ming Lang</dc:creator><dc:creator>Chiu, Anthony S.F.</dc:creator><dc:creator>Ashton, Weslynne</dc:creator><dc:creator>Moreau, Vincent</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0921344919301181" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0921344919301181" rel="scidir"/></coredata><scopus-id>85063030073</scopus-id><scopus-eid>2-s2.0-85063030073</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85063030073" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271808</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291705</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291768</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Resources, Conservation and Recycling</xocs:srctitle>
+      <xocs:normalized-srctitle>RESOURCESCONSERVATIONRECYCLING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190321">2019-03-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190321">2019-03-21</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190321">2019-03-21</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190321">2019-03-21</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-11-27T06:55:50</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0921344919301181</xocs:eid>
+      <xocs:pii-formatted>S0921-3449(19)30118-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0921344919301181</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.resconrec.2019.03.012</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0921344919X00038</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240102">2024-01-02T19:15:13.517899Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190601</xocs:date-search-begin>
+      <xocs:date-search-end>20190630</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1553139958">2019-03-21T03:45:58.731594Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast orcid pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0921-3449</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09213449</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>145</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>145</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 145</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>41</xocs:sort-order>
+      <xocs:first-fp>419</xocs:first-fp>
+      <xocs:last-lp>421</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>419</xocs:first-page>
+         <xocs:last-page>421</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201906</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>SUSTAINABLEMANAGEMENTNATURALRESOURCESTOWARDSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TSENG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>AMIT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>120</xocs:ref-first-fp>
+            <xocs:ref-last-lp>129</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>MERINOSAUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>OPOKU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>TSENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>162</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TSENGX2019X419</xocs:refkey3>
+         <xocs:refkey4lp>TSENGX2019X419X421</xocs:refkey4lp>
+         <xocs:refkey4ai>TSENGX2019X419XM</xocs:refkey4ai>
+         <xocs:refkey5>TSENGX2019X419X421XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-03-21T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-03-21T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-03-16T04:24:29.186Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0921-3449(19)30118-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0921344919301181</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0921344919301181</xocs:eid>
+         <xocs:doi>10.1016/j.resconrec.2019.03.012</xocs:doi>
+         <xocs:cid>271808</xocs:cid>
+         <xocs:timestamp>2024-01-02T19:15:13.517899Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-06-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0921344919301181-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921344919301181/MAIN/application/pdf/61bb54363f352f87193929ad67a5a4c8/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>515931</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0921344919301181-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921344919301181/PREVIEW/image/png/bcff1da03ca6cb11c711d7521f1f507a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>70014</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="edi">
+         <item-info>
+            <jid>RECYCL</jid>
+            <aid>4252</aid>
+            <ce:pii>S0921-3449(19)30118-1</ce:pii>
+            <ce:doi>10.1016/j.resconrec.2019.03.012</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="doh0005">
+               <ce:textfn>Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Sustainable management of natural resources toward sustainable development goals</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" orcid="0000-0002-2702-3590" author-id="S0921344919301181-ac8ee037bc1c4831919aa0ac381ea3e7">
+                  <ce:given-name>Ming Lang</ce:given-name>
+                  <ce:surname>Tseng</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0015" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0921344919301181-b1df009590752b0a32af37457f50ade1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Institute of Innovation and Circular Economy, Asia University, Taichung, Taiwan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Innovation and Circular Economy</sa:organization>
+                     <sa:organization>Asia University</sa:organization>
+                     <sa:city>Taichung</sa:city>
+                     <sa:country>Taiwan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S0921344919301181-654457e3852b605b6b4c1f0c58ab9653">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Medical Research, China Medical University, Taiwan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Medical Research</sa:organization>
+                     <sa:organization>China Medical University</sa:organization>
+                     <sa:country>Taiwan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: Institute of Innovation and Circular Economy, Asia University, Taichung, Taiwan.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Innovation and Circular Economy</sa:organization>
+                     <sa:organization>Asia University</sa:organization>
+                     <sa:city>Taichung</sa:city>
+                     <sa:country>Taiwan</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:author-group id="aug0010">
+               <ce:author id="aut0010" author-id="S0921344919301181-07d598aaedf00791ec9384b9a07fc5e1">
+                  <ce:given-name>Anthony S.F.</ce:given-name>
+                  <ce:surname>Chiu</ce:surname>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0015" affiliation-id="S0921344919301181-a93cc6d8a931580613ba050ee2bffb03">
+                  <ce:textfn>De La Salle University, Manila, Philippines</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>De La Salle University</sa:organization>
+                     <sa:city>Manila</sa:city>
+                     <sa:country>Philippines</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="aug0015">
+               <ce:author id="aut0015" orcid="0000-0002-2927-9733" author-id="S0921344919301181-7844728f91a70e0806cbf41ba01c3a84">
+                  <ce:given-name>Weslynne</ce:given-name>
+                  <ce:surname>Ashton</ce:surname>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0020" affiliation-id="S0921344919301181-40786c8f7494dcc177773332b30a1090">
+                  <ce:textfn>University of Illinois, Chicago, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>University of Illinois</sa:organization>
+                     <sa:city>Chicago</sa:city>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="aug0020">
+               <ce:author id="aut0020" orcid="0000-0002-2887-3976" author-id="S0921344919301181-09be3abc09004e8dcc4f420da3e5157d">
+                  <ce:given-name>Vincent</ce:given-name>
+                  <ce:surname>Moreau</ce:surname>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0025" affiliation-id="S0921344919301181-1a4080e4146af1df6270145b25a56a73">
+                  <ce:textfn>École Polytechnique Fédérale De Lausanne (EPFL), Energy Centre, Switzerland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>École Polytechnique Fédérale De Lausanne (EPFL)</sa:organization>
+                     <sa:organization>Energy Centre</sa:organization>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="1" month="3" year="2019"/>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="par0005" view="all">This special Issue (SI) is significant to the Sustainable Development Goals (SDGs) to make direct connections among resources, environment, economy and achieving SDGs for the different parts of the world. Enumerated below are the themes and objectives of the SI. Specially, the managing natural resources for sustainable development is to establish resource management in sustainable development. This SI highlights how these issues can effectively be achieved and integrated with different approaches to managing environmental challenges (<ce:cross-ref id="crf0020" refid="bib0020">Lin et al., 2018</ce:cross-ref>; <ce:cross-ref id="crf0025" refid="bib0040">Tseng et al., 2019</ce:cross-ref>). The SI brings academic researchers, industrial experts and policy practitioners together and bringing unique capabilities and skills to the assessment of all natural resources and life cycle and system -approaches in order to evaluate the environmental impacts; link resources use and the economy to the decoupling paradigm; think systematically which connects resources, environment, economy and policies focusing on transformations as opposed to incremental change framework to provide by the scientific studies.</ce:para>
+               <ce:para id="par0010" view="all">This would incorporate an integrated approach looking at: interlink ages between resources; interdependencies between human economic activities (from a production, consumption, and infrastructure transition perspective) and natural resource use; and monitoring progress towards sustainable resource use in an overarching fashion and through the lens of inter- and -intra resources. This SI comprises a significant body of knowledge about the way natural resources are used in the economies (cite specific SI papers?), the impact of this use on the natural environment and socio-economic systems, and pathways to transition to a sustainable resource future. This includes building on and elaborating the evidence of the centrality of natural resource management and resource efficiency to sustainable development.</ce:para>
+               <ce:para id="par0015" view="all">This SI contributes to greater and more specific knowledge on the different kinds of materials used and on the policy implications of different indicators. The links between resource management and SDGs is to identify goals, targets and indicators related to resource management, addressing crosscutting issues and synergistic means of achieving these targets. <ce:cross-ref id="crf0030" refid="bib0010">Chen et al. (2018)</ce:cross-ref> demonstrate increased disparity from the increased ratio of rural to urban coal consumption per capita. Meanwhile, the decreasing per capita urban coal proportion and increasing rural per capita income were the leading factors for their respective coal consumption variations. The urban residential coal consumption showed strong decoupling, while rural residential coal consumption showed weak decoupling, and the variation in the urban-rural gap was sensitive to rural energy intensity and population. The study confirms energy ladder theory in that with economic growth people tend to use cleaner, more energy-efficient fuels. Hence, there is a need for government to blanket economic growth with clean energy policy, while providing necessary infrastructure in the fast growing rural-urban regions.</ce:para>
+               <ce:para id="par0020" view="all">The resource management policies based on science provides the science-based policy making, defining how resource management is considered in framing or forming policies and enumerating success attributes and overcome the challenges (<ce:cross-ref id="crf0035" refid="bib0015">Lee et al., 2018</ce:cross-ref>). <ce:cross-ref id="crf0040" refid="bib0030">Merino-Saun et al. (2018)</ce:cross-ref> discuss natural resources as essential inputs for economic and social development. However, unsustainable resource use has led to environmental degradation and resource depletion, endangering the well-being of humanity and the environment. The 17 SDGs represent a plan of action to address these issues. The Green Economy concept is described by various institutions as a vehicle to move towards sustainable resource management. They demonstrate the linkages between SDGs and Natural Resources through the systematic analysis of 494 Green Economy indicators, derived from 12 distinct frameworks focusing on Green Economy or on Green Growth. This study provides insights to gain an improved understanding of the links between SDGs and Natural Resources and interpret their inherent complexity. The authors adopt four typologies from systematically screening the indicators: (1) United Nation SDGs, (2) resource categories, (3) environmental functions, (4) MONET (German acronym for monitoring sustainable development) system approach. The paper concludes that focusing on the social dimensions of sustainability is needed as it is weakly represented and suggests that Green Economy frameworks, despite their stated objectives of social inclusion, do not put a strong emphasis on the measurement of these issues. The manifold streams represented in the Sankey Diagrams also brought explicit information about (1) what resource categories are being used; (2) why human societies use them; (3) how these resources are used to satisfy particular needs and expectations.</ce:para>
+               <ce:para id="par0025" view="all">Moreover, <ce:cross-ref id="crf0045" refid="bib0045">Zhang et al. (2018a</ce:cross-ref>,<ce:cross-ref id="crf0050" refid="bib0050">b</ce:cross-ref>) presented how energy constraints reduced the corporate performance. The original equipment manufacturing firms that increased performance were mainly those low energy-consuming firms and reduce material wastes in the small-scale and private firms. In contrast, firms that experienced performance reduction are mostly high energy-consuming firms, large-scale and state-owned firms. Industrial policies should differentiate between energy saving and emission reduction targets, provide more financial support for technological innovation, guide a reasonable size distribution among firms, encourage stock diversification and establish strict market access systems. The findings are also very helpful in an optimal resource management at regional planning wherein Small and Medium Enterprises (SME) dominate majority of the economies in most countries. The corporate strategy can be used in both top-down policy approach and bottom-up corporate responsiveness approach.</ce:para>
+               <ce:para id="par0030" view="all">In addition, <ce:cross-ref id="crf0055" refid="bib0005">Amit and Sasidharan (2018)</ce:cross-ref> discuss the relevance of SDG 6.1, to achieve universal and equitable access to safe and affordable drinking water for all. Their study used revealed preference approach-defensive behavior method to infer willingness to pay for access to clean water. Coping cost approach has been adopted, and this paper contributed to the burgeoning empirical literature on measuring such affordability of accessing clean water, while estimating coping costs related to the erratic, unsafe, and inadequate water supply in the metropolitan area, in this case, Chennai, India. The coping costs per month were analyzed for piped and non-piped households. For non-piped households, collection costs (time costs in traveling and queuing for collecting water) constitute 22% of the coping costs, while collection costs for piped households are less than 2% of the coping costs. These costs represent roughly 1 percent of income for high income households to as high as 15 percent for low income households. The study greatly influenced how policy makers managing scarce water resources (SDG 6) for megacities (SDG 11) and the developing South, which needed to be cross-checked in the aspects of accessibility versus affordability. Furthermore, it suggests there is a need to reducing collection time and increasing reliability of water supply, which may be possible through piped connections. Infrastructure and capital management will still be an intertwined priority especially in the urban South.</ce:para>
+               <ce:para id="par0035" view="all">The comprehensive analysis of resource management captures findings on resource consumption patterns and how this knowledge is used to effectively manage resources, emphasizing material flows between countries, regional economies, etc.; and also impacts of governance structures. <ce:cross-ref id="crf0060" refid="bib0035">Opoku (2018)</ce:cross-ref> examined the link between the Built Environment, Biodiversity and the Sustainable Development Goals. This study explores the role of a sustainable built environment towards biodiversity conservation which is central to the realization of the SDGs in general and SDG 15 in particular. The results show that even though the built environment has a negative impact on biodiversity, there is still an opportunity to integrate biodiversity into all development projects. Reducing the impact of the built environment on biodiversity should be an integral part of policies and strategies towards a sustainable built environment. The benefits of built environment and biodiversity integration include the increase in the economic value of development land, marketability of projects made on the land and the improved well-being of end-users. Meanwhile, the construction industry can play an active role in the SDG realization by adopting policies and regulatory frameworks that drive a more sustainable built environment. However, sustainable practices that promote biodiversity conservation in built environment require government intervention through enactment of such policies and regulations. Therefore, biodiversity must be integrated in national and regional planning and development strategies. All key built environment stakeholders need to engage in raising awareness of the effects of biodiversity loss because of construction activities, on human health and well-being.</ce:para>
+               <ce:para id="par0040" view="all">Another severe issue is the water crisis, and more recently, plastics in ocean. Since the 1990s, the UN have established several initiatives to water, e.g. Osaka center and UN Secretary General Council. Increased urbanization and industrialization have led to water pollution and degradation of water ecosystem. To achieve the 6<ce:sup loc="post">th</ce:sup> sustainable development goal in 2030, which is clean water and sanitation and to address the need for improvement of water management focusing in industrial production, <ce:cross-ref id="crf0065" refid="bib0025">Ma et al. (2018)</ce:cross-ref> propose a freshwater Meta-Cycle model for sustainable management of regional water resources and corresponding indicators to optimize water resources utilization. Their model is classified into 5 levels while the indicators measures the quantity and quality of chemical oxygen demand (COD) of water. The indicators include recycling rate, structural index, water reuse coeﬃcient, water footprint of the model and inﬂuence on GHG emissions. The results from the case study applying the model in a typical pulp and paper making firm in China shows that Meta-Cycle model will be effective model for safe and sustainable management of regional water resources.</ce:para>
+               <ce:para id="par0045" view="all">The government of China has set “Ten Targeted Poverty Alleviation Projects” and one of these is the use of photovoltaic power. Such type of poverty alleviation project gains prominence in both central and local government because it offers a promising path for sustainable earnings, extending renewable energy and innovation in energy savings and emissions reduction. However, one of the challenges for this project is its emphasis on the benefits of poverty stricken families and enough attention on the income of the enterprises that invests. To make such initiative sustainable it is necessary to ensure that all stakeholders benefit from it to ensure commitment. A comparative study of three different financial modes using dynamic game models with; 1) government contributing all capital, 2) poverty alleviation funds plus loans to poor households and 3) poverty alleviation funds plus investment by photovoltaic enterprises was conducted by <ce:cross-ref id="crf0070" refid="bib0045">Zhang et al. (2018a</ce:cross-ref>,<ce:cross-ref id="crf0075" refid="bib0050">b</ce:cross-ref>) to analyze the impact of photovoltaic poverty alleviation on poor families and investment enterprises. The results highlight the importance of investment by photovoltaic enterprises and motivate enterprises to actively participate in the alleviation of poverty, three strategies are available: (1) granting quotas to photovoltaic enterprises for commercial power station construction; (2) public-private-partnership modes or build-operate-transfer modes; (3) permission for photovoltaic enterprises to issue bonds or use trust investments; (4) support the PV enterprises technologically to reduce their costs.</ce:para>
+               <ce:para id="par0050" view="all">Water and energy are essential resources for consumers and industries alike. The challenge for us is to continuously seek ways to promote sustainable management of these resources. The study of <ce:cross-ref id="crf0080" refid="bib0025">Ma et al. (2018)</ce:cross-ref> and <ce:cross-ref id="crf0085" refid="bib0045">Zhang et al. (2018a</ce:cross-ref>,<ce:cross-ref id="crf0090" refid="bib0050">b</ce:cross-ref>) provide innovative solutions that addressed pressing environmental problems that threatens the availability of these two resources and even showed us that such initiatives can even offer economic benefits through cost savings or income generation. It gives us hope that while we take necessary steps to mitigate environmental impacts, we can also help humanity to live better life.</ce:para>
+               <ce:para id="par0055" view="all">Ways Forward</ce:para>
+               <ce:para id="par0060" view="all">The results presented in this SI lead to important policy and technological implications.<ce:list id="lis0005">
+                     <ce:list-item id="lsti0005">
+                        <ce:label>1</ce:label>
+                        <ce:para id="par0065" view="all">Infrastructure and good governance are both implied in several papers, especially those using developing South as case studies (<ce:cross-ref id="crf0095" refid="bib0010">Chen et al., 2018</ce:cross-ref>; <ce:cross-ref id="crf0100" refid="bib0005">Amit and Sasidharan, 2018</ce:cross-ref>). There is a need for government to align and blanket economic growth with clean energy policy, i.e. green economy, while providing necessary infrastructure fiscal support and investment in the quick growing rural-urban regions in the developing South.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="lsti0010">
+                        <ce:label>2</ce:label>
+                        <ce:para id="par0070" view="all">The studies in this special issue also recommended an industry segregation (as in market segregation) strategy in the policy-making, especially in the local government unit and regional development.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="lsti0015">
+                        <ce:label>3</ce:label>
+                        <ce:para id="par0075" view="all">Upscaling of local efforts, e.g. local cleaner production centers, eco-industrial parks; should also take into consideration of a large system boundary optimization by adopting many useful findings in this special issue to involve larger resource flow of adjacent regions. Each region covering several similar local economic developmental stages may seek optimal resource use and reach better equilibrium point by collaborating across boundary with other regions of different developmental stages. This may refer to labor-intensive economies, capital-intensive economies, and other types which may all work well under symbiotic strategy.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0005">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Amit and Sasidharan, 2018</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Amit</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sasidharan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring affordability of access to clean water: a coping cost approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>(Article in Press)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Chen et al., 2018</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The residential coal consumption: disparity in urban-rural China</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>(Article in Press)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Lee et al., 2018</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Tseng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resource management practice through eco-innovation toward sustainable development using qualitative information and quantitative data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>202</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>120</sb:first-page>
+                              <sb:last-page>129</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Lin et al., 2018</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.R.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Jeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Tseng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A cradle-to-cradle analysis in the toner cartridge supply chain using fuzzy recycling production approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Manag. Environ. Qual. Int. J.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1108/MEQ-05-2018-0088</ce:doi>
+                        </sb:host>
+                        <sb:comment>(Article in Press)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Ma et al., 2018</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Water meta-cycle model and indicators for industrial processes- the pulp &amp; paper case in China</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>(Article in Press)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>Merino-Saun et al., 2018</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Merino-Saun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Baldi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Gunderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Oberle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Articulating natural resources and sustainable development goals through green economy indicators: a systematic analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>(Article in Press)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>Opoku, 2018</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Opoku</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biodiversity and the built environment: implications for the sustainable development goals (SDGs)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>(Article in Press)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>Tseng et al., 2019</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Tseng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Islam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Karia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Fauzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Afrin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A literature review on green supply chain management: challenges and trends</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>141</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>162</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>Zhang et al., 2018a</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qiu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Targeted poverty alleviation using photovoltaic power in China: identifying financial options through a dynamic game analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>(Article in Press)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>Zhang et al., 2018b</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Long</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance changes analysis of industrial enterprises under energy constraints</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>(Article in Press)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

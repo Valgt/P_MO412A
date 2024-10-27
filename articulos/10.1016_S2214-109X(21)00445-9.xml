@@ -1,0 +1,166 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2214109X21004459</prism:url><dc:identifier>doi:10.1016/S2214-109X(21)00445-9</dc:identifier><eid>1-s2.0-S2214109X21004459</eid><prism:doi>10.1016/S2214-109X(21)00445-9</prism:doi><pii>S2214-109X(21)00445-9</pii><dc:title>Correction to Lancet Glob Health 2021; 9: e1372–79 </dc:title><prism:publicationName>The Lancet Global Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>err</pubType><prism:issn>2214109X</prism:issn><prism:volume>9</prism:volume><prism:issueIdentifier>11</prism:issueIdentifier><prism:startingPage>e1507</prism:startingPage><prism:pageRange>e1507</prism:pageRange><prism:number>11</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2021-11-30</prism:coverDate><prism:coverDisplayDate>November 2021</prism:coverDisplayDate><prism:copyright>© 2021 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>University of California (UC) 2021: Lancet Hybrid</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2214109X21004459" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2214109X21004459" rel="scidir"/></coredata><scopus-id>85120719713</scopus-id><scopus-eid>2-s2.0-85120719713</scopus-eid><pubmed-id>34559994</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85120719713" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>286970</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291904</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Global Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETGLOBALHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210921">2021-09-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210921">2021-09-21</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20211019">2021-10-19</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20211019">2021-10-19</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-12-09T20:53:49</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2214109X21004459</xocs:eid>
+      <xocs:pii-formatted>S2214-109X(21)00445-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2214109X21004459</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2214-109X(21)00445-9</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.4</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2214109X21X00125</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20211209">2021-12-09T21:02:23.09299Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20211101</xocs:date-search-begin>
+      <xocs:date-search-end>20211130</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1632267117">2021-09-21T23:31:57.039755Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body articletitle doctopic pubtype</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2214-109X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>2214109X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>CDLLNDIS21</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>9</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>9</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>11</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>11</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 9, Issue 11</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>22</xocs:sort-order>
+      <xocs:first-fp>e1507</xocs:first-fp>
+      <xocs:pages>
+         <xocs:first-page>e1507</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202111</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>November 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-11-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-11-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>err</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>CORRECTIONLANCETGLOBHEALTH20219E137279</xocs:normalized-article-title>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S2214-109X(21)00299-0</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S2214109X21002990</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refkeys/>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2021-09-20T11:16:54Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>University of California (UC) 2021: Lancet Hybrid</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2214-109X(21)00445-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2214109X21004459</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2214109X21004459</xocs:eid>
+         <xocs:doi>10.1016/S2214-109X(21)00445-9</xocs:doi>
+         <xocs:cid>286970</xocs:cid>
+         <xocs:timestamp>2021-12-09T21:02:23.09299Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-11-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-11-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>CDLLNDIS21</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2214109X21004459-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X21004459/MAIN/application/pdf/699d4ef64105f4a9860e17c8cc7f4abc/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>41119</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2214109X21004459-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X21004459/PREVIEW/image/png/caf1a279b62b6516d6868504b23ba69c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>41379</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="err" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>LANGLO</jid>
+            <aid>2213</aid>
+            <ce:pii>S2214-109X(21)00445-9</ce:pii>
+            <ce:doi>10.1016/S2214-109X(21)00445-9</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S2214-109X(21)00299-0</ce:pii>
+                  <ce:doi>10.1016/S2214-109X(21)00299-0</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="full-transfer" year="2021">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Corrections</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Corrections</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Correction to <ce:italic>Lancet Glob Health</ce:italic> 2021; 9: e1372–79</ce:title>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">
+                  <ce:italic>Silva S, Arinaminpathy N, Atun R, Goosby E, Reid M. Economic impact of tuberculosis mortality in 120 countries and the cost of not achieving the Sustainable Development Goals tuberculosis targets: a full-income analysis.</ce:italic> Lancet Glob Health <ce:italic>2021;</ce:italic> 9: <ce:italic>e1372–79</ce:italic>—In this Article, the first sentence in paragraph 7 of the Results should have read “Disruptions to tuberculosis services due to COVID-19 will increase tuberculosis deaths until 2025, increasing full-income losses up to 2050 by $1·0 trillion (from $17·5 trillion [95% UI 14·9 trillion–20·4 trillion] to $18·5 trillion [3·8 trillion–33·2 trillion]).” This correction has been made as of Sept 21, 2021.</ce:para>
+            </ce:sections>
+         </body>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

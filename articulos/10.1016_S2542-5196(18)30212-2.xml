@@ -1,0 +1,862 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2542519618302122</prism:url><dc:identifier>doi:10.1016/S2542-5196(18)30212-2</dc:identifier><eid>1-s2.0-S2542519618302122</eid><prism:doi>10.1016/S2542-5196(18)30212-2</prism:doi><pii>S2542-5196(18)30212-2</pii><dc:title>Climate change, famine, and low-income communities challenge Sustainable Development Goals </dc:title><prism:publicationName>The Lancet Planetary Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>25425196</prism:issn><prism:volume>2</prism:volume><prism:issueIdentifier>10</prism:issueIdentifier><prism:startingPage>e421</prism:startingPage><prism:endingPage>e422</prism:endingPage><prism:pageRange>e421-e422</prism:pageRange><prism:number>10</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2018-10-31</prism:coverDate><prism:coverDisplayDate>October 2018</prism:coverDisplayDate><prism:copyright>© 2018 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Balasubramanian, Muniyandi</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2542519618302122" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2542519618302122" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="40743">https://api.elsevier.com/content/object/eid/1-s2.0-S2542519618302122-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85054581494</scopus-id><scopus-eid>2-s2.0-85054581494</scopus-eid><pubmed-id>30318097</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85054581494" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>316495</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Planetary Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETPLANETARYHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20181011">2018-10-11</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20181011">2018-10-11</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20181011">2018-10-11</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20181011">2018-10-11</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-10-07T03:55:41</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2542519618302122</xocs:eid>
+      <xocs:pii-formatted>S2542-5196(18)30212-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2542519618302122</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2542-5196(18)30212-2</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2542519618X00114</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20211007">2021-10-07T03:09:22.985172Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20181001</xocs:date-search-begin>
+      <xocs:date-search-end>20181031</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1539300631">2018-10-11T23:30:31.913357Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2542-5196</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>25425196</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>2</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>2</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 2, Issue 10</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>e421</xocs:first-fp>
+      <xocs:last-lp>e422</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>e421</xocs:first-page>
+         <xocs:last-page>e422</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201810</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>October 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-10-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-10-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>CLIMATECHANGEFAMINELOWINCOMECOMMUNITIESCHALLENGESUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BALASUBRAMANIAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10"/>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>PANAGARIYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-last-lp>230</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30"/>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>ROSER</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>HALLEGATTE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>250</xocs:ref-first-fp>
+            <xocs:ref-last-lp>256</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>SKOUFIAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>POVERTYIMPACTSCLIMATECHANGEAREVIEWEVIDENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70"/>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>RAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>GENDERJUSTICEFOODSECURITYININDIAAREVIEW</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-normalized-surname>LOBELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>616</xocs:ref-first-fp>
+            <xocs:ref-last-lp>620</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-normalized-surname>BATTISTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>240</xocs:ref-first-fp>
+            <xocs:ref-last-lp>244</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref110">
+            <xocs:ref-normalized-surname>WHEELER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>239</xocs:ref-first-fp>
+            <xocs:ref-last-lp>243</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref120">
+            <xocs:ref-normalized-surname>TAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>817</xocs:ref-first-fp>
+            <xocs:ref-last-lp>821</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref130"/>
+         <xocs:ref-info refid="sbref140"/>
+         <xocs:ref-info refid="sbref150"/>
+         <xocs:ref-info refid="sbref160">
+            <xocs:ref-normalized-surname>SPRINGMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1937</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1946</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref170">
+            <xocs:ref-normalized-surname>RAJENDRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref180"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BALASUBRAMANIANX2018Xe421</xocs:refkey3>
+         <xocs:refkey4lp>BALASUBRAMANIANX2018Xe421Xe422</xocs:refkey4lp>
+         <xocs:refkey4ai>BALASUBRAMANIANX2018Xe421XM</xocs:refkey4ai>
+         <xocs:refkey5>BALASUBRAMANIANX2018Xe421Xe422XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2018-09-21T10:10:10Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2542-5196(18)30212-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2542519618302122</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2542519618302122</xocs:eid>
+         <xocs:doi>10.1016/S2542-5196(18)30212-2</xocs:doi>
+         <xocs:cid>316495</xocs:cid>
+         <xocs:timestamp>2021-10-07T03:09:22.985172Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-10-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-10-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2542519618302122-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542519618302122/MAIN/application/pdf/8b3783487cb7fc05657f5e53a15911a3/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>42885</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2542519618302122-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542519618302122/PREVIEW/image/png/17425140aea63fe77edc3ae60d0edd1b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>82664</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542519618302122-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10NH73HMNTK/MAIN/application/pdf/1562009a3700bdd6533054e1b4032f82/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10NH73HMNTK/MAIN/application/pdf/1562009a3700bdd6533054e1b4032f82/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>40743</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>LANPLH</jid>
+            <aid>219</aid>
+            <ce:pii>S2542-5196(18)30212-2</ce:pii>
+            <ce:doi>10.1016/S2542-5196(18)30212-2</ce:doi>
+            <ce:copyright type="other" year="2018">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY NC-ND 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Climate change, famine, and low-income communities challenge Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S2542519618302122-0ed9e7acfb11566a40f20c6d8522963a">
+                  <ce:given-name>Muniyandi</ce:given-name>
+                  <ce:surname>Balasubramanian</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2542519618302122-d50b0fe4b5a07838932edeb9c86b4ede">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Institute of Social and Economic Change, Bengaluru, Karnataka 560072, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Social and Economic Change</sa:organization>
+                     <sa:city>Bengaluru</sa:city>
+                     <sa:state>Karnataka</sa:state>
+                     <sa:postal-code>560072</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">Climate change has not affected the world equally,<ce:cross-ref id="cecref20" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> as people of lower socioeconomic status and some communities have experienced more negative effects than others—eg, those below and above sea level. Many developing countries, like India, are celebrating their economic achievements in terms of gross domestic product growth without acknowledging environmental problems and the wellbeing of people on low-incomes. Moreover, floods and droughts are common problems in many Asian countries every year, and their frequency is expected to increase.</ce:para>
+               <ce:para id="para20" view="all">Some communities that are socially, economically, and politically discriminated against—eg, scheduled castes and scheduled tribes—have been more heavily affected by climate change than others. According to the Government of India, in 2011, the population of scheduled castes was 201·4 million (more than the population of western Europe) and that of scheduled tribes was 104·3 million (equal to the population of northern Europe). Yet, 31·5% of individuals from scheduled castes and 45·3% from scheduled tribes still live in poverty; these figures are above the national average according to the Suresh Tendulkar Committee's estimate of poverty in India.<ce:cross-ref id="cecref30" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> The global population living in poverty has declined in the past 15 years to approximately 1 billion people.<ce:cross-ref id="cecref40" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> However, many people in African countries still live in poverty—eg, 66·26% of the population in the Central African Republic in 2008, 77·08% in the Democratic Republic of the Congo in 2012, 77·84% in Madagascar in 2012, and 70·91% in Malawi in 2010.<ce:cross-ref id="cecref50" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para30" view="all">People on low-incomes are more affected by climate change.<ce:cross-refs id="cecrefs10" refid="bib5 bib6">
+                     <ce:sup loc="post">5,6</ce:sup>
+                  </ce:cross-refs> Many studies have investigated links between climate change, poverty, and agricultural prices, but few have been done in low-income communities or focused on climate change and undernutrition at the national and international levels. By 2030, the combination of climate change and poverty is estimated to affect between 35 million and 122 million people, depending on whether an optimistic or a pessimistic scenario is used.<ce:cross-ref id="cecref60" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para40" view="all">Food, water, sanitation, and shelter are basic requirements for human survival, but all four are getting harder to access for low-income communities in developing countries, because of climate change and institutional failure to help to adapt to it. India's growing population, which is expected to exceed that of China around 2024,<ce:cross-ref id="cecref70" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> and climate change are expected to be the biggest challenges to food and nutrition security in India.<ce:cross-ref id="cecref80" refid="bib8">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref> Various studies have already shown a link between climate change and global agricultural productivity at the global level.<ce:cross-refs id="cecrefs20" refid="bib9 bib10 bib11 bib12">
+                     <ce:sup loc="post">9–12</ce:sup>
+                  </ce:cross-refs> Undernourishment increased in central African countries, (Democratic Republic of the Congo, Burundi, Chad and Rwanda), from 33·5% of the population in 1990–92 to 41·3% in 2014–16. According to the Food and Agriculture Organization of the UN,<ce:cross-ref id="cecref90" refid="bib13">
+                     <ce:sup loc="post">13</ce:sup>
+                  </ce:cross-ref> the proportion of the population who were undernourished was largest in the Central African Republic (47·7%) and second largest in Namibia (42·3%). Consequently, stunting in children is expected to increase in some African communities by 7·5% by 2030 because of climate change.<ce:cross-ref id="cecref100" refid="bib14">
+                     <ce:sup loc="post">14</ce:sup>
+                  </ce:cross-ref> Asia has the largest population in the world, at 4·5 billion people in 2017, which is predicted to grow to 4·8 billion in 2100.<ce:cross-ref id="cecref110" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> 2437 natural disasters occurred in Asia from 2006 to 2015,<ce:cross-ref id="cecref120" refid="bib15">
+                     <ce:sup loc="post">15</ce:sup>
+                  </ce:cross-ref> and lower-income communities were the worst affected; for example, in 2010, 70% of farmers in Pakistan lost their expected income because of flooding. Overall, Asia loses the most money because of crop and livestock destruction—ie, the region lost roughly US$48 billion between 2003 and 2013.<ce:cross-ref id="cecref130" refid="bib13">
+                     <ce:sup loc="post">13</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para50" view="all">The Organisation for Economic Co-operation and Development<ce:cross-ref id="cecref140" refid="bib13">
+                     <ce:sup loc="post">13</ce:sup>
+                  </ce:cross-ref> has estimated that most lower-income countries will face a food deficit by 2025; they predict that average food production will be 16 788·94 million tons, but consumption will be 39 962·67 million tons. For example, in 2025, Sudan's food production will be 544·17 million tons while consumption will be 5685·13 million tons, and Nigeria's food production will be 83·39 million tons while consumption will be 5302·18 million tons. Global food availability is predicted to fall by 3·2% by 2050 because of climate change.<ce:cross-ref id="cecref150" refid="bib16">
+                     <ce:sup loc="post">16</ce:sup>
+                  </ce:cross-ref> Additionally, in a quantitative risk assessment of the effects of climate change on selected causes of death, WHO estimate that, by 2050, developing countries will face increasing mortality due to climate-related heat, with increased diarrhoea, malaria, undernutrition, dengue, and coastal flooding.<ce:cross-ref id="cecref160" refid="bib14">
+                     <ce:sup loc="post">14</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para60" view="all">Overall, climate change, decreasing agricultural production, increasing undernutrition and a lack of public health services in developing countries are major challenges to achieving the Sustainable Development Goals (SDGs) by 2030, especially SDG 2 (end hunger, achieve food security and improved nutrition, and promote sustainable agriculture). Fortunately, many developing countries have introduced schemes to help achieve this goal of ending hunger, and India is among them. For example, in 2013, Tamil Nadu, a state in southern India, introduced Amma Canteen (food courts); a subsidised meal programme for people on low-incomes. The scheme is a populist model for providing affordable and healthy cooked food—eg, breakfast is $0·08, lunch is $0·15, and dinner is $0·08. Migrants, unskilled labourers and students receive the greatest benefit from the scheme. Moreover, Tamil Nadu has pioneered midday meals for school children, which has improved school enrolment and health status among participating children. This state has also made efforts to make nutritious food more available for pregnant women and decrease hunger among people of lower socioeconomic status.<ce:cross-refs id="cecrefs30" refid="bib17 bib18">
+                     <ce:sup loc="post">17,18</ce:sup>
+                  </ce:cross-refs> Most developing countries are searching for the best model for a food security programme to reduce hunger and improve nutrition, and amma canteen is a good example of a scheme that is successful economically, socially, and politically. Other states in India (Madhya Pradesh, Andra Pradesh, Karnataka, Rajasthan, and Odisha) have also introduced schemes to provide affordable cooked food to people on low-incomes.</ce:para>
+               <ce:para id="para70" role="acknowledgement" view="all">I declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Climate change resilience an opportunity for reducing inequalities, world economic and social survey</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="https://www.un.org/development/desa/dpad/publication/world-economic-and-social-survey-2016-climate-change-resilience-an-opportunity-for-reducing-inequalities/" xlink:type="simple">https://www.un.org/development/desa/dpad/publication/world-economic-and-social-survey-2016-climate-change-resilience-an-opportunity-for-reducing-inequalities/</ce:inter-ref>
+                              <sb:date>2016</sb:date>
+                              <sb:date-accessed day="9" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Panagariya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V</ce:given-name>
+                                 <ce:surname>More</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Poverty by social, religious and economic groups in India and its largest states 1993–94 to 2011–12</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Indian Growth and Development Review</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                              <sb:last-page>230</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Bank</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Poverty and shared prosperity 2016: taking on inequality</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="https://openknowledge.worldbank.org/bitstream/handle/10986/25078/9781464809583.pdf" xlink:type="simple">https://openknowledge.worldbank.org/bitstream/handle/10986/25078/9781464809583.pdf</ce:inter-ref>
+                              <sb:date>2016</sb:date>
+                              <sb:date-accessed day="21" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Roser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Ortiz-Ospina</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global extreme poverty: our world in data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="https://ourworldindata.org/extreme-poverty" xlink:type="simple">https://ourworldindata.org/extreme-poverty</ce:inter-ref>
+                              <sb:date>2017</sb:date>
+                              <sb:date-accessed day="21" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Hallegatte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Rozenberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Climate change through a poverty lens</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat Clim Chang</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>250</sb:first-page>
+                              <sb:last-page>256</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Skoufias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Rabassa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Olivieri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The poverty impacts of climate change: a review of the evidence</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2011</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Bank</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:href="https://openknowledge.worldbank.org/handle/10986/3389" xlink:type="simple">https://openknowledge.worldbank.org/handle/10986/3389</ce:inter-ref>
+                              <sb:date-accessed day="21" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World population prospects: the 2017 revision, key findings and advance tables</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs50" xlink:href="https://esa.un.org/unpd/wpp/publications/files/wpp2017_keyfindings.pdf" xlink:type="simple">https://esa.un.org/unpd/wpp/publications/files/wpp2017_keyfindings.pdf</ce:inter-ref>
+                              <sb:date>2017</sb:date>
+                              <sb:date-accessed day="21" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Pradhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Roy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Gender justice and food security in India: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>International Food Policy Research Institute</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs60" xlink:href="http://Users/OCONNOR2/Downloads/131265.pdf" xlink:type="simple">file:///C:/Users/OCONNOR2/Downloads/131265.pdf</ce:inter-ref>
+                              <sb:date-accessed day="21" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DB</ce:given-name>
+                                 <ce:surname>Lobell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Schlenker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Costa-Roberts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Climate trends and global crop production since 1980</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>333</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>616</sb:first-page>
+                              <sb:last-page>620</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DS</ce:given-name>
+                                 <ce:surname>Battisti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>RL</ce:given-name>
+                                 <ce:surname>Naylor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Historical warnings of future food insecurity with unprecedented seasonal heat</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>323</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>240</sb:first-page>
+                              <sb:last-page>244</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sbref110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Wheeler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Kay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Food crop production, water, and climate change in the developing world</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Outlook Agric</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>239</sb:first-page>
+                              <sb:last-page>243</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>AP</ce:given-name>
+                                 <ce:surname>Tai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>MV</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>CL</ce:given-name>
+                                 <ce:surname>Heald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Threat to future global food security from climate change and ozone air pollution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat Clim Chang</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>817</sb:first-page>
+                              <sb:last-page>821</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sbref130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Food and Agriculture Organization</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impact of disaster on agriculture and food security</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs70" xlink:href="http://www.fao.org/3/a-i5128e.pdf" xlink:type="simple">http://www.fao.org/3/a-i5128e.pdf</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                              <sb:date-accessed day="21" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="sbref140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantitative risk assessment of the effects of climate change on selected causes of death, 2030s and 2050s</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs80" xlink:href="http://apps.who.int/iris/bitstream/handle/10665/134014/9789241507691_eng.pdf" xlink:type="simple">http://apps.who.int/iris/bitstream/handle/10665/134014/9789241507691_eng.pdf</ce:inter-ref>
+                              <sb:date>2014</sb:date>
+                              <sb:date-accessed day="21" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>15</ce:label>
+                     <sb:reference id="sbref150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>International Federation of Red Cross and Red Crescent Societies</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World disaster report 2016</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs90" xlink:href="https://www.ifrc.org/Global/Documents/Secretariat/201610/WDR%202016-FINAL_web.pdf" xlink:type="simple">https://www.ifrc.org/Global/Documents/Secretariat/201610/WDR%202016-FINAL_web.pdf</ce:inter-ref>
+                              <sb:date>2016</sb:date>
+                              <sb:date-accessed day="21" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>16</ce:label>
+                     <sb:reference id="sbref160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Springmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Mason-D'Croz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global and regional health effects of future food production under climate change: a modelling study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>387</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1937</sb:first-page>
+                              <sb:last-page>1946</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="sbref170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Rajendran</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Amma Unavagams of Tamil Nadu</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Econ Polit Wkly</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="sbref180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>BBC</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Amma canteen: where an Indian meal costs only seven cents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs100" xlink:href="http://www.bbc.com/news/world-asia-india-36659670" xlink:type="simple">http://www.bbc.com/news/world-asia-india-36659670</ce:inter-ref>
+                              <sb:date>July 4, 2016</sb:date>
+                              <sb:date-accessed day="9" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

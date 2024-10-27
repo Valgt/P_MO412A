@@ -1,0 +1,474 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673617330829</prism:url><dc:identifier>doi:10.1016/S0140-6736(17)33082-9</dc:identifier><eid>1-s2.0-S0140673617330829</eid><prism:doi>10.1016/S0140-6736(17)33082-9</prism:doi><pii>S0140-6736(17)33082-9</pii><dc:title>Political determinants of Sustainable Development Goals </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>cor</pubType><prism:issn>01406736</prism:issn><prism:volume>390</prism:volume><prism:issueIdentifier>10112</prism:issueIdentifier><prism:startingPage>2545</prism:startingPage><prism:endingPage>2546</prism:endingPage><prism:pageRange>2545-2546</prism:pageRange><prism:number>10112</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2017-12-15</prism:coverDate><prism:coverDisplayDate>9–15 December 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Gianella, Camila</dc:creator><dc:creator>de Assis Machado, Marta Rodriguez</dc:creator><dc:creator>Gloppen, Siri</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673617330829" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673617330829" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="124" height="164" size="24170">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673617330829-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="181" height="240" size="38598">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673617330829-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="482" height="638" size="118950">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673617330829-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85037032921</scopus-id><scopus-eid>2-s2.0-85037032921</scopus-eid><pubmed-id>29231829</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85037032921" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20171208">2017-12-08</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20171208">2017-12-08</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20171208">2017-12-08</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20171208">2017-12-08</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-12-09T04:54:50</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673617330829</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(17)33082-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673617330829</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(17)33082-9</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673617X00548</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20171211">2017-12-11T11:29:54.555208Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20171209</xocs:date-search-begin>
+      <xocs:date-search-end>20171215</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1512712696">2017-12-08T05:58:16.38204Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>390</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>390</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10112</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10112</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 390, Issue 10112</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>16</xocs:sort-order>
+      <xocs:first-fp>2545</xocs:first-fp>
+      <xocs:last-lp>2546</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>2545</xocs:first-page>
+         <xocs:last-page>2546</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20171209</xocs:start-date>
+         <xocs:end-date>20171215</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>9–15 December 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-12-09</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-12-15</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>cor</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>POLITICALDETERMINANTSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GIANELLA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(17)32336-X</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S014067361732336X</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(17)33247-6</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673617332476</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1423</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1459</xocs:ref-last-lp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>LOAIZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ADOLESCENTPREGNANCYAREVIEWEVIDENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30"/>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>RODRIGUEZDEASSISMACHADO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-last-lp>132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>VITERNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>81</xocs:ref-first-fp>
+            <xocs:ref-last-lp>93</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GIANELLAX2017X2545</xocs:refkey3>
+         <xocs:refkey4lp>GIANELLAX2017X2545X2546</xocs:refkey4lp>
+         <xocs:refkey4ai>GIANELLAX2017X2545XC</xocs:refkey4ai>
+         <xocs:refkey5>GIANELLAX2017X2545X2546XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-06-08T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(17)33082-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673617330829</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673617330829</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(17)33082-9</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2017-12-09T05:02:34.494362Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-12-09</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-12-15</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673617330829-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673617330829/MAIN/application/pdf/0810ff5c8712aa418cfcb13d93910fc0/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673617330829/MAIN/application/pdf/0810ff5c8712aa418cfcb13d93910fc0/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>132737</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673617330829-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673617330829/PREVIEW/image/png/27996e6bec42ba89331695a1dd226e79/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673617330829/PREVIEW/image/png/27996e6bec42ba89331695a1dd226e79/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67092</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673617330829-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673617330829/fx1/THUMBNAIL/image/gif/a70305adee7924b816ce727392ffa620/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673617330829/fx1/THUMBNAIL/image/gif/a70305adee7924b816ce727392ffa620/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>24170</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>124</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673617330829-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673617330829/fx1/DOWNSAMPLED/image/jpeg/060fa94d2766d82e3eb21d852affb85c/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673617330829/fx1/DOWNSAMPLED/image/jpeg/060fa94d2766d82e3eb21d852affb85c/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38598</xocs:filesize>
+               <xocs:pixel-height>240</xocs:pixel-height>
+               <xocs:pixel-width>181</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673617330829-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673617330829/fx1/HIGHRES/image/jpeg/9d2b6fc2ffe8b82b4afc553a77de0b5e/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673617330829/fx1/HIGHRES/image/jpeg/9d2b6fc2ffe8b82b4afc553a77de0b5e/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>118950</xocs:filesize>
+               <xocs:pixel-height>638</xocs:pixel-height>
+               <xocs:pixel-width>482</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="cor" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>4498</aid>
+            <ce:pii>S0140-6736(17)33082-9</ce:pii>
+            <ce:doi>10.1016/S0140-6736(17)33082-9</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S0140-6736(17)32336-X</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(17)32336-X</ce:doi>
+               </ce:refers-to-document>
+               <ce:refers-to-document id="cereftodoc20">
+                  <ce:pii>S0140-6736(17)33247-6</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(17)33247-6</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="full-transfer" year="2017">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Correspondence</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Correspondence</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Political determinants of Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S0140673617330829-3da4de2f6518237d376a41649a130905">
+                  <ce:given-name>Camila</ce:given-name>
+                  <ce:surname>Gianella</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S0140673617330829-4c8adc0be65850288dddbc9bdf09ceae">
+                  <ce:given-name>Marta Rodriguez</ce:given-name>
+                  <ce:surname>de Assis Machado</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30" author-id="S0140673617330829-5989743b5a40f4b838be70bf1bd26487">
+                  <ce:given-name>Siri</ce:given-name>
+                  <ce:surname>Gloppen</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref40" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0140673617330829-e6e76121ce2260dc7a225ec610400de8">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Chr. Michelson Institute, Bergen 5892, Norway</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Chr. Michelson Institute</sa:organization>
+                     <sa:city>Bergen</sa:city>
+                     <sa:postal-code>5892</sa:postal-code>
+                     <sa:country>Norway</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0140673617330829-459e7d91ed5276ead7009e624a42c3a3">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Escola de Direito de São Paulo da Fundação Getulio Vargas, São Paulo, Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Escola de Direito de São Paulo da Fundação Getulio Vargas</sa:organization>
+                     <sa:city>São Paulo</sa:city>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S0140673617330829-619461ff0e57571af6ebf577752d5440">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Comparative Politics, University of Bergen, Bergen, Norway</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Comparative Politics</sa:organization>
+                     <sa:organization>University of Bergen</sa:organization>
+                     <sa:city>Bergen</sa:city>
+                     <sa:country>Norway</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">We read with interest the article by the GBD 2016 SDG Collaborators<ce:cross-ref id="cecref50" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> (Sept 16, p 1423), which presents a comprehensive analysis of the potential gaps and gains in the health-related Sustainable Development Goals by 2030.</ce:para>
+               <ce:para id="para20" view="all">Among the issues that caught our attention when reading the Article was the fact that, if current trends continue, Latin American countries will not fulfill the sustainable development goal for teenage pregnancy. Remarkably, data show that underperformance on adolescent pregnancy in Latin America happened despite positive developments towards meeting family planning needs and universal health coverage goals. This projection for adolescent pregnancy concurs with other reports showing Latin America as the only region globally where adolescent pregnancies are not decreasing,<ce:cross-ref id="cecref60" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> and provides strong evidence for the need for in-depth analysis of political determinants of health.</ce:para>
+               <ce:para id="para30" view="all">Over the past two decades, a massive wave of pro-family mobilisation has swept Latin America. An example of this new wave of conservative mobilisation is the campaign against so-called gender ideology in school curriculums. Ministers of Education from Brazil (2015), Colombia (2016), and Peru (2017) faced strong disapproval, including rallies from conservative groups, who opposed the inclusion of gender and sexual education in school curriculums. In Colombia, the Minister of Education (Gina Parody) lost her job. In Peru, Jaime Saavedra and his successor, Marilú Martens, were censored by the majoritarian conservative parliament. In Brazil, school material prepared by the Ministry of Education, which addressed diversity and homophobia in schools, was recalled after strong pressure from conservative and evangelical congressmen. Since then, the fight to eliminate gender and sexual education from national plans of education has intensified. In September, 2017, the Brazilian Supreme Court authorised religious teaching in public schools.<ce:cross-ref id="cecref70" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> In many countries in Latin America, protests against sexual education and other anti-gender and anti-abortion-inspired mobilisations have become the core of political opposition.<ce:cross-ref id="cecref80" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para40" view="all">Understanding the political determinants of health, including the new wave of conservative mobilisation, is necessary to evaluate the effect on women's and adolescents' most basic human rights and on the Latin American political process. This evaluation requires a fuller understanding of the backlash against sexual and reproductive rights in Latin America over the past few years. Regressive legislation has been approved in some countries. Enforcement of criminal law on abortion in El Salvador and Mexico has generated perverse outcomes for vulnerable women. Women are forced to carry to term and give birth to fetuses that have no chance of survival outside the womb.<ce:cross-ref id="cecref90" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> Furthermore, girls as young as 9 and 10 years old, who have been impregnated through sexual assault, are forced to carry to term pregnancies that their small bodies simply cannot sustain without dire health consequences. Banning gender and sexuality education in the curriculum denies us the opportunity to prevent gender-based violence, to promote gender equality, and to implement measures to prevent adolescent pregnancy. These measures are crucial to reach the health-related Sustainable Development Goals.</ce:para>
+               <ce:para id="para50" view="all">
+                  <ce:display>
+                     <ce:figure id="f10">
+                        <ce:copyright type="other" year="2017">Luis Acosta/Getty Images</ce:copyright>
+                        <ce:link locator="fx1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0140673617330829/fx1"/>
+                     </ce:figure>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="para60" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>GBD 2016 SDG Collaborators</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring progress and projecting attainment on the basis of past trends of the health-related Sustainable Development Goals in 188 countries: an analysis from the Global Burden of Disease Study 2016</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>390</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1423</sb:first-page>
+                              <sb:last-page>1459</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Loaiza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Adolescent pregnancy: a review of the evidence</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Population Fund</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Supremo Tribunal Federal</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>STF conclui julgamento sobre ensino religioso nas escolas públicas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=357099" xlink:type="simple">http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=357099</ce:inter-ref>
+                              <sb:date>Sept 27, 2017</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Sept 28, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Rodriguez de Assis Machado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Aves Maciel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The battle over abortion rights in Brazil's state arenas, 1995–2006</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Health Hum Rights</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                              <sb:last-page>132</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Viterna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JSG</ce:given-name>
+                                 <ce:surname>Bautista</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pregnancy and the 40-year prison sentence: how “abortion is murder” became institutionalized in the Salvadoran judicial system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Health Hum Rights</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>81</sb:first-page>
+                              <sb:last-page>93</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1362 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2352340921000172</prism:url><dc:identifier>doi:10.1016/j.dib.2021.106731</dc:identifier><eid>1-s2.0-S2352340921000172</eid><prism:doi>10.1016/j.dib.2021.106731</prism:doi><pii>S2352-3409(21)00017-2</pii><dc:title>Dataset of search queries to map scientific publications to the UN sustainable development goals </dc:title><prism:publicationName>Data in Brief</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dat</pubType><prism:issn>23523409</prism:issn><prism:volume>34</prism:volume><prism:startingPage>106731</prism:startingPage><prism:pageRange>106731</prism:pageRange><articleNumber>106731</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-02-28</prism:coverDate><prism:coverDisplayDate>February 2021</prism:coverDisplayDate><prism:copyright>© 2021 The Author. Published by Elsevier Inc.</prism:copyright><prism:publisher>The Author. Published by Elsevier Inc.</prism:publisher><dc:creator>Bordignon, Frederique</dc:creator><dc:description>
+                  The dataset includes search queries that can be used to identify scientific publications related to the United Nations Sustainable Development Goals (SDGs). We propose a new approach to mitigate the polysemy of terms as much as possible by targeting the most relevant subject areas for each SDG. In addition, we also used a text-mining tool to identify as many relevant phrases as possible. Publications identified through this process cannot be considered as evidence of the commitment of authors and their institutions to actions towards the targets established by the UN. However, they can be an accurate indicator of which research is relevant to the issues addressed by the SDGs, whether or not it is a direct contribution.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>French Institutes</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Sustainable development goals</dcterms:subject><dcterms:subject>Bibliometrics</dcterms:subject><dcterms:subject>Search queries</dcterms:subject><dcterms:subject>Information retrieval</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2352340921000172" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2352340921000172" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="458" height="716" size="37751">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921000172-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="105" height="164" size="3275">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921000172-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2027" height="3167" size="308650">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921000172-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="ZIP file" mimetype="application/zip" size="4388">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921000172-mmc1.zip?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="348935">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921000172-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85099682902</scopus-id><scopus-eid>2-s2.0-85099682902</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85099682902" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>311593</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291806</xocs:ssid>
+         <xocs:ssid type="subj">291848</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Data in Brief</xocs:srctitle>
+      <xocs:normalized-srctitle>DATAINBRIEF</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210109">2021-01-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210109">2021-01-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210123">2021-01-23</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210123">2021-01-23</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-01-23T11:59:02</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2352340921000172</xocs:eid>
+      <xocs:pii-formatted>S2352-3409(21)00017-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2352340921000172</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.dib.2021.106731</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.5</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2352340920X00072</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230123">2023-01-23T12:32:05.07231Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210201</xocs:date-search-begin>
+      <xocs:date-search-end>20210228</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1610208077">2021-01-09T16:01:17.404792Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body affil appendices articletitle auth authfirstini authfull authkeywords authlast footnotes primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2352-3409</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>23523409</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>FRENCH</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>34</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>34</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 34</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>59</xocs:sort-order>
+      <xocs:first-fp>106731</xocs:first-fp>
+      <xocs:article-number>106731</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>106731</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202102</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Data Science</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>dat</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 The Author. Published by Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>DATASETSEARCHQUERIESMAPSCIENTIFICPUBLICATIONSUNSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BORDIGNON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Specifications Table</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Value of the Data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Data Description</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental Design, Materials and Methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Query design</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>All science journal classification (ASJC)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Survey overview</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 1: no poverty</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 2: zero hunger</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 3: good health and well-being for people</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 4: quality education</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.8</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 5: gender equality</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.9</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 6: clean water and sanitation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.10</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 7: affordable and clean energy</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.11</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 8: decent work and economic growth</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.12</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 9: industry, innovation, and infrastructure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.13</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 10: reducing inequalities</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.14</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 11: sustainable cities and communities</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.15</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 12: responsible consumption and production</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.16</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 13: climate action</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.17</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 14: life below water</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.18</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 15: life on land</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.19</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SDG 16: peace, justice and strong institutions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Ethics Statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary materials</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001"/>
+         <xocs:ref-info refid="sbref0002"/>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>ARMITAGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1092</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1108</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>WUELSER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>789</xocs:ref-first-fp>
+            <xocs:ref-last-lp>800</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005"/>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>POWERDATAADVANCESDGSMAPPINGRESEARCHFORSUSTAINABLEDEVELOPMENTGOALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>OLAWUMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>231</xocs:ref-first-fp>
+            <xocs:ref-last-lp>250</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008"/>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>HASSAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>549</xocs:ref-first-fp>
+            <xocs:ref-last-lp>579</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010"/>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>MESCHEDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4461</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>BORDIGNON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>17THINTERNATIONALCONFERENCESCIENTOMETRICSINFORMATICSISSI2019PROCEEDING</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>TRACKINGCONTENTUPDATESINSCOPUS20112018AQUANTITATIVEANALYSISJOURNALSPERSUBJECTCATEGORYSUBJECTCATEGORIESPERJOURNAL</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BORDIGNONX2021X106731</xocs:refkey3>
+         <xocs:refkey4ai>BORDIGNONX2021X106731XF</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2021-01-07T17:50:02Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>French Institutes</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-agreements>
+            <xocs:or-agreement>
+               <xocs:or-agreement-id>https://vtw.elsevier.com/content/oragreement/10178</xocs:or-agreement-id>
+               <xocs:or-agreement-name>NR_HAL</xocs:or-agreement-name>
+               <xocs:or-agreement-terms>publishAcceptedManuscriptIndexable</xocs:or-agreement-terms>
+            </xocs:or-agreement>
+         </xocs:or-agreements>
+         <xocs:or-agreement-license>http://www.elsevier.com/open-access/userlicense/1.0/</xocs:or-agreement-license>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-01-23T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 The Author. Published by Elsevier Inc.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-05-29T03:13:40.204Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2352-3409(21)00017-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2352340921000172</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2352340921000172</xocs:eid>
+         <xocs:doi>10.1016/j.dib.2021.106731</xocs:doi>
+         <xocs:cid>311593</xocs:cid>
+         <xocs:timestamp>2023-01-23T12:32:05.07231Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-02-28</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>FRENCH</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2352340921000172-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921000172/MAIN/application/pdf/698940de9b9217180aaed3df58c376f5/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>544023</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>12</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2352340921000172-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921000172/PREVIEW/image/png/0d7099c1215814b6227d970ea9c6438b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>38001</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921000172-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921000172/gr1/DOWNSAMPLED/image/jpeg/924e8c34b7c063f664eae232ba3b3e92/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37751</xocs:filesize>
+               <xocs:pixel-height>716</xocs:pixel-height>
+               <xocs:pixel-width>458</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921000172-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921000172/gr1/THUMBNAIL/image/gif/697ffcc5f47ce4a94cf34a88aee6795b/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3275</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>105</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921000172-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921000172/DOWNSAMPLED/image/jpeg/5ec348df66435c6c80ab1fa9aa84adc3/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>308650</xocs:filesize>
+               <xocs:pixel-height>3167</xocs:pixel-height>
+               <xocs:pixel-width>2027</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921000172-mmc1.zip</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921000172/mmc1/MAIN/application/zip/b97d21aded4e16b35a966005659e02c2/mmc1.zip</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.zip</xocs:filename>
+               <xocs:extension>zip</xocs:extension>
+               <xocs:filesize>4388</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921000172-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:109N52R57W3/MAIN/application/pdf/777f3618766521c94622081c46579e31/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>348935</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dat" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>DIB</jid>
+            <aid>106731</aid>
+            <ce:article-number>106731</ce:article-number>
+            <ce:pii>S2352-3409(21)00017-2</ce:pii>
+            <ce:doi>10.1016/j.dib.2021.106731</ce:doi>
+            <ce:copyright type="other" year="2021">The Author</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara001" view="all">Workflow of the query design.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Fig. 1</ce:alt-text>
+               <ce:link id="celink0001" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2352340921000172/gr1"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0002">
+                  <ce:simple-para id="spara002" view="all">UN Sustainable Development Goals (source: United Nations <ce:cross-ref id="crf0023" refid="bib0001">[1]</ce:cross-ref>).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0002" role="short">Table 1</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0019" colname="col1" valign="top">(1) No Poverty</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0020" colname="col2" valign="top">(10) Reducing Inequalities</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0021" colname="col1" valign="top">(2) Zero Hunger</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0022" colname="col2" valign="top">(11) Sustainable Cities and Communities</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0023" colname="col1" valign="top">(3) Good Health and Well-being</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0024" colname="col2" valign="top">(12) Responsible Consumption and Production</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0025" colname="col1" valign="top">(4) Quality Education</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0026" colname="col2" valign="top">(13) Climate Action</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0027" colname="col1" valign="top">(5) Gender Equality</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0028" colname="col2" valign="top">(14) Life Below Water</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0029" colname="col1" valign="top">(6) Clean Water and Sanitation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0030" colname="col2" valign="top">(15) Life On Land</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0031" colname="col1" valign="top">(7) Affordable and Clean Energy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0032" colname="col2" valign="top">(16) Peace, Justice, and Strong Institutions</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0033" colname="col1" valign="top">(8) Decent Work and Economic Growth</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0034" colname="col2" valign="top">(17) Partnerships for the Goals</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0035" colname="col1" valign="top">(9) Industry, Innovation and Infrastructure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0036" colname="col2" valign="top"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0002" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0003">
+                  <ce:simple-para id="spara003" view="all">Survey overview per SDG (answers, distinct respondents and participants who did not answer).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0003" role="short">Table 2:</ce:alt-text>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <colspec colnum="3" colname="col3" align="left"/>
+                  <colspec colnum="4" colname="col4" align="left"/>
+                  <colspec colnum="5" colname="col5" align="left"/>
+                  <colspec colnum="6" colname="col6" align="left"/>
+                  <colspec colnum="7" colname="col7" align="left"/>
+                  <colspec colnum="8" colname="col8" align="left"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0037" colname="col1" valign="top"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0038" align="center" namest="col2" nameend="col4" role="colgroup" valign="top" rowsep="1">Total number of answers</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0039" align="center" namest="col5" nameend="col8" role="colgroup" valign="top" rowsep="1">Percentage of answers</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0042" colname="col1" valign="top">SDG</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0043" colname="col2" valign="top">Irrelevant</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0044" colname="col3" valign="top">OK, relevant</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0045" colname="col4" valign="top">All</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0046" colname="col5" valign="top">Irrelevant</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0047" colname="col6" valign="top">OK, relevant</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0040" colname="col7" valign="top">Number of distinct respondents</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0041" colname="col8" valign="top">Number of participants who did not answer</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0050" colname="col1" role="rowhead" valign="top">SDG1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0051" colname="col2" valign="top">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0052" colname="col3" valign="top">46</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0053" colname="col4" valign="top">57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0054" colname="col5" valign="top">19%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0055" colname="col6" valign="top">81%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0056" colname="col7" valign="top">39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0057" colname="col8" valign="top">9</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0058" colname="col1" role="rowhead" valign="top">SDG2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0059" colname="col2" valign="top">18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0060" colname="col3" valign="top">42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0061" colname="col4" valign="top">60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0062" colname="col5" valign="top">30%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0063" colname="col6" valign="top">70%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0064" colname="col7" valign="top">48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0065" colname="col8" valign="top">11</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0066" colname="col1" role="rowhead" valign="top">SDG3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0067" colname="col2" valign="top">33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0068" colname="col3" valign="top">80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0069" colname="col4" valign="top">113</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0070" colname="col5" valign="top">29%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0071" colname="col6" valign="top">71%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0072" colname="col7" valign="top">54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0073" colname="col8" valign="top">10</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0074" colname="col1" role="rowhead" valign="top">SDG4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0075" colname="col2" valign="top">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0076" colname="col3" valign="top">49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0077" colname="col4" valign="top">60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0078" colname="col5" valign="top">18%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0079" colname="col6" valign="top">82%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0080" colname="col7" valign="top">46</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0081" colname="col8" valign="top">4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0082" colname="col1" role="rowhead" valign="top">SDG5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0083" colname="col2" valign="top">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0084" colname="col3" valign="top">47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0085" colname="col4" valign="top">53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0086" colname="col5" valign="top">11%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0087" colname="col6" valign="top">89%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0088" colname="col7" valign="top">38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0089" colname="col8" valign="top">6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0090" colname="col1" role="rowhead" valign="top">SDG6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0091" colname="col2" valign="top">24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0092" colname="col3" valign="top">45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0093" colname="col4" valign="top">69</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0094" colname="col5" valign="top">35%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0095" colname="col6" valign="top">65%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0096" colname="col7" valign="top">47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0097" colname="col8" valign="top">10</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0098" colname="col1" role="rowhead" valign="top">SDG7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0099" colname="col2" valign="top">82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0100" colname="col3" valign="top">78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0101" colname="col4" valign="top">160</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0102" colname="col5" valign="top">51%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0103" colname="col6" valign="top">49%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0104" colname="col7" valign="top">52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0105" colname="col8" valign="top">19</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0106" colname="col1" role="rowhead" valign="top">SDG8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0107" colname="col2" valign="top">29</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0108" colname="col3" valign="top">58</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0109" colname="col4" valign="top">87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0110" colname="col5" valign="top">33%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0111" colname="col6" valign="top">67%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0112" colname="col7" valign="top">51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0113" colname="col8" valign="top">15</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0114" colname="col1" role="rowhead" valign="top">SDG9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0115" colname="col2" valign="top">13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0116" colname="col3" valign="top">34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0117" colname="col4" valign="top">47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0118" colname="col5" valign="top">28%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0119" colname="col6" valign="top">72%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0120" colname="col7" valign="top">35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0121" colname="col8" valign="top">6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0122" colname="col1" role="rowhead" valign="top">SDG10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0123" colname="col2" valign="top">16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0124" colname="col3" valign="top">48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0125" colname="col4" valign="top">64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0126" colname="col5" valign="top">25%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0127" colname="col6" valign="top">75%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0128" colname="col7" valign="top">42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0129" colname="col8" valign="top">10</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0130" colname="col1" role="rowhead" valign="top">SDG11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0131" colname="col2" valign="top">37</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0132" colname="col3" valign="top">147</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0133" colname="col4" valign="top">184</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0134" colname="col5" valign="top">20%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0135" colname="col6" valign="top">80%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0136" colname="col7" valign="top">61</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0137" colname="col8" valign="top">24</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0138" colname="col1" role="rowhead" valign="top">SDG12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0139" colname="col2" valign="top">19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0140" colname="col3" valign="top">53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0141" colname="col4" valign="top">72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0142" colname="col5" valign="top">26%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0143" colname="col6" valign="top">74%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0144" colname="col7" valign="top">48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0145" colname="col8" valign="top">9</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0146" colname="col1" role="rowhead" valign="top">SDG13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0147" colname="col2" valign="top">25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0148" colname="col3" valign="top">47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0149" colname="col4" valign="top">72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0150" colname="col5" valign="top">35%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0151" colname="col6" valign="top">65%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0152" colname="col7" valign="top">36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0153" colname="col8" valign="top">13</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0154" colname="col1" role="rowhead" valign="top">SDG14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0155" colname="col2" valign="top">19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0156" colname="col3" valign="top">25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0157" colname="col4" valign="top">44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0158" colname="col5" valign="top">43%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0159" colname="col6" valign="top">57%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0160" colname="col7" valign="top">33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0161" colname="col8" valign="top">8</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0162" colname="col1" role="rowhead" valign="top">SDG15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0163" colname="col2" valign="top">25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0164" colname="col3" valign="top">21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0165" colname="col4" valign="top">46</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0166" colname="col5" valign="top">54%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0167" colname="col6" valign="top">46%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0168" colname="col7" valign="top">35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0169" colname="col8" valign="top">6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0170" colname="col1" role="rowhead" valign="top">SDG16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0171" colname="col2" valign="top">34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0172" colname="col3" valign="top">28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0173" colname="col4" valign="top">62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0174" colname="col5" valign="top">55%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0175" colname="col6" valign="top">45%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0176" colname="col7" valign="top">42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0177" colname="col8" valign="top">14</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Dataset of search queries to map scientific publications to the UN sustainable development goals</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S2352340921000172-f9d0b4275df3b76e721cd6b857fc0923">
+                  <ce:given-name>Frederique</ce:given-name>
+                  <ce:surname>Bordignon</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="fn1">
+                     <ce:sup loc="post">#</ce:sup>
+                  </ce:cross-ref>
+                  
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S2352340921000172-7bde5ae63d9ce5e92b1af32833f57f79">
+                  <ce:textfn id="cetextfn0001">Ecole des Ponts, Marne-la-Vallée, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Ecole des Ponts</sa:organization>
+                     <sa:city>Marne-la-Vallée</sa:city>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">Ecole des Ponts, Marne-la-Vallée, France</ce:source-text>
+               </ce:affiliation>
+               <ce:footnote id="fn1">
+                  <ce:label>#</ce:label>
+                  <ce:note-para id="notep0001" view="all">ORCID: 0000-0002-4918-9137</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="5" month="11" year="2020"/>
+            <ce:date-revised day="23" month="12" year="2020"/>
+            <ce:date-accepted day="6" month="1" year="2021"/>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara004" view="all">The dataset includes search queries that can be used to identify scientific publications related to the United Nations Sustainable Development Goals (SDGs). We propose a new approach to mitigate the polysemy of terms as much as possible by targeting the most relevant subject areas for each SDG. In addition, we also used a text-mining tool to identify as many relevant phrases as possible. Publications identified through this process cannot be considered as evidence of the commitment of authors and their institutions to actions towards the targets established by the UN. However, they can be an accurate indicator of which research is relevant to the issues addressed by the SDGs, whether or not it is a direct contribution.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0001">Sustainable development goals</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0002">Bibliometrics</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0003">Search queries</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0004">Information retrieval</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0001d" view="all">
+                  <ce:section-title id="cesectitle0004d">Specifications Table</ce:section-title>
+                  <ce:para id="para0002" view="all">
+                     <ce:display>
+                        <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="utbl0001" rowsep="0" colsep="0" frame="topbot">
+                           <tgroup cols="2">
+                              <colspec colnum="1" colname="col1" align="left"/>
+                              <colspec colnum="2" colname="col2" align="left"/>
+                              <tbody>
+                                 <row>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0001" colname="col1" role="rowhead" valign="top">Subject</entry>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0002" colname="col2" valign="top">Library and Information Sciences</entry>
+                                 </row>
+                                 <row>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0003" colname="col1" role="rowhead" valign="top">Specific subject area</entry>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0004" colname="col2" valign="top">Information retrieval, bibliometrics</entry>
+                                 </row>
+                                 <row>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0005" colname="col1" role="rowhead" valign="top">Type of data</entry>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0006" colname="col2" valign="top">Search strings in txt files<br/>Tabular data in a csv file</entry>
+                                 </row>
+                                 <row>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0007" colname="col1" role="rowhead" valign="top">How data were acquired</entry>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0008" colname="col2" valign="top">Search strings: manually created<br/>Survey data: collected with LimeSurvey</entry>
+                                 </row>
+                                 <row>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0009" colname="col1" role="rowhead" valign="top">Data format</entry>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0010" colname="col2" valign="top">Raw, txt and csv files</entry>
+                                 </row>
+                                 <row>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0011" colname="col1" role="rowhead" valign="top">Parameters for data collection</entry>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0012" colname="col2" valign="top">In order to mitigate the polysemy of terms as much as possible, we identified and targeted the most relevant subject areas for each SDG. In addition, we also used a text-mining tool (CorTexT) to identify as many relevant phrases as possible. The results were submitted (through LimeSurvey) to researchers for their feedback.</entry>
+                                 </row>
+                                 <row>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0013" colname="col1" role="rowhead" valign="top">Description of data collection</entry>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0014" colname="col2" valign="top">These data were manually written in a text editor.</entry>
+                                 </row>
+                                 <row>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0015" colname="col1" role="rowhead" valign="top">Data source location</entry>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0016" colname="col2" valign="top">Ecole des Ponts<br/>Marne-la-Vallée<br/>France</entry>
+                                 </row>
+                                 <row>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0017" colname="col1" role="rowhead" valign="top">Data accessibility</entry>
+                                    <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0018" colname="col2" valign="top">Repository name: Mendeley Data<br/>Data identification number: <inter-ref id="interref0001" xlink:href="http://dx.doi.org/10.17632/xrx7ddbbb4.1" xlink:type="simple">http://dx.doi.org/10.17632/xrx7ddbbb4.1</inter-ref>
+                                       <br/>Direct URL to data: <inter-ref id="interref0001r" xlink:href="http://dx.doi.org/10.17632/xrx7ddbbb4.1" xlink:type="simple">http://dx.doi.org/10.17632/xrx7ddbbb4.1</inter-ref>
+                                    </entry>
+                                 </row>
+                              </tbody>
+                           </tgroup>
+                        </ce:table>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="sec0001" view="all">
+                  <ce:section-title id="cesectitle0004">Value of the Data</ce:section-title>
+                  <ce:para id="para9001" view="all">
+                     <ce:list id="celist0001">
+                        <ce:list-item id="celistitem0001">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0003" view="all">The annotated corpora resulting from these queries can be used for bibliometric analyses relying on the UN Sustainable Development Goals.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0002">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0004" view="all">Bibliometric experts can reuse these data to analyze existing corpora of scientific publications or to collect new corpora from bibliographic databases.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0003">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0005" view="all">These search queries can be used as calculated fields in Tableau Software but they can also be easily adapted to another tool by multiple search-and-replace actions.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="cesectitle0005">Data Description</ce:section-title>
+                  <ce:para id="para0006" view="all">The United Nations define the Sustainable Development Goals (SDGs) as “;the blueprint to achieve a better and more sustainable future for all. They address the global challenges we face, including poverty, inequality, climate change, environmental degradation, peace and justice”; <ce:cross-ref id="crf0002" refid="bib0001">[1]</ce:cross-ref>. 17 SDGs were set in 2015 and intended to be achieved by the year 2030: <ce:cross-ref id="crf0003" refid="tbl0001">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl0001"/>
+                  </ce:para>
+                  <ce:para id="para0007" view="all">In 2017, the UN defined specific targets and indicators for each goal <ce:cross-ref id="crf0004" refid="bib0002">[2]</ce:cross-ref>. Armitage et al. <ce:cross-ref id="crf0005" refid="bib0003">[3]</ce:cross-ref> argued that along with political action, research and development of technology are also essential for achieving these goals. While research for sustainable development is inherently directed at supporting sustainability-oriented societal change <ce:cross-ref id="crf0006" refid="bib0004">[4]</ce:cross-ref>, it is valuable for research institutions to assess how they contribute to achieving the goals defined by the United Nations.</ce:para>
+                  <ce:para id="para0008" view="all">This is the reason why there have been several attempts to automatically identify scientific outputs related to these SDGs: they are based on rather complex Boolean queries combining keywords and phrases that are typical of the goals and targets defined by the United Nations policy text <ce:cross-ref id="crf0007" refid="bib0003">[3</ce:cross-ref>,<ce:cross-refs id="crf0008" refid="bib0005 bib0006 bib0007 bib0008 bib0009">5–9]</ce:cross-refs>. These queries seem to us to be either too narrow because they stick to the UN text, or too broad because of the polysemy of some words, which led to false positive results. Some are too complex, too long, or with a proximity operator not available in tools such as Tableau Software (which can be helpful to bibliometrics experts when processing large amounts of data).</ce:para>
+                  <ce:para id="para0009" view="all">Nevertheless, they have been inspiring, especially those shared by Jayabalasingham et al. <ce:cross-ref id="crf0010" refid="bib0010">[10]</ce:cross-ref> and used by Elsevier in its tools and reports <ce:cross-ref id="crf0011" refid="bib0006">[6]</ce:cross-ref>. We propose a new approach to mitigate the polysemy of terms as much as possible by targeting the most relevant subject areas for each SDG. This allows to “;loosen”; the constraints of the queries without generating too many unwanted hits. In addition, we also used a text-mining tool to identify as many relevant phrases as possible. In other words, with this new method, we aimed at improving both precision and recall.</ce:para>
+                  <ce:para id="para0010" view="all">The dataset we share includes Boolean queries inserted in a conditional function (IF, THEN, ELSE). We have developed them with the aim of annotating structured corpora of scientific publications. They are therefore intended to be used directly in a tool such as Tableau Software. But as they are shared in txt format, they can be simply adapted for direct use in bibliographic databases such as the Web of Science, Scopus, Dimensions, or Lens.</ce:para>
+                  <ce:para id="para0011" view="all">The dataset contains one query per SDG. The function indicates that if the stated condition(s) is/are true then the SDG is assigned to the publication; otherwise the result is 0. Conditions are Boolean combinations of subject areas (ASJC codes) and terms.</ce:para>
+                  <ce:para id="para0012" view="all">Queries are proposed for SDGs 1 to 16. As <ce:cross-ref id="crf0012" refid="bib0011">[11]</ce:cross-ref> put it, the SDG “;Partnerships for the goals”; can be regarded as a meta-goal for implementing the SDGs. We consider that it could be assessed with an analysis of co-publications (e.g.: co-occurrence of countries mentioned in the authors' affiliations).</ce:para>
+                  <ce:para id="para0013" view="all">We would like to warn that publications identified through this process cannot be considered as evidence of the commitment of authors and their institutions to actions towards the targets established by the UN. However, they can be an accurate indicator of which research is relevant to the issues addressed by the SDGs, whether or not it is a direct contribution.</ce:para>
+               </ce:section>
+               <ce:section id="sec0003" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="cesectitle0006">Experimental Design, Materials and Methods</ce:section-title>
+                  <ce:section id="sec0004" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="cesectitle0007">Query design</ce:section-title>
+                     <ce:para id="para0014" view="all">Each search string has been designed separately but according to the same basic principles presented in <ce:cross-ref id="crf0013" refid="fig0001">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0001"/>, the main steps of which are as follows:<ce:list id="celist0002">
+                           <ce:list-item id="celistitem0004">
+                              <ce:label>1.</ce:label>
+                              <ce:para id="para0015" view="all">We review and test the query proposed by the Elsevier team <ce:cross-ref id="crf0014" refid="bib0010">[10]</ce:cross-ref>. For a few SDGs, we make corrections (e.g. SDG 14) or improvements (e.g. SDG 7) before using the query with confidence.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0005">
+                              <ce:label>2.</ce:label>
+                              <ce:para id="para0016" view="all">With the query or a slightly updated version, we retrieve the 20,000 most recent publications from Scopus to build a reference corpus.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0006">
+                              <ce:label>3.</ce:label>
+                              <ce:para id="para0017" view="all">We use the All Science Journal Classification scheme (ASJC, see details below) to enrich each publication with the field(s) and subfield(s) assigned to the source it has been published in.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0007">
+                              <ce:label>4.</ce:label>
+                              <ce:para id="para0018" view="all">At the same time, thanks to Elsevier's API, we retrieve from Scopus the number of publications published between 2016 and 2020 in each ASJC subfield. Indeed, the number of documents varies a lot from one subfield to another <ce:cross-ref id="crf0015" refid="bib0012">[12]</ce:cross-ref> and makes it difficult to do comparisons.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0008">
+                              <ce:label>5.</ce:label>
+                              <ce:para id="para0019" view="all">To identify the most relevant subfields, we divide the number of publications in our reference corpus by the number of publications in Scopus (2016–2020). This normalization process allows us to determine in which subfields the publications are relatively more frequent and to consider whether they should be used in the query.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0009">
+                              <ce:label>6.</ce:label>
+                              <ce:para id="para0020" view="all">With CorTexT,<ce:cross-ref id="crf0016" refid="cit_1">
+                                    <ce:sup loc="post">1</ce:sup>
+                                 </ce:cross-ref>
+                                 <ce:footnote id="cit_1">
+                                    <ce:label>1</ce:label>
+                                    <ce:note-para id="notep0002" view="all">
+                                       <ce:inter-ref id="interref0002" xlink:href="https://www.cortext.net" xlink:type="simple">https://www.cortext.net</ce:inter-ref>
+                                    </ce:note-para>
+                                 </ce:footnote> a text-mining tool, we perform term extraction on Title, Abstract and Keywords of publications of the reference corpus.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0010">
+                              <ce:label>7.</ce:label>
+                              <ce:para id="para0022" view="all">We elaborate a new query combining ASJC subfield codes and extracted terms.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0011">
+                              <ce:label>8.</ce:label>
+                              <ce:para id="para0023" view="all">The positive results returned by the query (first version) are tested through a survey among researchers (see details below).</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0012">
+                              <ce:label>9.</ce:label>
+                              <ce:para id="para0024" view="all">We propose an updated version of the search string, either confirming the first version or with improvements thanks to the survey participants' feedback.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0025" view="all">While the survey we conducted helped to identify problems and to make an initial assessment of precision, it did not allow us to assess recall. In our survey, we found that some respondents were incorrect because they were unaware of all the targets related to a SDG. The title of the SDG and the brief description we provided could not be sufficient. Therefore, we think the recall can only be assessed by SDG experts.</ce:para>
+                     <ce:para id="para0026" view="all">If, depending on the tool, regular expressions cannot be used, attention should be paid to rather short words that can be found within others and thus generate unwanted hits. This is the case of <ce:italic>road</ce:italic>, which is found in many other words and in particular all those derived from <ce:italic>broad</ce:italic> for example, or <ce:italic>flake</ce:italic> in <ce:italic>snowflake</ce:italic> and <ce:italic>cornflake</ce:italic>, or <ce:italic>sea</ce:italic> in <ce:italic>disease, nausea</ce:italic> or <ce:italic>research</ce:italic>. To mitigate the problem and have simple queries, we use spaces and punctuation marks in our search strings.</ce:para>
+                     <ce:para id="para0027" view="all">In an effort not to overcomplicate the queries and to allow adjustments from other researchers, we have set aside lists of words and included them in variables. For example, some SDGs explicitly target developing countries by mentioning them in a very generic way:<ce:list id="celist0003">
+                           <ce:list-item id="celistitem0013">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0028" view="all">least developed countries, landlocked country, developing country, landlocked countries, developing countries, small island developing States, Africa</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0029" view="all">But these phrases are not satisfactory if the authors of a publication explicitly mention the name of the country. We, therefore, take advantage of a previous study <ce:cross-ref id="crf0017" refid="bib0003">[3]</ce:cross-ref> to retrieve a list of developing countries we include in a variable named [DevCountries]. This list has been constituted from the data made available by the UN on their website.</ce:para>
+                     <ce:para id="para0030" view="all">We have also created a variable named [Astronomy] with a list of words referring to planets in order to more easily exclude works in astronomy. This list can definitely be enriched.</ce:para>
+                     <ce:para id="para0031" view="all">Finally, in the same way, we have introduced a variable named [Infra] listing words referring to infrastructures, a list resulting from a text-mining operation we carried out in previous work <ce:cross-ref id="crf0018" refid="bib0013">[13]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0005" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="cesectitle0008">All science journal classification (ASJC)</ce:section-title>
+                     <ce:para id="para0032" view="all">The All Science Journal Classification is a subject classification system elaborated by Elsevier to categorize journals (and also book series and conferences). It includes 27 fields and 334 subfields. They are all assigned a unique and permanent 4-digit code that we use in the queries proposed in this article. The nomenclature itself is stable with no new subject area since 2011. Nevertheless, the subjects assigned to the sources are regularly updated to stay in line with editorial changes in journals. The list of sources and subfield(s) assigned to them can be freely downloaded as an Excel file from Scopus database or Elsevier's website.<ce:cross-ref id="crf0019" refid="cit_2">
+                           <ce:sup loc="post">2</ce:sup>
+                        </ce:cross-ref>
+                        <ce:footnote id="cit_2">
+                           <ce:label>2</ce:label>
+                           <ce:note-para id="notep0003" view="all">
+                              <ce:inter-ref id="interref0003" xlink:href="https://www.elsevier.com/solutions/scopus/how-scopus-works/content" xlink:type="simple">https://www.elsevier.com/solutions/scopus/how-scopus-works/content</ce:inter-ref>
+                           </ce:note-para>
+                        </ce:footnote> The nomenclature with the description of the ASJC codes is available as a supplementary material.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0006" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="cesectitle0009">Survey overview</ce:section-title>
+                     <ce:para id="para0034" view="all">As we stated earlier, the positive results returned by the first version of each query have been tested through a survey among researchers from Ecole des Ponts (<ce:italic>n</ce:italic> = 81, invited by mail) in order to confirm whether they are true or false positives. This online survey was used to test 99 sets of Title-Abstract-Keywords (randomly selected among publications from Ecole des Ponts researchers; also available in the dataset). For each set of title-abstract-keywords, the researcher was asked if the proposed SDG(s) (returned by the query under scrutiny) was/were relevant or irrelevant with the following question: “Do you think the following publication can be considered as a contribution to achieving the goals suggested below?”. The participant could also decide not to answer, and to choose “;I don't know”;.</ce:para>
+                     <ce:para id="para0035" view="all">
+                        <ce:cross-ref id="crf0020" refid="tbl0002">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0002"/> shows how many different answers had been gathered for each SDG and how many different respondents this corresponds to.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0007" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="cesectitle0010">SDG 1: no poverty</ce:section-title>
+                     <ce:para id="para0036" view="all">We identify the most frequent subfields in the reference corpus; they are part of the 2 following fields:<ce:list id="celist0004">
+                           <ce:list-item id="celistitem0014">
+                              <ce:label>-</ce:label>
+                              <ce:para id="para0037" view="all">Social sciences (subfields: Development, Geography, Planning and Development, Public Administration, Demography, General Social Sciences, Sociology and Political Science, Political Science and International Relations)</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0015">
+                              <ce:label>-</ce:label>
+                              <ce:para id="para0038" view="all">Economics, Econometrics and Finance.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0039" view="all">They prove to be the most relevant for the topic, they are therefore fully included in the query and combined only with terms expressing poverty or referring to poor people (2)(2). We rule out the word <ce:italic>poor</ce:italic> on its own because it is an adjective that is also frequently used to describe the poor quality of something.<ce:list id="celist0005">
+                           <ce:list-item id="celistitem0016">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0040" view="all">poor population, the rural poor, urban poor area, rural poor area, poor children, poorer children, poorest children, poor women, poor and needy, poor borrower, poor workmanship, poor worker, poor working families…</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0041" view="all">These same words referring to the poor (2) are combined with a few specific phrases that could not be used on their own to return alone documents relevant for SDG 1 (e.g.: <ce:italic>food insecurity, income inequality</ce:italic> or <ce:italic>labor market</ce:italic>).</ce:para>
+                     <ce:para id="para0042" view="all">Finally, we enumerate expressions that explicitly refer to the fight against poverty. A large majority (81%) of respondents confirmed that the publications retrieved with this search query correctly reflect the topics of this SDG.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0008" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="cesectitle0011">SDG 2: zero hunger</ce:section-title>
+                     <ce:para id="para0043" view="all">All publications from sources in <ce:italic>Agronomy and Crop Science</ce:italic> and <ce:italic>Food Science</ce:italic> seem to be relevant for this SDG. After several tests, we found that the subfield of <ce:italic>Soil science</ce:italic> is too broad, encompassing, for example, geotechnical research (which we think is more related to SDG 9), or urban runoff studies (which are more related to SDG 6). Then we combine polysemic expressions (e.g.: <ce:italic>food insecurity</ce:italic>) with the other subfields except medicine (which brings up too many publications about nutrition and dietetics), and finally we use a list of expressions that explicitly refer to the fight against hunger. 70% of the respondents confirmed the publications returned by this query are related to this SDG. Despite this consensus many respondents have erroneously considered works about climate extreme events as irrelevant. However, the United Nations do mention disasters as negative consequences on soil quality or food production.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0009" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title id="cesectitle0012">SDG 3: good health and well-being for people</ce:section-title>
+                     <ce:para id="para0044" view="all">Before reusing the terms extracted by CorTexT, we modified Elsevier's initial query by removing <ce:italic>aids</ce:italic>, which was intended to retrieve works related to the fight against AIDS but which, in reality, also retrieved publications containing the verb <ce:italic>to aid</ce:italic> in the third person (3) or the noun <ce:italic>aid</ce:italic> in the plural (4).<ce:list id="celist0006">
+                           <ce:list-item id="celistitem0017">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0045" view="all">Also a microscopic examination of fungal culture aids in the identification.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0018">
+                              <ce:label>(2)</ce:label>
+                              <ce:para id="para0046" view="all">Representation of speech with high spectral resolution finds applications in the design of digital hearing aids and cochlear implants for people with hearing disability.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0047" view="all">This problem resulted in too many unwanted publications in <ce:italic>Engineering</ce:italic>, as can be seen in Elsevier's report <ce:cross-ref id="crf0021" refid="bib0006">[6]</ce:cross-ref> in the graph dedicated to SDG 3. This being said, even after this correction and the use of CorTexT, it is difficult to list all the pathologies and cures that could be included in this SDG. We therefore stick to the Elsevier query, adding nevertheless <ce:italic>coronavirus</ce:italic> and <ce:italic>covid-19</ce:italic>. On the other hand, the query relies on subfields belonging to the fields of <ce:italic>Medicine</ce:italic> (<ce:italic>Medicine, Nursing, Dentistry, Health Professions, Immunology and Microbiology, Neuroscience, Pharmacology, Toxicology and Pharmaceutics</ce:italic>) or <ce:italic>Psychology</ce:italic>, and to the <ce:italic>Health</ce:italic> subfield of the <ce:italic>Social sciences</ce:italic> field. In addition, we dedicate a segment of the query to the medical system by intersecting the <ce:italic>Economics, Econometrics and Finance</ce:italic> field with some key expressions such as <ce:italic>hospitals</ce:italic> or <ce:italic>healthcare</ce:italic>.</ce:para>
+                     <ce:para id="para0048" view="all">A large majority (71%) of respondents confirmed that the publications retrieved by this query do reflect the theme of the SDG.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0010" view="all">
+                     <ce:label>3.7</ce:label>
+                     <ce:section-title id="cesectitle0013">SDG 4: quality education</ce:section-title>
+                     <ce:para id="para0049" view="all">Subfields related to education exist in the ASJC scheme and they emerge as the most relevant thanks to our normalization operation: <ce:italic>Education, Developmental and Educational Psychology, Life-span and Life-course Studies, Cultural Studies</ce:italic>. Therefore, they are included in the query so that all publications from the sources belonging to them are associated with this SDG. The subfield of <ce:italic>Sociology and Political Science</ce:italic> also appears to be frequent, in order to better target the relevant publications, we simply combine it with the word <ce:italic>education</ce:italic>. Finally, CorText provides us with a list of unambiguous expressions to extend the query to other domains. 82% of respondents agreed that the proposed publications were related to this SDG.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0011" view="all">
+                     <ce:label>3.8</ce:label>
+                     <ce:section-title id="cesectitle0014">SDG 5: gender equality</ce:section-title>
+                     <ce:para id="para0050" view="all">At first glance, the <ce:italic>Gender studies</ce:italic> subfield has the highest number of publications: 9% of the corpus of references in this SDG are related to it. But a closer look shows that including all publications from sources in this subfield would result in the inclusion of psychology studies that are out of the scope of this SDG. Therefore, the final search string is based on a list of phrases from Elsevier's query enriched by those found by CorTexT. 89% of respondents agreed that the proposed publications were related to this SDG.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0012" view="all">
+                     <ce:label>3.9</ce:label>
+                     <ce:section-title id="cesectitle0015">SDG 6: clean water and sanitation</ce:section-title>
+                     <ce:para id="para0051" view="all">There is a great amount of papers about water-related issues, in many disciplines. Mining the text of the reference corpus has enabled the identification of unambiguous expressions:<ce:list id="celist0007">
+                           <ce:list-item id="celistitem0019">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0052" view="all">management of the water, water pollutant, polluted water, pollutants in water, pollutants from water, pollution of water, pollution in water, pollution water, pollution in the water, water and pollution, pollutants water, water by pollutants, water from pollutants, water purification, purification of water, water quality, quality of water, water recycling, recycling water, recycle water, water reuse</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0053" view="all">Other terms, such as monograms like <ce:italic>quality</ce:italic> or <ce:italic>pollution</ce:italic> are combined with <ce:italic>water</ce:italic> or <ce:italic>sanitation</ce:italic>. And of course all publications of sources in the subfield of <ce:italic>Water Science and Technology</ce:italic> are associated with SDG 6.</ce:para>
+                     <ce:para id="para0054" view="all">65% of respondents agreed that the proposed publications were related to this SDG but they did not perceive that publications dealing with groundwater pollution were indeed related to this SDG.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0013" view="all">
+                     <ce:label>3.10</ce:label>
+                     <ce:section-title id="cesectitle0016">SDG 7: affordable and clean energy</ce:section-title>
+                     <ce:para id="para0055" view="all">The initial trials with Elsevier's query show that the phrase <ce:italic>solar energy</ce:italic> returns too many hits related to astronomy. They also show that it is too risky to use <ce:italic>renewable</ce:italic> alone which is an adjective that can be applied to many other things than energy:<ce:list id="celist0008">
+                           <ce:list-item id="celistitem0020">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0056" view="all">renewable neural implant, renewable material, renewable mandates</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0057" view="all">On the other hand, subfields related to medicine and life sciences have been excluded because the word <ce:italic>energy</ce:italic>, alone or in a phrase, can be polysemic:<ce:list id="celist0009">
+                           <ce:list-item id="celistitem0021">
+                              <ce:label>(2)</ce:label>
+                              <ce:para id="para0058" view="all">It is possible that a low energy diet could ameliorate the unfavorable effects of G allele of HSP70.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0022">
+                              <ce:label>(3)</ce:label>
+                              <ce:para id="para0059" view="all">Thus, the essential proteins associated with physiological activities were significantly upregulated, while those related to energy production were significantly downregulated.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0023">
+                              <ce:label>(4)</ce:label>
+                              <ce:para id="para0060" view="all">The unit energy consumption was predicted by artificial neural network (ANN), and the recovered moisture adsorption of activated alumina was measured by the dynamic adsorption test.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0061" view="all">We disagree with <ce:cross-ref id="crf0022" refid="bib0010">[10]</ce:cross-ref> to include <ce:italic>life cycle assessment</ce:italic> in the search string for SDG 7. It seems to be more relevant for SDG 12 dedicated to responsible consumption and production. The main difficulty here lies in publications in chemistry, which we finally decided to include, since they encompass, for example, works on lithium-ion batteries, which are consistent with SDG 7 targets.</ce:para>
+                     <ce:para id="para0062" view="all">Despite these adjustments, only 49% of participants agreed to say publications submitted to them matched the SDG. Indeed, the bi-gram <ce:italic>energy conservation</ce:italic> leads to the retrieval of many false positives, mainly publications in mathematics mentioning a concept called <ce:italic>energy conservation</ce:italic> but irrelevant for SDG 7 targets. Therefore, rather than setting aside all publications in mathematics, we try to exclude those that mention both <ce:italic>energy conservation</ce:italic> and other terms that are strong signals that the topic is not related to energy storage:<ce:list id="celist0010">
+                           <ce:list-item id="celistitem0024">
+                              <ce:label>(5)</ce:label>
+                              <ce:para id="para0063" view="all">dissipative, dissipation, energy variable, energy–momentum conservation, pseudo-energy</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                  </ce:section>
+                  <ce:section id="sec0014" view="all">
+                     <ce:label>3.11</ce:label>
+                     <ce:section-title id="cesectitle0017">SDG 8: decent work and economic growth</ce:section-title>
+                     <ce:para id="para0064" view="all">We first take all publications from <ce:italic>Organizational Behavior and Human Resource Management</ce:italic> and the 4 subfields included in economics (<ce:italic>General Economics, Econometrics and Finance, Economics, Econometrics and Finance (miscellaneous), Economics and Econometrics</ce:italic>) and combine them with words like <ce:italic>sustainable</ce:italic> or <ce:italic>sustainability</ce:italic>. We have chosen not to take all of the research in economics so as not to automatically include research about finance or marketing that is not related to sustainability nor is it related to decent work.</ce:para>
+                     <ce:para id="para0065" view="all">Another part of the query is constructed by intersecting the subfield of <ce:italic>Development</ce:italic> with work-related expressions such as:<ce:list id="celist0011">
+                           <ce:list-item id="celistitem0025">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0066" view="all">worker, workfare, employment, profession, employee, human resource, work participation, recruitment, workplace, career</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0067" view="all">The other part of the query is a list of unambiguous phrases directly related to SDG 8.</ce:para>
+                     <ce:para id="para0068" view="all">67% of respondents agreed that the publications retrieved with this query were related to this SDG.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>3.12</ce:label>
+                     <ce:section-title id="cesectitle0018">SDG 9: industry, innovation, and infrastructure</ce:section-title>
+                     <ce:para id="para0069" view="all">For this query, we target works on infrastructure, innovation and industry using monograms in (12) combined with the <ce:italic>Development</ce:italic> subfield, which appears first in terms of percentage of publications in the reference corpus (after our standardization operation).<ce:list id="celist0012">
+                           <ce:list-item id="celistitem0026">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0070" view="all">innovation, industrial, industrialization, industrialization, industry, industries, manufacturing, infrastructure, enterprise, entrepreneur, [Infra]</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0071" view="all">We also target the publications from the following relevant subfields: <ce:italic>Industrial and Manufacturing Engineering, Management of Technology and Innovation</ce:italic> and <ce:italic>Computer Networks and Communications</ce:italic>. Furthermore, we take advantage of the following subfields to access the scientific outputs dedicated to infrastructure: <ce:italic>Civil and Structural Engineering, Building and Construction, Architecture, Transportation, Safety, Risk, Reliability and Quality, Geotechnical Engineering and Engineering Geology</ce:italic>. In order to limit unwanted hits, we combine them with terms referring to infrastructure ([Infra] variable).</ce:para>
+                     <ce:para id="para0072" view="all">Then, with CorTexT we find expressions that can enrich the original list from Elsevier. Finally, we remove the expression <ce:italic>traffic congestion</ce:italic> which overwrites all the results even though it is not central in the SDG.</ce:para>
+                     <ce:para id="para0073" view="all">72% of the participants confirmed that the publications returned by this query are relevant for this SDG.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0016" view="all">
+                     <ce:label>3.13</ce:label>
+                     <ce:section-title id="cesectitle0019">SDG 10: reducing inequalities</ce:section-title>
+                     <ce:para id="para0074" view="all">This SDG is clearly cross-cutting, as indicated by the sentence that describes it in the UN's description: “;Reducing inequalities and ensuring no one is left behind are integral to achieving the Sustainable Development Goals.”; We therefore chose to keep close to the UN presentation text. Nevertheless, we pay particular attention to the words <ce:italic>migration, immigration, emigration</ce:italic>, and <ce:italic>migrant</ce:italic> which may have other meanings as examples in (13)(13) show:<ce:list id="celist0013">
+                           <ce:list-item id="celistitem0027">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0075" view="all">atom migration, migrant mesozooplankton, credit risk migration, migrant birds</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0076" view="all">To avoid out of the scope results, we cautiously combine those words with all subfields in <ce:italic>Economics, Econometrics and Finance</ce:italic> and the subfields of <ce:italic>Sociology and Political Science, Demography, Geography, Planning and Development, Political Science and International Relations</ce:italic>. The remaining part of the query is based on unambiguous expressions related to the SDG.</ce:para>
+                     <ce:para id="para0077" view="all">75% of the participants classified the publications we submitted to them as relevant.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0017" view="all">
+                     <ce:label>3.14</ce:label>
+                     <ce:section-title id="cesectitle0020">SDG 11: sustainable cities and communities</ce:section-title>
+                     <ce:para id="para0078" view="all">We use the entire <ce:italic>Urban studies</ce:italic> subfield. For the subfields of <ce:italic>Waste Management and Disposal, Transportation</ce:italic> and <ce:italic>Geography, Planning and Development</ce:italic>, we combine them with words that restrict the topic of “;city”;:<ce:list id="celist0014">
+                           <ce:list-item id="celistitem0028">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0079" view="all">city, cities, human settlement, human settlements, urban, metropolitan, metropole, town, municipal, municipality, municipalities</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0080" view="all">We use these same words combined with others for the rest of the query which is based on a list of non-polysemic phrases.</ce:para>
+                     <ce:para id="para0081" view="all">A large majority (80%) of respondents confirms the query returns relevant publications for this SDG.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0018" view="all">
+                     <ce:label>3.15</ce:label>
+                     <ce:section-title id="cesectitle0021">SDG 12: responsible consumption and production</ce:section-title>
+                     <ce:para id="para0082" view="all">We rapidly identify that publications from sources within the fields of <ce:italic>Environmental Chemistry, Environmental Engineering</ce:italic>, and <ce:italic>Waste management and disposal</ce:italic> must all be considered for this SDG. Then to avoid out-of-scope results, we target the field of <ce:italic>Environmental Science</ce:italic> for the part of the query based on <ce:italic>consumer behavior</ce:italic> and <ce:italic>behavioural economics</ce:italic>. Lastly, the remaining part of the query is a list of unambiguous expressions related to SDG 12.</ce:para>
+                     <ce:para id="para0083" view="all">74% of respondents agreed that the publications we submitted to them do relate to this SDG.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0019" view="all">
+                     <ce:label>3.16</ce:label>
+                     <ce:section-title id="cesectitle0022">SDG 13: climate action</ce:section-title>
+                     <ce:para id="para0084" view="all">To begin with, all publications from sources related to the subfields of <ce:italic>Atmospheric science</ce:italic> and <ce:italic>Global and planetary change</ce:italic> are relevant to SDG 13. Then to target the issues of climate change within the publications from sources in the 13 subfields of the field of <ce:italic>Environmental science</ce:italic>, we apply to these subfields a weak constraint with the variants designating <ce:italic>climate</ce:italic> and <ce:italic>atmosphere</ce:italic>. Lastly, the query is completed by a list of unambiguous expressions on the topic. We considered it inappropriate to set aside the publications in <ce:italic>Paleontology</ce:italic> as the works in this field also contribute to research on current climate problems.</ce:para>
+                     <ce:para id="para0085" view="all">65% of respondents confirmed the publications we associated to this SDG are indeed relevant to its targets.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>3.17</ce:label>
+                     <ce:section-title id="cesectitle0023">SDG 14: life below water</ce:section-title>
+                     <ce:para id="para0086" view="all">We identify the subfields of <ce:italic>Oceanography</ce:italic> and <ce:italic>Aquatic Science</ce:italic> as the most relevant and set up the search string to retrieve all publications related to them.</ce:para>
+                     <ce:para id="para0087" view="all">We take the position that <ce:italic>lakes, rivers, mangroves, deltas</ce:italic> etc. are also concerned even if the description of the SDG focuses on seas and oceans. But we are comforted in this choice by a UN publication on Lake Tanganyika highlighted on one of the SDG 14 web pages.</ce:para>
+                     <ce:para id="para0088" view="all">We also include in the query unambiguous <ce:italic>n</ce:italic>-grams, and more polysemic ones that we combine with the “;below water vocabulary”; 0 and exclude the fields of health and medicine.<ce:list id="celist0015">
+                           <ce:list-item id="celistitem0029">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0089" view="all">marine, submarine, maritime, ocean, sea, lake, delta, wetland, river, mangrove, estuary</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0090" view="all">57% of respondents agreed that the selected publications were related to this SDG. Some of the publications they rejected were about the study of waves. We admit that we do not have any certainty on this issue, in any case it must depend on the related topics dealt with in these papers.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0021" view="all">
+                     <ce:label>3.18</ce:label>
+                     <ce:section-title id="cesectitle0024">SDG 15: life on land</ce:section-title>
+                     <ce:para id="para0091" view="all">First we rule out the specific subfield of <ce:italic>Astronomy and Astrophysics</ce:italic>. Then, we target publications from sources associated with the following subfields: <ce:italic>Nature and Landscape Conservation, Forestry, Earth-Surface Processes, Soil Science, Animal Science and Zoology, Insect Science</ce:italic> but we exclude publications mentioning the “;below water vocabulary”; of SDG 14 (15).</ce:para>
+                     <ce:para id="para0092" view="all">Then we develop a list of unambiguous expressions that we look for in all subfields except medicine and health. Some phrases could also apply to SDG 14, thus, in order to avoid unwanted results, we combine them with words expressing life on land.</ce:para>
+                     <ce:para id="para0093" view="all">54% of the participants reported that the publications we had suggested for this SDG did not match. This allowed us to identify a very difficult problem to deal with regarding the words <ce:italic>forest</ce:italic> or <ce:italic>forestry</ce:italic>. They have a very common meaning in computer science. As a consequence, we have improved the query by adding a list of words to be excluded:<ce:list id="celist0016">
+                           <ce:list-item id="celistitem0030">
+                              <ce:label>(1)</ce:label>
+                              <ce:para id="para0094" view="all">tree set, tree set, magnetic resonance, wireless sensor, tree graph, stack tree, decision tree, poset, operad, algebra, tree-wise, tree wise, tree of shapes, mathematics, tree structured data, tree-structured data</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                  </ce:section>
+                  <ce:section id="sec0022" view="all">
+                     <ce:label>3.19</ce:label>
+                     <ce:section-title id="cesectitle0025">SDG 16: peace, justice and strong institutions</ce:section-title>
+                     <ce:para id="para0095" view="all">For this query, we select all publications related to the following subfields that have been identified as the most relevant<ce:italic>: Health (social science), Law, Safety Research, Sociology and Political Science, Political Science and International Relations, Public Administration</ce:italic>.</ce:para>
+                     <ce:para id="para0096" view="all">In the second part of the query, we enumerate a range of specific expressions and combine them with all the fields that are not related to medicine.</ce:para>
+                     <ce:para id="para0097" view="all">This SDG was very problematic as 55% of the respondents rejected our proposals. These rejections are mainly due to the inclusion of the <ce:italic>Sociology and Political Science</ce:italic> subfield. More data should to be collected to make a more refined assessment in order to measure the benefits and drawbacks of including this field. We can suggest to adjust the query according to the corpus of publications being reviewed.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0023" view="all">
+                  <ce:section-title id="cesectitle0026">Ethics Statement</ce:section-title>
+                  <ce:para id="para0098" view="all">The recruitment of participants was carried out via the internal mail servers of Ecole des Ponts without any specific targeting other than the researchers of the institution. Moreover, access to the questionnaire was via a unique independent URL (i.e.: no token was used and therefore there is no possibility to link the participant to his/her set of answers in LimeSurvey). Respondents’ involvement was completely anonymous and voluntary; they had to give their informed consent for inclusion before they could participate in the survey. They were informed that the survey was anonymous and that no personal data was collected. Only the answers to the questions were collected.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0001" view="all">
+               <ce:section-title id="cesectitle0027">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="para0100" view="all">The author declares that she has no known competing financial interests or personal relationships, which have, or could be perceived to have, influenced the work reported in this article.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:appendices view="all">
+               <ce:section id="sec0024" view="compact-standard">
+                  <ce:section-title id="cesectitle9001">Supplementary Materials</ce:section-title>
+                  <ce:para id="para0002a" view="all">Supplementary material associated with this article can be found in the online version at doi:<ce:inter-ref id="interref0004" xlink:href="https://doi.org/10.1016/j.dib.2021.106731" xlink:type="simple">10.1016/j.dib.2021.106731</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0025" view="extended">
+                  <ce:label>Appendix</ce:label>
+                  <ce:section-title id="cesectitle9002">Supplementary materials</ce:section-title>
+                  <ce:para id="para0099a" view="all">
+                     <ce:display>
+                        <ce:e-component id="ecom0001">
+                           <ce:alt-text id="alt0004" role="short">Image, application 1</ce:alt-text>
+                           <ce:link id="celink0002" locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S2352340921000172/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0028">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="sbref0001">
+                        <ce:textref>United Nations, take action for the sustainable development goals – United Nations sustainable development, (2020). <ce:inter-ref id="interref0005" xlink:href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/" xlink:type="simple">https://www.un.org/sustainabledevelopment/sustainable-development-goals/</ce:inter-ref> (accessed October 22, 2020).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="sbref0002">
+                        <ce:textref>United Nations, resolution adopted by the general assembly on 6 july 2017, 2017. <ce:inter-ref id="interref0006" xlink:href="https://undocs.org/A/RES/71/313" xlink:type="simple">https://undocs.org/A/RES/71/313</ce:inter-ref> (accessed October 22, 2020).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Armitage</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lorenz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mikki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping scholarly publications related to the sustainable development goals: do independent bibliometric approaches get the same results?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Quant. Sci. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1092</sb:first-page>
+                              <sb:last-page>1108</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>https://doi.org/10.1162/qss_a_00071</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0003">C.S. Armitage, M. Lorenz, S. Mikki, Mapping scholarly publications related to the sustainable development goals: do independent bibliometric approaches get the same results?, Quant. Sci. Stud.1 (2020) 1092–1108. https://doi.org/10.1162/qss_a_00071.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wuelser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Pohl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How researchers frame scientific contributions to sustainable development: a typology based on grounded theory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustain. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>789</sb:first-page>
+                              <sb:last-page>800</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s11625-016-0363-7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">G. Wuelser, C. Pohl, How researchers frame scientific contributions to sustainable development: a typology based on grounded theory, Sustain. Sci.11 (2016) 789–800. 10.1007/s11625-016-0363-7.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="sbref0005">
+                        <ce:textref>M. Vanderfeesten, R. Otten, E. Spielberg, Search queries for “mapping research output to the sustainable development goals (SDGs)” v5.0, Zenodo. (2020). doi:<ce:inter-ref id="interref0001k" xlink:href="https://doi.org/10.5281/ZENODO.3817445" xlink:type="simple">10.5281/ZENODO.3817445</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>The Power of Data to Advance the SDGs Mapping Research for the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Elsevier, The Power of Data to Advance the SDGs Mapping Research for the Sustainable Development Goals, 2020.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.O.</ce:given-name>
+                                 <ce:surname>Olawumi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.M.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A scientometric review of global research on sustainability and sustainable development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>183</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>231</sb:first-page>
+                              <sb:last-page>250</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jclepro.2018.02.162</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">T.O. Olawumi, D.W.M. Chan, A scientometric review of global research on sustainability and sustainable development, J. Clean. Prod.183 (2018) 231–250. 10.1016/j.jclepro.2018.02.162.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="sbref0008">
+                        <ce:textref>A. Mistry, H. Sellers, Scopus SDG search query codes. Dataset, Univ. Leicester Data Repos. (2020). doi:<ce:inter-ref id="interref0001ke" xlink:href="https://doi.org/10.25392/leicester.data.12839552.v1" xlink:type="simple">10.25392/leicester.data.12839552.v1</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-.U.</ce:given-name>
+                                 <ce:surname>Hassan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Haddawy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A bibliometric study of the world's research activity in sustainable development and its sub-areas using scientific literature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scientometrics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>549</sb:first-page>
+                              <sb:last-page>579</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s11192-013-1193-3</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">S.-.U. Hassan, P. Haddawy, J. Zhu, A bibliometric study of the world's research activity in sustainable development and its sub-areas using scientific literature, Scientometrics. 99 (2014) 549–579. 10.1007/s11192-013-1193-3.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref id="sbref0010">
+                        <ce:textref>B. Jayabalasingham, R. Boverhof, K. Agnew, L. Klein, Identifying research supporting the United Nations sustainable development goals, Mendeley Data. (2019). doi:<ce:inter-ref id="interref0001kd" xlink:href="https://doi.org/10.17632/87TXKW7KHS.1" xlink:type="simple">10.17632/87TXKW7KHS.1</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Meschede</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The sustainable development goals in scientific literature: a bibliometric overview at the meta-level</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4461</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/su12114461</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">C. Meschede, The sustainable development goals in scientific literature: a bibliometric overview at the meta-level, Sustainability. 12 (2020) 4461. 10.3390/su12114461.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bordignon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tracking content updates in Scopus (2011-2018): a quantitative analysis of journals per subject category and subject categories per journal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>17th International Conference on Scientometrics and Informatics ISSI 2019 - Proceeding</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2019</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">F. Bordignon, Tracking content updates in Scopus (2011-2018): a quantitative analysis of journals per subject category and subject categories per journal, in: 17th International Conference on Scientometrics and Informatics ISSI 2019 - Proceeding, 2019.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="sbref0013">
+                        <ce:textref>F. Bordignon, A scientometric review of permafrost research based on textual analysis (1948–2020), Scientometrics. (2020). doi:<ce:inter-ref id="interref0001kb" xlink:href="https://doi.org/10.1007/s11192-020-03747-4" xlink:type="simple">10.1007/s11192-020-03747-4</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

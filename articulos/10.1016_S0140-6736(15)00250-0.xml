@@ -1,0 +1,664 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673615002500</prism:url><dc:identifier>doi:10.1016/S0140-6736(15)00250-0</dc:identifier><eid>1-s2.0-S0140673615002500</eid><prism:doi>10.1016/S0140-6736(15)00250-0</prism:doi><pii>S0140-6736(15)00250-0</pii><dc:title>A Lancet Commission on sexual and reproductive health and rights: going beyond the Sustainable Development Goals </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>01406736</prism:issn><prism:volume>386</prism:volume><prism:issueIdentifier>9999</prism:issueIdentifier><prism:startingPage>1111</prism:startingPage><prism:endingPage>1112</prism:endingPage><prism:pageRange>1111-1112</prism:pageRange><prism:number>9999</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2015-09-25</prism:coverDate><prism:coverDisplayDate>19–25 September 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Starrs, Ann</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673615002500" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673615002500" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="114" height="164" size="18381">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673615002500-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="181" height="261" size="43611">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673615002500-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="482" height="694" size="119866">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673615002500-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84942133046</scopus-id><scopus-eid>2-s2.0-84942133046</scopus-eid><pubmed-id>26461889</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84942133046" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150918">2015-09-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150918">2015-09-18</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20150918">2015-09-18</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20150918">2015-09-18</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-02-16T20:54:29</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673615002500</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(15)00250-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673615002500</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(15)00250-0</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673615X00055</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160829">2016-08-29T17:37:32.589034-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150919</xocs:date-search-begin>
+      <xocs:date-search-end>20150925</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1442550365">2015-09-18T04:26:05.24599Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>386</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>386</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9999</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9999</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 386, Issue 9999</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>1111</xocs:first-fp>
+      <xocs:last-lp>1112</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1111</xocs:first-page>
+         <xocs:last-page>1112</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20150919</xocs:start-date>
+         <xocs:end-date>20150925</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>19–25 September 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-09-19</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-09-25</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ALANCETCOMMISSIONSEXUALREPRODUCTIVEHEALTHRIGHTSGOINGBEYONDSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>STARRS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(15)00248-2</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673615002482</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10"/>
+         <xocs:ref-info refid="sbref20"/>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>HOWUNIVERSALACCESSREPRODUCTIVEHEALTHAREVIEWEVIDENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>REQUEJO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>466</xocs:ref-first-fp>
+            <xocs:ref-last-lp>476</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ADDINGUPCOSTSBENEFITSINVESTINGINSEXUALREPRODUCTIVEHEALTH2014</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60"/>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>INDICATORSAMONITORINGFRAMEWORKFORSUSTAINABLEDEVELOPMENTGOALSLAUNCHINGADATAREVOLUTIONFORSDGS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>REPORTFORTYSEVENTHSESSIONAPRIL262013APRIL7112014E201425ECN920147</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90"/>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-normalized-surname>BAROT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>22</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref110"/>
+         <xocs:ref-info refid="sbref120">
+            <xocs:ref-normalized-surname>GLASIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1595</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1607</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref130">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>BRIEFINGCARDSSEXUALREPRODUCTIVEHEALTHRIGHTSSRHRPOST2015DEVELOPMENTAGENDA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>STARRSX2015X1111</xocs:refkey3>
+         <xocs:refkey4lp>STARRSX2015X1111X1112</xocs:refkey4lp>
+         <xocs:refkey4ai>STARRSX2015X1111XA</xocs:refkey4ai>
+         <xocs:refkey5>STARRSX2015X1111X1112XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2016-03-18T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>Open</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(15)00250-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673615002500</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673615002500</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(15)00250-0</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2016-02-16T16:04:21.730641-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-09-19</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-09-25</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673615002500-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615002500/MAIN/application/pdf/f3063c5cf603662409ca173c547e2957/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615002500/MAIN/application/pdf/f3063c5cf603662409ca173c547e2957/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>115516</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673615002500-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615002500/PREVIEW/image/png/0fc6c228668e106740c0b71410655c4c/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615002500/PREVIEW/image/png/0fc6c228668e106740c0b71410655c4c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61955</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673615002500-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615002500/fx1/THUMBNAIL/image/gif/5357203217fbaee245b1c22bdccab177/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615002500/fx1/THUMBNAIL/image/gif/5357203217fbaee245b1c22bdccab177/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18381</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>114</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673615002500-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615002500/fx1/DOWNSAMPLED/image/jpeg/de71a6394f790c36336f1e47752055aa/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615002500/fx1/DOWNSAMPLED/image/jpeg/de71a6394f790c36336f1e47752055aa/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43611</xocs:filesize>
+               <xocs:pixel-height>261</xocs:pixel-height>
+               <xocs:pixel-width>181</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673615002500-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615002500/fx1/HIGHRES/image/jpeg/8be94e98828cc3007d7d3200c6372bac/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615002500/fx1/HIGHRES/image/jpeg/8be94e98828cc3007d7d3200c6372bac/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>119866</xocs:filesize>
+               <xocs:pixel-height>694</xocs:pixel-height>
+               <xocs:pixel-width>482</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>288</aid>
+            <ce:pii>S0140-6736(15)00250-0</ce:pii>
+            <ce:doi>10.1016/S0140-6736(15)00250-0</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S0140-6736(15)00248-2</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(15)00248-2</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">A <ce:italic>Lancet</ce:italic> Commission on sexual and reproductive health and rights: going beyond the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10">
+                  <ce:given-name>Ann</ce:given-name>
+                  <ce:surname>Starrs</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Guttmacher Institute, New York, NY 10038, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Guttmacher Institute</sa:organization>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:postal-code>10038</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">The Sustainable Development Goals (SDGs), which will define a global development agenda for the next 15 years, will be formally adopted by the UN on Sept 25–27 at the United Nations Sustainable Development Summit 2015 in New York, USA. It is hard to imagine that anything of importance could have been left out of the 17 goals and 169 targets included in <ce:italic>Transforming our World: the 2030 Agenda for Sustainable Development</ce:italic>, which lays out an integrated, multifaceted “plan of action for people, planet and prosperity”.<ce:cross-refs id="cecrefs10" refid="bib1 bib2">
+                     <ce:sup loc="post">1,2</ce:sup>
+                  </ce:cross-refs> The SDGs are comprehensive, visionary, and inspiring in many ways. But in at least one respect they fall short: they take a narrow view of sexual and reproductive health and rights, one of the most crucial, but also most controversial, parts of the SDG agenda.</ce:para>
+               <ce:para id="para20" view="all">There are two targets in the SDGs that explicitly mention sexual and reproductive health. Target 3.7, under the health goal, states: “By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes.”<ce:cross-ref id="cecref20" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> Target 5.6, part of the gender goal, aims to “Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences.”<ce:cross-ref id="cecref30" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> These targets offer a solid basis for moving forward on sexual and reproductive health and rights; they explicitly mention family planning and the integration of reproductive health into national health strategies, and they reference the 1994 International Conference on Population and Development (ICPD) and 1995 Beijing outcome documents, which together provide a broad (but now outdated) definition of sexual and reproductive health and rights. In this respect, the SDGs do better than the Millennium Development Goals (MDGs), which completely omitted reproductive health when they were adopted in 2000. A reproductive health target was only included in the MDGs 7 years after their adoption in response to a sustained campaign by advocates.<ce:cross-ref id="cecref40" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> Other SDG targets will address additional aspects of sexual and reproductive health and rights, including maternal and newborn health and HIV/AIDS (targets 3.1, 3.2, and 3.3), on which progress during the past 15 years has been substantial but not enough to meet the MDG health goals.<ce:cross-refs id="cecrefs20" refid="bib4 bib5">
+                     <ce:sup loc="post">4,5</ce:sup>
+                  </ce:cross-refs>
+               </ce:para>
+               <ce:para id="para30" view="all">It is unlikely, however, that the monitoring framework for the SDGs—to be adopted in March, 2016, by the Inter-Agency and Expert Group on SDG Indicators<ce:cross-ref id="cecref50" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref>—will include more than a few indicators for sexual and reproductive health and rights. On the basis of recommendations to date, these indicators are likely to cover family planning, adolescent fertility, and perhaps comprehensive sexuality education.<ce:cross-ref id="cecref60" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> The SDGs are not likely to encompass other important elements of sexual and reproductive health and rights, including safe abortion, non-discrimination based on sexual orientation or gender identity, and the importance of high-quality, confidential, and timely sexual and reproductive health services.</ce:para>
+               <ce:para id="para40" view="all">The sexual and reproductive health and rights community has been down this road before. In the past 2 years, the UN marked the 20th anniversaries of ICPD and Beijing. These events were notable primarily for opposition from some member states and their conservative allies to abortion, adolescent sexual and reproductive health services, and sexual rights. As a result, the outcomes of these anniversary events reaffirmed the ICPD Programme of Action and the Beijing Platform for Action, but did not advance the agenda on sexual and reproductive health and rights in any substantial way.<ce:cross-refs id="cecrefs30" refid="bib8 bib9 bib10">
+                     <ce:sup loc="post">8–10</ce:sup>
+                  </ce:cross-refs> One women's rights group described the political declaration that emerged from the Beijing 20th anniversary process as “not what women need”.<ce:cross-ref id="cecref70" refid="bib11">
+                     <ce:sup loc="post">11</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para50" view="all">Clearly, UN processes alone cannot be relied on to articulate a progressive and evidence-based vision of how to move forward on sexual and reproductive health and rights. And so the Guttmacher Institute and <ce:italic>The Lancet</ce:italic> are establishing a Commission on sexual and reproductive health and rights in the post-2015 world. The Commission will begin work in early 2016 with the aim of developing a wide-ranging and evidence-based agenda for key sexual and reproductive health and rights priorities worldwide over the next 15 years; just as important, it will also make the case for the adoption of policies and programmes to turn that vision into reality. Although it will encompass all elements of sexual and reproductive health and rights, the Commission will emphasise important concerns that have been overlooked or neglected in the SDGs, such as the availability of safe abortion and access to high-quality sexual and reproductive health information and services, including for adolescents, men, and sexual minorities, that respect sexual and reproductive rights and prioritise the needs of vulnerable and neglected populations.</ce:para>
+               <ce:para id="para60" view="all">The Commission will articulate a vision, define priorities, and produce a set of recommendations for sexual and reproductive health and rights on the basis of the best available evidence. In doing so, it will build on and update <ce:italic>The Lancet</ce:italic>'s 2006 Series on sexual and reproductive health,<ce:cross-ref id="cecref80" refid="bib12">
+                     <ce:sup loc="post">12</ce:sup>
+                  </ce:cross-ref> which summarised available evidence and noted the influence of conservative forces in undermining progress on these issues. The Commission's recommendations will also take into account what the sexual and reproductive health and rights community sees as the core challenges to be addressed and the key actions that need to be taken. We anticipate that the Commission's report will generate greater understanding of the centrality of sexual and reproductive health and rights to the broader health and development agendas, and inspire deeper engagement by civil society, donors, governments, and other stakeholders.</ce:para>
+               <ce:para id="para70" view="all">Sexuality and reproduction are, after all, universal concerns that affect every human being. Although there has been great progress in recent decades, the global community must now expedite and expand that progress to be more inclusive and comprehensive. A new agenda for sexual and reproductive health and rights is needed that recognises the full scope of people's sexual and reproductive health needs, and enables all people to choose whether, when, and with whom to engage in sexual activity; to choose whether and when to have children; and to access the means to do so in good health.<ce:cross-ref id="cecref90" refid="bib13">
+                     <ce:sup loc="post">13</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para80" view="all">
+                  <ce:display>
+                     <ce:figure id="f10">
+                        <ce:copyright type="other" year="2015">Guttmacher Institute</ce:copyright>
+                        <ce:link locator="fx1"/>
+                     </ce:figure>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="para90" role="acknowledgement" view="all">I am President and CEO of the Guttmacher Institute. I declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations General Assembly</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Draft outcome document of the United Nations summit for the adoption of the post-2015 development agenda, “Transforming our world: the 2030 agenda for sustainable development”. United Nations General Assembly A/69/L.85</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="http://www.un.org/ga/search/view_doc.asp?symbol=A/69/L.85&amp;Lang=E" xlink:type="simple">http://www.un.org/ga/search/view_doc.asp?symbol=A/69/L.85&amp;Lang=E</ce:inter-ref>
+                              <sb:date>Aug 12, 2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Sept 3, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Consensus reached on new sustainable development agenda to be adopted by world leaders in September</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="http://www.un.org/sustainabledevelopment/blog/2015/08/transforming-our-world-document-adoption/" xlink:type="simple">http://www.un.org/sustainabledevelopment/blog/2015/08/transforming-our-world-document-adoption/</ce:inter-ref>
+                              <sb:date>Aug 2, 2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Sept 3, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UNFPA</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>How universal is access to reproductive health? A review of the evidence</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Population Fund</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Requejo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Bryce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Barros</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Countdown to 2015 and beyond: fulfilling the health agenda for women and children</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>385</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>466</sb:first-page>
+                              <sb:last-page>476</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JE</ce:given-name>
+                                 <ce:surname>Darroch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>LS</ce:given-name>
+                                 <ce:surname>Ashford</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Adding it up: the costs and benefits of investing in sexual and reproductive health 2014</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Guttmacher Institute</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Terms of reference for the Inter-agency Expert Group on Sustainable Development Goal Indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="http://unstats.un.org/files/IAEG-SDGs%20-%20Terms%20of%20Reference%20(April%202015).pdf" xlink:type="simple">http://unstats.un.org/files/IAEG-SDGs%20-%20Terms%20of%20Reference%20(April%202015).pdf</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Sept 3, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Sustainable Development Solutions Network</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Indicators and a monitoring framework for the Sustainable Development Goals: launching a data revolution for the SDGs</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Sustainable Development Solutions Network</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:href="http://unsdsn.org/wp-content/uploads/2015/05/150612-FINAL-SDSN-Indicator-Report1.pdf" xlink:type="simple">http://unsdsn.org/wp-content/uploads/2015/05/150612-FINAL-SDSN-Indicator-Report1.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Sept 3, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations Economic and Social Council</sb:collaboration>
+                              <sb:collaboration>Commission on Population and Development</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Report on the forty-seventh session (April 26, 2013 and April 7–11, 2014). E/2014/25-E/CN.9/2014/7</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Economic and Social Council</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations Economic and Social Council</sb:collaboration>
+                              <sb:collaboration>Commission on the Status of Women</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Draft resolution: political declaration on the occasion of the twentieth anniversary of the Fourth World Conference on Women. E/CN.6/2015/L.1</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs50" xlink:href="http://www.un.org/ga/search/view_doc.asp?symbol=E/CN.6/2015/L.1" xlink:type="simple">http://www.un.org/ga/search/view_doc.asp?symbol=E/CN.6/2015/L.1</ce:inter-ref>
+                              <sb:date>March 5, 2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Sept 3, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Barot</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Looking back while moving forward: marking 20 years since the International Conference on Population and Development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Guttmacher Policy Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>22</sb:first-page>
+                              <sb:last-page>27</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sbref110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Development Alternatives for Women in a New ERA (DAWN)</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Statement on the political declaration on the occasion of the 20th anniversary of the Fourth World Conference on Women</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs60" xlink:href="http://www.dawnnet.org/feminist-resources/content/statement-political-declaration-occasion-20th-anniversary-fourth-world-conference-women?tid=11" xlink:type="simple">http://www.dawnnet.org/feminist-resources/content/statement-political-declaration-occasion-20th-anniversary-fourth-world-conference-women?tid=11</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Sept 3, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Glasier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Gulmezoglu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Schmid</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sexual and reproductive health: a matter of life and death</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>368</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1595</sb:first-page>
+                              <sb:last-page>1607</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sbref130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Family Care International</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Briefing cards: sexual and reproductive health and rights (SRHR) and the post-2015 development agenda</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Family Care International</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs70" xlink:href="http://www.unfoundation.org/what-we-do/campaigns-and-initiatives/universal-access-project/briefing-cards-srhr.pdf" xlink:type="simple">http://www.unfoundation.org/what-we-do/campaigns-and-initiatives/universal-access-project/briefing-cards-srhr.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Sept 3, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

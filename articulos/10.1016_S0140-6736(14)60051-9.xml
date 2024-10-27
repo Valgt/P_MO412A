@@ -1,0 +1,186 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673614600519</prism:url><dc:identifier>doi:10.1016/S0140-6736(14)60051-9</dc:identifier><eid>1-s2.0-S0140673614600519</eid><prism:doi>10.1016/S0140-6736(14)60051-9</prism:doi><pii>S0140-6736(14)60051-9</pii><dc:title>Grand convergence: a future sustainable development goal? </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>01406736</prism:issn><prism:volume>383</prism:volume><prism:issueIdentifier>9913</prism:issueIdentifier><prism:startingPage>187</prism:startingPage><prism:pageRange>187</prism:pageRange><prism:number>9913</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2014-01-24</prism:coverDate><prism:coverDisplayDate>18–24 January 2014</prism:coverDisplayDate><prism:copyright>Copyright © 2014 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>The Lancet, </dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673614600519" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673614600519" rel="scidir"/></coredata><objects><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="181" height="236" size="22518">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673614600519-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="163" size="17947">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673614600519-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="483" height="631" size="101189">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673614600519-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84892593204</scopus-id><scopus-eid>2-s2.0-84892593204</scopus-eid><pubmed-id>24438854</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84892593204" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20140115">2014-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20140115">2014-01-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2023-10-27T06:45:14</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673614600519</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(14)60051-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673614600519</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(14)60051-9</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673614X60666</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20231027">2023-10-27T05:57:45.539617Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20140118</xocs:date-search-begin>
+      <xocs:date-search-end>20140124</xocs:date-search-end>
+      <xocs:year-nav>2014</xocs:year-nav>
+      <xocs:indexeddate epoch="1389744000">2014-01-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body articletitle auth authfull authlast doctopic pubtype</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>383</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>383</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9913</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9913</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 383, Issue 9913</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>187</xocs:first-fp>
+      <xocs:pages>
+         <xocs:first-page>187</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20140118</xocs:start-date>
+         <xocs:end-date>20140124</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>18–24 January 2014</xocs:cover-date-text>
+      <xocs:cover-date-start>2014-01-18</xocs:cover-date-start>
+      <xocs:cover-date-end>2014-01-24</xocs:cover-date-end>
+      <xocs:cover-date-year>2014</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2014 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>GRANDCONVERGENCEAFUTURESUSTAINABLEDEVELOPMENTGOAL</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>THELANCET</xocs:normalized-first-auth-surname>
+      <xocs:refkeys>
+         <xocs:refkey3>THELANCETX2014X187</xocs:refkey3>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(14)60051-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673614600519</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673614600519</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(14)60051-9</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2023-10-27T05:57:45.539617Z</xocs:timestamp>
+         <xocs:cover-date-start>2014-01-18</xocs:cover-date-start>
+         <xocs:cover-date-end>2014-01-24</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673614600519-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673614600519/MAIN/application/pdf/fea03bb2b37f5df6b7270c4c5ed679e1/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>168773</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673614600519-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673614600519/PREVIEW/image/png/c770576d876c1b725cd292471e79a5e4/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68628</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673614600519-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673614600519/fx1/DOWNSAMPLED/image/jpeg/83f5f84ca4052398ba91ae4cfc013522/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22518</xocs:filesize>
+               <xocs:pixel-height>236</xocs:pixel-height>
+               <xocs:pixel-width>181</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673614600519-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673614600519/fx1/THUMBNAIL/image/gif/991cdf4a863f246c99c2d6876e0df4a2/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17947</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673614600519-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673614600519/HIGHRES/image/jpeg/e697ab05266a152ba0b148e40d53dc96/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>101189</xocs:filesize>
+               <xocs:pixel-height>631</xocs:pixel-height>
+               <xocs:pixel-width>483</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.2" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>60051</aid>
+            <ce:pii>S0140-6736(14)60051-9</ce:pii>
+            <ce:doi>10.1016/S0140-6736(14)60051-9</ce:doi>
+            <ce:copyright type="full-transfer" year="2014">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Editorial</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Grand convergence: a future sustainable development goal?</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S0140673614600519-0a6c04200d883264ab3baea238c1491c">
+                  <ce:surname>The Lancet</ce:surname>
+               </ce:author>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">On Jan 16, in the North Lawn Building of the United Nations in New York, Norway's Permanent Representative to the UN, Mr Geir Pedersen, is hosting an event that just might change the course of negotiations on the future of sustainable development. The meeting is based on the findings of the <ce:italic>Lancet</ce:italic> Commission on Investing in Health, “Global Health 2035: a world converging within a generation”. Margaret Kruk, one of the commissioners on the Global Health 2035 report, will chair a discussion that includes the Rwandan Minister of Health, Agnes Binagwaho, the President of the Public Health Foundation of India, Srinath Reddy, the US Assistant Administrator for Global Health, Ariel Pablos-Méndez, and Gavin Yamey from the University of California, San Francisco (who led the writing of the report). Their task will be to map “a new pathway to close the health gap between countries”. What might that new pathway be? To choose the idea of grand convergence—a reduction in preventable infectious, maternal, and child deaths to universally low levels—as a sustainable development goal (SDG) after 2015.</ce:para>
+               <ce:para id="para20" view="all">Here is the case for grand convergence as an SDG. A paralysing weakness in the global health community is the rivalry between diseases. The “my disease is more important than your disease” culture dissipates energy that should be directed towards the common goal of achieving the right to the highest attainable standard of health for all. But until now, except for universal health coverage, there has been no comprehensive, all encompassing objective that the global health community could unite behind. Grand convergence provides that opportunity for unity.</ce:para>
+               <ce:para id="para30" view="all">It is also a goal that can be easily operationalised. The Commission concluded that one future challenge will be the high rates of preventable mortality in low-income countries and the poor and rural regions of middle-income nations. Around 70% of the world's poor now live in middle-income settings. The post-2015 era will therefore require a much broader global and country response than has hitherto been seen. These truly global goals for grand convergence can be expressed simply as 16-8-4: an under-5 mortality rate of 16 per 1000 livebirths, an annual AIDS death rate of 8 per 100 000 population, and an annual death rate from tuberculosis of 4 per 100 000 population. These goals can be monitored and interim targets can be set.</ce:para>
+               <ce:para id="para40" view="all">One of the most important advantages grand convergence offers is the inspiring appeal it can generate beyond the health community. The notion that a great prize lies within reach of our generation, the prize of ending preventable mortality, is one that will resonate with political leaders and the public alike. It is a simple message to convey and it is highly motivating. A commitment to grand convergence in no way represents a stepping back from universal health coverage. Grand convergence will not be achieved without universal health coverage. Indeed, the Global Health 2035 report proposes a pro-poor pathway to such coverage, which begins initially by ensuring universal access, with zero user fees, to health services for tackling preventable infectious and reproductive, maternal, newborn, and child health (RMNCH) conditions. The idea of grand convergence enables one to combine simplicity—the goals of 16-8-4—with complexity (these goals will only be reached with a transformational health system response). And as the health system is strengthened, so it will be prepared to address the new epidemic of non-communicable diseases and injuries that the grand convergence will bring the world towards.</ce:para>
+               <ce:para id="para50" view="all">A further strength of Global Health 2035 is the combined economic and health analysis. The economic rigour of the work that underpins grand convergence, together with the economic calculus that measures the value of health to individuals and societies, can give decision makers confidence that the claims being made for the next 15–20 years are neither special pleading by the health community nor overoptimistic advocacy. Instead, they represent realistic achievements that are for the world to win if it displays the commitment and courage to do so.</ce:para>
+               <ce:para id="para60" view="all">The case for grand convergence as an SDG will continue to be made beyond the UN. On Jan 24, Larry Summers (who chaired <ce:italic>The Lancet</ce:italic>'s Global Health 2035 Commission), together with Bill Gates and Linah Mohohlo (Governor of the Bank of Botswana and also a Global Health 2035 commissioner), will make the case for grand convergence among an influential audience of politicians and policy makers in Davos. The opportunity for changing the trajectory of a generation lies before us. Can the world grasp it?</ce:para>
+               <ce:para id="para70" view="all">
+                  <ce:display>
+                     <ce:figure id="f10">
+                        <ce:copyright type="other" year="2014">Pascal Deloche/Godong/Corbis</ce:copyright>
+                        <ce:link locator="fx1"/>
+                     </ce:figure>
+                  </ce:display>
+               </ce:para>
+            </ce:sections>
+         </body>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

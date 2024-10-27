@@ -1,0 +1,923 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925527317301767</prism:url><dc:identifier>doi:10.1016/j.ijpe.2017.06.014</dc:identifier><eid>1-s2.0-S0925527317301767</eid><prism:doi>10.1016/j.ijpe.2017.06.014</prism:doi><pii>S0925-5273(17)30176-7</pii><dc:title>Operational Excellence towards Sustainable Development Goals through Industry 4.0 </dc:title><prism:publicationName>International Journal of Production Economics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>09255273</prism:issn><prism:volume>190</prism:volume><prism:startingPage>1</prism:startingPage><prism:endingPage>2</prism:endingPage><prism:pageRange>1-2</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-08-31</prism:coverDate><prism:coverDisplayDate>August 2017</prism:coverDisplayDate><prism:copyright>© 2017 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><prism:issueName>Operational Excellence towards Sustainable Development Goals through Industry 4.0</prism:issueName><dc:creator>Quezada, Luis E.</dc:creator><dc:creator>Chiu, (Anthony) Shun Fung</dc:creator><dc:creator>Gouvea da Costa, Sergio E.</dc:creator><dc:creator>Tan, Kim Hua</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0925527317301767" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925527317301767" rel="scidir"/></coredata><scopus-id>85023620806</scopus-id><scopus-eid>2-s2.0-85023620806</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85023620806" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271692</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291807</xocs:ssid>
+         <xocs:ssid type="subj">291817</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Production Economics</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALPRODUCTIONECONOMICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170714">2017-07-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170714">2017-07-14</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170714">2017-07-14</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170714">2017-07-14</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-07-13T21:12:22</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0925527317301767</xocs:eid>
+      <xocs:pii-formatted>S0925-5273(17)30176-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0925527317301767</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijpe.2017.06.014</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0925527317X00066</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170714">2017-07-14T18:21:07.772471-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170801</xocs:date-search-begin>
+      <xocs:date-search-end>20170831</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1500072359">2017-07-14T22:45:59.833087Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0925-5273</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09255273</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>190</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>190</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 190</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>1</xocs:first-fp>
+      <xocs:last-lp>2</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1</xocs:first-page>
+         <xocs:last-page>2</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201708</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Operational Excellence towards Sustainable Development Goals through Industry 4.0</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author id="au0005" author-id="S0925527317X00066-f64d0c552a3a1ce16719d59655e5d749">
+                     <ce:degrees>Dr</ce:degrees>
+                     <ce:given-name>Luis</ce:given-name>
+                     <ce:surname>E. Quezada</ce:surname>
+                  </ce:author>
+                  <ce:author id="au0010" author-id="S0925527317X00066-74a625ef9ae72633d22c33cb4357c725">
+                     <ce:degrees>Dr</ce:degrees>
+                     <ce:given-name>Shun</ce:given-name>
+                     <ce:surname>Fung Chiu</ce:surname>
+                  </ce:author>
+                  <ce:author id="au0015" author-id="S0925527317X00066-8156b0ce0daa6ccd7e940bc1141cdcf5">
+                     <ce:degrees>Dr</ce:degrees>
+                     <ce:given-name>Sergio</ce:given-name>
+                     <ce:surname>E. Gouvea da Costa</ce:surname>
+                  </ce:author>
+                  <ce:author id="au0020" author-id="S0925527317X00066-7c1393c8a3be56bb499b4fd1d4ae8410">
+                     <ce:degrees>Dr</ce:degrees>
+                     <ce:given-name>Kim</ce:given-name>
+                     <ce:surname>Hua Tan</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>OPERATIONALEXCELLENCETOWARDSSUSTAINABLEDEVELOPMENTGOALSTHROUGHINDUSTRY40</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>QUEZADA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>BORGESDESAMPAIO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>BORTOLINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>133</xocs:ref-first-fp>
+            <xocs:ref-last-lp>145</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>CHUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>80</xocs:ref-first-fp>
+            <xocs:ref-last-lp>87</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>GAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>120</xocs:ref-first-fp>
+            <xocs:ref-last-lp>132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>GUARNASCHELLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>88</xocs:ref-first-fp>
+            <xocs:ref-last-lp>95</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>MACHADO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>21</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>MORIKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>60</xocs:ref-first-fp>
+            <xocs:ref-last-lp>66</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>PERRONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>108</xocs:ref-first-fp>
+            <xocs:ref-last-lp>119</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>SUDARTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-last-lp>59</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>SY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>67</xocs:ref-first-fp>
+            <xocs:ref-last-lp>79</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>TAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>22</xocs:ref-first-fp>
+            <xocs:ref-last-lp>30</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>VITAYASAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>146</xocs:ref-first-fp>
+            <xocs:ref-last-lp>157</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>96</xocs:ref-first-fp>
+            <xocs:ref-last-lp>107</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>ZULCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>44</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>QUEZADAX2017X1</xocs:refkey3>
+         <xocs:refkey4lp>QUEZADAX2017X1X2</xocs:refkey4lp>
+         <xocs:refkey4ai>QUEZADAX2017X1XL</xocs:refkey4ai>
+         <xocs:refkey5>QUEZADAX2017X1X2XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-07-14T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0925-5273(17)30176-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0925527317301767</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0925527317301767</xocs:eid>
+         <xocs:doi>10.1016/j.ijpe.2017.06.014</xocs:doi>
+         <xocs:cid>271692</xocs:cid>
+         <xocs:timestamp>2017-07-14T17:45:59.833087-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-08-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0925527317301767-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925527317301767/MAIN/application/pdf/484ee60ed5078600bde19e958ec7ceda/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925527317301767/MAIN/application/pdf/484ee60ed5078600bde19e958ec7ceda/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>193261</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0925527317301767-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925527317301767/PREVIEW/image/png/9513ce13d323e205000ca8d94c854295/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925527317301767/PREVIEW/image/png/9513ce13d323e205000ca8d94c854295/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>71395</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>PROECO</jid>
+            <aid>6737</aid>
+            <ce:pii>S0925-5273(17)30176-7</ce:pii>
+            <ce:doi>10.1016/j.ijpe.2017.06.014</ce:doi>
+            <ce:copyright type="unknown" year="2017"/>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="doc0005">
+               <ce:textfn>Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Operational Excellence towards Sustainable Development Goals through Industry 4.0</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0925527317301767-d11518a4f27679df37d148e4c22dd592">
+                  <ce:given-name>Luis E.</ce:given-name>
+                  <ce:surname>Quezada</ce:surname>
+                  <ce:roles>Managing Guest Editor</ce:roles>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>Department of Industrial Engineering University of Santiago of Chile (USACH) Avenida Ecuador 3769, Santiago 9170124, Chile</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Industrial Engineering University of Santiago of Chile (USACH)</sa:organization>
+                     <sa:address-line>Avenida Ecuador 3769</sa:address-line>
+                     <sa:city>Santiago</sa:city>
+                     <sa:postal-code>9170124</sa:postal-code>
+                     <sa:country>Chile</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S0925527317301767-5516d25d0c2c23c476a01b8e58bf2a6d">
+                  <ce:given-name>(Anthony) Shun Fung</ce:given-name>
+                  <ce:surname>Chiu</ce:surname>
+                  <ce:roles>Guest Editor</ce:roles>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0010">
+                  <ce:textfn>University Fellow, JM Reyes Professorial Chair and Research Fellow, De La Salle University, 2401 Taft Avenue, Manila 1004, Philippines</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>University Fellow, JM Reyes Professorial Chair and Research Fellow, De La Salle University</sa:organization>
+                     <sa:address-line>2401 Taft Avenue</sa:address-line>
+                     <sa:city>Manila</sa:city>
+                     <sa:postal-code>1004</sa:postal-code>
+                     <sa:country>Philippines</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="ag0015">
+               <ce:author id="au0015" author-id="S0925527317301767-c1a230676114eb077ec17fc03b7b2ddf">
+                  <ce:given-name>Sergio E.</ce:given-name>
+                  <ce:surname>Gouvea da Costa</ce:surname>
+                  <ce:roles>Guest Editor</ce:roles>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0015">
+                  <ce:textfn>Industrial and Systems Engineering, Pontifical Catholic University of Parana and Federal University of Technology – Parana, Rua Imaculada Conceicao, 1155, 80.215-901 - Curitiba/Parana – Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Industrial and Systems Engineering, Pontifical Catholic University of Parana and Federal University of Technology – Parana</sa:organization>
+                     <sa:address-line>Rua Imaculada Conceicao, 1155</sa:address-line>
+                     <sa:city>Curitiba</sa:city>
+                     <sa:state>Parana</sa:state>
+                     <sa:postal-code>80.215-901</sa:postal-code>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="ag0020">
+               <ce:author id="au0020" author-id="S0925527317301767-d740d3b46693acffa23ef58ef8c368c6">
+                  <ce:given-name>Kim Hua</ce:given-name>
+                  <ce:surname>Tan</ce:surname>
+                  <ce:roles>Guest Editor</ce:roles>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0020">
+                  <ce:textfn>Professor of Operations and Innovation Management Head, Division of Operations Management and Information Systems Nottingham University Business School, Jubilee Campus Wollaton Road, Nottingham NG8 1BB, United Kingdom</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Division of Operations Management and Information Systems, Nottingham University Business School</sa:organization>
+                     <sa:address-line>Jubilee Campus, Wollaton Road</sa:address-line>
+                     <sa:city>Nottingham</sa:city>
+                     <sa:postal-code>NG8 1BB</sa:postal-code>
+                     <sa:country>United Kingdom</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0005" view="all">This Special Issue includes a selection of papers presented at the 23rd International Conference of Production Research (23 ICPR) held in Manila, Philippines, August 2–5, 2015. The name of the conference, “Operational Excellence towards Sustainable Development Goals through Industry 4.0”, integrates two concepts that have emerged recently, imposing new challenges for both researchers and practitioners in the field of Production and Operations Management Research. The first one is the Sustainable Development Goals, a United Nations initiative that sets a number of objectives within the 2030 agenda for sustainable development, covering key areas for the future of the World. Production is in goal 12 but it cuts across several other goals, and plays an important overall role. The second one is the Industry 4.0, also known as the 4th Industrial Revolution, a new approach to organize the factory, characterized by the use of a set of digital technologies, which can support the roadmap towards a sustainable future.</ce:para>
+               <ce:para id="p0010" view="all">The conference had nearly three hundred (300) contributions, with presenters from twenty-nine (29) different countries. 31 authors were invited to submit an extended version of their papers to be considered for publication in the Special Issue, 24 accepted the invitation and after a rigorous review process, 14 papers were finally accepted. The selected papers address a variety of topics within Production Research, all of them making a contribution to the achievement of excellence in the operations of the organizations.</ce:para>
+               <ce:para id="p0015" view="all">The improvement of facilities is present in the papers by <ce:cross-ref id="cr0005" refid="bib14">Zülch and Zülch (2017)</ce:cross-ref>, <ce:cross-ref id="cr0010" refid="bib12">Vitayasak et al. (2017)</ce:cross-ref> and <ce:cross-ref id="cr0015" refid="bib2">Bortolini et al. (2017)</ce:cross-ref>. The first paper proposes an approach to evaluate U-shaped assembly systems that includes the ergonomics perspective as well as the usual logistics and cost criteria. The second one addresses the facility layout problem when the demand is stochastic. In this case, the layout may be reconfigured, but a trade-off between material flow improvements and reorganization costs appears. The authors propose a modified Backtracking Search Algorithms to solve this situation. The third paper shows a bi-objective model to minimize both the travel time and the energy required by the cranes to storage/retrieve the unit-loads of a warehouse.</ce:para>
+               <ce:para id="p0020" view="all">Scheduling is present in the papers by <ce:cross-ref id="cr0020" refid="bib1">Borges de Sampaio et al. (2017)</ce:cross-ref>, and <ce:cross-ref id="cr0025" refid="bib7">Morikawa and Takahashi (2017)</ce:cross-ref>. The first contribution proposes a linear programming model coupled with clearing functions to solve a production planning problem under a rolling horizon scheme. A clearing function is included in order to take into account that there is not a linear function between production throughput and cycle times and workload. They also propose a method to solve the resulting model. The second contribution addresses the problem of scheduling walks-in for hospitals in Japan. The proposed method shows a better performance than the current fix static method that allocates a fixed number of time slots to walk-ins in each attention box in advance.</ce:para>
+               <ce:para id="p0025" view="all">A number of topics in supply chain management are covered in the papers by <ce:cross-ref id="cr0030" refid="bib10">Sy (2017)</ce:cross-ref>, <ce:cross-ref id="cr0035" refid="bib13">Wu et al. (2017)</ce:cross-ref>, <ce:cross-ref id="cr0040" refid="bib6">Guarnaschelli et al. (2017)</ce:cross-ref> and <ce:cross-ref id="cr0045" refid="bib4">Gan et al. (2017)</ce:cross-ref>. The first contribution studies the effect of different recovery options on the inventory and bullwhips in hybrid production-distribution systems (PDS). The System Dynamic model developed in the study also provides a comprehensive description for the structure of the PDS. The second contribution benchmarks the core competencies within the supply chain network and establishes a set of attributes for augmenting Supply Chain Agility. They utilize multi-criteria decision making methods to model the problem. The third contribution introduces an approach for the design of a decision support system to supports the wood product export process of a Chilean enterprise. This work addresses a wood distribution planning problem through an optimization model. The fourth paper presents pricing decisions for new and differentiated remanufactured products in a close-loop supply chain with a separate sales channel. The models developed enrich the literature on pricing decisions in the close-loop supply chain in which channel separation for new and remanufactured products is introduced.</ce:para>
+               <ce:para id="p0030" view="all">Sustainability and the environment are covered in the papers by <ce:cross-ref id="cr0050" refid="bib5">Gonçalves et al. (2017)</ce:cross-ref>, <ce:cross-ref id="cr0055" refid="bib9">Sudarto et al. (2017)</ce:cross-ref>, <ce:cross-ref id="cr0060" refid="bib11">Tan et al. (2017)</ce:cross-ref> and <ce:cross-ref id="cr0065" refid="bib8">Perroni et al. (2017)</ce:cross-ref>. The first paper develops a maturity framework for supporting and guiding sustainable operations management. It identifies an evolutionary path, which goes from an initial approach focused on compliance aspects and firm value protection to an innovative approach based on corporate social responsibility supported by operations and long-term value development. The second paper aims at developing efficient flexible long-term capacity planning policy for closed-loop supply chains that considers social responsibility or a supply chain with Reverse Logistics Social Responsibility. It aims at answering an important research question on how to tackle the lifecycle with its inherited uncertainty to achieve optimal sustainability dimensions performance. The third paper, through a series of case studies in China, examines the various unintended impacts of environmental regulation on firms' operations and their related consequences to performance. Findings showed that there were three main themes that underpin the indirect and unintended effects of regulatory control and measures. The fourth paper studies the relationship between enterprise efficiency and the adoption of energy efficiency practices. Considering the practices, it also wants to answer the question about the existence of differences in efficiency among the enterprises that adopted certain practices and those that did not. The results show that not necessarily the most efficient companies are those that are more concerned with environmental issues. On the other hand, no significant evidence was found to establish that there is a preference for practices by the more efficient companies.</ce:para>
+               <ce:para id="p0035" view="all">Finally, the issue of innovation is covered by <ce:cross-ref id="cr0070" refid="bib3">Chung and Tan (2017)</ce:cross-ref>. Their paper aims to understand and identify the unique phases of Chinese innovation. In order to have a better understanding of Chinese SMEs’ product innovation development stages, this research compared the literature findings of Japan and South Korea product innovation stages. As a result, a unique three product innovation development pathway (Yin-Tiao-Chuang) is proposed by the authors to explicitly demonstrate the Chinese SMEs’ product innovation development, which has been identified to be quite different from those found in Japan and Korea.</ce:para>
+               <ce:para id="p0040" view="all">As Guest Editors of this Special Issue of the International Journal of Production Economics we would like to thank all the participants of the 23rd International Conference of Production Research, the authors of the selected papers for their contribution and the reviewers for the rigorous work they performed. We take the opportunity to invite the Production Research Community to continue researching and implementing new ways for making this a better society.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0005">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Borges de Sampaio et al., 2017</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Borges de Sampaio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Wollmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Vieira</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A flexible production planning for rolling-horizons</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                              <sb:last-page>36</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Bortolini et al., 2017</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bortolini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Faccio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ferrari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gamberi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Pilati</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Time and energy optimal unit-load assignment for automatic S/R warehouses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>133</sb:first-page>
+                              <sb:last-page>145</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Chung and Tan, 2017</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The unique Chinese innovation pathways: lessons from Chinese small and medium sized manufacturing firms</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>80</sb:first-page>
+                              <sb:last-page>87</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Gan et al., 2017</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.N.</ce:given-name>
+                                 <ce:surname>Pujawan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Suparno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Widodo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pricing decision for new and remanufactured product in a closed loop supply chain with separate sales-channel</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>120</sb:first-page>
+                              <sb:last-page>132</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Guarnaschelli et al., 2017</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Guarnaschelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Bearzotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Montt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An approach to export process management in a wood product enterprise</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>88</sb:first-page>
+                              <sb:last-page>95</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Machado et al., 2017</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Machado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Pinheiro de Lima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Gouvea da Costa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Angelis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Mattioda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Framing maturity based on sustainable operations management principles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>21</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Morikawa and Takahashi, 2017</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Morikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Takahashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Scheduling appointments for walk-ins</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>60</sb:first-page>
+                              <sb:last-page>66</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Perroni et al., 2017</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Perroni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gouvea da Costa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Pinheiro de Lima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>V da Silva</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The relationship between enterprise efficiency in resource use and energy efficiency practices adoption</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>108</sb:first-page>
+                              <sb:last-page>119</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Sudarto et al., 2017</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sudarto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Takahashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Morikawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Efficient flexible long-term capacity planning for optimal sustainability dimensions performance of reverse logistics social responsibility: a system dynamics approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                              <sb:last-page>59</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Sy, 2017</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Policy Development model for reducing bullwhips in hybrid production-distribution systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>67</sb:first-page>
+                              <sb:last-page>79</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Tan et al., 2017</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.F.</ce:given-name>
+                                 <ce:surname>Chiu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Unpacking the indirect effects and consequences of environmental regulation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>22</sb:first-page>
+                              <sb:last-page>30</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Vitayasak et al., 2017</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Vitayasak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Pongcharoen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Hicks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A tool for solving the stochastic dynamic facility layout problems with stochastic demand using either a genetic algorithm or modified backtracking search algorithm</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>146</sb:first-page>
+                              <sb:last-page>157</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Wu et al., 2017</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Tseng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.F.</ce:given-name>
+                                 <ce:surname>Chiu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Achieving competitive advantage through supply chain agility: a closed-loop hierarchical decision-making structure under uncertainty</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>96</sb:first-page>
+                              <sb:last-page>107</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Zülch and Zülch, 2017</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zülch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zülch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Production logistics and ergonomic evaluation of U-shaped assembly systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Prod. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                              <sb:last-page>44</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

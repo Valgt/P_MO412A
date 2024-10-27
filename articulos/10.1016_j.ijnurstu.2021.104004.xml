@@ -1,0 +1,861 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0020748921001516</prism:url><dc:identifier>doi:10.1016/j.ijnurstu.2021.104004</dc:identifier><eid>1-s2.0-S0020748921001516</eid><prism:doi>10.1016/j.ijnurstu.2021.104004</prism:doi><pii>S0020-7489(21)00151-6</pii><dc:title>Nursing's contributions to Sustainable Development Goals in Latin America through education, leadership, and partnerships </dc:title><prism:publicationName>International Journal of Nursing Studies</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>00207489</prism:issn><prism:volume>121</prism:volume><prism:startingPage>104004</prism:startingPage><prism:pageRange>104004</prism:pageRange><articleNumber>104004</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-09-30</prism:coverDate><prism:coverDisplayDate>September 2021</prism:coverDisplayDate><prism:copyright>© 2021 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Castañeda-Hidalgo, Hortensia</dc:creator><dc:creator>Visovsky, Constance</dc:creator><dc:creator>Hernández, Dolores Eunice</dc:creator><dc:creator>González-Quirarte, Nora Hilda</dc:creator><dc:creator>Compeán-Ortiz, Lidia</dc:creator><dc:creator>Campiño, Sandra Milena</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0020748921001516" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0020748921001516" rel="scidir"/></coredata><scopus-id>85109937918</scopus-id><scopus-eid>2-s2.0-85109937918</scopus-eid><pubmed-id>34271461</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85109937918" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271253</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291823</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="subj">291918</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Nursing Studies</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALNURSINGSTUDIES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210619">2021-06-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210619">2021-06-19</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210713">2021-07-13</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210713">2021-07-13</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-08-13T08:42:44</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0020748921001516</xocs:eid>
+      <xocs:pii-formatted>S0020-7489(21)00151-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0020748921001516</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijnurstu.2021.104004</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0020748921X00077</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210813">2021-08-13T13:36:22.336173Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210901</xocs:date-search-begin>
+      <xocs:date-search-end>20210930</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1624114889">2021-06-19T15:01:29.700048Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast footnotes orcid pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0020-7489</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00207489</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>121</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>121</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 121</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>104004</xocs:first-fp>
+      <xocs:article-number>104004</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>104004</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202109</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Editorial</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>NURSINGSCONTRIBUTIONSSUSTAINABLEDEVELOPMENTGOALSINLATINAMERICATHROUGHEDUCATIONLEADERSHIPPARTNERSHIPS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CASTANEDAHIDALGO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Strengthening education to ensure an adequate nursing workforce</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Research grounded partnerships</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Leadership development for a voice in policymaking</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>BARRETO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>723</xocs:ref-first-fp>
+            <xocs:ref-last-lp>729</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>BROLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-article-number>e000353</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>CATTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-last-lp>301</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>FERGUSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-last-lp>25</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>HAFNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>41</xocs:ref-first-fp>
+            <xocs:ref-last-lp>50</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>KENNEDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>462</xocs:ref-first-fp>
+            <xocs:ref-last-lp>463</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>KNAUL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>235</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011"/>
+         <xocs:ref-info refid="sbref0014"/>
+         <xocs:ref-info refid="sbref0016"/>
+         <xocs:ref-info refid="sbref0018">
+            <xocs:ref-normalized-surname>VISOVSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CASTANEDAHIDALGOX2021X104004</xocs:refkey3>
+         <xocs:refkey4ai>CASTANEDAHIDALGOX2021X104004XH</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2022-07-13T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-07-13T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0020-7489(21)00151-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0020748921001516</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0020748921001516</xocs:eid>
+         <xocs:doi>10.1016/j.ijnurstu.2021.104004</xocs:doi>
+         <xocs:cid>271253</xocs:cid>
+         <xocs:timestamp>2021-08-13T13:36:22.336173Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0020748921001516-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0020748921001516/MAIN/application/pdf/3f61fe8c5fafa5bf7ae783d02ecb2dce/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>222049</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0020748921001516-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0020748921001516/PREVIEW/image/png/707635c09be5d0722ff81283c4c12d67/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>69878</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>NS</jid>
+            <aid>104004</aid>
+            <ce:article-number>104004</ce:article-number>
+            <ce:pii>S0020-7489(21)00151-6</ce:pii>
+            <ce:doi>10.1016/j.ijnurstu.2021.104004</ce:doi>
+            <ce:copyright type="full-transfer" year="2021">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Nursing's contributions to Sustainable Development Goals in Latin America through education, leadership, and partnerships</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S0020748921001516-ec2df909d87acd4e5182028212a2d342" orcid="0000-0002-6262-4578">
+                  <ce:given-name>Hortensia</ce:given-name>
+                  <ce:surname>Castañeda-Hidalgo</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0002" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0002" author-id="S0020748921001516-a313b4f5a9ae3b5799d5df1e2adf0a4b">
+                  <ce:given-name>Constance</ce:given-name>
+                  <ce:surname>Visovsky</ce:surname>
+                  <ce:cross-ref id="crf0003" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0004" refid="fn1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0003" author-id="S0020748921001516-5925da6429a7e44867e1b5855f68645f">
+                  <ce:given-name>Dolores Eunice</ce:given-name>
+                  <ce:surname>Hernández</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0003">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0004" author-id="S0020748921001516-ebb66e9795e9db2d6ff3da10e3b0683c">
+                  <ce:given-name>Nora Hilda</ce:given-name>
+                  <ce:surname>González-Quirarte</ce:surname>
+                  <ce:cross-ref id="crf0006" refid="aff0004">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0005" author-id="S0020748921001516-d15261570afed281927c416f9723e0df">
+                  <ce:given-name>Lidia</ce:given-name>
+                  <ce:surname>Compeán-Ortiz</ce:surname>
+                  <ce:cross-ref id="crf0007" refid="aff0005">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0006" author-id="S0020748921001516-2290faf8373a549b0424dbbc9ed5e850">
+                  <ce:given-name>Sandra Milena</ce:given-name>
+                  <ce:surname>Campiño</ce:surname>
+                  <ce:cross-ref id="crf0008" refid="aff0006">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S0020748921001516-8a280f5895784214108421a0fe081f32">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">Universidad Autónoma de Tamaulipas, Blvd. Adolfo López Mateos s/n Tampico, México</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Universidad Autónoma de Tamaulipas</sa:organization>
+                     <sa:organization>Blvd. Adolfo López Mateos s/n Tampico</sa:organization>
+                     <sa:country>México</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">aUniversidad Autónoma de Tamaulipas, Blvd. Adolfo López Mateos s/n Tampico, México</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S0020748921001516-66b2375fbe5ddd061eb0057299914d36">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">University of South Florida, College of Nursing, 12901 Bruce B Downs Blvd. MDC 22, Tampa, FL, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>University of South Florida</sa:organization>
+                     <sa:organization>College of Nursing, 12901 Bruce B Downs Blvd. MDC 22</sa:organization>
+                     <sa:city>Tampa</sa:city>
+                     <sa:state>FL,</sa:state>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0002">bUniversity of South Florida, College of Nursing, 12901 Bruce B Downs Blvd. MDC 22, Tampa, FL, United States</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0003" affiliation-id="S0020748921001516-8a280f5895784214108421a0fe081f32">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="cetextfn0003">Universidad Autónoma de Tamaulipas, Blvd. Adolfo López Mateos s/n Tampico, México</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Universidad Autónoma de Tamaulipas</sa:organization>
+                     <sa:organization>Blvd. Adolfo López Mateos s/n Tampico</sa:organization>
+                     <sa:country>México</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0003">cUniversidad Autónoma de Tamaulipas, Blvd. Adolfo López Mateos s/n Tampico, México</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0004" affiliation-id="S0020748921001516-8a280f5895784214108421a0fe081f32">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="cetextfn0004">Universidad Autónoma de Tamaulipas, Blvd. Adolfo López Mateos s/n Tampico, México</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Universidad Autónoma de Tamaulipas</sa:organization>
+                     <sa:organization>Blvd. Adolfo López Mateos s/n Tampico</sa:organization>
+                     <sa:country>México</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0004">dUniversidad Autónoma de Tamaulipas, Blvd. Adolfo López Mateos s/n Tampico, México</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0005" affiliation-id="S0020748921001516-8a280f5895784214108421a0fe081f32">
+                  <ce:label>e</ce:label>
+                  <ce:textfn id="cetextfn0005">Universidad Autónoma de Tamaulipas, Blvd. Adolfo López Mateos s/n Tampico, México</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Universidad Autónoma de Tamaulipas</sa:organization>
+                     <sa:organization>Blvd. Adolfo López Mateos s/n Tampico</sa:organization>
+                     <sa:country>México</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0005">eUniversidad Autónoma de Tamaulipas, Blvd. Adolfo López Mateos s/n Tampico, México</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0006" affiliation-id="S0020748921001516-e5ab2c88daa11da47e5b9c354bee67c1">
+                  <ce:label>f</ce:label>
+                  <ce:textfn id="cetextfn0006">Universidad Católica de Manizales, Av. Santander #No. 60, Manizales, Caldas, Colombia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Universidad Católica de Manizales</sa:organization>
+                     <sa:address-line>Av. Santander #No. 60</sa:address-line>
+                     <sa:city>Manizales</sa:city>
+                     <sa:state>Caldas</sa:state>
+                     <sa:country>Colombia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0006">fUniversidad Católica de Manizales, Av. Santander #No. 60, Manizales, Caldas, Colombia</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="notep0001" view="all">cvisovsk.usf.edu</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="9" month="6" year="2021"/>
+            <ce:date-accepted day="13" month="6" year="2021"/>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para0002" view="all">According to the United Nations (2017), Sustainable Development Goals refer to global challenges faced by nations and their populations. These challenges include those related to poverty, inequality, climate change, environmental degradation, peace, and justice (<ce:cross-ref id="crf0009" refid="bib0002">Brolan et al., 2017</ce:cross-ref>). The nursing profession is concerned with Sustainable Development Goals due to their impact on the health of patients and populations, despite differences in global location and culture. It is important to highlight the contributions of nursing in advancing achievement of the Sustainable Development Goals. In addressing the social determinants of health, nurses are uniquely poised to understand the links between wider public health conditions to both individual and population health (<ce:cross-ref id="crf0010" refid="bib0005">Catton, 2019</ce:cross-ref>).</ce:para>
+               <ce:para id="para0003" view="all">Clinical nurses, nurse educators, and nurse researchers from Latin America have seen first-hand how attainment of these global goals can make a difference in the lives of the people in the region. In addition, global partnerships can enhance professional development and skills of regional nurses, positively influencing the nursing profession. Although individual country progress may vary, our region made significant progress toward achieving many of these goals (<ce:cross-ref id="crf0011" refid="bib0001">Barreto et al., 2012</ce:cross-ref>; <ce:cross-ref id="crf0025" refid="bib0007">Hafner and Shiffman, 2013</ce:cross-ref>; <ce:cross-ref id="crf0026" refid="bib0009">Knaul et al., 2013</ce:cross-ref>; <ce:cross-ref id="crf0012" refid="bib0016">Visovsky et al., 2019</ce:cross-ref>; <ce:cross-ref id="crf0013" refid="bib0014">TIMMY Global Health, 2019</ce:cross-ref>; <ce:cross-ref id="crf0015" refid="bib0018">Visovsky and Morrison-Beedy, 2016</ce:cross-ref>), even though progress varied widely by country. Importantly, however, the global economic crisis of 2008, and the COVID-19 global pandemic may have affected the sustainability of these achievements. For example, although the region has managed to reduce by half the proportion of people suffering from hunger, progress toward poverty reduction has been insufficient.</ce:para>
+               <ce:para id="para0004" view="all">Nursing has been recognized for their crucial role in implementing the priorities envisaged in the Sustainable Development Goals including their efforts to end preventable maternal and child mortality and to improve the health of populations they serve (<ce:cross-ref id="crf0016" refid="bib0019">World Health Organization, 2017</ce:cross-ref>). Yet nurses are now at a crucial point for reflecting on strengths and lessons learned to optimize their contributions to implementing the Sustainable Development Goals in the region.</ce:para>
+               <ce:section id="sec0001" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="cesectitle0002">Strengthening education to ensure an adequate nursing workforce</ce:section-title>
+                  <ce:para id="para0005" view="all">The nursing workforce is critical to attaining the health targets in Sustainable Development Goal 3 (health and well-being). An adequate, well distributed, motivated, and supported health workforce is required for strengthening primary health care in the region. Yet in Latin America, a recent report from the Pan American Health Organization found that the region needs 7.2 million more health workers to meet the healthcare needs of the population—at a minimum (<ce:cross-ref id="crf0017" refid="bib0011">PAHO, 2017</ce:cross-ref>). Overall, Latin American countries do not produce enough nurses to meet the healthcare needs of the region. Barriers to producing the workforce needs of the region include economic barriers to attaining nursing education, along with gender and class biases. In addition, workforce development depends on an engaged leadership, multisectoral collaboration, and appropriate resources to educate, train, and empower nurses to be in the forefront.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="cesectitle0003">Research grounded partnerships</ce:section-title>
+                  <ce:para id="para0006" view="all">Developing research projects into the Sustainable Development Goals will produce nursing evidence that can have an impact in the regional and global policies. Activities to disseminate research evidence and to communicate with potential users on how to adopt/adapt best practice to the local context are highly demanded in the era of evidence-based practice. Implementing evidence-based practice requires practice-based evidence. With their knowledge and hands-on experience, nurses can theorize, hypothesize, structure studies, and collect evidence that leads to improved patient care. The goal of nursing research is to achieve better care standards and applications for patients and families. Hence, the access to research funding is so important. The continuing challenge that remains is access to adequate research funding, and the training opportunities that could benefit developing researchers.</ce:para>
+               </ce:section>
+               <ce:section id="sec0003" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="cesectitle0004">Leadership development for a voice in policymaking</ce:section-title>
+                  <ce:para id="para0007" view="all">Leadership development is critical for the development of the profession in the region and to ensure that women's voices are adequately represented at the national level for healthcare decision-making. Within the strategy that is highlighted in the document on the Leadership of Nurses (<ce:cross-ref id="crf0018" refid="bib0008">Kennedy, 2017</ce:cross-ref>; <ce:cross-ref id="crf0019" refid="bib0006">Ferguson et al., 2016</ce:cross-ref>), leadership must be exercised in a collaborative way and within the scope of the profession's work. Priority skills for leadership development in our region include understanding political actors and their roles, how to effectively contribute to policymaking, and managing others in ways that promote and support the profession and avoid punitive tactics.</ce:para>
+               </ce:section>
+               <ce:section id="sec0004" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="cesectitle0005">Conclusions</ce:section-title>
+                  <ce:para id="para0008" view="all">While many examples of nursing's contribution to the Sustainable Development Goals that encourage education, leadership, and partnership across low and middle income countries, further step can be taken to strengthen Latin American and Caribbean nursing. Recommendations include the testing of innovative strategies to develop nursing and midwifery in Latin America and Caribbean countries, including partnerships that provide articulated pathways for nursing that support career progression. Policies are needed for a flexible and adaptable workforce to ensure that nurses and midwives are being fully and effectively utilized. One means is to ensure nurses have the professional autonomy to practice to the full scope of practice, including the ability to engage in independent practice initiatives with appropriate compensation. To continue Sustainable Development Goals progress in the region, nursing education must be addressed to ensure the curricula addresses the social determinants of health. It is time to work together to maximize the capacities and potentials of nurses and midwives through intra and interprofessional collaborative advocacy-based partnerships, education and continuing professional development to continue to advance the Sustainable Development Goals and initiatives.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0001" view="all">
+               <ce:section-title id="cesectitle0007">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="para0010" view="all">None.</ce:para>
+            </ce:conflict-of-interest>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0008">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>Barreto et al., 2012</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Barreto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Giatti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Casado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>de Moura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Crespo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Malta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Contextual factors associated with smoking among Brazilian adolescents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Epidemiol. Commun. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>723</sb:first-page>
+                              <sb:last-page>729</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1136/jech.2010.122549</ce:doi>
+                        </sb:host>
+                        <sb:comment>Epub 2011 Apr 6. PMID: 21471139; PMCID: PMC3402740</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">Barreto S.M., Giatti L., Casado L., de Moura L., Crespo C., Malta D.Contextual factors associated with smoking among Brazilian adolescents. J. Epidemiol. Commun. Health. 2012Aug;66(8):723–9. doi: 10.1136/jech.2010.122549. Epub 2011 Apr 6. PMID: 21471139; PMCID: PMC3402740.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>Brolan et al., 2017</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Brolan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Te</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Floden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Hill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Forman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Did the right to health get across the line? examining the united nations resolution on the sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e000353</sb:article-number>
+                           <ce:doi>10.1136/bmjgh-2017-000353</ce:doi>
+                        </sb:host>
+                        <sb:comment>Sep 14PMID: 29225946; PMCID: PMC5717936</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">Brolan C.E., Te V., Floden N., Hill P.S., Forman L.Did the right to health get across the line? examining the united nations resolution on the sustainable development goals. BMJ Glob Health. 2017Sep 14;2(3):e000353. doi: 10.1136/bmjgh-2017-000353. PMID: 29225946; PMCID: PMC5717936.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Catton, 2019</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Catton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>International council of nurses: putting nurses at the centre of the world's policymaking has benefits for us all</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Nurs. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                              <sb:last-page>301</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/inr.12546</ce:doi>
+                        </sb:host>
+                        <sb:comment>PMID: 31429075</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">Catton H.International council of nurses: putting nurses at the centre of the world's policymaking has benefits for us all. Int. Nurs. Rev.. 2019Sep;66(3):299–301. doi: 10.1111/inr.12546. PMID: 31429075.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>Ferguson et al., 2016</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Ferguson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Al Rifai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maay'a</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Qureshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Tse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Casken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Parsons</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Shannon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Napa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Samson-Langidrik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Jeadrik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The ICN leadership for change™ programme –20 years of growing influence</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Nurs. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                              <sb:last-page>25</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/inr.12248</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Ferguson, S.L., Al Rifai, F., Maay'a, M., Nguyen, L.B., Qureshi, K., Tse, A.M., Casken, J., Parsons, T., Shannon, M., Napa, M.D., Samson-Langidrik, M. and Jeadrik, G. (2016), The ICN leadership for change™ programme –20 years of growing influence. Int. Nurs. Rev., 63: 15–25. https://doi.org/10.1111/inr.12248</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>Hafner and Shiffman, 2013</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hafner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shiffman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The emergence of global attention to health systems strengthening</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Health Policy Plan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>41</sb:first-page>
+                              <sb:last-page>50</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1093/heapol/czs023</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">Hafner, T. &amp; and Shiffma, J.The emergence of global attention to health systems strengthening. Health Policy Plan2013;28:41–50 doi:10.1093/heapol/czs023.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>Kennedy, 2017</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kennedy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>International Council of nurses' growth, development and engagement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Nurs. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>462</sb:first-page>
+                              <sb:last-page>463</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/inr.12420</ce:doi>
+                        </sb:host>
+                        <sb:comment>2017 PMID: 29193114</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">Kennedy A. (2017). International Council of nurses' growth, development and engagement. Int. Nurs. Rev.. 2017 Dec;64(4):462–463. doi: 10.1111/inr.12420. PMID: 29193114.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>Knaul et al., 2013</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Knaul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>González-Pier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Gómez-Dantés</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>García-Junco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Arreola-Ornelas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Barraza-Lloréns</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sandoval</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Caballero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hernández-Ávila</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Juan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kershenobich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Nigenda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ruelas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sepúlveda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Tapia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Soberón</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chertorivski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Frenk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hacia la cobertura universal en salud: protección social para todos en México [the quest for universal health coverage: achieving social protection for all in Mexico]</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Salud Publica Mex.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                              <sb:last-page>235</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1590/s0036-36342013000200013</ce:doi>
+                        </sb:host>
+                        <sb:comment>2013 SpanishPMID: 23546413</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">Knaul F.M., González-Pier E., Gómez-Dantés O., García-Junco D., Arreola-Ornelas H., Barraza-Lloréns M., Sandoval R., Caballero F., Hernández-Ávila M., Juan M., Kershenobich D., Nigenda G., Ruelas E., Sepúlveda J., Tapia R., Soberón G., Chertorivski S., &amp; Frenk J. (2013). Hacia la cobertura universal en salud: protección social para todos en México [the quest for universal health coverage: achieving social protection for all in Mexico]. Salud Publica Mex.. 2013 Apr;55(2):207–35. Spanish. doi: 10.1590/s0036-36342013000200013. PMID: 23546413.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>PAHO 2017</ce:label>
+                     <ce:other-ref id="sbref0011">
+                        <ce:textref>PAHO, 2017. Health in the Americas, summay: regional outlook and country profile. <ce:inter-ref id="interref0001" xlink:href="https://iris.paho.org/handle/10665.2/34469" xlink:type="simple">https://iris.paho.org/handle/10665.2/34469</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>TIMMY Global Health 2019</ce:label>
+                     <ce:other-ref id="sbref0014">
+                        <ce:textref>TIMMY Global Health, 2019. <ce:inter-ref id="interref0003" xlink:href="https://www.timmyglobalhealth.org/guangaje-ecuador" xlink:type="simple">https://www.timmyglobalhealth.org/guangaje-ecuador</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>Visovsky et al., 2019</ce:label>
+                     <ce:other-ref id="sbref0016">
+                        <ce:textref>Visovsky C., López Castillo H., Maguire D., Hernandez I., Palacios L., Dague S., Klovensky K., Paloumpis L., Salcedo C. (2019). Building nursing research capacity in Panama [in Spanish, forthcoming]. <ce:italic>Visión Antataura</ce:italic>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>Visovsky and Morrison-Beedy, 2016</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Visovsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Morrison-Beedy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A template for building global partnerships: the joining forces conference goes across the pond</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nurse Educ Today</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.nedt.2016.02.009</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print] PMID: 2692642</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0018">Visovsky, C. &amp; Morrison-Beedy, D. (2016). A template for building global partnerships: the joining forces conference goes across the pond. Nurse Educ Today. doi: 10.1016/j.nedt.2016.02.009. [Epub ahead of print] PMID: 2692642.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>World Health Organization 2017</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Health Organization</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World health statistics 2017: monitoring health for the SDGs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustain. Dev. Goals</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0005" xlink:href="https://apps.who.int/iris/bitstream/handle/10665/255336/9789241565486-eng.pdf?sequence=1" xlink:type="simple">https://apps.who.int/iris/bitstream/handle/10665/255336/9789241565486-eng.pdf?sequence=1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0019">World Health Organization (2017). World health statistics 2017: monitoring health for the SDGs, Sustain. Dev. Goals. https://apps.who.int/iris/bitstream/handle/10665/255336/9789241565486-eng.pdf?sequence=1</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

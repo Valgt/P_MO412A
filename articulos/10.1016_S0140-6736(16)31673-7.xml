@@ -1,0 +1,487 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673616316737</prism:url><dc:identifier>doi:10.1016/S0140-6736(16)31673-7</dc:identifier><eid>1-s2.0-S0140673616316737</eid><prism:doi>10.1016/S0140-6736(16)31673-7</prism:doi><pii>S0140-6736(16)31673-7</pii><dc:title>Alcohol and the Sustainable Development Goals </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>cor</pubType><prism:issn>01406736</prism:issn><prism:volume>388</prism:volume><prism:issueIdentifier>10051</prism:issueIdentifier><prism:startingPage>1279</prism:startingPage><prism:endingPage>1280</prism:endingPage><prism:pageRange>1279-1280</prism:pageRange><prism:number>10051</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2016-09-30</prism:coverDate><prism:coverDisplayDate>24–30 September 2016</prism:coverDisplayDate><prism:copyright>© 2016 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Jiang, Heng</dc:creator><dc:creator>Xiang, Xiaojun</dc:creator><dc:creator>Room, Robin</dc:creator><dc:creator>Hao, Wei</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673616316737" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673616316737" rel="scidir"/></coredata><scopus-id>84991369093</scopus-id><scopus-eid>2-s2.0-84991369093</scopus-eid><pubmed-id>27673466</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84991369093" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160922">2016-09-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160922">2016-09-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160922">2016-09-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160922">2016-09-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-09-22T12:55:50</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673616316737</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(16)31673-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673616316737</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(16)31673-7</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673616X00402</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160922">2016-09-22T20:22:40.716116-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160924</xocs:date-search-begin>
+      <xocs:date-search-end>20160930</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1474590173">2016-09-23T00:22:53.667451Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>388</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>388</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10051</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10051</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 388, Issue 10051</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>27</xocs:sort-order>
+      <xocs:first-fp>1279</xocs:first-fp>
+      <xocs:last-lp>1280</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1279</xocs:first-page>
+         <xocs:last-page>1280</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20160924</xocs:start-date>
+         <xocs:end-date>20160930</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>24–30 September 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-09-24</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>cor</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ALCOHOLSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JIANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(16)30827-3</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673616308273</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>COLLIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2582</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2583</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e190</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e191</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALINFORMATIONSYSTEMALCOHOLHEALTHLEVELALCOHOLCONSUMPTIONINCHINA19602013</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40"/>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WINECHINATRENDSOPPORTUNITIESAUSTRALIANTRADEINVESTMENTCOMMISSION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALBURDENDISEASESTUDY2013GBDCOMPARISONRESULTS19902013</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALSTATUSREPORTALCOHOLHEALTH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JIANGX2016X1279</xocs:refkey3>
+         <xocs:refkey4lp>JIANGX2016X1279X1280</xocs:refkey4lp>
+         <xocs:refkey4ai>JIANGX2016X1279XH</xocs:refkey4ai>
+         <xocs:refkey5>JIANGX2016X1279X1280XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2017-03-22T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(16)31673-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673616316737</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673616316737</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(16)31673-7</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2016-09-22T19:22:53.667451-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-09-24</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673616316737-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673616316737/MAIN/application/pdf/5757d5a8ca427e78cb70f401e2aa7550/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673616316737/MAIN/application/pdf/5757d5a8ca427e78cb70f401e2aa7550/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>177726</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673616316737-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673616316737/PREVIEW/image/png/a3fbaead79d765d7555b97c474868519/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673616316737/PREVIEW/image/png/a3fbaead79d765d7555b97c474868519/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68417</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="cor" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>2448</aid>
+            <ce:pii>S0140-6736(16)31673-7</ce:pii>
+            <ce:doi>10.1016/S0140-6736(16)31673-7</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S0140-6736(16)30827-3</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(16)30827-3</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="full-transfer" year="2016">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Correspondence</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Correspondence</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Alcohol and the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10">
+                  <ce:given-name>Heng</ce:given-name>
+                  <ce:surname>Jiang</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au20">
+                  <ce:given-name>Xiaojun</ce:given-name>
+                  <ce:surname>Xiang</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30">
+                  <ce:given-name>Robin</ce:given-name>
+                  <ce:surname>Room</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au40">
+                  <ce:given-name>Wei</ce:given-name>
+                  <ce:surname>Hao</ce:surname>
+                  <ce:cross-ref id="cecref40" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Centre for Alcohol Policy Research, School of Psychology and Public Health, La Trobe University, Melbourne, VIC, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Centre for Alcohol Policy Research</sa:organization>
+                     <sa:organization>School of Psychology and Public Health</sa:organization>
+                     <sa:organization>La Trobe University</sa:organization>
+                     <sa:city>Melbourne</sa:city>
+                     <sa:state>VIC</sa:state>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Psychiatry and Mental Health Institute of the Second Xiangya Hospital, Central South University, National Clinical Research Center on Mental Disorders &amp; National Technology Institute on Mental Disorders, Hunan Key Laboratory of Psychiatry and Mental Health, Changsha, Hunan 410011, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Psychiatry and Mental Health Institute of the Second Xiangya Hospital</sa:organization>
+                     <sa:organization>Central South University</sa:organization>
+                     <sa:organization>National Clinical Research Center on Mental Disorders &amp; National Technology Institute on Mental Disorders</sa:organization>
+                     <sa:organization>Hunan Key Laboratory of Psychiatry and Mental Health</sa:organization>
+                     <sa:city>Changsha</sa:city>
+                     <sa:state>Hunan</sa:state>
+                     <sa:postal-code>410011</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">The Comment by Jeff Collin and Sally Casswell (June 25, p 2582)<ce:cross-ref id="cecref50" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> describes the conflict between public health policy on reducing harmful use of alcohol and the commitments to increase trade liberalisation in the UN's Sustainable Development Goals 2016–30, which are leading to increasing alcohol availability.</ce:para>
+               <ce:para id="para20" view="all">Such conflict has affected China. Along with rapid economic growth, Chinese alcohol consumption (in individuals aged 15 years and older) increased dramatically from 2·5 L per capita in 1978 to 6·7 L in 2010, and an estimated consumption of 8·8 L in 2012.<ce:cross-refs id="cecrefs10" refid="bib2 bib3">
+                     <ce:sup loc="post">2,3</ce:sup>
+                  </ce:cross-refs> After a small decline in consumption in 2013 due to the government's anti-extravagance campaign, China's alcohol imports increased in value by 30% between 2014 and 2015,<ce:cross-ref id="cecref60" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> and the Australian Government predicts a rapid growth in Australian wine sales in China following the China–Australia Free Trade Agreement, which came into effect on Dec 20, 2015.<ce:cross-ref id="cecref70" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> The Chinese Government regards free trade agreements as a new platform to increase national sustainable development, and an effective approach for integration into the global economy and to strengthen economic cooperation with other countries. The potential for adverse public health effects from some commodities covered by the agreements does not seem to be noted or taken into account.</ce:para>
+               <ce:para id="para30" view="all">Although alcohol has been recognised as an important health risk factor in China, the social and health issues associated with alcohol use and abuse, particularly with respect to non-communicable diseases and injuries, have been largely neglected. The 2013 Global Burden of Disease Study showed that alcohol use was ranked as the greatest risk factor for men in China aged 15–49 years in terms of attributable disability-adjusted life-years (DALYs) lost, contributing to more than 120 000 deaths and over 8 million DALYs among young and middle-aged men each year.<ce:cross-ref id="cecref80" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref> Furthermore, there is almost no alcohol control policy in China, unlike in other countries.<ce:cross-ref id="cecref90" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> The government now urgently needs to establish a public health-oriented commission or agency charged specifically with developing controls over the alcohol market and implementing a strategy to reduce levels of alcohol consumption and associated problems in China. Along with more attention to public health policy on reducing alcohol-associated social and health problems, the policy space for reducing harmful use of alcohol needs to be protected from threats posed by new trade and investment agreements.</ce:para>
+               <ce:para id="para40" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Collin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Casswell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alcohol and the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>387</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2582</sb:first-page>
+                              <sb:last-page>2583</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Room</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alcohol and related health issues in China: action needed</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e190</sb:first-page>
+                              <sb:last-page>e191</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Global information system on alcohol and health. Level of alcohol consumption in China, 1960–2013</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="http://apps.who.int/gho/data/node.main.A1022?lang=en" xlink:type="simple">http://apps.who.int/gho/data/node.main.A1022?lang=en</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed July 5, 2016).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Ministry of Commerce of the People's Republic of China</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Current status of alcohol import in China</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="http://ccn.mofcom.gov.cn/spbg/show.php?id=16809&amp;ids" xlink:type="simple">http://ccn.mofcom.gov.cn/spbg/show.php?id=16809&amp;ids</ce:inter-ref>
+                              <sb:date>2016</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed July 5, 2016 in Chinese).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Australian Government</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Wine to China: Trends and opportunities. Australian Trade and Investment Commission</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Australian Government</sb:name>
+                                 <sb:location>Canberra</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="http://www.austrade.gov.au/Australian/Export/Export-markets/Countries/China/Industries/wine" xlink:type="simple">http://www.austrade.gov.au/Australian/Export/Export-markets/Countries/China/Industries/wine</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed July 7, 2016).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Institute for Health Metrics and Evaluation</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Global burden of disease study 2013: GBD comparison results 1990–2013</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Institute for Health Metrics and Evaluation</sb:name>
+                                 <sb:location>Seattle</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:href="http://vizhub.healthdata.org/gbd-compare/" xlink:type="simple">http://vizhub.healthdata.org/gbd-compare/</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed July 7, 2016).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Global status report on alcohol and health</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs50" xlink:href="http://www.who.int/substance_abuse/publications/global_alcohol_report/msb_gsr_2014_1.pdf?ua=1" xlink:type="simple">http://www.who.int/substance_abuse/publications/global_alcohol_report/msb_gsr_2014_1.pdf?ua=1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed July 1, 2016).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

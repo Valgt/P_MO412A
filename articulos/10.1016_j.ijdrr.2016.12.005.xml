@@ -1,0 +1,628 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2212420916307762</prism:url><dc:identifier>doi:10.1016/j.ijdrr.2016.12.005</dc:identifier><eid>1-s2.0-S2212420916307762</eid><prism:doi>10.1016/j.ijdrr.2016.12.005</prism:doi><pii>S2212-4209(16)30776-2</pii><dc:title>Risk-sensitizing future investment needed to achieve the sustainable development goals </dc:title><prism:publicationName>International Journal of Disaster Risk Reduction</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>22124209</prism:issn><prism:volume>24</prism:volume><prism:startingPage>482</prism:startingPage><prism:endingPage>484</prism:endingPage><prism:pageRange>482-484</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-09-30</prism:coverDate><prism:coverDisplayDate>September 2017</prism:coverDisplayDate><prism:copyright>© 2016 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Hochrainer-Stigler, Stefan</dc:creator><dc:creator>Desai, Bina</dc:creator><dc:creator>Williges, Keith</dc:creator><dc:creator>Maskrey, Andrew</dc:creator><dc:creator>Mechler, Reinhard</dc:creator><dc:creator>Mochizuki, Junko</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S2212420916307762" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2212420916307762" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="138" size="15654">https://api.elsevier.com/content/object/eid/1-s2.0-S2212420916307762-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="386" height="243" size="44027">https://api.elsevier.com/content/object/eid/1-s2.0-S2212420916307762-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1708" height="1076" size="235723">https://api.elsevier.com/content/object/eid/1-s2.0-S2212420916307762-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85009348946</scopus-id><scopus-eid>2-s2.0-85009348946</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85009348946" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>282172</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291705</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291822</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Disaster Risk Reduction</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALDISASTERRISKREDUCTION</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20161209">2016-12-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20161209">2016-12-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170830">2017-08-30</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170830">2017-08-30</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-12-19T16:53:48</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2212420916307762</xocs:eid>
+      <xocs:pii-formatted>S2212-4209(16)30776-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2212420916307762</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijdrr.2016.12.005</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2212420917X00046</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20181219">2018-12-19T18:51:03.305426Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170901</xocs:date-search-begin>
+      <xocs:date-search-end>20170930</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1481301331">2016-12-09T16:35:31.06968Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2212-4209</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>22124209</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>24</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>24</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 24</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>1</xocs:sort-order>
+      <xocs:first-fp>482</xocs:first-fp>
+      <xocs:last-lp>484</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>482</xocs:first-page>
+         <xocs:last-page>484</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201709</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Editorial</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>RISKSENSITIZINGFUTUREINVESTMENTNEEDEDACHIEVESUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HOCHRAINERSTIGLER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>SDGs at risk</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Investment in risk reduction today pays off in the future</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Information needs for risk-sensitizing future investments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>The way forward</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="othref0005"/>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>ROGELJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>405</xocs:ref-first-fp>
+            <xocs:ref-last-lp>412</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>DOW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>305</xocs:ref-first-fp>
+            <xocs:ref-last-lp>307</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0010"/>
+         <xocs:ref-info refid="othref0015"/>
+         <xocs:ref-info refid="othref0020"/>
+         <xocs:ref-info refid="othref0025"/>
+         <xocs:ref-info refid="othref0030"/>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>SHREVE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>213</xocs:ref-first-fp>
+            <xocs:ref-last-lp>235</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>MECHLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>MECHLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>235</xocs:ref-first-fp>
+            <xocs:ref-last-lp>237</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0035"/>
+         <xocs:ref-info refid="othref0040"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HOCHRAINERSTIGLERX2017X482</xocs:refkey3>
+         <xocs:refkey4lp>HOCHRAINERSTIGLERX2017X482X484</xocs:refkey4lp>
+         <xocs:refkey4ai>HOCHRAINERSTIGLERX2017X482XS</xocs:refkey4ai>
+         <xocs:refkey5>HOCHRAINERSTIGLERX2017X482X484XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-08-30T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2212-4209(16)30776-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2212420916307762</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2212420916307762</xocs:eid>
+         <xocs:doi>10.1016/j.ijdrr.2016.12.005</xocs:doi>
+         <xocs:cid>282172</xocs:cid>
+         <xocs:timestamp>2018-12-19T18:51:03.305426Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2212420916307762-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2212420916307762/MAIN/application/pdf/e48b120efe716352d8ff21c9dfcb4a0f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>192970</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2212420916307762-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2212420916307762/PREVIEW/image/png/97fb2501f4fae7b5d686963d84388dca/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64481</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2212420916307762-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2212420916307762/fx1/THUMBNAIL/image/gif/49b23a86acc4237f6ed3033af1695dbf/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15654</xocs:filesize>
+               <xocs:pixel-height>138</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2212420916307762-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2212420916307762/fx1/DOWNSAMPLED/image/jpeg/31d6b3e81cecab5ac7b29db5b6e56716/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>44027</xocs:filesize>
+               <xocs:pixel-height>243</xocs:pixel-height>
+               <xocs:pixel-width>386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2212420916307762-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2212420916307762/fx1/HIGHRES/image/jpeg/6e45e3d229b16719b4137f61539097bb/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>235723</xocs:filesize>
+               <xocs:pixel-height>1076</xocs:pixel-height>
+               <xocs:pixel-width>1708</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>IJDRR</jid>
+            <aid>462</aid>
+            <ce:pii>S2212-4209(16)30776-2</ce:pii>
+            <ce:doi>10.1016/j.ijdrr.2016.12.005</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="doc0005">
+               <ce:textfn>Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Risk-sensitizing future investment needed to achieve the sustainable development goals</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S2212420916307762-b624ce99e35482688cd70eb7f191939e">
+                  <ce:given-name>Stefan</ce:given-name>
+                  <ce:surname>Hochrainer-Stigler</ce:surname>
+                  <ce:cross-ref id="cr0005" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>IIASA-International Institute for Applied Systems Analysis, Laxenburg, Austria</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>IIASA-International Institute for Applied Systems Analysis</sa:organization>
+                     <sa:city>Laxenburg</sa:city>
+                     <sa:country>Austria</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S2212420916307762-5662b7a0cc7536cb4a64a3b2c8e04ab0">
+                  <ce:given-name>Bina</ce:given-name>
+                  <ce:surname>Desai</ce:surname>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0010">
+                  <ce:textfn>Risk Knowledge Section, UNISDR - United Nations Office for Disaster Risk Reduction, Villa Fenêtre, Palais des Nations, Geneva, Switzerland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Risk Knowledge Section, UNISDR - United Nations Office for Disaster Risk Reduction</sa:organization>
+                     <sa:address-line>Villa Fenêtre, Palais des Nations</sa:address-line>
+                     <sa:city>Geneva</sa:city>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="ag0015">
+               <ce:author id="au0015" author-id="S2212420916307762-10b04689d06a5b62f11ded2249de1fac">
+                  <ce:given-name>Keith</ce:given-name>
+                  <ce:surname>Williges</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0015">
+                  <ce:textfn>IIASA-International Institute for Applied Systems Analysis, Austria</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>IIASA-International Institute for Applied Systems Analysis</sa:organization>
+                     <sa:country>Austria</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="ag0020">
+               <ce:author id="au0020" author-id="S2212420916307762-e1e7c691761621e90678ddaf85b9de68">
+                  <ce:given-name>Andrew</ce:given-name>
+                  <ce:surname>Maskrey</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0020">
+                  <ce:textfn>Risk Knowledge Section, UNISDR - United Nations Office for Disaster Risk Reduction, Switzerland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Risk Knowledge Section, UNISDR - United Nations Office for Disaster Risk Reduction</sa:organization>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="ag0025">
+               <ce:author id="au0025" author-id="S2212420916307762-86a40790b601fe075637e99c5d2ca656">
+                  <ce:given-name>Reinhard</ce:given-name>
+                  <ce:surname>Mechler</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0025">
+                  <ce:textfn>IIASA-International Institute for Applied Systems Analysis, Austria</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>IIASA-International Institute for Applied Systems Analysis</sa:organization>
+                     <sa:country>Austria</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="ag0030">
+               <ce:author id="au0030" author-id="S2212420916307762-a514922d7239007e86443f1e9fa14324">
+                  <ce:given-name>Junko</ce:given-name>
+                  <ce:surname>Mochizuki</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0030">
+                  <ce:textfn>IIASA-International Institute for Applied Systems Analysis, Austria</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>IIASA-International Institute for Applied Systems Analysis</sa:organization>
+                     <sa:country>Austria</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0005">SDGs at risk</ce:section-title>
+                  <ce:para id="p0005" view="all">The Sustainable Development Goals (SDGs) adopted in 2015 by the UN General Assembly are seeing implementation over the coming years, setting the stage for bolstering well-being globally across 17 ambition areas until 2030 <ce:cross-ref id="cr0010" refid="bib1">[1]</ce:cross-ref>. The implementation challenge is large and imminent. The development path we choose <ce:italic>today</ce:italic> will fundamentally shape the way our society faces risks in the future. Despite recent successes in climate negotiations, the window of opportunity is closing fast for the global community to arrest greenhouse gas emissions at such levels as to avoid dangerous climate change <ce:cross-ref id="cr0015" refid="bib2">[2]</ce:cross-ref>. In fact, many countries and communities already today are faced with dangerous climate-related risks beyond their coping capacities <ce:cross-ref id="cr0020" refid="bib3">[3]</ce:cross-ref>. Unprecedented growth, especially in the urban space in low and middle income countries, will take place in the next decades, considerably increasing risks <ce:cross-ref id="cr0025" refid="bib4">[4]</ce:cross-ref>. However, rising exposure and hazards are not the only reasons why risk must be managed now. Global evidence repeatedly points out that risk is intricately connected to ‘resilience' – a multi-faceted concept that is closely linked to the many aspirations of the SDGs, including achieving food security, poverty alleviation, universal education and improved health and wellbeing <ce:cross-ref id="cr0030" refid="bib1">[1]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0010" view="all">Today, the risk of global average annual loss (AAL) associated with earthquakes, tsunamis, tropical cyclones and floods is estimated at US$314 billion in the built environment alone <ce:cross-ref id="cr0035" refid="bib5">[5]</ce:cross-ref>. This number presents an opportunity cost given that, had risk been reduced, resources could have been used for capital investment or social expenditure, thus generating critical development benefits for achieving the SDGs. A number of countries already now are struggling with limited resources for poverty reduction and infrastructure development and current AAL due to natural hazards amounts to a significant percentage of social expenditure and capital investment. In fact, if current levels of disaster risk are accounted for, national savings become negative in a number of countries, signalling the disaster-induced erosion of hard-earned development already achieved <ce:cross-ref id="cr0040" refid="bib5">[5]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0015" view="all">Adding to this burden is the shortfall on investment in SDG-related sectors such as education, water and sanitation, health, energy and climate change mitigation and adaptation, currently estimated to be around US$2.5 trillion <ce:cross-ref id="cr0045" refid="bib6">[6]</ce:cross-ref>. In the coming years, around 1.5–2.5% of global GDP are estimated to be required as incremental annual investment <ce:cross-ref id="cr0050" refid="bib7">[7]</ce:cross-ref>. As a consequence, for many countries, meeting the SDG goals will be impossible. So what can be done to address these challenges? We argue that risk-sensitive future investment will be one key precondition for transforming development and reaching the SDGs and it is a precondition that can be achieved and also will make financial sense.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0010">Investment in risk reduction today pays off in the future</ce:section-title>
+                  <ce:para id="p0020" view="all">The economic case for investing in prospective disaster risk management is loud and clear <ce:cross-ref id="cr0055" refid="bib4">[4]</ce:cross-ref>. What would add a risk perspective cost? Recent estimates suggest that by 2030 at least US$90 trillion need to be invested in urban, land use and energy infrastructure alone. In addition, another $US4 trillion are required for a transition to a low-carbon infrastructure, translating to an annual investment in infrastructure of at least US$ 6.6 trillion in the next 14 years <ce:cross-ref id="cr0060" refid="bib8">[8]</ce:cross-ref>. If these investments are not made in a risk-sensitive way, the previous mentioned global AAL will continue to increase, even without accounting for exposure increase and possible climate change effects.</ce:para>
+                  <ce:para id="p0025" view="all">There are cases in which, due to the nature of risk or ill-planned interventions, costs may actually exceed the benefits from risk-reducing investment such as retrofitting housing and infrastructure. However, there is growing evidence that prospective risk reducing investments can reap net benefits in many instances. Recent reviews have shown benefit-cost ratios (BCRs) of disaster risk reduction investments to lie in a range from 3 to 15:1 <ce:cross-ref id="cr0065" refid="bib9">[9]</ce:cross-ref> and a global, broad-based estimate of 4:1 has been suggested as an order of magnitude estimate of the potential benefits of making future investments in a risk-sensitive manner <ce:cross-ref id="cr0070" refid="bib10">[10]</ce:cross-ref>. The most recent Global Assessment Report on Disaster Risk Reduction <ce:cross-ref id="cr0075" refid="bib6">[6]</ce:cross-ref> estimates an increase of global AAL up to US$ 415 billion by 2030 due to investment requirements in urban infrastructure alone. Applying the cost benefit ratios mentioned above, annual global investments in DRR of US$6 billion could reduce new and additional annual losses by more than 20% till 2030.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0015">Information needs for risk-sensitizing future investments</ce:section-title>
+                  <ce:para id="p0030" view="all">While investment in risk reduction would seem to pay off globally, in the future there are two interrelated crucial disadvantages in using averages, such as AAL, to support decision making to achieve the SDGs. First, they do not incorporate possible indirect effects (e.g. an increase in poverty due to diminishing resources) and second, they do not distinguish between different types of events (e.g. building dams as flood protection is only effective to a certain level and afterwards less effective). This limits their applicability in determining requirements of risk-sensitive future investments in relation to the SDGs.</ce:para>
+                  <ce:para id="p0035" view="all">What is needed and what increasingly is made available is information on the full spectrum of risk associated with hazardous events. These can take the form of loss distributions, which enable a differentiation between different types and layers (in terms of their severity) of risk <ce:cross-ref id="cr0080" refid="bib11">[11]</ce:cross-ref> and therefore allow identifying different investment options and requirements <ce:cross-ref id="cr0085" refid="bib6">[6]</ce:cross-ref>. As indirect effects are dependent to a large extent on which risk layer is realized, this more nuanced perspective opens up the possibility to think about risk-sensitized future investment and SDGs in the context of development planning processes. As one example, the figure below produced for the GAR 2015 shows annual global funding requirements that would be needed to cover government resource gaps for different risk layers. A resource gap occurs if losses due to natural hazard events exceed a governments coping capacity. For some countries the ability to cope with disasters is very limited and even frequent events, belonging to the low risk-layer, can cause a resource gap. Other, mostly wealthier, countries only experience resource gaps for very low probability but high consequence events, therefore belonging to the high risk-layer.<ce:display>
+                        <ce:figure id="f0005">
+                           <ce:alt-text id="at0005" role="short">fx1</ce:alt-text>
+                           <ce:link id="lk0005" locator="fx1" xlink:href="pii:S2212420916307762/fx1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+                        </ce:figure>
+                     </ce:display>.</ce:para>
+                  <ce:para id="p0040" view="all">A global fund could assist in providing risk based funding needs and therefore can help to prioritize certain investment, e.g. risk reduction for countries belonging to the low risk layer and insurance for those belonging to the middle or high risk layers. Similar analysis can also be performed on a country specific, case by case basis <ce:cross-ref id="cr0090" refid="bib12">[12]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0020">The way forward</ce:section-title>
+                  <ce:para id="p0045" view="all">Additional work on estimating the future costs and benefits of risk-sensitive investment is needed. Moreover, even with a risk layer approach that can provide a basis for planning and action, the complementary roles between public and private investment and the need to address risk for both have to be acknowledged. The emerging and complex landscape of development finance also demands that due attention is given to both public and private investments in an integrated manner. Therefore, what is needed is a set of alternative risk metrics that can provide solid evidence for public and private investment planning, which at the same time can support the monitoring of progress of international efforts in reducing disaster risk, as detailed in the Sendai Framework for Disaster Risk Reduction <ce:cross-ref id="cr0095" refid="bib13">[13]</ce:cross-ref>, as well as of the SDGs.</ce:para>
+                  <ce:para id="p0050" view="all">Further, the application of cost-benefit analysis in disaster risk management is usually limited to comparing the additional costs for reducing risk with the avoided current replacement costs of lost infrastructure. The analysis would need expanding in two ways. First, investment requirements and avoided losses should be estimated taking into account future economic and development scenarios, including national and international commitments in the context of climate change mitigation and adaptation and ideally by economic and development sector. Second, more attention should be given to exploring the trade-offs implicit in each investment decision more systematically, including a more detailed analysis of downstream benefits and avoided costs in terms of reduced poverty and inequality, environmental sustainability, economic development and social progress.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0025">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="othref0005">
+                        <ce:textref>United Nations, The 2030 agenda for sustainable development Publication A/Res/70/1, 2015. 〈<ce:inter-ref id="ir0005" xlink:href="https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf" xlink:type="simple">https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf</ce:inter-ref>〉 (the easiest access to this source is via the URL).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rogelj</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>McCollum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>O’Neill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Riahi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>2020 Emissions levels required to limit warming to below 2 degree C</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Clim. Change</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>405</sb:first-page>
+                              <sb:last-page>412</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.F.</ce:given-name>
+                                 <ce:surname>Dow</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.L.</ce:given-name>
+                                 <ce:surname>Berkhout</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.L.</ce:given-name>
+                                 <ce:surname>Preston</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.T.</ce:given-name>
+                                 <ce:surname>Klein R.J.T</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Midgley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Shaw M.R</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Limits to adaptation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Clim. Change</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>305</sb:first-page>
+                              <sb:last-page>307</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="othref0010">
+                        <ce:textref>IPCC, Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change, Cambridge University Press, Cambridge, UK, New York, 2012.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="othref0015">
+                        <ce:textref>United Nations, Global Assessment Report, Publication GAR, 2015. 〈<ce:inter-ref id="ir0010" xlink:href="http://www.preventionweb.net/english/hyogo/gar/2015/en/gar-pdf/GAR2015_EN.pdf" xlink:type="simple">http://www.preventionweb.net/english/hyogo/gar/2015/en/gar-pdf/GAR2015_EN.pdf</ce:inter-ref>〉 (the easiest access to this source is via the URL).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="othref0020">
+                        <ce:textref>United Nations, World Investment Report 2014, Investing in the SDGs: An Action Plan <ce:inter-ref id="ir0015" xlink:href="http://unctad.org/en/PublicationsLibrary/wir2014_en.pdf" xlink:type="simple">〈http://unctad.org/en/PublicationsLibrary/wir2014_en.pdf</ce:inter-ref>〉 (the easiest access to this source is via the URL).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="othref0025">
+                        <ce:textref>G.Schmidt-Traub, Investment Needs to Achieve the Sustainable Development Goals Publication SDSN Working paper version 2, 2015,〈<ce:inter-ref id="ir0020" xlink:href="http://unsdsn.org/wp-content/uploads/2015/09/151112-SDG-Financing-Needs.pdf" xlink:type="simple">http://unsdsn.org/wp-content/uploads/2015/09/151112-SDG-Financing-Needs.pdf</ce:inter-ref>〉 (the easiest access to this source is via the URL).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="othref0030">
+                        <ce:textref>Global Commission on the Economy and Climate, Better Growth, Better Climate: The New Climate Economy Report Publication World Resources Institute, 2014; 〈<ce:inter-ref id="ir0025" xlink:href="http://2014.newclimateeconomy.report/wp-content/uploads/2014/08/NCE-Global-Report_web.pdf)" xlink:type="simple">http://2014.newclimateeconomy.report/wp-content/uploads/2014/08/NCE-Global-Report_web.pdf</ce:inter-ref>〉 (the easiest access to this source is via the URL).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Shreve</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kelman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Does mitigation save? Reviewing cost-benefit analyses of disaster risk reduction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Disaster Risk Reduct.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>213</sb:first-page>
+                              <sb:last-page>235</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mechler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reviewing estimates of the economic efficiency of disaster risk management: opportunities and limitations of using risk-based cost–benefit analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Hazards</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1007/s11069-016-2170-y</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mechler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Bower</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Linnerooth-Bayer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hochrainer-Stigler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.H.</ce:given-name>
+                                 <ce:surname>Arts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Surminski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Williges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Managing unnatural disaster risk from climate extremes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Clim. Change</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>235</sb:first-page>
+                              <sb:last-page>237</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="othref0035">
+                        <ce:textref>K.Williges, S.Hochrainer-Stigler, J.Mochizuki, R.Mechler, Modeling the indirect and fiscal risks from natural disasters: Emphasizing resilience and building back better Publication Background Paper prepared for the 2015 Global Assessment Report on Disaster Risk Reduction, 2014 〈<ce:inter-ref id="ir0030" xlink:href="http://www.preventionweb.net/english/hyogo/gar/2015/en/bgdocs/Williges%20et%20al.,%202014.pdf" xlink:type="simple">http://www.preventionweb.net/english/hyogo/gar/2015/en/bgdocs/Williges%20et%20al.,%202014.pdf</ce:inter-ref>〉 (the easiest access to this source is via the URL).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="othref0040">
+                        <ce:textref>United Nations, Sendai Framework for Disaster Risk Reduction 2015 – 2030 Publication, 〈<ce:inter-ref id="ir0035" xlink:href="http://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf" xlink:type="simple">http://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf</ce:inter-ref>〉 (the easiest access to this source is via the URL).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

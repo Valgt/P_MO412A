@@ -1,0 +1,1116 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2215016122002308</prism:url><dc:identifier>doi:10.1016/j.mex.2022.101851</dc:identifier><eid>1-s2.0-S2215016122002308</eid><prism:doi>10.1016/j.mex.2022.101851</prism:doi><pii>S2215-0161(22)00230-8</pii><dc:title>CLD4SDGs: Integrated assessment of progress and impacts on Sustainable Development Goals using Causal Loop Diagrams </dc:title><prism:publicationName>MethodsX</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>mic</pubType><prism:issn>22150161</prism:issn><prism:volume>9</prism:volume><prism:startingPage>101851</prism:startingPage><prism:pageRange>101851</prism:pageRange><articleNumber>101851</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2022-12-31</prism:coverDate><prism:coverDisplayDate>2022</prism:coverDisplayDate><prism:copyright>© 2022 The Author. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author. Published by Elsevier B.V.</prism:publisher><dc:creator>Downing, Andrea S.</dc:creator><dc:description>
+                  The United Nations’ 2030 Agenda for sustainable development calls for meeting the global Sustainable Development Goals (SDGs) through local action and integrated approaches. We here describe a method developed to understand how local (un-)sustainable processes in coupled social-ecological systems contribute to or hinder meeting SDGs at the target-level in coupled social-ecological systems (SES). The steps include:
+                        
+                           •
+                           The construction of a causal-loop diagram (CLD) of the social-ecological processes that shape system dynamics
+                        
+                        
+                           •
+                           CLD simplification for the purpose of the SDG analysis,
+                        
+                        
+                           •
+                           Steps of the SDG analysis.
+                        
+                     
+                  
+                  The methods combine and build on published examples of CLD and SDG analyses and includes instructions for the transparent documentation of the analyses to support review and further development of SDG-target analyses in complex social-ecological systems. A template for the documentation and analysis is provided in the supplementary materials.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Sweden Institutes</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Social-ecological systems</dcterms:subject><dcterms:subject>Trade-offs and synergies</dcterms:subject><dcterms:subject>Impacts and pathways</dcterms:subject><dcterms:subject>Leverage for change</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2215016122002308" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2215016122002308" rel="scidir"/></coredata><objects><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="593" height="297" size="33268">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="117" size="20459">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="268" size="21787">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="110" size="5148">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="85" size="8630">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="184" height="164" size="9158">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2625" height="1316" size="244787">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="517" size="194264">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1186" size="153481">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="416155">https://api.elsevier.com/content/object/eid/1-s2.0-S2215016122002308-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85138094517</scopus-id><scopus-eid>2-s2.0-85138094517</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85138094517" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>306208</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="subj">291735</xocs:ssid>
+         <xocs:ssid type="subj">291848</xocs:ssid>
+         <xocs:ssid type="subj">291889</xocs:ssid>
+         <xocs:ssid type="subj">291929</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>MethodsX</xocs:srctitle>
+      <xocs:normalized-srctitle>METHODSX</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220908">2022-09-08</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220908">2022-09-08</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220916">2022-09-16</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220916">2022-09-16</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-02-21T03:59:09</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2215016122002308</xocs:eid>
+      <xocs:pii-formatted>S2215-0161(22)00230-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2215016122002308</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mex.2022.101851</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2215016121X00027</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230221">2023-02-21T04:23:56.06844Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220101</xocs:date-search-begin>
+      <xocs:date-search-end>20221231</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1662604602">2022-09-08T02:36:42.529076Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid orcid otherkwds primabst pubtype ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2215-0161</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>22150161</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>BIBSAM</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>9</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>9</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 9</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>212</xocs:sort-order>
+      <xocs:first-fp>101851</xocs:first-fp>
+      <xocs:article-number>101851</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>101851</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2022</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Environmental Science</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>mic</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 The Author. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>CLD4SDGSINTEGRATEDASSESSMENTPROGRESSIMPACTSSUSTAINABLEDEVELOPMENTGOALSUSINGCAUSALLOOPDIAGRAMS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>DOWNING</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Method details</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>System representations in causal loop diagrams</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Components of a causal loop diagram</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Constructing a CLD</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Simplifying the CLD</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Using the sustainable development goals framework</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Interpretation of results</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Ethics statements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001"/>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>SACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTREPORT2020</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTGOALSREPORT2021</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>BORGMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIGDATALITTLEDATANODATASCHOLARSHIPINNETWORKEDWORLDELEKTRONISKRESURS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>DOWNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>DOWNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>107364</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>DOWNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>102306</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>SACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTREPORT2021</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>DOWNING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>RAWORTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DOUGHNUTECONOMICSSEVENWAYSTHINKLIKEA21STCENTURYECONOMIST</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>DOWNINGX2022X101851</xocs:refkey3>
+         <xocs:refkey4ai>DOWNINGX2022X101851XA</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2022-09-02T12:53:20Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Sweden Institutes</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 The Author. Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-09-21T03:57:09.893Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2215-0161(22)00230-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2215016122002308</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2215016122002308</xocs:eid>
+         <xocs:doi>10.1016/j.mex.2022.101851</xocs:doi>
+         <xocs:cid>306208</xocs:cid>
+         <xocs:timestamp>2023-02-21T04:23:56.06844Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>BIBSAM</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/MAIN/application/pdf/eba0c0fc6e35734717a571c0bf54cf70/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>587455</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2215016122002308-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/PREVIEW/image/png/59439aa5ac3e63c0ba0b21110ae6838f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>39155</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/gr2/DOWNSAMPLED/image/jpeg/ae5e25dc7677ae07b745e2749bf18114/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33268</xocs:filesize>
+               <xocs:pixel-height>297</xocs:pixel-height>
+               <xocs:pixel-width>593</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/ga1/DOWNSAMPLED/image/jpeg/c678d3753febfba0e8a1b5210f78c8a9/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20459</xocs:filesize>
+               <xocs:pixel-height>117</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/gr1/THUMBNAIL/image/jpeg/829eebe32b6cf4e10e16d2a4b1770d31/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21787</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/gr2/THUMBNAIL/image/gif/7bc27cf77dc80f3201cb79710c86c8e3/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5148</xocs:filesize>
+               <xocs:pixel-height>110</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/ga1/THUMBNAIL/image/gif/f66217db808fe548ce611eaec0878a33/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8630</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/gr1/THUMBNAIL/image/gif/02e69eb433a41de97a63d723ac36f3c7/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9158</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>184</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/HIGHRES/image/jpeg/6edfa0a99c5aec90cdc638e56c442bb6/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>244787</xocs:filesize>
+               <xocs:pixel-height>1316</xocs:pixel-height>
+               <xocs:pixel-width>2625</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/THUMBNAIL/image/jpeg/1fa86332a6c187e5c1ee0351451a9df8/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>194264</xocs:filesize>
+               <xocs:pixel-height>517</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2215016122002308/THUMBNAIL/image/jpeg/11a479969f67ea1d190eead33ca84115/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>153481</xocs:filesize>
+               <xocs:pixel-height>1186</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2215016122002308-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10VDJ16DBNG/MAIN/application/pdf/6d6817423644202670192f3482268ef0/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>416155</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="mic" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>MEX</jid>
+            <aid>101851</aid>
+            <ce:article-number>101851</ce:article-number>
+            <ce:pii>S2215-0161(22)00230-8</ce:pii>
+            <ce:doi>10.1016/j.mex.2022.101851</ce:doi>
+            <ce:copyright type="unknown" year="2022"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara001" view="all">A local level of analysis for example can allow to identify specific drivers of system dynamics, and a resolution of analysis (i.e. detail level) that identifies mechanisms by which dynamics play out. A too narrow system definition leaves out many actors and driving processes, and a too broad level will lead to describing diffuse actor groups and conflicting trends. Resolution often also depends on data availability, and the scale or level of analysis should match the resolution (low resolution-larger scale; high resolution – smaller scale). Larger-scale, high resolution representations are useful for identifying macro processes, and identifying consensus at a bigger will be complex – potentially revealing multiple conflicting mechanisms driving generic dynamics in different ways (e.g. a detail of different processes that contribute to diverse weather phenomena) – and will make it challenging to clarify which processes lead to different outcomes. Small-scale, low-resolution analyses will lead to generic mechanisms for specific dynamics, and make it challenging to identify specific initiatives or actors to leverage.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Fig 1</ce:alt-text>
+               <ce:link id="celink0001" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122002308/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0002">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0002">
+                  <ce:simple-para id="spara002" view="all">Constructing a causal loop diagram from the central element (here emissions caused by crop residue burning) in a step-wise centrifugal way (from A to C). Black arrows indicate positive interactions – where an increase in the source element leads to an increase in the receiving element – and grey arrows are negative interactions (an increase in the source leads to a decrease in the receiving element). The sign of the arrow depends on the terminology used where increased emissions can be seen to increase mortality (B), or decrease survival (B’). The choice will lead to consistent changes throughout the CLD(compare C and C´). Figure drawn from <ce:cross-ref id="crf0009" refid="bib0006">[6]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0002" role="short">Fig 2</ce:alt-text>
+               <ce:link id="celink0002" locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122002308/gr2"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0003">
+                  <ce:simple-para id="spara003" view="all">The documentation of the CLD. This documentation format enables filtering for different interaction types, source or sink elements and for the different sources or quotes that might be used multiple times in the CLD. Furthermore, this structure allows for transparency and to update the CLD with new data. Note that where multiple references or quotes exist it is worth adding them. This may be especially true for low-resolution CLDs, where an interaction representing a broad process can be captured by several references. For a concrete example of this documentation, see appendix B in supplementary materials of <ce:cross-ref id="crf0010" refid="bib0006">[6]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0003" role="short">Table 1</ce:alt-text>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <colspec colnum="3" colname="col3" align="left"/>
+                  <colspec colnum="4" colname="col4" align="left"/>
+                  <colspec colnum="5" colname="col5" align="left"/>
+                  <colspec colnum="6" colname="col6" align="left"/>
+                  <colspec colnum="7" colname="col7" align="left"/>
+                  <colspec colnum="8" colname="col8" align="left"/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0011" colname="col1" valign="top">Arrow #</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0012" colname="col2" valign="top">Source element</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0013" colname="col3" valign="top">Sink element</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0014" colname="col4" valign="top">sign</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0015" colname="col5" valign="top">Interpretation of interaction</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0016" colname="col6" valign="top">reference</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0017" colname="col7" valign="top">quote</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0018" colname="col8" valign="top">note</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0019" colname="col1" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0020" colname="col2" valign="top">
+                           <italic>Element from which causal arrow leaves</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0021" colname="col3" valign="top">
+                           <italic>Element to which arrow points</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0022" colname="col4" valign="top">
+                           <italic>(+);(-); (+/-); ?</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0023" colname="col5" valign="top">
+                           <italic>More … leads to more/ less …</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0024" colname="col6" valign="top">
+                           <italic>Add source of information</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0025" colname="col7" valign="top">
+                           <italic>Add specific quote supporting interpretation</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0026" colname="col8" valign="top">*<italic>e.g. comment regarding validity of quote, or context for interaction sign</italic>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0027" colname="col1" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0028" colname="col2" valign="top">…</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0029" colname="col3" valign="top">…</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0030" colname="col4" valign="top">…</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0031" colname="col5" valign="top">…</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0032" colname="col6" valign="top">…</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0033" colname="col7" valign="top">…</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0034" colname="col8" valign="top">…</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Method Article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">CLD4SDGs: Integrated assessment of progress and impacts on Sustainable Development Goals using Causal Loop Diagrams</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S2215016122002308-e9c9c369ced29816eb780b68df4970a4" orcid="0000-0002-5206-9355">
+                  <ce:given-name>Andrea S.</ce:given-name>
+                  <ce:surname>Downing</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S2215016122002308-dce06d7d12040f67bf25a758fb433378">
+                  <ce:textfn id="cetextfn0001">Stockholm Resilience Centre at Stockholm University, 10691 Stockholm, Sweden</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Stockholm Resilience Centre at Stockholm University</sa:organization>
+                     <sa:city>Stockholm</sa:city>
+                     <sa:postal-code>10691</sa:postal-code>
+                     <sa:country>Sweden</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">Stockholm Resilience Centre at Stockholm University, 10691 Stockholm, Sweden</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="30" month="6" year="2022"/>
+            <ce:date-accepted day="2" month="9" year="2022"/>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara004" view="all">The United Nations’ 2030 Agenda for sustainable development calls for meeting the global Sustainable Development Goals (SDGs) through local action and integrated approaches. We here describe a method developed to understand how local (un-)sustainable processes in coupled social-ecological systems contribute to or hinder meeting SDGs at the target-level in coupled social-ecological systems (SES). The steps include:<ce:list id="celist0001aaexc">
+                        <ce:list-item id="celistitem0001aewwe">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0001aeww" view="all">The construction of a causal-loop diagram (CLD) of the social-ecological processes that shape system dynamics</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0001aexerer">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0001ae" view="all">CLD simplification for the purpose of the SDG analysis,</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0001aew">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0001aeq" view="all">Steps of the SDG analysis.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:simple-para>
+                  <ce:simple-para id="spara008" view="all">The methods combine and build on published examples of CLD and SDG analyses and includes instructions for the transparent documentation of the analyses to support review and further development of SDG-target analyses in complex social-ecological systems. A template for the documentation and analysis is provided in the supplementary materials.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="abs0002" class="graphical" view="all">
+               <ce:section-title id="cesectitle0002">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abss0002" view="all">
+                  <ce:simple-para id="spara009" view="all">
+                     <ce:display>
+                        <ce:figure id="fig0003">
+                           <ce:alt-text id="alttx001" role="short">Image, graphical abstract</ce:alt-text>
+                           <ce:link id="celink0003" locator="ga1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2215016122002308/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0003">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0001">Social-ecological systems</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0002">Trade-offs and synergies</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0003">Impacts and pathways</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0004">Leverage for change</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords id="keys0003" class="stma" view="all">
+               <ce:section-title id="cesectitle0002a">Method name</ce:section-title>
+               <ce:keyword id="key01001a">
+                  <ce:text id="cetext00102a">Causal Loop Diagrams for the integrated analysis of Sustainable Development Goal impacts and pathways: CLD4SDGs</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para9001" view="all">Specifications table<ce:display>
+                     <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="utbl0001" rowsep="0" colsep="0" frame="topbot">
+                        <tgroup cols="2">
+                           <colspec colnum="1" colname="col1" align="left"/>
+                           <colspec colnum="2" colname="col2" align="left"/>
+                           <tbody>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0001" colname="col1" valign="top" role="rowhead">Subject area:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0002" colname="col2" valign="top"/>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0003" colname="col1" valign="top" role="rowhead">More specific subject area:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0004" colname="col2" valign="top">Sustainability science</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0005" colname="col1" valign="top" role="rowhead">Name of your method:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0006" colname="col2" valign="top">Causal Loop Diagrams for the integrated analysis of Sustainable Development Goal impacts and pathways: CLD4SDGs</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0007" colname="col1" valign="top" role="rowhead">Name and reference of original method:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0008" colname="col2" valign="top">Downing, A. S., G. Y. Wong, M. Dyer, A. P. Aguiar, O. Selomane, and A. Jiménez Aceituno. 2021. When the whole is less than the sum of all parts – Tracking global-level impacts of national sustainability initiatives. <italic>Global Environmental Change</italic> 69:102,306.</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0009" colname="col1" valign="top" role="rowhead">Resource availability:</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0010" colname="col2" valign="top">
+                                    <italic>N.A.</italic>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </ce:table>
+                  </ce:display>
+               </ce:para>
+               <ce:section id="sec0002" role="materials-methods" view="all">
+                  <ce:section-title id="cesectitle0005">Method details</ce:section-title>
+                  <ce:para id="para0001" view="all">The United Nations’ 2030 agenda states the Sustainable Development Goals (SDGs) as integrated and indivisible, designed at the global level and dependant on local action <ce:cross-ref id="crf0001" refid="bib0001">[1]</ce:cross-ref>. However, methods for integrated monitoring, that inform pragmatic and integrated implementation at local and national levels are still lacking. Existing monitoring frameworks rely on data for selected indicators, that are assessed by a ‘traffic-light’ coding system indicating how close (green) or not (red) the indicator value is to the target (e.g. [<ce:cross-refs id="opt7V4mr4fy8l" refid="bib0002 bib0003">2,3</ce:cross-refs>],). These traffic-light codes are then generally tallied or summed to get an overview of which and how many targets are being met. Such a tally over targets and goals gives a misleading impression of integration of the SDGs, when in fact it simply gives an aggregated picture of un-integrated metrics. Indeed, each indicator of sustainability can in fact be met ‘unsustainably’. As an example, the target of sustainable and just food production (target 2.3) includes an indicator for production yields (indicator 2.3.1), that is independent from but equal to the target for agricultural area under productive and sustainable agriculture (indicator 2.4.1). The presence of high yields (green point for 2.3.1) contributes to a green value for target 2.3, and is not affected by an absence or ‘red’ value on 2.4.1. This implies that high yields, irrespective of the sustainability of the processes that lead to high production, or to the distribution of this production lead to a green traffic light, without actually indicating whether the production system represents or contributes to sustainable and just food production. This is a classic case of metrics that have become goals to themselves rather than monitoring objects <ce:cross-ref id="crf0002" refid="bib0004">[4]</ce:cross-ref>.</ce:para>
+                  <ce:para id="para0002" view="all">We present here methods that aim to understand how local (un-) sustainable practices contribute, or not, to meeting the SDGs from a systems perspective, investigating the sustainability of system processes themselves, rather than a snapshot-indicator level assessment. Our methods 1) address the SDGs in an integrated way, by mapping both the multiple goals and targets influenced by any single system process, as well as the multiple system process that shape the progress on single targets and goals; 2) provide tangible information on what kinds of initiatives can address different goals, and 3) how such initiatives can best contribute to meeting goals and limit undesired side-effects; 4) indicate which processes hinder the achievement of goals and 5) point to actors or actor groups that could play a role in making the necessary changes towards meeting the goals. These methods are designed for the SDG framework specifically, but the approach is generalizable for generating integrated sustainability pathways and scenarios.</ce:para>
+                  <ce:section id="sec0003" view="all">
+                     <ce:section-title id="cesectitle0006">System representations in causal loop diagrams</ce:section-title>
+                     <ce:para id="para0003" view="all">The first step of the analysis consists in creating a system representation that encompasses at least the social, ecological and economic aspects of a system of interest. Though causal loop diagrams (CLDs) can technically be designed for any dynamic system, we here focus on the design of CLDs that represent social-ecological systems through all three pillars of development, to best integrate the analysis across SDGs.</ce:para>
+                     <ce:para id="para0004" view="all">The level and resolution of analysis needs to be specific enough to identify relevant actor groups, and dominant trends (<ce:cross-ref id="crf0003" refid="fig0001">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0001"/>).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0004" view="all">
+                     <ce:section-title id="cesectitle0007">Components of a causal loop diagram</ce:section-title>
+                     <ce:para id="para0005" view="all">Causal Loop Diagrams (CLDs) are conceptual representations of systems, that are generally created to understand the multiple driving forces and cascading effects of a characteristic system process: for instance the connected drivers and impacts of fishing and eutrophication in Lake Victoria <ce:cross-ref id="crf0004" refid="bib0005">[5]</ce:cross-ref>; drivers and cascading effects of crop residue burning in the Indian State of Punjab <ce:cross-ref id="crf0005" refid="bib0006">[6]</ce:cross-ref>; distal and diverse cascading effects of Chinese demand for traded commodities <ce:cross-ref id="crf0006" refid="bib0007">[7]</ce:cross-ref>. A CLD is comprised of elements (e.g. a fish stock) connected by arrows from a source to a sink element. A positive sign on the arrow indicates that an increase in one element leads to an increase in another (e.g. when an increase in nutrients leads to an increase in fish stocks), a negative sign on the arrow indicates that an increase in an element causes a decrease in the other (e.g. increased fishing efforts leads to reduced fish stocks).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0005" view="all">
+                     <ce:section-title id="cesectitle0008">Constructing a CLD</ce:section-title>
+                     <ce:para id="para0006" view="all">To ensure the CLD is designed to represent the key problematics of the system at hand, we recommend starting precisely at the point of the problem representation (for example crop residue burning in Downing et al., (2022)), and expanding from this point in centrifugal way (<ce:cross-ref id="crf0007" refid="fig0002">Fig. 2A</ce:cross-ref>
+                        <ce:float-anchor refid="fig0002"/>, 2B, 2C). For an element at a time, finding all the interactions from drivers and to cascading effects, and then radiating out from these drivers and cascading effects each in turn.</ce:para>
+                     <ce:para id="para0007" view="all">The name of element can often be phrased in different ways, influencing the sign of the arrow – for example a positive arrow towards an element titled ‘decreased lighting’ represents the same process as a negative arrow towards an element titled ‘increased shading’ (compare <ce:cross-ref id="crf0008" refid="fig0002">Fig. 2B</ce:cross-ref> with 2B´, and 2C with 2C´). For consistency and simplicity, we recommend choosing first the clearest formulation of the element (or instance by avoiding double-negative formulations), and if both alternatives are equally clear, selecting then for a formulation that creates a positive arrow.</ce:para>
+                     <ce:para id="para0008" view="all">Sometimes, an interaction can be non-linear, for example where an increase in the source element at first causes an increase in the sink element, but past a threshold this relation shifts. In such cases, it is important to make note of the non-linearity, and – depending on the goals of the analysis – to either indicate both signs, or choose explicitly the interaction type of choice (pre- or post- threshold for instance). Non-linearities can also be solved by increasing the ‘resolution’ of the analysis: for instance by adding the intermediate element that creates the threshold: in Downing et al., (2014) this was represented in eutrophication being first a source of growth of lake fauna through enrichment, but then as a source of mortality through asphyxia. By producing the intermediate step of ‘anoxia and shading’, the diagram could then be used to reflect both the positive and negative effects of added nutrients, and thus remain relevant for different areas of the lake or time-frames where one or the other process was dominating. An increase in resolution is preferrable for an SDG analysis.</ce:para>
+                     <ce:para id="para0009" view="all">Creating a CLD is an iterative process with iterations consisting of a) identifying the different elements of the system and their causal connections; b) reflecting on the dynamic patterns that would play out from the feedbacks at a system level; and c) validating the connections identified by using adequate sources (literature, data, etc.). There are choices to make regarding the resolution or detail of the CLD to match the relevance for the study and availability of data. Gaps in data and knowledge that prevent higher detail can be flagged as focus areas for further research. A consolidated CLD is one where the feedbacks – sequences of interactions from one element back to itself, represent the same dynamics irrespective of the elements selected or terminology used. ‘Dead end’ interactions are best left out if they do not contribute to the understanding of system dynamics or their importance, however, if they represent important sustainable development outcomes, then they should be kept. In Downing et al., (2022) for example the elements ‘food security’ were not further connected, but kept in the CLD because they illustrate the features of future policies that need to be considered.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0006" view="all">
+                     <ce:section-title id="cesectitle0009">Simplifying the CLD</ce:section-title>
+                     <ce:para id="para0010" view="all">When a coherent system representation is achieved, with an understanding of the processes that drive changes to and from social, economic and environmental spheres, the diagram can be simplified so that it maintains the same system-dynamic properties, but focuses on the elements that can directly be acted upon. For example, elements that only see positive incoming and outgoing arrows can be removed, without altering system dynamic properties such as feedbacks. This can be relevant for various analytical and communication purposes, where simpler diagrams are often more tractable. However, some such elements are actionable – such as policies or practices – and are central to describing leverage for change in the system: described in terms of where in the system, what types of changes (e.g. adding or removing interactions; adding or removing elements), and even by whom. For the purpose of an SDG analysis, we suggest first distinguishing the actionable processes from the non-actionable ones. For example, in Downing et al., (2022), the element ‘crop residue burning’ is actionable: human agency is behind whether this process takes place or not. The element ‘PM2.5 and BC emissions’ is in this context itself not actionable – if burning takes place, emissions take place. Furthermore, the ‘PM2.5′ element is only surrounded by positive arrows, it thus has no system dynamic properties. To simplify the diagram without losing the information this interaction carries, we remove non-actionable intermediate process from the diagram, connecting the (all positive) arrows that lead to it, to those that leave from it. In the table, we merge the information that related to this intermediate element to the new source-sink interactions that bypass-it. For example, in Downing 2022, we connect ‘Crop residue burning’ with ‘ABC &amp; Climate effects’ and combine the information from the previous two interactions into one. The simplification process should thus be compiled into a separate table with the same headers as <ce:cross-ref id="crf0011" refid="tbl0001">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0001"/>, so as to track the simplification process without losing any information.</ce:para>
+                     <ce:para id="para9002" view="all">
+                        <ce:display>
+                           <ce:textbox id="tbox0002">
+                              <ce:caption id="tbcap1">
+                                 <ce:simple-para id="spara010" view="all">Box 1: Checklist for the CLD</ce:simple-para>
+                              </ce:caption>
+                              <ce:alt-text role="short" id="alte1">Unlabelled box</ce:alt-text>
+                              <ce:textbox-body>
+                                 <ce:sections>
+                                    <ce:para id="para0001axxxx" view="all">
+                                       <ce:list id="celist0001afe">
+                                          <ce:list-item id="celistitem0001aaaa">
+                                             <ce:label>▪</ce:label>
+                                             <ce:para id="para0001afff" view="all">Key problem, it's causes and cascading effects are central and clearly articulated through causal interactions</ce:para>
+                                          </ce:list-item>
+                                          <ce:list-item id="celistitem0001aeffew">
+                                             <ce:label>▪</ce:label>
+                                             <ce:para id="para0012" view="all">CLD contains elements pertaining to social; ecological and economic drivers and consequences of change</ce:para>
+                                          </ce:list-item>
+                                          <ce:list-item id="celistitem0001aea">
+                                             <ce:label>▪</ce:label>
+                                             <ce:para id="para0013" view="all">‘Dead end’ elements are justified by the problem description</ce:para>
+                                          </ce:list-item>
+                                          <ce:list-item id="celistitem1001aea">
+                                             <ce:label>▪</ce:label>
+                                             <ce:para id="para0014" view="all">Causal interactions are documented and explained in a reference table</ce:para>
+                                          </ce:list-item>
+                                          <ce:list-item id="celistitem1001aear">
+                                             <ce:label>▪</ce:label>
+                                             <ce:para id="para0015" view="all">Non-linear processes contextualized or handled into parallel subprocesses.</ce:para>
+                                          </ce:list-item>
+                                          <ce:list-item id="celistitem1001aearu">
+                                             <ce:label>▪</ce:label>
+                                             <ce:para id="para0016" view="all">Differences in wording of elements or in illustrating the causal relationships do not alter feedback signs.</ce:para>
+                                          </ce:list-item>
+                                          <ce:list-item id="celistitem1021aearu">
+                                             <ce:label>▪</ce:label>
+                                             <ce:para id="para0017" view="all">Key drivers are described in terms of actionable elements</ce:para>
+                                          </ce:list-item>
+                                          <ce:list-item id="celistitem1021aearul">
+                                             <ce:label>▪</ce:label>
+                                             <ce:para id="para0018" view="all">Non-actionable elements that are surrounded by positive arrows are removed</ce:para>
+                                          </ce:list-item>
+                                       </ce:list>
+                                    </ce:para>
+                                 </ce:sections>
+                              </ce:textbox-body>
+                           </ce:textbox>
+                        </ce:display>
+                     </ce:para>
+                  </ce:section>
+                  <ce:section id="sec0007" view="all">
+                     <ce:section-title id="cesectitle0011">Using the sustainable development goals framework</ce:section-title>
+                     <ce:para id="para0019" view="all">The UN's 2030 agenda is composed of 17 SDGs that represent social, economic and environmental facets of sustainable development. Each goal is delineated by a set of targets that to some degree integrate these facets, and provide connections across the goals: for instance, the targets of goal 2 – zero hunger – specify addressing the goals in equitable ways, and promoting agricultural diversity – thus linking equity and environmental goals <ce:cross-ref id="crf0012" refid="bib0001">[1]</ce:cross-ref>.</ce:para>
+                     <ce:para id="para0020" view="all">There are a total of 169 targets delineating more specifically how the goals are to be met. The SDG framework also includes many more indicators designed to describe progress towards targets. Because the indicator level is country-specific, incomplete (not all goals and targets have specified and measurable indicators) <ce:cross-ref id="crf0013" refid="bib0008">[8]</ce:cross-ref>, and that indicators in themselves do not represent sustainable outcomes, we present a method for analyses at the target level that allows both high specificity (it is relatively adaptable to different local contexts) as well as generalizable knowledge in terms of the classification of targets. Indeed, targets represent different types of aims, from changed trends, to specific outcomes or general policy directions – which implies that they can be met or contributed to by a wide variety of actors at different levels – from international &amp; national policy, through businesses and entrepreneurs to the population at large.</ce:para>
+                     <ce:para id="para0021" view="all">The aim of the SDG analysis is to identify what the SDG target level impacts are of each actionable element, by investigating all the outgoing interactions of actionable elements.</ce:para>
+                     <ce:para id="para0022" view="all">We recommend an iterative approach to the SDG target analysis, with the following steps of iteration:<ce:list id="celist0001a">
+                           <ce:list-item id="celistitem0001a">
+                              <ce:label>i.</ce:label>
+                              <ce:para id="para0029a" view="all">Search the SDG target list for terms in the descriptions and quotes of each actionable interaction. Add the targets in a column adjacent to each interaction – many targets can be identified for each interaction (Appendix A: sheet ’Target Analysis’ contains the Goal and target list – enter data in sheet ‘SimplifiedCLD_SDGimpacts’, next to each interaction).</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0001e">
+                              <ce:label>ii.</ce:label>
+                              <ce:para id="para0029e" view="all">For all targets of each interaction, check the goal-level coherence, see if any other targets address or are affected by the process, add explanatory notes where necessary.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0001s">
+                              <ce:label>iii.</ce:label>
+                              <ce:para id="para0029s" view="all">For all targets of each interaction, add a sign indicating if the interaction contributes to meeting the target (+), or not (-), or it is not known (?). Note that this sign can be different to the sign of the interaction itself. For example, an interaction representing a decrease in pollution (- interaction sign) can contribute to meeting sustainable production targets (+ SDG target sign).</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0001x">
+                              <ce:label>i.</ce:label>
+                              <ce:para id="para0029x" view="all">(Optional): indicate if the target is influenced by the system itself (e.g. increased food production in the system can lead to hunger reduction targets) or whether addressing the target can support changes in the system (e.g. climate policies of target 13.2 can support driving sustainable practices in the system).</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0001f">
+                              <ce:label>v.</ce:label>
+                              <ce:para id="para0029f" view="all">Consolidate for each of the targets whether and how often they are addressed. This table should have each target as a row, and columns indicating a) how many interactions contribute to meeting the target; b) how many to going against the target; c) how many are unknown and d) if step iv above is taken, if the target can be used to leverage changes towards sustainability in the system. This table can be used for as system-wide analysis of which SDG targets are most impacted by the system's social-ecological interactions and how (Appendix A: complete sheet ‘Target Analysis’.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                  </ce:section>
+                  <ce:section id="sec0008" view="all">
+                     <ce:section-title id="cesectitle0012">Interpretation of results</ce:section-title>
+                     <ce:para id="para0028" view="all">Patterns in the analyses can reflect several factors, and we therefore suggest the following four lenses for the interpretation of results:<ce:list id="celist0001">
+                           <ce:list-item id="celistitem0001">
+                              <ce:label>i.</ce:label>
+                              <ce:para id="para0029" view="all">Patterns that are a product of the CLD focus. The SDG analysis cannot reveal more than was included in the CLD, and biases in the elements considered important to SES dynamics will be reflected in the SDG target pattern obtained. It is therefore relevant to scrutinize why certain targets and goals are not represented, or over-represented.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0002">
+                              <ce:label>ii.</ce:label>
+                              <ce:para id="para0030" view="all">Patterns that are a product of the SDG framework formulation. The SDG patterns obtained do not only reflect effective sustainability impacts, but also how dimensions of sustainability are worded in the SDG framework. For instance, few targets under Goal 13 (climate change) are specific to sources of emissions, and a CLD that represents a fairly detailed understanding of emission sources may – counterintuitively – not necessarily have many connections to SDG 13. Again scrutinizing absences of impacts, and reflecting on the sustainability of processes beyond the limitations of the SDG framework is essential in a comprehensive interpretation of results.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0003">
+                              <ce:label>iii.</ce:label>
+                              <ce:para id="para0031" view="all">Patterns that reflect a gap in the data. Certain CLD processes cannot be documented for lack of data and observations. Also, even where a connection can be identified between a CLD interaction and a target, the sign may not be determinable, for lack of data and monitoring. Such gaps can be useful pointers for future research.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem0004">
+                              <ce:label>iv.</ce:label>
+                              <ce:para id="para0032" view="all">Patterns in the SDG analysis reflect documented sustainability challenges and contexts for the system described. This dimension is to some degree the validation of the analysis.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="para0033" view="all">The methods above describe the decision criteria, methodological steps, validation criteria, documentation processes, and guides for interpretation of results for the integrated and systematic analysis of sustainability impacts and pathways in social-ecological systems. This approach has been used to describe the country-specific and diverse SDG impacts of agricultural commodity exports to China (see <ce:cross-ref id="crf0014" refid="bib0009">[9]</ce:cross-ref>), that allows to identify both the specific processes that support or go against meeting goals in each different context, as well as the more generalisable processes that can contribute to meeting goals. Built on the premise that an integrated approach depends on a systems understanding, we here provide a clear tool to build the required systems conceptualisation that can guide the analysis of sustainability impacts and pathways for change. The approach presented is versatile in that it can be designed from literature data, as well as interview or participatory workshop processes, where the key element of quality lies in the documentation of the CLD elements and interactions – which can then be built upon, deliberated and tested in a structured way, and in the impacts the CLD can be used to analyse. We here provide a specific example of the United Nation's 2030 agenda and SDG framework, but we see this approach as applicable to other sustainability or development frameworks, such as the ‘Doughnut Economics’ framework for example <ce:cross-ref id="crf0015" refid="bib0010">[10]</ce:cross-ref>, as the social-ecological processes that shape the CLD can be assessed in an integrated way in terms of their contributions to, or against, meeting different social foundations and environmental ceilings.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0009" view="all">
+                  <ce:section-title id="cesectitle0013">Ethics statements</ce:section-title>
+                  <ce:para id="para0034" view="all">Our work does not involve human subjects, animal experiments or social media data. However, should the analyses be carried out using interview or workshop data, they should then comply with the necessary and appropriate ethical and privacy requirements.</ce:para>
+               </ce:section>
+               <ce:section id="sec0006a" view="all">
+                  <ce:section-title id="cesectitle0009a">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="para0018a" view="all">
+                     <ce:bold>Andrea S. Downing:</ce:bold> Conceptualization, Methodology, Validation, Writing – original draft, Visualization.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0001" view="all">
+               <ce:section-title id="cesectitle0015">Acknowledgments</ce:section-title>
+               <ce:para id="para0036" view="all">I am grateful to ‘the writing group’: Tim Daw, Jan J. Kuiper and Caroline Schill for their insights and support on the manuscript. I am also grateful to Amanda Jiménez Aceituno and Sofia Maniatakou for feedback on previous iterations of the SDG analyses, and Ana Paula Aguiar for Causal Loop Diagram inputs. This work was funded by <ce:grant-sponsor id="gs0001" sponsor-id="https://doi.org/10.13039/501100001862" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Formas</ce:grant-sponsor> (Projects <ce:grant-number refid="gs0001" id="gn0001"># 2018–01824</ce:grant-number> and <ce:grant-number refid="gs0001" id="gn0002"># 2020/0005</ce:grant-number>); through the generous support of the <ce:grant-sponsor id="gs0002" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Erling-Persson Family Foundation</ce:grant-sponsor> to the Global Economic Dynamics and the Biosphere, the <ce:grant-sponsor id="gs0003" sponsor-id="https://doi.org/10.13039/501100001725" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Royal Swedish Academy of Sciences</ce:grant-sponsor>, Sweden.</ce:para>
+               <ce:section id="sec0009a" view="all">
+                  <ce:section-title id="cesectitle0016">Declaration of Competing Interest</ce:section-title>
+                  <ce:para id="para0037" view="all">Please <ce:bold>tick</ce:bold> the appropriate statement below (please <ce:underline>do not delete</ce:underline> either statement) and declare any financial interests/personal relationships which may affect your work in the box below.</ce:para>
+                  <ce:para id="para0038" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+                  <ce:para id="para0039" view="all">The authors declare the following financial interests/personal relationships which may be considered as potential competing interests:</ce:para>
+               </ce:section>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0017">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="sbref0001">
+                        <ce:textref>UN, Transforming our world: The 2030 agenda for sustainable development, 2015. 10.1007/s13398-014-0173-7.2.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Schmidt-Traub</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kroll</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lafortune</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Fuller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Woelm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development Report 2020</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Cambridge University Press</sb:name>
+                                 <sb:location>Cambridge</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0001" xlink:href="https://s3.amazonaws.com/sustainabledevelopment.report/2020/2020_sustainable_development_report.pdf" xlink:type="simple">https://s3.amazonaws.com/sustainabledevelopment.report/2020/2020_sustainable_development_report.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">J. Sachs, G. Schmidt-Traub, C. Kroll, G. Lafortune, G. Fuller, F. Woelm, Sustainable Development Report 2020, Cambridge University Press, Cambridge, 2020. https://s3.amazonaws.com/sustainabledevelopment.report/2020/2020_sustainable_development_report.pdf.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The sustainable development goals report 2021</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2022</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0003">UN, The sustainable development goals report 2021, 2022.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Borgman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Big Data, Little Data, No Data : Scholarship in the Networked World [Elektronisk Resurs]</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>MIT Press</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">C.L. Borgman, Big Data, Little Data, No Data : Scholarship in the Networked World [Elektronisk Resurs], MIT Press, 2015.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Downing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.H.</ce:given-name>
+                                 <ce:surname>Van Nes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Balirwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Beuving</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.O.J.</ce:given-name>
+                                 <ce:surname>Bwathondi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Chapman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Ilse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coupled human and natural system dynamics as key to the sustainability of Lake Victoria's ecosystem services</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.5751/ES-06965-190431</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">A.S. Downing, E.H. Van Nes, J.S. Balirwa, J. Beuving, P.O.J. Bwathondi, L.J. Chapman, J.M. Ilse, Coupled human and natural system dynamics as key to the sustainability of Lake Victoria's ecosystem services, Ecol. Soc.19 (2014) 31. 10.5751/ES-06965-190431.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Downing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Andersson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Causevic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ö.</ce:given-name>
+                                 <ce:surname>Gustafsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.U.</ce:given-name>
+                                 <ce:surname>Joshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.B.</ce:given-name>
+                                 <ce:surname>Krishnamurthy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scholtens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Crona</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Unlocking the unsustainable rice-wheat system of Indian Punjab: assessing alternatives to crop-residue burning from a systems perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>107364</sb:article-number>
+                           <ce:doi>10.1016/j.ecolecon.2022.107364</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">A.S. Downing, M. Kumar, A. Andersson, A. Causevic, Ö. Gustafsson, N.U. Joshi, C.K.B. Krishnamurthy, B. Scholtens, B. Crona, Unlocking the unsustainable rice-wheat system of Indian Punjab: assessing alternatives to crop-residue burning from a systems perspective, Ecol. Econ.195 (2022) 107364. 10.1016/j.ecolecon.2022.107364.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Downing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.Y.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Aguiar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Selomane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Jiménez Aceituno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>When the whole is less than the sum of all parts – Tracking global-level impacts of national sustainability initiatives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glob. Environ. Chang.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>102306</sb:article-number>
+                           <ce:doi>10.1016/j.gloenvcha.2021.102306</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">A.S. Downing, G.Y. Wong, M. Dyer, A.P. Aguiar, O. Selomane, A. Jiménez Aceituno, When the whole is less than the sum of all parts – Tracking global-level impacts of national sustainability initiatives, Glob. Environ. Chang.69 (2021) 102306. 10.1016/j.gloenvcha.2021.102306.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kroll</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lafortune</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Fuller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Woelm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development Report 2021</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2021</sb:date>
+                           </sb:book>
+                           <ce:doi>10.1017/9781009106559</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">J. Sachs, C. Kroll, G. Lafortune, G. Fuller, F. Woelm, Sustainable Development Report 2021, 2021. 10.1017/9781009106559.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Downing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.Y.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Aguiar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Selomane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Aceituno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>When the whole is less than the sum of all parts–tracking global-level impacts of national sustainability initiatives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glob. Environ. Change</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.gloenvcha.2021.102306</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">A.S. Downing, G.Y. Wong, M. Dyer, A.P. Aguiar, O. Selomane, A.J. Aceituno, When the whole is less than the sum of all parts–tracking global-level impacts of national sustainability initiatives, Glob. Environ. Change69 (2021). 10.1016/j.gloenvcha.2021.102306.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Raworth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Random House</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0002" xlink:href="https://books.google.se/books?id=9euWCwAAQBAJ" xlink:type="simple">https://books.google.se/books?id=9euWCwAAQBAJ</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">K. Raworth, Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist, Random House, 2017. https://books.google.se/books?id=9euWCwAAQBAJ.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

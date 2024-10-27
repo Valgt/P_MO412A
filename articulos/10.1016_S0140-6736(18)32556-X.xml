@@ -1,0 +1,529 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S014067361832556X</prism:url><dc:identifier>doi:10.1016/S0140-6736(18)32556-X</dc:identifier><eid>1-s2.0-S014067361832556X</eid><prism:doi>10.1016/S0140-6736(18)32556-X</prism:doi><pii>S0140-6736(18)32556-X</pii><dc:title>Primary health care for the 21st century, universal health coverage, and the Sustainable Development Goals </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>01406736</prism:issn><prism:volume>392</prism:volume><prism:issueIdentifier>10156</prism:issueIdentifier><prism:startingPage>1371</prism:startingPage><prism:endingPage>1372</prism:endingPage><prism:pageRange>1371-1372</prism:pageRange><prism:number>10156</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2018-10-26</prism:coverDate><prism:coverDisplayDate>20–26 October 2018</prism:coverDisplayDate><prism:copyright>© 2018 World Health Organization. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>World Health Organization. Published by Elsevier Ltd.</prism:publisher><dc:creator>Ghebreyesus, Tedros Adhanom</dc:creator><dc:creator>Fore, Henrietta</dc:creator><dc:creator>Birtanov, Yelzhan</dc:creator><dc:creator>Jakab, Zsuzsanna</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S014067361832556X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S014067361832556X" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="143" size="30277">https://api.elsevier.com/content/object/eid/1-s2.0-S014067361832556X-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="670" height="436" size="106153">https://api.elsevier.com/content/object/eid/1-s2.0-S014067361832556X-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1781" height="1159" size="449336">https://api.elsevier.com/content/object/eid/1-s2.0-S014067361832556X-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="61837">https://api.elsevier.com/content/object/eid/1-s2.0-S014067361832556X-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85055058485</scopus-id><scopus-eid>2-s2.0-85055058485</scopus-eid><pubmed-id>30343843</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85055058485" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20181018">2018-10-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20181018">2018-10-18</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20181018">2018-10-18</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20181018">2018-10-18</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-10-18T13:02:40</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S014067361832556X</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(18)32556-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S014067361832556X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(18)32556-X</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673618X00440</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190722">2019-07-22T22:04:08.838014Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20181020</xocs:date-search-begin>
+      <xocs:date-search-end>20181026</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1539905467">2018-10-18T23:31:07.574492Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>392</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>392</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10156</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10156</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 392, Issue 10156</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>1371</xocs:first-fp>
+      <xocs:last-lp>1372</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1371</xocs:first-page>
+         <xocs:last-page>1372</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20181020</xocs:start-date>
+         <xocs:end-date>20181026</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>20–26 October 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-10-20</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-10-26</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 World Health Organization. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PRIMARYHEALTHCAREFOR21STCENTURYUNIVERSALHEALTHCOVERAGESUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GHEBREYESUS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(18)32478-4</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673618324784</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(18)32389-4</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673618323894</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(18)32215-3</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673618322153</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDHEALTHSTATISTICS2018MONITORINGHEALTHFORSUSTAINABLEDEVELOPMENTGOALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TIMEDELIVERREPORTINDEPENDENTHIGHLEVELCOMMISSIONNONCOMMUNICABLEDISEASES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDREPORTAGEINGHEALTH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40"/>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDHEALTHREPORT2008PRIMARYHEALTHCARENOWMORE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>BALABANOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2118</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2133</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GHEBREYESUSX2018X1371</xocs:refkey3>
+         <xocs:refkey4lp>GHEBREYESUSX2018X1371X1372</xocs:refkey4lp>
+         <xocs:refkey4ai>GHEBREYESUSX2018X1371XT</xocs:refkey4ai>
+         <xocs:refkey5>GHEBREYESUSX2018X1371X1372XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2019-04-18T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-04-18T00:00:00.000Z</xocs:sa-start-date>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 World Health Organization. Published by Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+         <xocs:cp-license-lines/>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(18)32556-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S014067361832556X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S014067361832556X</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(18)32556-X</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2019-07-22T22:04:08.838014Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-10-20</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-10-26</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S014067361832556X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S014067361832556X/MAIN/application/pdf/2dbe26feb139eac71de278f54c061aa3/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S014067361832556X/MAIN/application/pdf/2dbe26feb139eac71de278f54c061aa3/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>462433</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S014067361832556X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S014067361832556X/PREVIEW/image/png/95497d0063dfa6f2e1a6bee289a23e20/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S014067361832556X/PREVIEW/image/png/95497d0063dfa6f2e1a6bee289a23e20/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>77247</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S014067361832556X-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S014067361832556X/fx1/THUMBNAIL/image/gif/43ab2af801929570aaa97d11da05e3d3/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S014067361832556X/fx1/THUMBNAIL/image/gif/43ab2af801929570aaa97d11da05e3d3/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>30277</xocs:filesize>
+               <xocs:pixel-height>143</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S014067361832556X-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S014067361832556X/fx1/DOWNSAMPLED/image/jpeg/f659159f5ee6c86886724f94302a73c5/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S014067361832556X/fx1/DOWNSAMPLED/image/jpeg/f659159f5ee6c86886724f94302a73c5/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>106153</xocs:filesize>
+               <xocs:pixel-height>436</xocs:pixel-height>
+               <xocs:pixel-width>670</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S014067361832556X-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S014067361832556X/fx1/HIGHRES/image/jpeg/39e72ae85af3872cb248972957a7dd2b/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S014067361832556X/fx1/HIGHRES/image/jpeg/39e72ae85af3872cb248972957a7dd2b/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>449336</xocs:filesize>
+               <xocs:pixel-height>1159</xocs:pixel-height>
+               <xocs:pixel-width>1781</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S014067361832556X-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>61837</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10VL6QVB4JH/MAIN/application/pdf/ed68a31291caa3111018ee5959b07eaf/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10VL6QVB4JH/MAIN/application/pdf/ed68a31291caa3111018ee5959b07eaf/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>6125</aid>
+            <ce:pii>S0140-6736(18)32556-X</ce:pii>
+            <ce:doi>10.1016/S0140-6736(18)32556-X</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S0140-6736(18)32478-4</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(18)32478-4</ce:doi>
+               </ce:refers-to-document>
+               <ce:refers-to-document id="cereftodoc20">
+                  <ce:pii>S0140-6736(18)32389-4</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(18)32389-4</ce:doi>
+               </ce:refers-to-document>
+               <ce:refers-to-document id="cereftodoc30">
+                  <ce:pii>S0140-6736(18)32215-3</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(18)32215-3</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="other" year="2018">World Health Organization. Published by Elsevier Ltd/Inc/BV. All rights reserved.</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Primary health care for the 21st century, universal health coverage, and the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S014067361832556X-6404dc1423b389bc14b22edc9c830dd9">
+                  <ce:given-name>Tedros Adhanom</ce:given-name>
+                  <ce:surname>Ghebreyesus</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au20" author-id="S014067361832556X-6c6a9b22b3a32f5f38150484ceb9f66b">
+                  <ce:given-name>Henrietta</ce:given-name>
+                  <ce:surname>Fore</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30" author-id="S014067361832556X-10164fa131ae00982ce4e8bc8f8be7d8">
+                  <ce:given-name>Yelzhan</ce:given-name>
+                  <ce:surname>Birtanov</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au40" author-id="S014067361832556X-a4fc8eb74098a0b7b4f4dfced8de82f9">
+                  <ce:given-name>Zsuzsanna</ce:given-name>
+                  <ce:surname>Jakab</ce:surname>
+                  <ce:cross-ref id="cecref40" refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S014067361832556X-24b805d80c38b9e598ae6d18b1f0cba4">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>World Health Organization, Geneva, Switzerland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>World Health Organization</sa:organization>
+                     <sa:city>Geneva</sa:city>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S014067361832556X-f1ca4f97bf86bb0682b5a750964a0d26">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>United Nations Children's Fund, New York, NY, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>United Nations Children's Fund</sa:organization>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S014067361832556X-625088053a8bfadcccc5808bd337c592">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Ministry of Healthcare, Government of Kazakhstan, Astana, Kazakhstan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Ministry of Healthcare</sa:organization>
+                     <sa:organization>Government of Kazakhstan</sa:organization>
+                     <sa:city>Astana</sa:city>
+                     <sa:country>Kazakhstan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff4" affiliation-id="S014067361832556X-2a0c351f1e721be1af2c7073595c6790">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Regional Office for Europe, World Health Organization, Copenhagen, DK-2100, Denmark</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Regional Office for Europe</sa:organization>
+                     <sa:organization>World Health Organization</sa:organization>
+                     <sa:city>Copenhagen</sa:city>
+                     <sa:postal-code>DK-2100</sa:postal-code>
+                     <sa:country>Denmark</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">Good health and wellbeing are fundamental to the prosperity of societies. By many measures, modern humanity enjoys better health than earlier generations.<ce:cross-ref id="cecref50" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> But the benefits of modern health care are not accessible to all. Even as the incidence of infectious diseases such as HIV, tuberculosis, and malaria are reduced, many countries struggle to cope with the growing burden of non-communicable diseases, and the complex and growing health needs of ageing populations.<ce:cross-refs id="cecrefs10" refid="bib2 bib3">
+                     <ce:sup loc="post">2,3</ce:sup>
+                  </ce:cross-refs>
+               </ce:para>
+               <ce:para id="para20" view="all">The Declaration of Alma-Ata in 1978<ce:cross-ref id="cecref60" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> was the first international call for primary health care as the main strategy for achieving universal health coverage, otherwise known as “health for all”. Guided by its values of equity, solidarity, and social justice, signatories to the Declaration of Alma-Ata agreed that all people in all countries have a fundamental right to health, and that governments are responsible for upholding that right.<ce:cross-ref id="cecref70" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para30" view="all">The vision of the Declaration of Alma-Ata was to change how we think about health and move away from hospitals, professionals, and disease, and towards a recognition that health is not only about illness and services but also about the social, economic, and environmental factors that affect the health of individuals and populations. Thought about this way, health services are designed and delivered in response to the expressed needs and expectations of individuals and communities, and are easily accessible where people live and work.</ce:para>
+               <ce:para id="para40" view="all">40 years later, that vision has gone largely unfulfilled. Realisation of the vision and values set forth in the Declaration of Alma-Ata has been hampered by inadequate political leadership and circumstances beyond the health sector (eg, economic crises and political instability) and within the health sector (eg, global epidemics, vertical disease-specific approaches, unregulated private health care, and overinvestment in specialised curative care).</ce:para>
+               <ce:para id="para50" view="all">The 40th anniversary of the Declaration of Alma-Ata is a time to reaffirm the principles of the original declaration and underline the importance of primary health care for achieving health and wellbeing for all. The anniversary also provides an opportunity to revitalise primary health care, bringing to bear the potential of innovation and technology and empowering young people to participate more meaningfully in their own health.</ce:para>
+               <ce:para id="para60" view="all">Primary health care is based on three pillars: community empowerment, multisectoral policies and action, and integrated delivery of quality primary care and public health services. With good design and delivery, primary health care provided to all—irrespective of who they are or where they are from—can effectively meet most health needs people encounter throughout their lives.</ce:para>
+               <ce:para id="para70" view="all">Decades of evidence show that health systems developed around strong primary health care deliver better health outcomes at a lower cost, and can mitigate the impact of poor economic conditions on health.<ce:cross-ref id="cecref80" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> High-quality primary health care is the best platform for responding to evolving health needs, demographics, environmental challenges, and emergencies.<ce:cross-ref id="cecref90" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref> Strong primary health care, rooted in community participation and action, is the foundation of every health system, and no country can achieve health for all without it.</ce:para>
+               <ce:para id="para80" view="all">Investing in primary health care will support tangible improvements in health and wellbeing and drive progress towards achievement of the health targets of the Sustainable Development Goals.</ce:para>
+               <ce:para id="para90" view="all">Achieving health for all and ensuring health care that is truly universal requires a renewed focus on quality primary health care that is designed around people. We are meeting at the Global Conference on Primary Health Care in Astana, Kazakhstan, on Oct 25–26, 2018, to recall and build on the original Alma-Ata vision, and embrace lessons learned since 1978. A new commitment, the Declaration of Astana, developed with the input of UN member states, will call for primary health care that puts people at the centre of health systems, instead of diseases, institutions, donor objectives, or vertical funding streams. We must transform this vision into a practical reality for the benefit and development of humankind.</ce:para>
+               <ce:para id="para100" view="all">
+                  <ce:display>
+                     <ce:textbox id="cetextbox10">
+                        <ce:textbox-body>
+                           <ce:sections>
+                              <ce:para id="para110" view="all">For the <ce:bold>Global Conference on Primary Health Care</ce:bold> see <ce:inter-ref id="interrefs10" xlink:href="http://www.who.int/primary-health/conference-phc" xlink:type="simple">http://www.who.int/primary-health/conference-phc</ce:inter-ref>
+                              </ce:para>
+                           </ce:sections>
+                        </ce:textbox-body>
+                     </ce:textbox>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="para120" view="all">
+                  <ce:display>
+                     <ce:figure id="f10">
+                        <ce:copyright type="other" year="2018">Giacomo Pirozzi/Panos Pictures</ce:copyright>
+                        <ce:link locator="fx1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S014067361832556X/fx1"/>
+                     </ce:figure>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="para130" role="acknowledgement" view="all">TAG is the Director-General of WHO. HF is Executive Director of UNICEF; YB is Minister of Healthcare, Government of Kazakhstan. ZJ is Regional Director of the World Health Organization Regional Office for Europe. We declare no other competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World health statistics 2018: monitoring health for the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Time to deliver: report of the WHO Independent High-level Commission on Noncommunicable Diseases</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World report on ageing and health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                              <sb:collaboration>UNICEF</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alma-Ata 1978 Primary Health Care. Report of the International Conference on Primary Health Care Alma-Ata, USSR</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="https://www.unicef.org/about/history/files/Alma_Ata_conference_1978_report.pdf" xlink:type="simple">https://www.unicef.org/about/history/files/Alma_Ata_conference_1978_report.pdf</ce:inter-ref>
+                              <sb:date>6–12 September 1978</sb:date>
+                              <sb:date-accessed day="28" month="9" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The world health report 2008—primary health care (now more than ever)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Balabanova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Mills</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Conteh</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Good health at low cost 25 years on: lessons for the future of health systems strengthening</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>381</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2118</sb:first-page>
+                              <sb:last-page>2133</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

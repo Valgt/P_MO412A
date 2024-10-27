@@ -1,0 +1,285 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0896844623001572</prism:url><dc:identifier>doi:10.1016/j.supflu.2023.105993</dc:identifier><eid>1-s2.0-S0896844623001572</eid><prism:doi>10.1016/j.supflu.2023.105993</prism:doi><pii>S0896-8446(23)00157-2</pii><dc:title>Supercritical fluids technologies for sustainable development goals </dc:title><prism:publicationName>The Journal of Supercritical Fluids</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>08968446</prism:issn><prism:volume>200</prism:volume><prism:startingPage>105993</prism:startingPage><prism:pageRange>105993</prism:pageRange><articleNumber>105993</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2023-09-30</prism:coverDate><prism:coverDisplayDate>September 2023</prism:coverDisplayDate><prism:copyright>© 2023 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Tomai, Takaaki</dc:creator><dc:creator>Weiss-Hortala, Elsa</dc:creator><dc:creator>Chen, Lin</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0896844623001572" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0896844623001572" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="140994">https://api.elsevier.com/content/object/eid/1-s2.0-S0896844623001572-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85160570747</scopus-id><scopus-eid>2-s2.0-85160570747</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85160570747" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271960</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Journal of Supercritical Fluids</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALSUPERCRITICALFLUIDS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20230518">2023-05-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20230518">2023-05-18</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20230601">2023-06-01</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20230601">2023-06-01</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-06-11T18:58:24</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0896844623001572</xocs:eid>
+      <xocs:pii-formatted>S0896-8446(23)00157-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0896844623001572</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.supflu.2023.105993</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0896844623X00084</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240101">2024-01-01T08:07:14.49657Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20230901</xocs:date-search-begin>
+      <xocs:date-search-end>20230930</xocs:date-search-end>
+      <xocs:year-nav>2023</xocs:year-nav>
+      <xocs:indexeddate epoch="1684423985">2023-05-18T15:33:05.916721Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast pubtype</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0896-8446</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>08968446</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>200</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>200</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 200</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>20</xocs:sort-order>
+      <xocs:first-fp>105993</xocs:first-fp>
+      <xocs:article-number>105993</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>105993</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202309</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2023</xocs:cover-date-text>
+      <xocs:cover-date-start>2023-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2023-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2023</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2023 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>SUPERCRITICALFLUIDSTECHNOLOGIESFORSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TOMAI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:refkeys>
+         <xocs:refkey3>TOMAIX2023X105993</xocs:refkey3>
+         <xocs:refkey4ai>TOMAIX2023X105993XT</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2025-06-01T00:00:00.000Z</xocs:or-embargo-opening-date>
+         <xocs:or-agreements>
+            <xocs:or-agreement>
+               <xocs:or-agreement-id>http://vtw.elsevier.com/content/oragreement/15789</xocs:or-agreement-id>
+               <xocs:or-agreement-name>NR_JUSTICE</xocs:or-agreement-name>
+               <xocs:or-agreement-terms>publishAcceptedManuscriptIndexable</xocs:or-agreement-terms>
+            </xocs:or-agreement>
+         </xocs:or-agreements>
+         <xocs:or-agreement-license>http://www.elsevier.com/open-access/userlicense/1.0/</xocs:or-agreement-license>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2025-06-01T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2023 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0896-8446(23)00157-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0896844623001572</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0896844623001572</xocs:eid>
+         <xocs:doi>10.1016/j.supflu.2023.105993</xocs:doi>
+         <xocs:cid>271960</xocs:cid>
+         <xocs:timestamp>2024-01-01T08:07:14.49657Z</xocs:timestamp>
+         <xocs:cover-date-start>2023-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2023-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0896844623001572-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0896844623001572/MAIN/application/pdf/e30f15d9f1a0033086456add03fd7344/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>189759</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0896844623001572-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0896844623001572/PREVIEW/image/png/066c3fb5bc515e1fc2c3cefa29d24756/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>46146</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0896844623001572-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>140994</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10HVC442F15/MAIN/application/pdf/7dcd9538bff04ee16c4c69db8b467b8c/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>SUPFLU</jid>
+            <aid>105993</aid>
+            <ce:article-number>105993</ce:article-number>
+            <ce:pii>S0896-8446(23)00157-2</ce:pii>
+            <ce:doi>10.1016/j.supflu.2023.105993</ce:doi>
+            <ce:copyright type="full-transfer" year="2023">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="doc0005">
+               <ce:textfn>Preface</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Supercritical fluids technologies for sustainable development goals</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0896844623001572-59501082a426d898bd65cc9611d5a0d5">
+                  <ce:given-name>Takaaki</ce:given-name>
+                  <ce:surname>Tomai</ce:surname>
+                  <ce:cross-ref id="cr0005" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0896844623001572-b02abe69d4d0c3f1787fca8c16528d99">
+                  <ce:textfn>Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University</sa:organization>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Frontier Research Institute for Interdisciplinary Sciences (FRIS), Tohoku University</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S0896844623001572-9a8ffe922115779f5da3acab189a3c5a">
+                  <ce:given-name>Elsa</ce:given-name>
+                  <ce:surname>Weiss-Hortala</ce:surname>
+                  <ce:cross-ref id="cr0010" refid="aff0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0015" refid="aff0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0010" affiliation-id="S0896844623001572-e1f5d215748ace75694d8388848833c4">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>RAPSODEE Center, CNRS - UMR 5302, IMT Mines Albi, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>RAPSODEE Center, CNRS - UMR 5302, IMT Mines Albi</sa:organization>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">RAPSODEE Center, CNRS - UMR 5302, IMT Mines Albi &amp; IMRAM, Tohoku University</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S0896844623001572-584a6917a476a5a5398d7ca6161f2a97">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>IMRAM, Tohoku University, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>IMRAM, Tohoku University</sa:organization>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0020">IMRAM, Tohoku University, Japan</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="ag0015">
+               <ce:author id="au0015" author-id="S0896844623001572-d2b72b32c841f64952b412b3fa6c3ab7">
+                  <ce:given-name>Lin</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0020" affiliation-id="S0896844623001572-611ef8d388ffce04a7953f1c6904c27c">
+                  <ce:textfn>Institute of Engineering Thermophysics, Chinese Academy of Sciences, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Engineering Thermophysics, Chinese Academy of Sciences</sa:organization>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0025">Institute of Engineering Thermophysics, Chinese Academy of Sciences</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0005" view="all">This special issue aims to highlight that supercritical fluids technologies can provide promising alternatives to achieve the 17 Sustainable Development Goals (SDGs).</ce:para>
+               <ce:para id="p0010" view="all">The SDGs were adopted by the United Nations in 2015 as a universal call to action to end poverty, protect the planet, and ensure that by 2030 all people enjoy peace and prosperity.</ce:para>
+               <ce:para id="p0015" view="all">The 17 SDGs are as follows:</ce:para>
+               <ce:para id="p0020" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 1. No poverty.</ce:para>
+               <ce:para id="p0025" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 2. Zero hunger.</ce:para>
+               <ce:para id="p0030" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 3. Good health and well-being.</ce:para>
+               <ce:para id="p0035" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 4. Quality education.</ce:para>
+               <ce:para id="p0040" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 5. Gender equality.</ce:para>
+               <ce:para id="p0045" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 6. Clean water and sanitation.</ce:para>
+               <ce:para id="p0050" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 7 Affordable and clean energy.</ce:para>
+               <ce:para id="p0055" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 8. Decent work and economic growth.</ce:para>
+               <ce:para id="p0060" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 9. Industry, innovation and infrastructure.</ce:para>
+               <ce:para id="p0065" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 10. Reduce inequality.</ce:para>
+               <ce:para id="p0070" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 11. Sustainable cities communities.</ce:para>
+               <ce:para id="p0075" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 12. Responsible consumption and production.</ce:para>
+               <ce:para id="p0080" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 13. Climate action.</ce:para>
+               <ce:para id="p0085" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 14. Life below water.</ce:para>
+               <ce:para id="p0090" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 15. Life on land.</ce:para>
+               <ce:para id="p0095" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 16. Peace, justice and strong institutions.</ce:para>
+               <ce:para id="p0100" view="all">
+                  <ce:hsp sp="1.0"/>
+                  <ce:hsp sp="1.0"/>Goal 17. Partnerships for the goals.</ce:para>
+               <ce:para id="p0105" view="all">Nowadays, towards the achievement of SDGs, many countries are setting their national targets and various efforts have been performed in industry, academia and governments. Continuous research and development is needed because it is difficult to achieve the SDGs with the technologies currently in practical use.</ce:para>
+               <ce:para id="p0110" view="all">Supercritical fluids and related technologies have high potential to contribute to those matters, such as energy, food, health, industry, and environmental issues. For example, related to Goal 7, 9 and 12, supercritical fluid processes and materials synthesized by supercritical fluid processes enable energy-saving chemical processes. Related to Goal 6, 9, 15, supercritical extraction can remediate the contaminated soil. Related to Goal 6, 12 and 14, supercritical water treatment can contribute to the oxidative decomposition of the hazardous waste and to the conversion of biomass and waste plastics into valuable chemicals or chemical raw materials.</ce:para>
+               <ce:para id="p0115" view="all">In this issue, recent researches on supercritical fluid technologies, targeted on a sustainable society, are presented. The contributions were all peer reviewed and revised according to the standard procedures of the Journal of Supercritical Fluids.</ce:para>
+               <ce:para id="p0120" view="all">We would like to thank all the researchers that have contributed their efforts to make this special issue possible. Their contributions will help for the development of supercritical fluids technologies in various engineering fields concerning the SDGs and for their implementation in industry.</ce:para>
+            </ce:sections>
+         </body>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1041 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2666683924000063</prism:url><dc:identifier>doi:10.1016/j.geosus.2024.01.005</dc:identifier><eid>1-s2.0-S2666683924000063</eid><prism:doi>10.1016/j.geosus.2024.01.005</prism:doi><pii>S2666-6839(24)00006-3</pii><dc:title>Scientific principles for accelerating the Sustainable Development Goals </dc:title><prism:publicationName>Geography and Sustainability</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>26666839</prism:issn><prism:volume>5</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>157</prism:startingPage><prism:endingPage>159</prism:endingPage><prism:pageRange>157-159</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2024-06-30</prism:coverDate><prism:coverDisplayDate>June 2024</prism:coverDisplayDate><prism:copyright>© 2024 The Authors. Published by Elsevier B.V. and Beijing Normal University Press (Group) Co., LTD. on behalf of Beijing Normal University.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V. and Beijing Normal University Press (Group) Co., LTD. on behalf of Beijing Normal University.</prism:publisher><dc:creator>Fu, Bojie</dc:creator><dc:creator>Wu, Xutong</dc:creator><dc:creator>Wang, Shuai</dc:creator><dc:creator>Zhao, Wenwu</dc:creator><dc:description>
+                  The Sustainable Development Goals (SDGs) are significantly off-course as we reach the midpoint of their 2030 deadline. From a scientific perspective, the critical challenge in achieving the SDGs lies in the need for more scientific principles to understand the complex socio-ecological systems (SES) and their interactions influencing the 17 SDGs. Here, we propose a scientific framework to clarify the common scientific principles and the rational treatment of diversity under these principles. The framework’s core is revealing the complex mechanisms underlying the achievement of each Sustainable Development Goal (SDG) and SDG interactions. Building upon the identified mechanisms, complex SES models can be established, and the implementation of SDGs can be formulated as a multi-objective optimization problem, seeking a compromise in competition between essential costs and desired benefits. Our framework can assist countries, and even the world in accelerating progress towards the SDGs.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2666683924000063" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2666683924000063" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="546" size="130299">https://api.elsevier.com/content/object/eid/1-s2.0-S2666683924000063-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="204" height="164" size="13192">https://api.elsevier.com/content/object/eid/1-s2.0-S2666683924000063-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3004" height="2418" size="1045614">https://api.elsevier.com/content/object/eid/1-s2.0-S2666683924000063-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85186622392</scopus-id><scopus-eid>2-s2.0-85186622392</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85186622392" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>777616</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291705</xocs:ssid>
+         <xocs:ssid type="subj">291768</xocs:ssid>
+         <xocs:ssid type="subj">291780</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Geography and Sustainability</xocs:srctitle>
+      <xocs:normalized-srctitle>GEOGRAPHYSUSTAINABILITY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240130">2024-01-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240130">2024-01-30</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240301">2024-03-01</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240301">2024-03-01</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-05-17T15:59:12</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2666683924000063</xocs:eid>
+      <xocs:pii-formatted>S2666-6839(24)00006-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2666683924000063</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.geosus.2024.01.005</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2666683924X00036</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240517">2024-05-17T16:10:01.192765Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20240601</xocs:date-search-begin>
+      <xocs:date-search-end>20240630</xocs:date-search-end>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1706607759">2024-01-30T09:42:39.064291Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body acknowledge affil articletitle auth authfirstini authfull authlast highlightsabst primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2666-6839</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>26666839</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>5</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>5</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 5, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>1</xocs:sort-order>
+      <xocs:first-fp>157</xocs:first-fp>
+      <xocs:last-lp>159</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>157</xocs:first-page>
+         <xocs:last-page>159</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202406</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2024-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Authors. Published by Elsevier B.V. and Beijing Normal University Press (Group) Co., LTD. on behalf of Beijing Normal University.</xocs:copyright-line>
+      <xocs:normalized-article-title>SCIENTIFICPRINCIPLESFORACCELERATINGSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Challenges of the Sustainable Development Goals</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Scientific framework for achieving the Sustainable Development Goals</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Potential research directions within the scientific framework</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>FRITZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>922</xocs:ref-first-fp>
+            <xocs:ref-last-lp>930</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>386</xocs:ref-first-fp>
+            <xocs:ref-last-lp>388</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>838</xocs:ref-first-fp>
+            <xocs:ref-last-lp>840</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>326</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>LUSSEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>242</xocs:ref-first-fp>
+            <xocs:ref-last-lp>247</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>NILSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>320</xocs:ref-first-fp>
+            <xocs:ref-last-lp>322</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GENERALASSEMBLEY70THSESSIONUNITEDNATIONSNEWYORK</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>TRANSFORMINGWORLD2030AGENDAFORSUSTAINABLEDEVELOPMENT</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTGOALSREPORT2023SPECIALEDITION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>452</xocs:ref-first-fp>
+            <xocs:ref-last-lp>459</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2838</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2848</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FUX2024X157</xocs:refkey3>
+         <xocs:refkey4lp>FUX2024X157X159</xocs:refkey4lp>
+         <xocs:refkey4ai>FUX2024X157XB</xocs:refkey4ai>
+         <xocs:refkey5>FUX2024X157X159XB</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-01-29T09:37:15Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Authors. Published by Elsevier B.V. and Beijing Normal University Press (Group) Co., LTD. on behalf of Beijing Normal University.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-03-08T16:05:44.631Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Key Research and Development Programme of China</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2023YFC3804903</xocs:funding-id>
+            <xocs:funding-agency-acronym>NKRDPC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Key Research and Development Program of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100012166</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This research was financially supported by the National Key Research and Development Programme of China (Grant No. 2023YFC3804903).</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2666-6839(24)00006-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2666683924000063</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2666683924000063</xocs:eid>
+         <xocs:doi>10.1016/j.geosus.2024.01.005</xocs:doi>
+         <xocs:cid>777616</xocs:cid>
+         <xocs:timestamp>2024-05-17T16:10:01.192765Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2024-06-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2666683924000063-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666683924000063/MAIN/application/pdf/1eb56b6cf0d4c45b3ca649b065e427b5/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>738440</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2666683924000063-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666683924000063/PREVIEW/image/png/b3133d7293bab270a05c5f01452ced00/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>62894</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666683924000063-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666683924000063/gr1/DOWNSAMPLED/image/jpeg/f7d4e1111a39f0ce9eb8c43de41f66a6/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>130299</xocs:filesize>
+               <xocs:pixel-height>546</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666683924000063-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666683924000063/gr1/THUMBNAIL/image/gif/d0e33e751171bb57eba456b7d4d064f1/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13192</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>204</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666683924000063-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666683924000063/HIGHRES/image/jpeg/6224f1e30608a240b17b51190ab84590/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1045614</xocs:filesize>
+               <xocs:pixel-height>2418</xocs:pixel-height>
+               <xocs:pixel-width>3004</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>GEOSUS</jid>
+            <aid>173</aid>
+            <ce:pii>S2666-6839(24)00006-3</ce:pii>
+            <ce:doi>10.1016/j.geosus.2024.01.005</ce:doi>
+            <ce:copyright type="unknown" year="2024"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara001" view="all">Complex mechanisms underlying SDGs status and interactions. The SDGs status and interactions of an SES at a specific scale (SDGs_S&amp;I) are influenced by social-ecological interactions within the targeted SES (<ce:italic>I</ce:italic>
+                     <ce:inf loc="post">SE</ce:inf>), interactions between this system and other connected SES at the same scale through telecoupling processes (<ce:italic>I</ce:italic>
+                     <ce:inf loc="post">R</ce:inf>), and cross-scale interactions between this system and SES at other scales (<ce:italic>I</ce:italic>
+                     <ce:inf loc="post">CS</ce:inf>). These mechanisms exhibit variations under different development modes (<ce:italic>M</ce:italic>) and at different development stages (<ce:italic>T</ce:italic>).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Fig 1</ce:alt-text>
+               <ce:link id="celink0001" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2666683924000063/gr1"/>
+            </ce:figure>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Scientific principles for accelerating the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S2666683924000063-8c0327b4426948f05b1d6496ae6abbb8">
+                  <ce:given-name>Bojie</ce:given-name>
+                  <ce:surname>Fu</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0002" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0003" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0002" author-id="S2666683924000063-5eb42b8894451c264bfd80eeb7e35189">
+                  <ce:given-name>Xutong</ce:given-name>
+                  <ce:surname>Wu</ce:surname>
+                  <ce:cross-ref id="crf0004" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0003" author-id="S2666683924000063-7425dee86c73e0f69f44c0cca4c4c5ad">
+                  <ce:given-name>Shuai</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0004" author-id="S2666683924000063-901ae46ed0493f01f2b170e87abe89f7">
+                  <ce:given-name>Wenwu</ce:given-name>
+                  <ce:surname>Zhao</ce:surname>
+                  <ce:cross-ref id="crf0006" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S2666683924000063-0828e6f2782dd1cad1f5275d6c788fdb">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">State Key Laboratory of Earth Surface Processes and Resource Ecology, Faculty of Geographical Science, Beijing Normal University, Beijing 100875, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Earth Surface Processes and Resource Ecology</sa:organization>
+                     <sa:organization>Faculty of Geographical Science</sa:organization>
+                     <sa:organization>Beijing Normal University</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100875</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">1State Key Laboratory of Earth Surface Processes and Resource Ecology, Faculty of Geographical Science, Beijing Normal University, Beijing, 100875, China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S2666683924000063-c50b4d71d210f26713c6dcb33eef68c6">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">State Key Laboratory of Urban and Regional Ecology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Urban and Regional Ecology</sa:organization>
+                     <sa:organization>Research Center for Eco-Environmental Sciences</sa:organization>
+                     <sa:organization>Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100085</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0002">2State Key Laboratory of Urban and Regional Ecology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, 100085, China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author: Bojie Fu, State Key Laboratory of Earth Surface Processes and Resource Ecology, Faculty of Geographical Science, Beijing Normal University, Beijing 100875, PR China.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Earth Surface Processes and Resource Ecology</sa:organization>
+                     <sa:organization>Faculty of Geographical Science</sa:organization>
+                     <sa:organization>Beijing Normal University</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100875</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            
+            <ce:abstract id="abs0002" view="all" class="author"><ce:abstract-sec id="abss0002" view="all">
+                  <ce:simple-para id="spara003" view="all">The Sustainable Development Goals (SDGs) are significantly off-course as we reach the midpoint of their 2030 deadline. From a scientific perspective, the critical challenge in achieving the SDGs lies in the need for more scientific principles to understand the complex socio-ecological systems (SES) and their interactions influencing the 17 SDGs. Here, we propose a scientific framework to clarify the common scientific principles and the rational treatment of diversity under these principles. The framework’s core is revealing the complex mechanisms underlying the achievement of each Sustainable Development Goal (SDG) and SDG interactions. Building upon the identified mechanisms, complex SES models can be established, and the implementation of SDGs can be formulated as a multi-objective optimization problem, seeking a compromise in competition between essential costs and desired benefits. Our framework can assist countries, and even the world in accelerating progress towards the SDGs.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0001" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="cesectitle0003">Challenges of the Sustainable Development Goals</ce:section-title>
+                  <ce:para id="para0005" view="all">The United Nations (UN) adopted <ce:italic>the 2030 Agenda for Sustainable Development</ce:italic> in 2015, presenting a shared blueprint for joint sustainable actions for all countries (<ce:cross-ref id="crf0007" refid="bib0009">United Nations, 2015</ce:cross-ref>). At the agenda’s core are the 17 Sustainable Development Goals (SDGs), covering 169 targets and over 230 unique indicators and balancing sustainable development’s economic, social, and environmental dimensions. These goals point out the critical areas for peace and prosperity for people and the planet now and in the future. Regrettably, the SDGs are woefully off-track halfway towards their 2030 deadline. As UN Secretary-General, Mr. Guterres, warned during the SDG Summit 2023 that only 15% of SDG targets are on track, about half are moderately or severely off track, and more than one-third have yet to see any movement or regressed below the 2015 starting line. Urgent actions are required to address the cascading and interlinked crises dominated by pandemics, climate change, and conflicts.</ce:para>
+                  <ce:para id="para0006" view="all">Given that the 17 SDGs are integrated, indivisible, and interact in intricate ways, achieving them presents a typical complex system problem involving science, technology, engineering, and policy. No nation or region can isolate itself from this collective challenge for humanity. At the mid-point to 2030, progress towards achieving the SDGs varies significantly across countries and regions, with different strengths and weaknesses (<ce:cross-ref id="crf0008" refid="bib0012">Wu et al., 2023</ce:cross-ref>). Actions aimed at one goal may reinforce or offset the actions for another, resulting in synergies and trade-offs among the SDGs (<ce:cross-ref id="crf0009" refid="bib0008">Nilsson et al., 2016</ce:cross-ref>). These interactions and the importance of different SDGs in these synergies and trade-offs also differ among countries (<ce:cross-ref id="crf0010" refid="bib0007">Lusseau and Mancini, 2019</ce:cross-ref>; <ce:cross-ref id="crf0011" refid="bib0012">Wu et al., 2023</ce:cross-ref>) and at various development stages (<ce:cross-ref id="crf0012" refid="bib0011">Wu et al., 2022</ce:cross-ref>). Furthermore, a country’s actions may yield negative externalities for other nations through activities extending beyond national borders, such as trade and other cross-border activities (<ce:cross-ref id="crf0013" refid="bib0004">Fu et al., 2020</ce:cross-ref>). The cross-scale interactions spanning global, national, regional, and local sustainable development further compound the complexity of achieving the SDGs.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="cesectitle0004">Scientific framework for achieving the Sustainable Development Goals</ce:section-title>
+                  <ce:para id="para0007" view="all">From a scientific perspective, the fundamental issue in achieving the SDGs lies in the need for more scientific principles to understand the complex socio-ecological systems (SES) and their interactions that influence the 17 SDGs. Based on these considerations, we propose a framework to clarify the common scientific principles and the rational treatment of diversity under these principles, which is crucial for accelerating the achievement of the SDGs and establishing a sustainable economic and social governance system.</ce:para>
+                  <ce:para id="para0008" view="all">The framework’s core is the holistic and dynamic analyses of social-ecological processes and relations underlying the achievement of each SDG and SDGs interactions (<ce:cross-ref id="crf0014" refid="fig0001">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig0001"/>). Although an increasing number of studies assess the SDG’s status and investigate SDGs interactions at various scales, insights into the diverse mechanisms behind them still need to be explored. These mechanisms should encompass 1) social-ecological interactions within the targeted SES at a specific analytical scale (local, regional, national, global); 2) interactions between this system and other connected SES at the same scale through telecoupling processes (e.g., trade, investment, or knowledge transfer); and 3) cross-scale interactions between this system and SES at other scales (<ce:cross-ref id="crf0015" refid="bib0006">Liu, 2023</ce:cross-ref>). These mechanisms will exhibit variations across different regions, under different development modes, and at different stages (<ce:cross-ref id="crf0016" refid="bib0011">Wu et al., 2022</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0009" view="all">Based on the identified mechanisms, complex network system models corresponding to different scales (local, regional, national, global) can be established. This necessitates quantitative expressions of interactions between various social-ecological factors and their links to the status of corresponding SDGs, represented by nodes and their linkages within the complex network. Selecting specific nodes to construct the network depends on different regions’ distinct requirements and boundary conditions. The interaction parameters and network structure variations mirror differences in primary status and constraints, such as resource availability, development levels, and demographic composition.</ce:para>
+                  <ce:para id="para0010" view="all">With a deepened understanding of the intricate mechanisms influencing SDGs and their interactions, the essential costs (e.g., water, energy, and resources) and desired benefits (e.g., no poverty, health, equal education, and safe society) (<ce:cross-ref id="crf0017" refid="bib0003">Fu et al., 2019</ce:cross-ref>) can be determined. Their status can be normalized for comparison. Depending on the specific circumstances and requirements of different systems at different scales, the weights of each cost and benefit can be set and adjusted following certain principles. Through the integration of costs and benefits, SDGs can be implemented as a multi-objective optimization problem of reasonable balance between costs and benefits (<ce:cross-ref id="crf0018" refid="bib0005">Huang et al., 2018</ce:cross-ref>), subject to the constraints of the abovementioned mechanisms. The critical social-ecological factors within the corresponding complex network system models are the regulatory measures for various policies. Effective governance (e.g., building sustainable cities and communities, establishing responsible production and consumption models, and adopting climate-change control standards) (<ce:cross-ref id="crf0019" refid="bib0003">Fu et al., 2019</ce:cross-ref>) can aid in finding a compromise in competition between essential costs and desired benefits (<ce:cross-ref id="crf0020" refid="bib0001">Chen, 2023</ce:cross-ref>). Achieving such multi-objective optimization requires transformative actions in governments, civil society, science, and business.</ce:para>
+                  <ce:para id="para0011" view="all">The components above form the scientific framework for optimizing the path to achieve the SDGs. This framework provides universal scientific principles for global coordination and considers the diversity across various regions and scales. The complex system model’s interaction parameters and network structure can be tailored to reflect diverse realities. At the same time, the weights of essential costs and desired benefits can be adjusted to address different priorities, thus facilitating the diversity of regulation.</ce:para>
+               </ce:section>
+               <ce:section id="sec0003" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="cesectitle0005">Potential research directions within the scientific framework</ce:section-title>
+                  <ce:para id="para0012" view="all">The framework we have proposed for the analysis and synthesis across different scales has the potential to assist countries and the world in navigating their paths towards achieving the SDGs. The sustainable development challenge for humanity calls for global openness, collaboration, inclusiveness, and wisdom. Building upon the framework and relevant scientific principles, we suggest exploring the following potential research directions:<ce:list id="celist0002">
+                        <ce:list-item id="celistitem0005">
+                           <ce:label>(1)</ce:label>
+                           <ce:para id="para0013" view="all">
+                              <ce:bold>Laying the data foundation for understanding the mechanisms.</ce:bold> Despite advancements, substantial data gaps persist in all areas of the SDGs regarding geographic coverage, timeliness, and the level of disaggregation required (<ce:cross-ref id="crf0021" refid="bib0010">United Nations Department of Economic Social Affairs, 2023</ce:cross-ref>). SDG monitoring must be enhanced by integrating national statistical offices, international organizations, earth observation, spatial data infrastructure, commercial data, and citizen-generated data (<ce:cross-ref id="crf0022" refid="bib0002">Fritz et al., 2019</ce:cross-ref>).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0006">
+                           <ce:label>(2)</ce:label>
+                           <ce:para id="para0014" view="all">
+                              <ce:bold>Revealing the mechanisms.</ce:bold> Analyzing the intricate mechanisms influencing SDGs status and interactions across different regions and scales; identifying critical social-ecological factors and processes and quantifying their complex relations; determining key opportunities and challenges for sustainable development and specifying priorities; identifying boundary conditions whose triggering could severely damage ecosystems and threaten the stability of societies.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0007">
+                           <ce:label>(3)</ce:label>
+                           <ce:para id="para0015" view="all">
+                              <ce:bold>Modeling the mechanisms.</ce:bold> Constructing complex SES models for different regions and scales based on the identified critical factors and processes; modeling complex social-ecological processes and their impacts on SDG status and analyzing interactions across different dimensions, regions, and scales; dynamically simulating changes of SES and SDG status under various scenarios.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0008">
+                           <ce:label>(4)</ce:label>
+                           <ce:para id="para0016" view="all">
+                              <ce:bold>Regulating based on the mechanisms.</ce:bold> Systematically analyzing typical sustainable development cases at different scales and summarizing regulating or transforming measures; utilizing complex SES models to explore the future attainment of SDGs under different regulating or transforming measures; scientifically optimizing pathways to achieve a compromise in competition between essential costs and desired benefits within a safe and just space.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0001" view="all">
+               <ce:section-title id="cesectitle0007">Declaration of competing interests</ce:section-title>
+               <ce:para id="para0018" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0001" view="all">
+               <ce:section-title id="cesectitle0006">Acknowledgements</ce:section-title>
+               <ce:para id="para0017" view="all">This research was financially supported by the National Key Research and Development Programme of China (Grant No. 2023YFC3804903).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0008">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>Chen, 2023</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The future of carbon neutrality from a scientific research perspective: an interview with Jing-Hai Li</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Natl. Sci. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>, nwad007</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">Chen, L.H., 2023. The future of carbon neutrality from a scientific research perspective: an interview with Jing-Hai Li. Natl. Sci. Rev.10(9), nwad007.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>Fritz et al., 2019</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fritz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>See</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Carlson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Haklay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Fraisl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mondardini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Brocklehurst</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>Shanley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Schade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Wehn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Abrate</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Anstee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Arnold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Billot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Espey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Hager</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Hepburn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Long</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Masó</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>McCallum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Muniafu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Moorthy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Obersteiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Parker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Weisspflug</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>West</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Citizen science and the United Nations Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Sustain.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>922</sb:first-page>
+                              <sb:last-page>930</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">Fritz, S., See, L., Carlson, T., Haklay, M., Oliver, J.L., Fraisl, D., Mondardini, R., Brocklehurst, M., Shanley, L.A., Schade, S., Wehn, U., Abrate, T., Anstee, J., Arnold, S., Billot, M., Campbell, J., Espey, J., Gold, M., Hager, G., He, S., Hepburn, L., Hsu, A., Long, D., Masó, J., McCallum, I., Muniafu, M., Moorthy, I., Obersteiner, M., Parker, A.J., Weisspflug, M., West, S., 2019. Citizen science and the United Nations Sustainable Development Goals. Nat. Sustain.2(10), 922-930.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>Fu et al., 2019</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Unravelling the complexity in achieving the 17 sustainable-development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Natl. Sci. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>386</sb:first-page>
+                              <sb:last-page>388</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0003">Fu, B., Wang, S., Zhang, J., Hou, Z., Li, J., 2019. Unravelling the complexity in achieving the 17 sustainable-development goals. Natl. Sci. Rev.6(3), 386-388.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>Fu et al., 2020</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Classification–coordination–collaboration: a systems approach for advancing Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Natl. Sci. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>838</sb:first-page>
+                              <sb:last-page>840</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">Fu, B., Zhang, J., Wang, S., Zhao, W., 2020. Classification–coordination–collaboration: a systems approach for advancing Sustainable Development Goals. Natl. Sci. Rev.7(5), 838-840.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Huang et al., 2018</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Edwards</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mesoscience: exploring the common principle at mesoscales</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Natl. Sci. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                              <sb:last-page>326</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">Huang, W., Li, J., Edwards, P.P., 2018. Mesoscience: exploring the common principle at mesoscales. Natl. Sci. Rev.5(3), 321-326.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>Liu, 2023</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Leveraging the metacoupling framework for sustainability science and global sustainable development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Natl. Sci. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>, nwad090</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Liu, J., 2023. Leveraging the metacoupling framework for sustainability science and global sustainable development. Natl. Sci. Rev.10(7), nwad090.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>Lusseau and Mancini, 2019</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lusseau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Mancini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Income-based variation in Sustainable Development Goal interaction networks</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Sustain.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>242</sb:first-page>
+                              <sb:last-page>247</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">Lusseau, D., Mancini, F., 2019. Income-based variation in Sustainable Development Goal interaction networks. Nat. Sustain.2(3), 242-247.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>Nilsson et al., 2016</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nilsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Griggs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Visbeck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Policy: map the interactions between Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>534</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7607</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>320</sb:first-page>
+                              <sb:last-page>322</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">Nilsson, M., Griggs, D., Visbeck, M., 2016. Policy: map the interactions between Sustainable Development Goals. Nature534(7607), 320-322.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>United Nations 2015</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transforming our world: the 2030 agenda for sustainable development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>General Assembley 70th session. United Nations, New York</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">United Nations, 2015. Transforming our world: the 2030 agenda for sustainable development. General Assembley 70th session. United Nations, New York.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>United Nations Department of Economic Social Affairs 2023</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations Department of Economic Social Affairs</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The sustainable development goals report 2023: special edition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2023</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Department of Economic Social Affairs</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">United Nations Department of Economic Social Affairs, 2023. The sustainable development goals report 2023: special edition. United Nations Department of Economic Social Affairs, New York.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>Wu et al., 2022</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Decoupling of SDGs followed by re-coupling as sustainable development progresses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Sustain.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>452</sb:first-page>
+                              <sb:last-page>459</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">Wu, X., Fu, B., Wang, S., Song, S., Li, Y., Xu, Z., Wei, Y., Liu, J., 2022. Decoupling of SDGs followed by re-coupling as sustainable development progresses. Nat. Sustain.5(5), 452-459.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>Wu et al., 2023</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lusseau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bleak prospects and targeted actions for achieving the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>22</sb:issue-nr>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2838</sb:first-page>
+                              <sb:last-page>2848</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">Wu, X., Fu, B., Wang, S., Song, S., Lusseau, D., Liu, Y., Xu, Z., Liu, J., 2023. Bleak prospects and targeted actions for achieving the Sustainable Development Goals. Sci. Bull.68(22), 2838-2848.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

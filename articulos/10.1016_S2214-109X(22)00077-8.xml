@@ -1,0 +1,568 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2214109X22000778</prism:url><dc:identifier>doi:10.1016/S2214-109X(22)00077-8</dc:identifier><eid>1-s2.0-S2214109X22000778</eid><prism:doi>10.1016/S2214-109X(22)00077-8</prism:doi><pii>S2214-109X(22)00077-8</pii><dc:title>Ethical failures in global health research: violations of Sustainable Development Goal 8, decent work for all </dc:title><prism:publicationName>The Lancet Global Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>cor</pubType><prism:issn>2214109X</prism:issn><prism:volume>10</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>e619</prism:startingPage><prism:pageRange>e619</prism:pageRange><prism:number>5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2022-05-31</prism:coverDate><prism:coverDisplayDate>May 2022</prism:coverDisplayDate><prism:copyright>© 2022 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Bangura, Ibrahim</dc:creator><dc:creator>Chakraborty, Ananya</dc:creator><dc:creator>Garcia-Hernandez, Ana</dc:creator><dc:creator>Kaplan, Lennart</dc:creator><dc:creator>Kuhnt, Jana</dc:creator><dc:creator>Muhumad, Abdirahman A</dc:creator><dc:creator>Steinert, Janina I</dc:creator><dc:creator>Tellez, Dayana</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2214109X22000778" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2214109X22000778" rel="scidir"/></coredata><scopus-id>85128119769</scopus-id><scopus-eid>2-s2.0-85128119769</scopus-eid><pubmed-id>35427512</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85128119769" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>286970</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291904</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Global Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETGLOBALHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220412">2022-04-12</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220412">2022-04-12</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220412">2022-04-12</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220412">2022-04-12</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-01-13T20:53:51</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2214109X22000778</xocs:eid>
+      <xocs:pii-formatted>S2214-109X(22)00077-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2214109X22000778</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2214-109X(22)00077-8</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2214109X22X00065</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230113">2023-01-13T20:58:21.082458Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220501</xocs:date-search-begin>
+      <xocs:date-search-end>20220531</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1649806271">2022-04-12T23:31:11.012759Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2214-109X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>2214109X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>10</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>10</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 10, Issue 5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>e619</xocs:first-fp>
+      <xocs:pages>
+         <xocs:first-page>e619</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202205</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>May 2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-05-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-05-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>cor</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>ETHICALFAILURESINGLOBALHEALTHRESEARCHVIOLATIONSSUSTAINABLEDEVELOPMENTGOAL8DECENTWORKFOR</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BANGURA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>I</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>STEINERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>e005380</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>KAPLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>104810</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>SIMON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>HANSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HARASSEDGENDERBODIESETHNOGRAPHICRESEARCH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>BICKLEY</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BANGURAX2022Xe619</xocs:refkey3>
+         <xocs:refkey4ai>BANGURAX2022Xe619XI</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2022-02-17T13:01:27Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2214-109X(22)00077-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2214109X22000778</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2214109X22000778</xocs:eid>
+         <xocs:doi>10.1016/S2214-109X(22)00077-8</xocs:doi>
+         <xocs:cid>286970</xocs:cid>
+         <xocs:timestamp>2023-01-13T20:58:21.082458Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-05-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-05-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2214109X22000778-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X22000778/MAIN/application/pdf/52ac07d85b811bbc818abd7940fe0e44/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>42052</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2214109X22000778-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X22000778/PREVIEW/image/png/2cf7409f2d15a5395e992a4520db91af/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>76277</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="cor" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>LANGLO</jid>
+            <aid>2375</aid>
+            <ce:pii>S2214-109X(22)00077-8</ce:pii>
+            <ce:doi>10.1016/S2214-109X(22)00077-8</ce:doi>
+            <ce:copyright type="other" year="2022">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY-NC-ND 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Correspondence</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Correspondence</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Ethical failures in global health research: violations of Sustainable Development Goal 8, decent work for all</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S2214109X22000778-fa4afff51fa9f5f2f837814d234f1d88">
+                  <ce:given-name>Ibrahim</ce:given-name>
+                  <ce:surname>Bangura</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au20" author-id="S2214109X22000778-26c082f83360edd9bb9bbe018414cdd6">
+                  <ce:given-name>Ananya</ce:given-name>
+                  <ce:surname>Chakraborty</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30" author-id="S2214109X22000778-5c73b3fe3d0cad822177e6c6c60867ec">
+                  <ce:given-name>Ana</ce:given-name>
+                  <ce:surname>Garcia-Hernandez</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref40" refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au40" author-id="S2214109X22000778-7e362e25bcb9ee4f7a32187715b82775">
+                  <ce:given-name>Lennart</ce:given-name>
+                  <ce:surname>Kaplan</ce:surname>
+                  <ce:cross-ref id="cecref50" refid="aff5">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref60" refid="aff6">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au50" author-id="S2214109X22000778-ef9e851f01858e2785dc3520dd8acfec">
+                  <ce:given-name>Jana</ce:given-name>
+                  <ce:surname>Kuhnt</ce:surname>
+                  <ce:cross-ref id="cecref70" refid="aff6">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au60" author-id="S2214109X22000778-ba31803729f755e4c6e3b9af1dbc2782">
+                  <ce:given-name>Abdirahman A</ce:given-name>
+                  <ce:surname>Muhumad</ce:surname>
+                  <ce:cross-ref id="cecref80" refid="aff7">
+                     <ce:sup loc="post">g</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au70" author-id="S2214109X22000778-1696cc38a21dcc894f82763df9972535">
+                  <ce:given-name>Janina I</ce:given-name>
+                  <ce:surname>Steinert</ce:surname>
+                  <ce:cross-ref id="cecref90" refid="aff8">
+                     <ce:sup loc="post">h</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref100" refid="aff9">
+                     <ce:sup loc="post">i</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au80" author-id="S2214109X22000778-f2c6c6f63e33ee0bbcdb2c5b6fee0e57">
+                  <ce:given-name>Dayana</ce:given-name>
+                  <ce:surname>Tellez</ce:surname>
+                  <ce:cross-ref id="cecref110" refid="aff10">
+                     <ce:sup loc="post">j</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2214109X22000778-447e3fd1134f5c36926f685ca6f7f46d">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Peace and Conflict Studies, Fourah Bay College, University of Sierra Leone, Freetown, Sierra Leone</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Peace and Conflict Studies</sa:organization>
+                     <sa:organization>Fourah Bay College</sa:organization>
+                     <sa:organization>University of Sierra Leone</sa:organization>
+                     <sa:city>Freetown</sa:city>
+                     <sa:country>Sierra Leone</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext10">Department of Peace and Conflict Studies, Fourah Bay College, University of Sierra Leone, Freetown, Sierra Leone</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2214109X22000778-bfac48670e9d7f238aff984e1792710b">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>International Crops Research Institute for the Semi-Arid Tropics, Hyderabad, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>International Crops Research Institute for the Semi-Arid Tropics</sa:organization>
+                     <sa:city>Hyderabad</sa:city>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext20">International Crops Research Institute for the Semi-Arid Tropics, Hyderabad, India</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S2214109X22000778-2a96f39b18bbd7ac52a0f790aadd8520">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Economics, Universidad del Rosario, Bogotá, Colombia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Economics</sa:organization>
+                     <sa:organization>Universidad del Rosario</sa:organization>
+                     <sa:city>Bogotá</sa:city>
+                     <sa:country>Colombia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext30">Department of Economics, Universidad del Rosario, Bogotá, Colombia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff4" affiliation-id="S2214109X22000778-a4191ef62a70220224e98e83977f7ab1">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Innovations for Poverty Action, Bogotá, Colombia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Innovations for Poverty Action</sa:organization>
+                     <sa:city>Bogotá</sa:city>
+                     <sa:country>Colombia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext40">Innovations for Poverty Action, Bogotá, Colombia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff5" affiliation-id="S2214109X22000778-6972126fff40e04c76d227fa0b587bdb">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Faculty of Business and Economics, University of Goettingen, Goettingen, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Faculty of Business and Economics</sa:organization>
+                     <sa:organization>University of Goettingen</sa:organization>
+                     <sa:city>Goettingen</sa:city>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext50">Faculty of Business and Economics, University of Goettingen, Goettingen, Germany</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff6" affiliation-id="S2214109X22000778-0026496a213574a8bf9b11c65b58a289">
+                  <ce:label>f</ce:label>
+                  <ce:textfn>German Development Institute, Bonn, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>German Development Institute</sa:organization>
+                     <sa:city>Bonn</sa:city>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext60">German Development Institute, Bonn, Germany</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff7" affiliation-id="S2214109X22000778-6c728a2aa64902b8cd0caa4763844d7d">
+                  <ce:label>g</ce:label>
+                  <ce:textfn>Institute of Migration Studies, Jigjiga University, Jigiga, Ethiopia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Migration Studies</sa:organization>
+                     <sa:organization>Jigjiga University</sa:organization>
+                     <sa:city>Jigiga</sa:city>
+                     <sa:country>Ethiopia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext70">Institute of Migration Studies, Jigjiga University, Jigiga, Ethiopia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff8" affiliation-id="S2214109X22000778-d373269fdfa6fcd18423c42544107e09">
+                  <ce:label>h</ce:label>
+                  <ce:textfn>TUM School of Social Sciences and Technology, Technical University of Munich, Munich, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>TUM School of Social Sciences and Technology</sa:organization>
+                     <sa:organization>Technical University of Munich</sa:organization>
+                     <sa:city>Munich</sa:city>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext80">TUM School of Social Sciences and Technology, Technical University of Munich, Munich, Germany</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff9" affiliation-id="S2214109X22000778-b9ab6f16e1ea78e6da1a1a9ef49d68d9">
+                  <ce:label>i</ce:label>
+                  <ce:textfn>Department of Social Policy and Intervention, University of Oxford, Oxford, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Social Policy and Intervention</sa:organization>
+                     <sa:organization>University of Oxford</sa:organization>
+                     <sa:city>Oxford</sa:city>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext90">Department of Social Policy and Intervention, University of Oxford, Oxford, UK</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff10" affiliation-id="S2214109X22000778-f410d87a4b12233218c4ab9f410cd788">
+                  <ce:label>j</ce:label>
+                  <ce:textfn>Innovations for Poverty Action, 110221 Bogotá, Colombia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Innovations for Poverty Action</sa:organization>
+                     <sa:city>Bogotá</sa:city>
+                     <sa:postal-code>110221</sa:postal-code>
+                     <sa:country>Colombia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext100">Innovations for Poverty Action, 110221 Bogotá, Colombia</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">International collaborations are indispensable in global health research, and have great potential to be harnessed in a beneficial and fruitful way. However, to date, such collaborations have all too often been characterised by iniquitous and exploitative dynamics that disempower actors from low-income and middle-income countries. Data collection is heavily reliant on the work of local interviewers, gatekeepers, and translators, because of their fluency in the local language and their natural access to and trust within target communities. Despite having such a crucial role in generating the data, local researchers are mostly positioned at the lowest hierarchical level of research teams and systematically excluded from important stages of the scientific process. In addition, these researchers are commonly employed on short-term contracts without adequate health and social insurance.<ce:cross-ref id="cecref120" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> Many research projects operate on short-lived and ad hoc organisational structures that inadequately address the institutional, political, and macroeconomic challenges in the target country. Collecting data in high-risk and deprived settings—alongside poor project-level support infrastructure—can have particularly detrimental effects on the mental health and physical wellbeing of local researchers.<ce:cross-ref id="cecref130" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para20" view="all">Improper work conditions are further exacerbated at the intersectionality with poverty and gender. In low-income and middle-income countries with high unemployment rates and low levels of tertiary and secondary education, local research staff are in a weak position to negotiate their salaries—a set-up that can incentivise economic exploitation and inadequate remuneration.<ce:cross-ref id="cecref140" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> Female research staff in particular can be exposed to indecent working conditions, including sexual harassment when doing fieldwork and limited access to safe sanitation facilities when menstruating during fieldwork and to welfare nets such as paid leave during pregnancy and motherhood.<ce:cross-ref id="cecref150" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para30" view="all">Ironically, although global health research is carried out under the premise of promoting health and wellbeing in target communities, it can fail to fulfil these goals where its own research staff is concerned, therefore compromising the ethical integrity of global health research altogether. We conclude with an urgent call for systemic change. Individual researchers are forced into existing institutional frameworks and have a limited capacity to become champions of change. The responsibility to enforce ‘safe and secure working environments’ (Sustainable Development Goal 8.8) in global health data collection lies with research institutions and donors. Specifically, they need to demand adherence to standardised guidelines<ce:cross-ref id="cecref160" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> on safety and employment conditions for local research staff, including minimum salary requirements, provision of social security schemes, sick and maternity leave arrangements, implementation of safety protocols, adequate working hours, and access to psychological counselling.</ce:para>
+            </ce:sections>
+            <ce:conflict-of-interest id="conflict-of-interest" view="all">
+               <ce:para id="para40" view="all">All authors contributed equally. The corresponding author was randomly assigned. We declare no competing interests.</ce:para>
+            </ce:conflict-of-interest>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>JI</ce:given-name>
+                                 <ce:surname>Steinert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DA</ce:given-name>
+                                 <ce:surname>Nyarige</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Jacobi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Kuhnt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Kaplan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A systematic review on ethical challenges of ‘field’ research in low-income and middle-income countries: respect, justice and beneficence for research staff?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ Global Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e005380</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext110">Steinert JI, Nyarige DA, Jacobi M, Kuhnt J, Kaplan L. A systematic review on ethical challenges of ‘field’ research in low-income and middle-income countries: respect, justice and beneficence for research staff? BMJ Global Health 2021; 6: e005380.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Kaplan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Kuhnt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JI</ce:given-name>
+                                 <ce:surname>Steinert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Do no harm? Field research in the Global South: ethical challenges faced by research staff</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>World Dev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>127</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>104810</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext120">Kaplan L, Kuhnt J, Steinert JI. Do no harm? Field research in the Global South: ethical challenges faced by research staff. World Dev 2020; 127: 104810.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Simon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Mosavel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Community members as recruiters of human subjects: ethical considerations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Am J Bioeth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>11</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext130">Simon C, Mosavel M. Community members as recruiters of human subjects: ethical considerations. Am J Bioeth 2010; 10: 3–11.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Hanson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Richards</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Harassed: gender, bodies, and ethnographic research</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>University of California Press</sb:name>
+                                 <sb:location>Oakland, CA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext140">Hanson R, Richards P. Harassed: gender, bodies, and ethnographic research. Oakland, CA: University of California Press, 2019.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Bickley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>CARE International Personal Safety &amp; Security Handbook</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="https://www.care.org.au/wp-content/uploads/2014/12/CI-Personal-Safety-and-Security-Handbook-2014.pdf" xlink:type="simple">https://www.care.org.au/wp-content/uploads/2014/12/CI-Personal-Safety-and-Security-Handbook-2014.pdf</ce:inter-ref>
+                              <sb:date>2014</sb:date>
+                              <sb:date-accessed day="8" month="12" year="2021"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext150">Bickley, S. CARE International Personal Safety &amp; Security Handbook. 2014. https://www.care.org.au/wp-content/uploads/2014/12/CI-Personal-Safety-and-Security-Handbook-2014.pdf (accessed Dec 8, 2021).</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

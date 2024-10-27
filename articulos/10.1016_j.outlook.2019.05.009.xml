@@ -1,0 +1,550 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0029655419300557</prism:url><dc:identifier>doi:10.1016/j.outlook.2019.05.009</dc:identifier><eid>1-s2.0-S0029655419300557</eid><prism:doi>10.1016/j.outlook.2019.05.009</prism:doi><pii>S0029-6554(19)30055-7</pii><dc:title>The future of nursing and the advancement of the United Nations Sustainable Development Goals </dc:title><prism:publicationName>Nursing Outlook</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>00296554</prism:issn><prism:volume>67</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>623</prism:startingPage><prism:endingPage>625</prism:endingPage><prism:pageRange>623-625</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2019-12-31</prism:coverDate><prism:coverDisplayDate>November–December 2019</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Rosa, William E.</dc:creator><dc:creator>Iro, Elizabeth</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0029655419300557" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0029655419300557" rel="scidir"/></coredata><scopus-id>85067660404</scopus-id><scopus-eid>2-s2.0-85067660404</scopus-eid><pubmed-id>31248626</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85067660404" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272472</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291918</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Nursing Outlook</xocs:srctitle>
+      <xocs:normalized-srctitle>NURSINGOUTLOOK</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190521">2019-05-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190521">2019-05-21</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20191120">2019-11-20</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20191120">2019-11-20</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-03-03T08:45:11</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0029655419300557</xocs:eid>
+      <xocs:pii-formatted>S0029-6554(19)30055-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0029655419300557</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.outlook.2019.05.009</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0029655419X0007X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20201012">2020-10-12T05:43:03.758858Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20191101</xocs:date-search-begin>
+      <xocs:date-search-end>20191231</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1558453397">2019-05-21T15:43:17.677622Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0029-6554</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00296554</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>67</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>67</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 67, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>623</xocs:first-fp>
+      <xocs:last-lp>625</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>623</xocs:first-page>
+         <xocs:last-page>625</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201911</xocs:start-date>
+         <xocs:end-date>201912</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>November–December 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-11-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Editorial</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>FUTURENURSINGADVANCEMENTUNITEDNATIONSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ROSA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Connecting Nurses, Local to Global</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Taking the First Step</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>DOSSEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>40</xocs:ref-first-fp>
+            <xocs:ref-last-lp>45</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALADVISORYPANELFUTURENURSINGMIDWIFERYREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0001"/>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>ROSA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ANEWERAINGLOBALHEALTHNURSINGUNITEDNATIONS2030AGENDAFORSUSTAINABLEDEVELOPMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>ROSA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00013">
+            <xocs:ref-normalized-surname>ROSA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0002"/>
+         <xocs:ref-info refid="othref0003"/>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>WATSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>245</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ANEWERAINGLOBALHEALTHNURSINGUNITEDNATIONS2030AGENDAFORSUSTAINABLEDEVELOPMENT</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>GLOBALHUMANCARINGFORASUSTAINABLEWORLD</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0004"/>
+         <xocs:ref-info refid="othref0005"/>
+         <xocs:ref-info refid="othref0006"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ROSAX2019X623</xocs:refkey3>
+         <xocs:refkey4lp>ROSAX2019X623X625</xocs:refkey4lp>
+         <xocs:refkey4ai>ROSAX2019X623XW</xocs:refkey4ai>
+         <xocs:refkey5>ROSAX2019X623X625XW</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2020-11-20T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-11-20T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier Inc. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-05-21T07:48:17.737Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0029-6554(19)30055-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0029655419300557</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0029655419300557</xocs:eid>
+         <xocs:doi>10.1016/j.outlook.2019.05.009</xocs:doi>
+         <xocs:cid>272472</xocs:cid>
+         <xocs:timestamp>2020-10-12T05:43:03.758858Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-11-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0029655419300557-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0029655419300557/MAIN/application/pdf/b15f8bfe074b0a50517ad3dff53816d4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>112402</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0029655419300557-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0029655419300557/PREVIEW/image/png/c892d811d5586b19f47559fa56776d70/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>92679</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>YMNO</jid>
+            <aid>1469</aid>
+            <ce:pii>S0029-6554(19)30055-7</ce:pii>
+            <ce:doi>10.1016/j.outlook.2019.05.009</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">The future of nursing and the advancement of the United Nations Sustainable Development Goals</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S0029655419300557-ed1ede8220e419c256427537a6a07535">
+                  <ce:given-name>William E.</ce:given-name>
+                  <ce:surname>Rosa</ce:surname>
+                  <ce:degrees>MS, APRN-BC, FCCM, FAAN</ce:degrees>
+                  <ce:cross-ref id="crf0002" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S0029655419300557-5a39225ecf90f5dff921d9fc6f2c83d4">
+                  <ce:textfn id="cetextfn0001">RWJF Future of Nursing Scholar, University of Pennsylvania School of Nursing, Philadelphia, PA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>RWJF Future of Nursing Scholar</sa:organization>
+                     <sa:organization>University of Pennsylvania School of Nursing</sa:organization>
+                     <sa:city>Philadelphia</sa:city>
+                     <sa:state>PA</sa:state>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">aRWJF Future of Nursing Scholar, University of Pennsylvania School of Nursing, Philadelphia, PA</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author: William E. Rosa, RWJF Future of Nursing Scholar, University of Pennsylvania School of Nursing, Claire Fagin Hall, 418 Curie Blvd., Philadelphia, PA 19104.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>RWJF Future of Nursing Scholar</sa:organization>
+                     <sa:organization>University of Pennsylvania School of Nursing</sa:organization>
+                     <sa:address-line>Claire Fagin Hall, 418 Curie Blvd.</sa:address-line>
+                     <sa:city>Philadelphia</sa:city>
+                     <sa:state>PA</sa:state>
+                     <sa:postal-code>19104</sa:postal-code>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:author-group id="aut0002">
+               <ce:author id="au0002" author-id="S0029655419300557-abce58cd80a0dfacce002c99c41697ff">
+                  <ce:given-name>Elizabeth</ce:given-name>
+                  <ce:surname>Iro</ce:surname>
+                  <ce:degrees>MHSc, MBA, RN, RM</ce:degrees>
+                  <ce:roles>Chief Nursing Officer</ce:roles>
+               </ce:author>
+               <ce:affiliation id="aff0002" affiliation-id="S0029655419300557-24b805d80c38b9e598ae6d18b1f0cba4">
+                  <ce:textfn id="cetextfn0002">World Health Organization, Geneva, Switzerland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>World Health Organization</sa:organization>
+                     <sa:city>Geneva</sa:city>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0002">bWorld Health Organization, Geneva, Switzerland</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="19" month="1" year="2019"/>
+            <ce:date-revised day="1" month="5" year="2019"/>
+            <ce:date-accepted day="19" month="5" year="2019"/>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para0001" view="all">On January 1, 2016, the United Nations (UN) 2030 Agenda for Sustainable Development was enacted following unanimous adoption by all Member States of the UN General Assembly just months earlier (<ce:cross-ref id="crf0004" refid="bib0007">UN, 2016</ce:cross-ref>). This Agenda – arguably the most ambitious transnational initiative in history – is comprised of 17 Sustainable Development Goals (SDGs) and 169 targets that seek to create a world of safety and inclusion by promoting multisector partnerships within and between nations. The SDGs are based on five major themes considered essential for long-term human well-being and survival: People, Planet, Peace, Prosperity, and Partnership. Health is a common thread weaved throughout the agenda and that means nursing is poised to be a leader in creating “the world we want” through SDG attainment. The SDGs follow in the wake of the UN Millennium Development Goals (MDGs) (2000–2015), which were integral to health advancement worldwide but also fell short of achieving health equity and access for many people (<ce:cross-ref id="crf0005" refid="bib0006">UN, 2015</ce:cross-ref>). The primary purpose of this <ce:italic>Nursing Outlook</ce:italic> special issue is to discuss the relevance of the SDGs to the current and future states of nursing practice, education, research, and policy. By doing so, we hope to identify opportunities for United States (U.S.) nurses to contribute to these global action items in locally relevant ways that foster a culture of health for patients, families, and communities.</ce:para>
+               <ce:para id="para0002" view="all">This issue will invite an emergent discourse on the future role of nursing and midwifery related to the state of health and well-being worldwide. All nurses and midwives are being called to understand the widespread implications of their local actions and adopt a stance of global citizenship. A common misbelief has been that the SDGs are not of primary concern in a high-income nation like the United States; our country's people boast plenteous resources, a well-substantiated democratic process, and policy measures that deliver some form of health services to even the most fiscally deprived among us. However, multiple events in the United States over recent years stress the undeniable need for attention to the tenets and aspirational vision of the UN 2030 Agenda.</ce:para>
+               <ce:para id="para0003" view="all">These recent complex issues in the United States demonstrate the need for American nurses to advance the SDGs. For example, after witnessing the sequelae of water contamination in Flint, Michigan, it is clear that obtaining Clean Water and Sanitation (SDG 6) is not a problem reserved only for resource-poor countries. The emergence of the Me Too and Black Lives Matter movements resound that Gender Equality (SDG 5), Reducing Inequalities (SDG 10), and promoting Peace, Justice, and Strong Institutions (SDG 16) need to be addressed on American turf. Ongoing health care policy changes, the economic crash of the past decade, and ever-present health disparities remind us that Good Health and Well-Being (SDG 3) is not attainable for American citizens without a holistic focus on Poverty (SDG 1), Hunger (SDG 2), Quality Education (SDG 4), and Decent Work and Economic Growth (SDG 8). From an environmental perspective, climate crises in Puerto Rico and throughout a number of U.S. regions highlight the urgency of Building Sustainable Cities and Communities (SDG 11), developing practices of Responsible Consumption and Production (SDG 12), taking informed Climate Action (SDG 13), and attending to the preservation of Life on Land and Below Water (SDGs 14 and 15).</ce:para>
+               <ce:para id="para0004" view="all">Nurses and midwives are key stakeholders in advancing health across the globe and wield myriad opportunities to engage and advance the UN 2030 Agenda (<ce:cross-ref id="crf0006" refid="bib0004">Rosa, 2017</ce:cross-ref>; the <ce:cross-ref id="crf0007" refid="bib0002">Global Advisory Panel on the Future of Nursing and Midwifery, 2017</ce:cross-ref>). Through strategic approaches to obtaining SDG targets, nurses and midwives will be able to improve quality of life for themselves and the public they serve. In fact, the SDGs provide a framework for building a culture of health with widespread implications never before imagined. The SDGs are philosophically aligned with a holistic approach to health and healing reflective of our disciplinary Nightingale heritage and our professional societal commitment to care for all peoples everywhere (<ce:cross-refs id="crf0008" refid="bib0001 bib0005 bib0012 bib0008">Dossey, Rosa, &amp; Beck, 2019; Rosa, Dossey, Watson, Beck, &amp; Upvall, 2019; Rosa, Upvall, Beck, &amp; Dossey, 2019; Watson, 2017</ce:cross-refs>).</ce:para>
+               <ce:section id="sec0001" view="all">
+                  <ce:section-title id="cesectitle0002">Connecting Nurses, Local to Global</ce:section-title>
+                  <ce:para id="para0005" view="all">The SDGs serve as both a formal health Agenda and an opportunity to connect all nurses and midwives working globally to advance health in their local contexts. The World Health Organization (WHO), in collaboration with its partners, is working strategically to align international efforts to support the nursing and midwifery workforce. The aim of these partnerships is to accelerate nurses’ and midwives’ contributions to the achievement of Universal Health Coverage (UHC) and the SDGs. An example of this partnership is the <ce:cross-ref id="crf0011" refid="bib0003">Nursing Now</ce:cross-ref> (n.d.) campaign. This collaboration includes WHO, the International Council of Nurses, and Nursing Now, with the goal of improving the health of people worldwide by raising the profile and status of nursing and enhancing nurses’ contributions to achieving UHC and the SDGs. The <ce:cross-ref id="crf0012" refid="bib0009">WHO's (2016a)</ce:cross-ref> 
+                     <ce:italic>Strategic Direction for Nursing and Midwifery 2016 to 2020</ce:italic>, together with the <ce:italic>Global Strategy for Human Resources for Health: Workforce 2030</ce:italic> (<ce:cross-ref id="crf0013" refid="bib0010">WHO, 2016b</ce:cross-ref>) and the <ce:italic>Five-Year Action Plan Health Employment and Inclusive Economic Growth (2017–2021)</ce:italic> (<ce:cross-ref id="crf0014" refid="bib0011">WHO, 2018</ce:cross-ref>), provides a comprehensive policy plan for effective international collaboration on health workforce issues, including nursing and midwifery. These documents articulate support for nurses and midwives to work through the SDGs and to reinforce the gains made during the MDG era, by ensuring that within strengthened health systems, people will have equitable access to educated, competent, and motivated nurses and midwives. In addition, WHO's “triple billion” target of lives saved through UHC, protection from health emergencies, and better health and well-being, presents opportunities to build on, renew, and enhance global commitments to the nursing and midwifery workforce.</ce:para>
+                  <ce:para id="para0006" view="all">The SDGs are nursing and midwifery action items for our time. They provide us with a blueprint to ensure UHC for all people everywhere in ways that boldly address their social, environmental, political, and economic determinants of health. The SDGs usher in an invitation to collaborate across sectors for the sake of a common goal: a sustainable, inclusive, and just world where no one is left behind and all lives are regarded as precious.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="all">
+                  <ce:section-title id="cesectitle0003">Taking the First Step</ce:section-title>
+                  <ce:para id="para0007" view="all">This special issue provides the information needed to take the first step toward SDG advocacy for a better planet and resilient future rooted in health for all. The introductory article by Rosa et al. provides a more explicit background of the SDGs, their relevance to nursing practice, and implications of the UN 2030 Agenda for our profession, as well as our patients and communities. Next, Michele Upvall and Geraldine Luzincourt address the integration of the SDGs into nursing curriculum as an ethical response and facilitator for developing students as global citizens. Third, Allison Squires identifies strategic opportunities to strengthen research capacity in the United States in order to meet the SDGs and leverage nurses’ and midwives’ impacts on health outcomes. Fourth, Suzanne Miyamoto and Ellie Cook articulate the link between the SDGs and policy, describing the SDGs as “the steady horizon” of the public will to make progress amid the political currents of the American healthcare system. Finally, in their closing commentary, Susan Hassmiller and Paul Kuehnert discuss how addressing the SDGs will assist nurses to build a culture of health throughout our nation.</ce:para>
+                  <ce:para id="para0008" view="all">At the UN Sustainable Development Summit 2015, then UN Secretary-General Ban Ki-moon said<ce:displayed-quote id="disp0001">
+                        <ce:simple-para id="spara001" view="all">Seventy years ago, the United Nations rose from the ashes of war. Governments agreed on a visionary Charter dedicated to “We the Peoples.” The Agenda you are adopting today advances the goals of the Charter. It embodies the aspirations of people everywhere for lives of peace, security and dignity on a healthy planet. Let us today pledge to light the path to this transformative vision (<ce:cross-ref id="crf0015" refid="bib0006">UN, 2015</ce:cross-ref>).</ce:simple-para>
+                     </ce:displayed-quote>
+                  </ce:para>
+                  <ce:para id="para0010" view="all">This special issue is a scholarly contribution toward achieving the vision described by Ki-moon and the SDGs. Nurses and midwives are well positioned to advance these action items in multiple professional domains and in alignment with their disciplinary expertise. The featured authors provide an inspiring opportunity to raise awareness about the SDGs and identify action-based opportunities to ensure a future of health, well-being, peace, justice, and dignity for the United States and the entire global village.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0004">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>Dossey et al., 2019</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Dossey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.E.</ce:given-name>
+                                 <ce:surname>Rosa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Beck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nursing and the sustainable development goals: from nightingale to now</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>American Journal of Nursing</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>119</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>40</sb:first-page>
+                              <sb:last-page>45</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">Dossey, B. M., Rosa, W. E., &amp; Beck, D. M. (2019). Nursing and the sustainable development goals: from nightingale to now. American Journal of Nursing, 119(5), 40-45.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>Global Advisory Panel on the Future of Nursing and Midwifery 2017</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Global Advisory Panel on the Future of Nursing and Midwifery</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Global Advisory Panel on the Future of Nursing and Midwifery report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Sigma Theta Tau International</sb:name>
+                                 <sb:location>Indianapolis, IN</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0001" xlink:href="https://sigma.nursingrepository.org/handle/10755/621599" xlink:type="simple">https://sigma.nursingrepository.org/handle/10755/621599</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">Global Advisory Panel on the Future of Nursing and Midwifery. (2017). The Global Advisory Panel on the Future of Nursing and Midwifery report. Indianapolis, IN: Sigma Theta Tau International. Retrieved fromhttps://sigma.nursingrepository.org/handle/10755/621599</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>Nursing Now</ce:label>
+                     <ce:other-ref id="othref0001">
+                        <ce:textref>Nursing Now. (n.d.). Who we are. Retrieved from <ce:inter-ref id="interref0002" xlink:href="https://www.nursingnow.org/who-we-are/" xlink:type="simple">https://www.nursingnow.org/who-we-are/</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>Rosa, 2017</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Rosa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new era in global health: Nursing and the United Nations 2030 Agenda for Sustainable Development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer Publishing</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">Rosa, W. (2017). A new era in global health: Nursing and the United Nations 2030 Agenda for Sustainable Development. New York, NY: Springer Publishing.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Rosa et al., in press</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.E.</ce:given-name>
+                                 <ce:surname>Rosa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Dossey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Watson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Beck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Upvall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The United Nations Sustainable Development Goals: the ethic and ethos of holistic nursing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Holistic Nursing</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1177/0898010119841723</ce:doi>
+                        </sb:host>
+                        <sb:comment>epub ahead of print</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">Rosa, W. E., Dossey, B. M., Watson, J., Beck, D. M., &amp; Upvall, M. J. (2019) (in press). The United Nations Sustainable Development Goals: the ethic and ethos of holistic nursing. Journal of Holistic Nursing, doi:10.1177/0898010119841723 epub ahead of print.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>Rosa et al., in press</ce:label>
+                     <sb:reference id="sbref00013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.E.</ce:given-name>
+                                 <ce:surname>Rosa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Upvall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Beck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Dossey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nursing and sustainable development: Furthering the global agenda in uncertain times</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>OJIN: The Online Journal of Issues in Nursing</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>Manuscript 1</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">Rosa, W.E., Upvall, M.J., Beck, D.M., &amp; Dossey, B.M. (2019). Nursing and sustainable development: Furthering the global agenda in uncertain times. OJIN: The Online Journal of Issues in Nursing, 24(2), Manuscript 1</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>United Nations 2015</ce:label>
+                     <ce:other-ref id="othref0002">
+                        <ce:textref>UN. (2015). <ce:italic>The Millennium Development Goals report 2015</ce:italic>. Retrieved from <ce:inter-ref id="interref0003" xlink:href="https://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20rev%22(July%201).pdf" xlink:type="simple">https://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20rev%22(July%201).pdf</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>United Nations 2016</ce:label>
+                     <ce:other-ref id="othref0003">
+                        <ce:textref>UN. (2016). <ce:italic>Transforming our world: The 2030 Agenda for Sustainable Development</ce:italic>. Retrieved from <ce:inter-ref id="interref0004" xlink:href="https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf" xlink:type="simple">https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>Watson, 2017</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Watson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global human caring for a sustainable world</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>W.</ce:given-name>
+                                    <ce:surname>Rosa</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>A new era in global health: Nursing and the United Nations 2030 Agenda for Sustainable Development</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer Publishing</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>245</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">Watson, J. (2017). Global human caring for a sustainable world. In W. Rosa (Ed.), A new era in global health: Nursing and the United Nations 2030 Agenda for Sustainable Development (pp. 227-245). New York, NY: Springer Publishing.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>World Health Organization 2016a</ce:label>
+                     <ce:other-ref id="othref0004">
+                        <ce:textref>World Health Organization. (2016a). <ce:italic>Global strategic directions for strengthening nursing and midwifery 2016-2020</ce:italic>. Retrieved from <ce:inter-ref id="interref0005" xlink:href="https://www.who.int/hrh/nursing_midwifery/global-strategic-midwifery2016-2020.pdf" xlink:type="simple">https://www.who.int/hrh/nursing_midwifery/global-strategic-midwifery2016-2020.pdf</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>World Health Organization 2016b</ce:label>
+                     <ce:other-ref id="othref0005">
+                        <ce:textref>World Health Organization. (2016b). <ce:italic>Global strategy on human resources for health: Workforce 2030</ce:italic>. Retrieved from <ce:inter-ref id="interref0006" xlink:href="https://www.who.int/hrh/resources/global_strategy_workforce2030_14_print.pdf?ua=1" xlink:type="simple">https://www.who.int/hrh/resources/global_strategy_workforce2030_14_print.pdf?ua=1</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>World Health Organization 2018</ce:label>
+                     <ce:other-ref id="othref0006">
+                        <ce:textref>World Health Organization. (2018). <ce:italic>Five-year action plan for health employment and inclusive economic growth (2017-2021)</ce:italic>. Retrieved from <ce:inter-ref id="interref0007" xlink:href="http://apps.who.int/iris/bitstream/handle/10665/272941/9789241514149-eng.pdf?ua=1" xlink:type="simple">http://apps.who.int/iris/bitstream/handle/10665/272941/9789241514149-eng.pdf?ua=1</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

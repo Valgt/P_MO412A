@@ -1,0 +1,1659 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1326020023007264</prism:url><dc:identifier>doi:10.1111/1753-6405.12958</dc:identifier><eid>1-s2.0-S1326020023007264</eid><prism:doi>10.1111/1753-6405.12958</prism:doi><pii>S1326-0200(23)00726-4</pii><dc:title>Closing the Gap and the Sustainable Development Goals: listening to Aboriginal and Torres Strait Islander people </dc:title><prism:publicationName>Australian and New Zealand Journal of Public Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13260200</prism:issn><prism:volume>44</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>11</prism:startingPage><prism:endingPage>13</prism:endingPage><prism:pageRange>11-13</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2020-02-29</prism:coverDate><prism:coverDisplayDate>February 2020</prism:coverDisplayDate><prism:copyright>Copyright 2019 THE AUTHORS.</prism:copyright><dc:creator>Schultz, Rosalie</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S1326020023007264" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1326020023007264" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>783243</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Australian and New Zealand Journal of Public Health</xocs:srctitle>
+      <xocs:normalized-srctitle>AUSTRALIANNEWZEALANDJOURNALPUBLICHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20230227">2023-02-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20230227">2023-02-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20230227">2023-02-27</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20230227">2023-02-27</xocs:vor-available-online-date>
+      <xocs:original-available-online-date yyyymmdd="20191211">2019-12-11</xocs:original-available-online-date>
+      <xocs:ew-transaction-id>2023-02-27T15:28:50</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1326020023007264</xocs:eid>
+      <xocs:pii-formatted>S1326-0200(23)00726-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1326020023007264</xocs:pii-unformatted>
+      <xocs:doi>10.1111/1753-6405.12958</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1326020023X60348</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230523">2023-05-23T16:43:22.178768Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200201</xocs:date-search-begin>
+      <xocs:date-search-end>20200229</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1677515751">2023-02-27T16:35:51.833476Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav table body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1326-0200</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13260200</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>44</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>44</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 44, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>11</xocs:first-fp>
+      <xocs:last-lp>13</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>11</xocs:first-page>
+         <xocs:last-page>13</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202002</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-02-29</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Commentary</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright 2019 THE AUTHORS.</xocs:copyright-line>
+      <xocs:normalized-article-title>CLOSINGGAPSUSTAINABLEDEVELOPMENTGOALSLISTENINGABORIGINALTORRESSTRAITISLANDERPEOPLE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SCHULTZ</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Target‐setting as an approach to policy implementation for social development</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Colonisation, criminalisation and deculturation</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Transformational approaches</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>MADDISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COLONIALFANTASYWHITEAUSTRALIACANTSOLVEBLACKPROBLEMS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>CLOSINGGAPREPORT2019</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>REPORTIMPLEMENTATIONSUSTAINABLEDEVELOPMENTGOALS2018</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TRANSFORMINGWORLD2030AGENDAFORSUSTAINABLEDEVELOPMENTARES701</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>SACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTREPORT2019</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>SACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SDGINDEXDASHBOARDSREPORT2017</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>S</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>118</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>GUENTHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-last-lp>170</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-normalized-surname>FOGARTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DEFICITDISCOURSESTRENGTHSBASEDAPPROACHESCHANGINGNARRATIVEABORIGINALTORRESSTRAITISLANDERHEALTHWELLBEING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-normalized-surname>MOORE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref110">
+            <xocs:ref-normalized-surname>CARANT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16</xocs:ref-first-fp>
+            <xocs:ref-last-lp>41</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref120">
+            <xocs:ref-normalized-surname>V</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>REPORTSPECIALRAPPORTEURHUMANRIGHTSCOUNCILRIGHTSINDIGENOUSPEOPLES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref130">
+            <xocs:ref-normalized-surname>MLM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>451</xocs:ref-first-fp>
+            <xocs:ref-last-lp>467</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref140">
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>62</xocs:ref-last-lp>
+            <xocs:ref-normalized-srctitle>INDICATORSRELEVANTFORINDIGENOUSPEOPLESARESOURCEBOOK</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref150">
+            <xocs:ref-normalized-surname>BOND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>415</xocs:ref-first-fp>
+            <xocs:ref-last-lp>428</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref160">
+            <xocs:ref-normalized-surname>TAYLOR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>150</xocs:ref-first-fp>
+            <xocs:ref-last-lp>167</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref170">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>PATHWAYSJUSTICEANINQUIRYINCARCERATIONRATEABORIGINALTORRESSTRAITISLANDERPEOPLESFINALREPORTNO133</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref180">
+            <xocs:ref-normalized-surname>MOSELEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ATLASWORLDSLANGUAGESINDANGER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref190">
+            <xocs:ref-normalized-surname>SIMPSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>67</xocs:ref-first-fp>
+            <xocs:ref-last-lp>80</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref200">
+            <xocs:ref-normalized-surname>MARMION</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COMMUNITYIDENTITYWELLBEINGREPORTSECONDNATIONALINDIGENOUSLANGUAGESSURVEY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref210">
+            <xocs:ref-normalized-surname>BELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>84</xocs:ref-first-fp>
+            <xocs:ref-last-lp>96</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref220">
+            <xocs:ref-normalized-surname>BIDDLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>215</xocs:ref-first-fp>
+            <xocs:ref-last-lp>232</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref230">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>LEARNINGREALIZEEDUCATIONSPROMISE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref240">
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ENGLISHLANGUAGELEARNINGFORINDIGENOUSCHILDRENELLICTRIAL</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref250">
+            <xocs:ref-normalized-surname>NETTLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>94</xocs:ref-first-fp>
+            <xocs:ref-last-lp>137</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>LOSTWORDSLOSTWORLDSVANISHINGVOICESEXTINCTIONWORLDSLANGUAGES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref260">
+            <xocs:ref-normalized-surname>SCHULTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>176</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref270">
+            <xocs:ref-normalized-surname>CRESSWELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>AUSTRALIASTATEENVIRONMENT2016BIODIVERSITYINDEPENDENTREPORTAUSTRALIANGOVERNMENTMINISTERFORENVIRONMENTENERGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref280">
+            <xocs:ref-normalized-surname>HILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INDIGENOUSLANDMANAGEMENTINAUSTRALIAEXTENTSCOPEDIVERSITYBARRIERSSUCCESSFACTORS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref290">
+            <xocs:ref-normalized-surname>GARNETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>369</xocs:ref-first-fp>
+            <xocs:ref-last-lp>374</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref300">
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>NATIONALABORIGINALHEALTHSTRATEGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref310">
+            <xocs:ref-normalized-surname>SHERWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>178</xocs:ref-first-fp>
+            <xocs:ref-last-lp>190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SCHULTZX2020X11</xocs:refkey3>
+         <xocs:refkey4lp>SCHULTZX2020X11X13</xocs:refkey4lp>
+         <xocs:refkey4ai>SCHULTZX2020X11XR</xocs:refkey4ai>
+         <xocs:refkey5>SCHULTZX2020X11X13XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2023-02-27T00:00:00.000Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/1326-0200_UNBOUNDED_Author">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework/>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">Copyright 2019 THE AUTHORS.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1326-0200(23)00726-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1326020023007264</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1326020023007264</xocs:eid>
+         <xocs:doi>10.1111/1753-6405.12958</xocs:doi>
+         <xocs:cid>783243</xocs:cid>
+         <xocs:timestamp>2023-05-23T16:43:22.178768Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-02-29</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1326020023007264-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1326020023007264/MAIN/application/pdf/c05173936f514d19cfa8d9d970df4430/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>86322</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1326020023007264-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1326020023007264/PREVIEW/image/png/c9227d15bb9d9fc8d00882ed21d11633/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>91581</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>ANZJPH</jid>
+            <aid>726</aid>
+            <ce:pii>S1326-0200(23)00726-4</ce:pii>
+            <ce:doi>10.1111/1753-6405.12958</ce:doi>
+            <ce:copyright type="other" year="2019">Copyright 2019 THE AUTHORS.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="azph12958-tbl-0001" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cecap10">
+                  <ce:simple-para id="spara10" view="all">Development indicators recognised by indigenous peoples and related SDGs.<ce:cross-ref id="cecref10" refid="azph12958-bib-0014">
+                        <ce:sup loc="post">14</ce:sup>
+                     </ce:cross-ref>
+                  </ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Indigenous Development Indicator</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Related SDGs</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Security of Indigenous peoples’ rights to territories, lands and natural resources</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2 No hunger<br/>11 Sustainable cities and communities<br/>14 Life on land<br/>15 Life below water<br/>16 Peace, justice and strong institutions</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Integrity of indigenous cultural heritage</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4 Quality education<br/>8 Decent work and economic growth<br/>14 Life on land<br/>15 Life below water<br/>16 Peace, justice and strong institutions</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Respect for identity and non‐discrimination</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4 Quality education<br/>8 Decent work and economic growth<br/>16 Peace, justice and strong institutions</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fate control; self‐determination</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4 Quality education<br/>8 Decent work and economic growth<br/>16 Peace, justice and strong institutions</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Culturally‐appropriate education</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4 Quality education<br/>16 Peace, justice and strong institutions</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Full, informed and effective participation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4 Quality education<br/>8 Decent work and economic growth<br/>16 Peace, justice and strong institutions</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Extent of external threats to indigenous livelihoods</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">14 Life on land<br/>15 Life below water<br/>16 Peace, justice and strong institutions</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Commentary</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Closing the Gap and the Sustainable Development Goals: listening to Aboriginal and Torres Strait Islander people</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="azph12958-cr-0001" author-id="S1326020023007264-14066f29c8d13cfeef0eef49ab6dbac4">
+                  <ce:given-name>Rosalie</ce:given-name>
+                  <ce:surname>Schultz</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="azph12958-aff-0001">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref30" refid="cor1">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="azph12958-aff-0001" affiliation-id="S1326020023007264-6246c75f7da63050e293a424336c37f5">
+                  <ce:label>1</ce:label>
+                  <ce:textfn>Centre for Remote Health, Flinders University, Northern Territory</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Centre for Remote Health</sa:organization>
+                     <sa:organization>Flinders University</sa:organization>
+                     <sa:city>Northern Territory</sa:city>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext1a">Centre for Remote Health, Flinders University, Northern Territory</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>*</ce:label>
+                  <ce:text>
+                     <ce:bold>Correspondence to</ce:bold>: Dr Rosalie Schultz, Centre for Remote Health, Flinders University, PO Box 4066, Alice Springs, NT 0871</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Centre for Remote Health</sa:organization>
+                     <sa:organization>Flinders University</sa:organization>
+                     <sa:address-line>PO Box 4066</sa:address-line>
+                     <sa:city>Alice Springs</sa:city>
+                     <sa:state>NT</sa:state>
+                     <sa:postal-code>0871</sa:postal-code>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">Despite efforts to reduce the disadvantage of Aboriginal and Torres Strait Islander Australians, some indicators of health, education and employment are flatlining or going backwards. The 2018 end date for the initial targets of the Closing the Gap framework has passed, and the possibility of new relationships between Aboriginal and Torres Strait Islander and other Australians generated through Prime Minister Rudd’s apology to the stolen generations is fading.<ce:cross-ref id="cecref40" refid="azph12958-bib-0001">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> The 2019 Closing the Gap Report calls for refreshment of the framework and confirms the Australian Government’s commitment to achieving equality for Aboriginal and Torres Strait Islander people in health and life expectancy.<ce:cross-ref id="cecref50" refid="azph12958-bib-0002">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para20" view="all">The Australian Government has also committed to the United Nations Sustainable Development Goals (SDGs).<ce:cross-ref id="cecref60" refid="azph12958-bib-0003">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> The 17 SDGs are the core of the United Nations 2030 Agenda, and reflect recognition that human wellbeing and dignity depend on the health of planet earth and redirection of development trajectories of every nation.<ce:cross-ref id="cecref70" refid="azph12958-bib-0004">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> The SDGs include goals for healthy lives and wellbeing, equitable and quality education, productive employment and decent work. These goals, together with the over‐arching concern of leaving no one behind, align with those of the Closing the Gap framework.<ce:cross-ref id="cecref80" refid="azph12958-bib-0003">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para30" view="all">As with the Closing the Gap aspirations, Australia’s stated commitment and institutional responses to the SDGs appear inadequate to meet our undertakings, and in 2019 we are on track to meet only one of the 17 SDGs, SDG 3: good health and wellbeing.<ce:cross-ref id="cecref90" refid="azph12958-bib-0005">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> Our SDG ranking has declined with each measurement of progress: we ranked 18<ce:sup loc="post">th</ce:sup> in 2015, 26<ce:sup loc="post">th</ce:sup> in 2017 and 38<ce:sup loc="post">th</ce:sup> of 193 nations in 2019.<ce:cross-refs id="cecrefs10" refid="azph12958-bib-0005 azph12958-bib-0006">
+                     <ce:sup loc="post">5,6</ce:sup>
+                  </ce:cross-refs>
+               </ce:para>
+               <ce:section id="azph12958-sec-0020" view="all">
+                  <ce:section-title id="cestitle10">Target‐setting as an approach to policy implementation for social development</ce:section-title>
+                  <ce:para id="para40" view="all">Both the Closing the Gap framework and the SDGs use goals represented by sets of statistical targets to drive policy and behaviour change. These targets and their trajectories become performance indicators, guiding resource allocation and service provision.<ce:cross-ref id="cecref100" refid="azph12958-bib-0007">
+                        <ce:sup loc="post">7</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para50" view="all">Statistical indicators give the impression of objectivity and rationality. However, their use to quantify complex and diverse circumstances can create simplistic explanations of the concept they were established to measure. For example, measuring education through school attendance uses convenient and readily available data with the unstated assumption that school attendance will lead to desired educational outcomes. For Aboriginal children in remote regions, there is conflicting evidence about the association between school attendance and educational outcomes because schooling does not consistently contribute to learning and educational success.<ce:cross-ref id="cecref110" refid="azph12958-bib-0008">
+                        <ce:sup loc="post">8</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para60" view="all">Another common feature of the Closing the Gap framework and the SDGs is the use of targets calculated for whole populations, obscuring regional, community and individual characteristics. While these targets can focus governments and service providers on measurable outcomes, they present limited perspectives of people’s lives.<ce:cross-ref id="cecref120" refid="azph12958-bib-0007">
+                        <ce:sup loc="post">7</ce:sup>
+                     </ce:cross-ref> The focus on differences between Aboriginal and Torres Strait Islander and other Australians contributes to a discourse of deficiency and deficit, and negative stereotypes.<ce:cross-ref id="cecref130" refid="azph12958-bib-0009">
+                        <ce:sup loc="post">9</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para70" view="all">The appearance of neutrality of numbers used as indicators obscures the fact that the choice of indicators reflects particular values and decisions.<ce:cross-ref id="cecref140" refid="azph12958-bib-0010">
+                        <ce:sup loc="post">10</ce:sup>
+                     </ce:cross-ref> The Closing the Gap framework initially attempted to monitor complex Aboriginal and Torres Strait Islander disadvantage through only six indicators.<ce:cross-ref id="cecref150" refid="azph12958-bib-0002">
+                        <ce:sup loc="post">2</ce:sup>
+                     </ce:cross-ref> Both the Closing the Gap targets and the SDGs assume that people and nations aspire to increasing aggregate wealth through formal employment, based on assumptions about human progress being linked to and measured by increases in GDP.<ce:cross-refs id="cecrefs20" refid="azph12958-bib-0010 azph12958-bib-0011">
+                        <ce:sup loc="post">10,11</ce:sup>
+                     </ce:cross-refs>
+                  </ce:para>
+                  <ce:para id="para80" view="all">For Aboriginal and Torres Strait Islander Australians and other indigenous peoples globally, the creation of SDGs provided opportunities for their needs to be considered in global development aspirations.<ce:cross-ref id="cecref160" refid="azph12958-bib-0012">
+                        <ce:sup loc="post">12</ce:sup>
+                     </ce:cross-ref> These opportunities included using government commitments to the SDGs to reduce the pervasive disadvantage and inequality faced by indigenous peoples.</ce:para>
+                  <ce:para id="para90" view="all">Interpersonal relationships, connections to the environment and spirituality are key values for many indigenous peoples. In the development of the SDGs, indigenous communities drew attention to the contributions they can make to sustainability through their knowledge of sustainable practices, and their aspirations for development based on indigenous cultural norms and values.<ce:cross-ref id="cecref170" refid="azph12958-bib-0012">
+                        <ce:sup loc="post">12</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para100" view="all">However, consultation with indigenous peoples in the development of the SDGs was limited, and although SDGs to improve health, education and employment may reduce disadvantage, the underlying approach to development promoted by the SDGs continues the historic relationships between powerful and poorer communities.<ce:cross-ref id="cecref180" refid="azph12958-bib-0013">
+                        <ce:sup loc="post">13</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para110" view="all">Outside the SDG processes, indigenous people have developed indicators of development significant for themselves. One set of indicators is shown in Table <ce:cross-ref id="cecref190" refid="azph12958-tbl-0001">1</ce:cross-ref>
+                     <ce:float-anchor refid="azph12958-tbl-0001"/>,<ce:cross-ref id="cecref200" refid="azph12958-bib-0014">
+                        <ce:sup loc="post">14</ce:sup>
+                     </ce:cross-ref> together with SDGs that could address these indicators.</ce:para>
+               </ce:section>
+               <ce:section id="azph12958-sec-0030" view="all">
+                  <ce:section-title id="cestitle20">Colonisation, criminalisation and deculturation</ce:section-title>
+                  <ce:para id="para120" view="all">In Australia, the development of the Closing the Gap framework has been described as a continuation of colonisation and assimilation through its top‐down approach, and focus on reducing differences between Aboriginal and Torres Strait Islander and other Australians based on non‐Indigenous norms.<ce:cross-ref id="cecref210" refid="azph12958-bib-0010">
+                        <ce:sup loc="post">10</ce:sup>
+                     </ce:cross-ref> Assuming that differences represent deficits on the part of Aboriginal and Torres Strait Islander people can draw attention away from their strengths and present people as stereotypes, limiting opportunities for alternative narratives.<ce:cross-ref id="cecref220" refid="azph12958-bib-0009">
+                        <ce:sup loc="post">9</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para130" view="all">The Australian nation represents the colonisation of the lands of Aboriginal and Torres Strait Islander people. Non‐Indigenous scholars may conceive that we are supporting Aboriginal and Torres Strait Islander people to become truly self‐determining through a gradual process of decolonisation.<ce:cross-ref id="cecref230" refid="azph12958-bib-0001">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> However, political realities such as the disappointing outcomes of the Closing the Gap strategy that emerged from Prime Minister Rudd’s 2008 apology to the stolen generations and the summary dismissal of the Uluru statement show continuing colonisation.<ce:cross-ref id="cecref240" refid="azph12958-bib-0001">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> Aboriginal and Torres Strait Islander scholars have no doubt that there is ongoing colonisation of Australia.<ce:cross-refs id="cecrefs30" refid="azph12958-bib-0001 azph12958-bib-0015">
+                        <ce:sup loc="post">1,15</ce:sup>
+                     </ce:cross-refs>
+                  </ce:para>
+                  <ce:para id="para140" view="all">Ongoing colonisation underlies Australia’s extra‐ordinary rates of imprisonment of Aboriginal and Torres Strait Islander people, almost 2.5% of whom are in prison. Men aged between 20 and 39 years are imprisoned at the highest rate, and up to 14% of young men from remote communities are away in prison.<ce:cross-ref id="cecref250" refid="azph12958-bib-0016">
+                        <ce:sup loc="post">16</ce:sup>
+                     </ce:cross-ref> Without these young men, communities lose economic and social stability, reducing community capacity to raise children and support community relationships and health. Imprisonment rates are increasing, despite the recommendations of the 1991 Royal Commission into Indigenous Deaths in Custody and the 2017 Inquiry into the Incarceration Rate of Aboriginal and Torres Strait Islander people.<ce:cross-ref id="cecref260" refid="azph12958-bib-0017">
+                        <ce:sup loc="post">17</ce:sup>
+                     </ce:cross-ref> Australia must reduce imprisonment rates to achieve SDG 16: Peace, Justice and Strong Institutions.</ce:para>
+                  <ce:para id="para150" view="all">Imprisonment is a form of ongoing colonisation, mediated through child removal and detention; alcohol and other substance misuse; and difficulties in obtaining and holding driver’s licences, compounding poverty, anger and frustration.<ce:cross-ref id="cecref270" refid="azph12958-bib-0001">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> Costs of the high rates of imprisonment of Aboriginal and Torres Strait Islander people include its self‐perpetuation, consuming resources that could be re‐invested in alternative approaches to reduce crime. Each person in prison costs $103,000 per year.<ce:cross-ref id="cecref280" refid="azph12958-bib-0017">
+                        <ce:sup loc="post">17</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para160" view="all">Colonisation is also leading to ongoing losses of Australian languages that disappear as remaining speakers pass away. Australia has one of the highest rates of language loss of any nation.<ce:cross-ref id="cecref290" refid="azph12958-bib-0018">
+                        <ce:sup loc="post">18</ce:sup>
+                     </ce:cross-ref> Of the 300 Aboriginal and Torres Strait Islander languages,<ce:cross-ref id="cecref300" refid="azph12958-bib-0019">
+                        <ce:sup loc="post">19</ce:sup>
+                     </ce:cross-ref> the most recent national language survey identified 79 spoken today. Only 15 Aboriginal and Torres Strait Islander languages are passed onto children, which is essential for language survival; none are considered safe.<ce:cross-ref id="cecref310" refid="azph12958-bib-0020">
+                        <ce:sup loc="post">20</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para170" view="all">While scarcity often increases value, for Australian languages, declining use appears to make the language less worthy of support. Australia’s language policy and attitudes do not recognise the importance of languages for Aboriginal and Torres Strait Islander people’s identity, culture and wellbeing, or the intrinsic value of Indigenous languages.<ce:cross-refs id="cecrefs40" refid="azph12958-bib-0021 azph12958-bib-0022">
+                        <ce:sup loc="post">21,22</ce:sup>
+                     </ce:cross-refs> Government prioritisation of English literacy for Aboriginal and Torres Strait Islander children ignores evidence that literacy in one’s primary language facilitates English literacy, and neglects opportunities to use community languages to improve school attendance and educational achievement.<ce:cross-refs id="cecrefs50" refid="azph12958-bib-0023 azph12958-bib-0024">
+                        <ce:sup loc="post">23,24</ce:sup>
+                     </ce:cross-refs> While languages are not specifically addressed within the SDGs, Australia’s inequitable language education is inconsistent with SDG 4: Quality Education and SDG 10: Reduced Inequality.</ce:para>
+                  <ce:para id="para180" view="all">Loss of languages leads to loss of the knowledge transmitted through those languages. Indigenous languages hold knowledge of ecosystems and their sustainable management and care accumulated over hundreds of generations. Language loss is associated with biodiversity loss, so Australia’s rapid losses of both languages and biodiversity are interrelated manifestations of colonisation.<ce:cross-ref id="cecref320" refid="azph12958-bib-0025">
+                        <ce:sup loc="post">25</ce:sup>
+                     </ce:cross-ref> The removal of Aboriginal and Torres Strait Islander people from their Country and practices of land care contribute to ongoing losses of biodiversity.<ce:cross-refs id="cecrefs60" refid="azph12958-bib-0026 azph12958-bib-0027">
+                        <ce:sup loc="post">26,27</ce:sup>
+                     </ce:cross-refs>
+                  </ce:para>
+                  <ce:para id="para190" view="all">Protection of biodiversity constitutes SDG 14: Life on Land and SDG 15: Life below Water, which are affected by the loss of Aboriginal and Torres Strait Islander people’s relationships with lands and waters.<ce:cross-ref id="cecref330" refid="azph12958-bib-0028">
+                        <ce:sup loc="post">28</ce:sup>
+                     </ce:cross-ref> Land management by indigenous people can ensure conservation of biodiversity at global, national and regional scales.<ce:cross-ref id="cecref340" refid="azph12958-bib-0029">
+                        <ce:sup loc="post">29</ce:sup>
+                     </ce:cross-ref> Aboriginal and Torres Strait Islander people currently manage about 4.02 million km<ce:cross-ref id="cecref350" refid="azph12958-bib-0002">
+                        <ce:sup loc="post">2</ce:sup>
+                     </ce:cross-ref> of Australia’s 7.17 million km<ce:cross-ref id="cecref360" refid="azph12958-bib-0002">
+                        <ce:sup loc="post">2</ce:sup>
+                     </ce:cross-ref>, including 930,000 km<ce:cross-ref id="cecref370" refid="azph12958-bib-0002">
+                        <ce:sup loc="post">2</ce:sup>
+                     </ce:cross-ref> of high‐level protected land.<ce:cross-ref id="cecref380" refid="azph12958-bib-0029">
+                        <ce:sup loc="post">29</ce:sup>
+                     </ce:cross-ref> One of the main barriers to greater opportunities for Aboriginal and Torres Strait Islander people to care for Country is access to land, another impact of ongoing colonisation.<ce:cross-ref id="cecref390" refid="azph12958-bib-0028">
+                        <ce:sup loc="post">28</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para200" view="all">Today most Aboriginal and Torres Strait Islander people live in cities and towns, speak English and have non‐Indigenous ancestry.<ce:cross-ref id="cecref400" refid="azph12958-bib-0001">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> These developments in people’s heritage can increase Aboriginal and Torres Strait Islander community breadth of expertise, experience, cultural awareness and resilience. Despite systematic removal of people from their Country, most Aboriginal and Torres Strait Islander people identify and visit their homelands, while changes in languages spoken by Aboriginal and Torres Strait Islander people include development of distinctive English and new languages, reflecting contemporary communication needs.<ce:cross-ref id="cecref410" refid="azph12958-bib-0019">
+                        <ce:sup loc="post">19</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="azph12958-sec-0040" view="all">
+                  <ce:section-title id="cestitle30">Transformational approaches</ce:section-title>
+                  <ce:para id="para210" view="all">For Australia to overcome Aboriginal and Torres Strait Islander disadvantage and reach the SDGs will require transformation of current policies and practices. In health, this will demand recognition of the social determinants of health, which Aboriginal and Torres Strait Islander people have understood forever.<ce:cross-ref id="cecref420" refid="azph12958-bib-0030">
+                        <ce:sup loc="post">30</ce:sup>
+                     </ce:cross-ref> Social determinants of health for Aboriginal and Torres Strait Islander people, particularly education and employment, can entail opportunities for learning on and caring for Country. These promote Aboriginal and Torres Strait Islander expertise in Australia’s response to the SDGs and our environmental crises, such as loss of biodiversity and climate change.<ce:cross-ref id="cecref430" refid="azph12958-bib-0028">
+                        <ce:sup loc="post">28</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para220" view="all">Leadership, monitoring and evaluation of progress and development by Aboriginal and Torres Strait Islander people are markers of decolonisation.<ce:cross-ref id="cecref440" refid="azph12958-bib-0031">
+                        <ce:sup loc="post">31</ce:sup>
+                     </ce:cross-ref> Non‐Indigenous Australians have said enough: it is time to listen to Aboriginal and Torres Strait Islander voices.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle40">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="azph12958-bib-0001">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Maddison</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Colonial Fantasy: Why White Australia Can’t Solve Black Problems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Allen &amp; Unwin</sb:name>
+                                 <sb:location>Crows Nest (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext1">Maddison S. The Colonial Fantasy: Why White Australia Can’t Solve Black Problems. Crows Nest (AUST): Allen &amp; Unwin; 2010.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0002">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Department of Prime Minister and Cabinet</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Closing the Gap Report 2019</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Government of Australia</sb:name>
+                                 <sb:location>Canberra (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 13]. Available from: <ce:inter-ref id="interrefs10" xlink:href="http://ctgreport.pmc.gov.au/" xlink:type="simple">http://ctgreport.pmc.gov.au/</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext2">Department of Prime Minister and Cabinet. Closing the Gap Report 2019 [Internet]. Canberra (AUST): Government of Australia; 2019 [cited 2019 Jul 13]. Available from: http://ctgreport.pmc.gov.au/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0003">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Department of Foreign Affairs and Trade</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Report on the Implementation of the Sustainable Development Goals 2018</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Australian Department of Foreign Affairs and Trade</sb:name>
+                                 <sb:location>Canberra (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 13]. Available from: <ce:inter-ref id="interrefs20" xlink:href="http://dfat.gov.au/aid/topics/development-issues/2030-agenda/Pages/sustainable-development-goals.aspx" xlink:type="simple">http://dfat.gov.au/aid/topics/development-issues/2030-agenda/Pages/sustainable-development-goals.aspx</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext3">Department of Foreign Affairs and Trade. Report on the Implementation of the Sustainable Development Goals 2018 [Internet]. Canberra (AUST): Australian Department of Foreign Affairs and Trade; 2018 [cited 2019 Jul 13]. Available from: http://dfat.gov.au/aid/topics/development-issues/2030-agenda/Pages/sustainable-development-goals.aspx</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0004">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transforming Our World: The 2030 Agenda for Sustainable Development: A/ RES/70/1</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Division for Sustainable Development Goals</sb:name>
+                                 <sb:location>New York (NY)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 30]. Available from: <ce:inter-ref id="interrefs30" xlink:href="https://sustainabledevelopment.un.org/post2015/transformingourworld/publication" xlink:type="simple">https://sustainabledevelopment.un.org/post2015/transformingourworld/publication</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext4">United Nations. Transforming Our World: The 2030 Agenda for Sustainable Development: A/ RES/70/1 [Internet]. New York (NY): United Nations Division for Sustainable Development Goals; 2015 [cited 2019 Jul 30]. Available from: https://sustainabledevelopment.un.org/post2015/transformingourworld/publication</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0005">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Sachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Schmidt-Traub</ce:given-name>
+                                 <ce:surname>G</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Kroll</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>La-Fortune</ce:given-name>
+                                 <ce:surname>G</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Fuller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development Report 2019</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN)</sb:name>
+                                 <sb:location>New York (NY)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 13]. Available from: <ce:inter-ref id="interrefs40" xlink:href="https://sdgindex.org/" xlink:type="simple">https://sdgindex.org/</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext5">Sachs J, Schmidt-Traub G, Kroll C, La-Fortune G, Fuller G. Sustainable Development Report 2019 [Internet]. New York (NY): Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN); 2019 [cited 2019 Jul 13]. Available from: https://sdgindex.org/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0006">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Sachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Schmidt-Traub</ce:given-name>
+                                 <ce:surname>G</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Kroll</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Durand-Delacre</ce:given-name>
+                                 <ce:surname>D</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Teksoz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG Index and Dashboards Report 2017</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Interner].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Bertelsmann Stiftung and Sustainable Development Solutions Network</sb:name>
+                                 <sb:location>New York (NY)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2018 Nov 3]. Available from: <ce:inter-ref id="interrefs50" xlink:href="http://sdgindex.org/#full-report" xlink:type="simple">http://sdgindex.org/#full-report</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext6">Sachs J, Schmidt-Traub G, Kroll C, Durand-Delacre D, Teksoz K. SDG Index and Dashboards Report 2017 [Interner]. New York (NY): Bertelsmann Stiftung and Sustainable Development Solutions Network; 2017 [cited 2018 Nov 3]. Available from: http://sdgindex.org/#full-report</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0007">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Fukuda-Parr</ce:given-name>
+                                 <ce:surname>S</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global goals as a policy tool: Intended and unintended consequences</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Human Dev Capabil.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2–3</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>118</sb:first-page>
+                              <sb:last-page>131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext7">Fukuda-Parr S. Global goals as a policy tool: Intended and unintended consequences. J Human Dev Capabil. 2014;15(2–3):118–31.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0008">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Guenther</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Are we making education count in remote Australian communities or just counting on education?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aust J Indig Educ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                              <sb:last-page>170</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext8">Guenther J. Are we making education count in remote Australian communities or just counting on education? Aust J Indig Educ. 2013;42(2):157–70.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0009">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W</ce:given-name>
+                                 <ce:surname>Fogarty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Lovell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Langenberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Heron</ce:given-name>
+                                 <ce:surname>M-J</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Deficit Discourse and Strengths‐based Approaches: Changing the Narrative of Aboriginal and Torres Strait Islander Health and Wellbeing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Lowitja Institute</sb:name>
+                                 <sb:location>Melbourne (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 30]. Available from: <ce:inter-ref id="interrefs60" xlink:href="https://www.lowitja.org.au/page/services/resources/Cultural-and-social-determinants/racism/deficit-discourse-strengths-based" xlink:type="simple">https://www.lowitja.org.au/page/services/resources/Cultural-and-social-determinants/racism/deficit-discourse-strengths-based</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext9">Fogarty W, Lovell M, Langenberg J, Heron M-J. Deficit Discourse and Strengths‐based Approaches: Changing the Narrative of Aboriginal and Torres Strait Islander Health and Wellbeing [Internet]. Melbourne (AUST): The Lowitja Institute; 2018 [cited 2019 Jul 30]. Available from: https://www.lowitja.org.au/page/services/resources/Cultural-and-social-determinants/racism/deficit-discourse-strengths-based</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0010">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Whitewashing the Gap: The Discursive Practices of Whiteness</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Crit Indig Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2</sb:first-page>
+                              <sb:last-page>12</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext10">Moore R. Whitewashing the Gap: The Discursive Practices of Whiteness. Int J Crit Indig Stud. 2012;5(2):2–12.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0011">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sbref110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>JB</ce:given-name>
+                                 <ce:surname>Carant</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Unheard voices: A critical discourse analysis of the Millennium Development Goals’ evolution into the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Third World Q.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16</sb:first-page>
+                              <sb:last-page>41</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext11">Carant JB. Unheard voices: A critical discourse analysis of the Millennium Development Goals’ evolution into the Sustainable Development Goals. Third World Q. 2017;38(1):16–41.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0012">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Tauli-Corpuz</ce:given-name>
+                                 <ce:surname>V</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Report of the Special Rapporteur of the Human Rights Council on the Rights of Indigenous Peoples</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations General Assembly</sb:name>
+                                 <sb:location>New York (NY)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 18]. Available from: <ce:inter-ref id="interrefs70" xlink:href="https://www.un.org/en/ga/search/view_doc.asp?symbol=A/73/176" xlink:type="simple">https://www.un.org/en/ga/search/view_doc.asp?symbol=A/73/176</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext12">Tauli-Corpuz V. Report of the Special Rapporteur of the Human Rights Council on the Rights of Indigenous Peoples [Internet]. New York (NY): United Nations General Assembly; 2018 [cited 2019 Jul 18]. Available from: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/73/176</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0013">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sbref130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Yap</ce:given-name>
+                                 <ce:surname>ML-M</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Watene</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Sustainable Development Goals (SDGs) and Indigenous peoples: another missed opportunity?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Human Dev Capabil.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>451</sb:first-page>
+                              <sb:last-page>467</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext13">Yap ML-M, Watene K. The Sustainable Development Goals (SDGs) and Indigenous peoples: another missed opportunity? J Human Dev Capabil. 2019;20(4):451–67.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0014">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="sbref140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Indigenous Peoples’ International Centre for Policy Research and Education</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Indicators Relevant for Indigenous Peoples: A Resource Book</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Tebtebba</sb:name>
+                                 <sb:location>Baguio City (PHL)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                              <sb:last-page>62</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 30]. Available from: <ce:inter-ref id="interrefs80" xlink:href="http://tebtebba.org/index.php/all-resources/category/7-training-manuals-and-resource-books?download=112:indicators-relevant-for-indigenous-peoples" xlink:type="simple">http://tebtebba.org/index.php/all-resources/category/7-training-manuals-and-resource-books?download=112:indicators-relevant-for-indigenous-peoples</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext14">Indigenous Peoples’ International Centre for Policy Research and Education. Indicators Relevant for Indigenous Peoples: A Resource Book [Internet]. Baguio City (PHL): Tebtebba; 2008 [cited 2019 Jul 30]. p. 37–62. Available from: http://tebtebba.org/index.php/all-resources/category/7-training-manuals-and-resource-books?download=112:indicators-relevant-for-indigenous-peoples</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0015">
+                     <ce:label>15</ce:label>
+                     <sb:reference id="sbref150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Bond</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B</ce:given-name>
+                                 <ce:surname>Mukandi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Coghill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>‘You cunts can do as you like’: The obscenity and absurdity of free speech to Blackfullas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Continuum (Mount Lawley).</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>415</sb:first-page>
+                              <sb:last-page>428</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext15">Bond C, Mukandi B, Coghill S. ‘You cunts can do as you like’: The obscenity and absurdity of free speech to Blackfullas. Continuum (Mount Lawley). 2018;32(4):415–28.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0016">
+                     <ce:label>16</ce:label>
+                     <sb:reference id="sbref160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Payer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Barnes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The missing mobile: Impacts from the incarceration of Indigenous Australians from remote communities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl Mobilities.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>150</sb:first-page>
+                              <sb:last-page>167</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext16">Taylor A, Payer H, Barnes T. The missing mobile: Impacts from the incarceration of Indigenous Australians from remote communities. Appl Mobilities. 2018;3(2):150–67.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0017">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="sbref170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Australian Law Reform Commission</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pathways to Justice—An Inquiry into the Incarceration Rate of Aboriginal and Torres Strait Islander Peoples, Final Report No 133</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Government of Australia</sb:name>
+                                 <sb:location>Canberra (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 14]. Available from: <ce:inter-ref id="interrefs90" xlink:href="https://www.alrc.gov.au/sites/default/files/pdfs/publications/final_report_133_amended1.pdf" xlink:type="simple">https://www.alrc.gov.au/sites/default/files/pdfs/publications/final_report_133_amended1.pdf</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext17">Australian Law Reform Commission. Pathways to Justice—An Inquiry into the Incarceration Rate of Aboriginal and Torres Strait Islander Peoples, Final Report No 133 [Internet]. Canberra (AUST): Government of Australia; 2017 [cited 2019 Jul 14]. Available from: https://www.alrc.gov.au/sites/default/files/pdfs/publications/final_report_133_amended1.pdf</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0018">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="sbref180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Moseley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atlas of the World’s Languages in Danger</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>UNESCO Publishing</sb:name>
+                                 <sb:location>Paris (FRA)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 30]. Available from: <ce:inter-ref id="interrefs100" xlink:href="http://www.unesco.org/languages-atlas/en/atlasmap.html" xlink:type="simple">http://www.unesco.org/languages-atlas/en/atlasmap.html</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext18">Moseley C. Atlas of the World’s Languages in Danger [Internet]. Paris (FRA): UNESCO Publishing; 2010 [cited 2019 Jul 30]. Available from: http://www.unesco.org/languages-atlas/en/atlasmap.html</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0019">
+                     <ce:label>19</ce:label>
+                     <sb:reference id="sbref190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Simpson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Wigglesworth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Language diversity in Indigenous Australia in the 21st century</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr Issue Lang Plan.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>67</sb:first-page>
+                              <sb:last-page>80</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext19">Simpson J, Wigglesworth G. Language diversity in Indigenous Australia in the 21st century. Curr Issue Lang Plan. 2018;20(1):67–80.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0020">
+                     <ce:label>20</ce:label>
+                     <sb:reference id="sbref200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Marmion</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Obata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Troy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Community, Identity, Wellbeing: The Report of the Second National Indigenous Languages Survey</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Australian Institute of Aboriginal and Torres Strait Islander Studies</sb:name>
+                                 <sb:location>Canberra (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 30]. Available from: <ce:inter-ref id="interrefs110" xlink:href="http://aiatsis.gov.au/publications/products/community-identity-wellbeing-report-second-national-indigenous-languages-survey" xlink:type="simple">http://aiatsis.gov.au/publications/products/community-identity-wellbeing-report-second-national-indigenous-languages-survey</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext20">Marmion D, Obata K, Troy J. Community, Identity, Wellbeing: The Report of the Second National Indigenous Languages Survey [Internet]. Canberra (AUST): Australian Institute of Aboriginal and Torres Strait Islander Studies; 2014 [cited 2019 Jul 30]. Available from: http://aiatsis.gov.au/publications/products/community-identity-wellbeing-report-second-national-indigenous-languages-survey</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0021">
+                     <ce:label>21</ce:label>
+                     <sb:reference id="sbref210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Bell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Language and linguistic knowledge: A cultural treasure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ngoonjook: J Aust Indig Issue.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>84</sb:first-page>
+                              <sb:last-page>96</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext21">Bell J. Language and linguistic knowledge: A cultural treasure. Ngoonjook: J Aust Indig Issue. 2010;35:84–96.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0022">
+                     <ce:label>22</ce:label>
+                     <sb:reference id="sbref220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Biddle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Swee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The relationship between wellbeing and indigenous land, language and culture in Australia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aust Geogr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>215</sb:first-page>
+                              <sb:last-page>232</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext22">Biddle N, Swee H. The relationship between wellbeing and indigenous land, language and culture in Australia. Aust Geogr. 2012;43(3):215–32.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0023">
+                     <ce:label>23</ce:label>
+                     <sb:reference id="sbref230">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Bank</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Learning to Realize Education’s Promise</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>International Bank for Reconstruction and Development</sb:name>
+                                 <sb:location>Washington (DC)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jan 29]. Available from: <ce:inter-ref id="interrefs120" xlink:href="http://www.worldbank.org/en/publication/wdr2018" xlink:type="simple">http://www.worldbank.org/en/publication/wdr2018</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext23">World Bank. Learning to Realize Education’s Promise [Internet]. Washington (DC): International Bank for Reconstruction and Development; 2018 [cited 2019 Jan 29]. Available from: http://www.worldbank.org/en/publication/wdr2018</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0024">
+                     <ce:label>24</ce:label>
+                     <sb:reference id="sbref240">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Department of Education</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>English Language Learning for Indigenous Children (ELLIC) Trial</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Government of Australia</sb:name>
+                                 <sb:location>Canberra (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 19]. Available from: <ce:inter-ref id="interrefs130" xlink:href="https://www.education.gov.au/english-language-learning-indigenous-children-ellic-trial" xlink:type="simple">https://www.education.gov.au/english-language-learning-indigenous-children-ellic-trial</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext24">Department of Education. English Language Learning for Indigenous Children (ELLIC) Trial [Internet]. Canberra (AUST): Government of Australia; 2019 [cited 2019 Jul 19]. Available from: https://www.education.gov.au/english-language-learning-indigenous-children-ellic-trial</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0025">
+                     <ce:label>25</ce:label>
+                     <sb:reference id="sbref250">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Nettle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Romaine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lost Words/Lost Worlds Vanishing Voices: The Extinction of the World’s Languages</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2000</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oxford University Press</sb:name>
+                                 <sb:location>New York (NY)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>94</sb:first-page>
+                              <sb:last-page>137</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext25">Nettle D, Romaine S. Lost Words/Lost Worlds. In: Vanishing Voices: The Extinction of the World’s Languages. New York (NY): Oxford University Press; 2000. p. 94–137.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0026">
+                     <ce:label>26</ce:label>
+                     <sb:reference id="sbref260">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Schultz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Abbott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Yamaguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Cairney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Australian Indigenous Land Management, Ecological Knowledge and Languages for Conservation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>EcoHealth.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>176</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext26">Schultz R, Abbott T, Yamaguchi J, Cairney S. Australian Indigenous Land Management, Ecological Knowledge and Languages for Conservation. EcoHealth. 2019;16:171–6.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0027">
+                     <ce:label>27</ce:label>
+                     <sb:reference id="sbref270">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I</ce:given-name>
+                                 <ce:surname>Cresswell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Murphy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Australia: State of the Environment 2016: Biodiversity, Independent Report to the Australian Government Minister for the Environment and Energy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Australian Department of Environment and Energy</sb:name>
+                                 <sb:location>Canberra (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Jul 13]. Available from: <ce:inter-ref id="interrefs140" xlink:href="https://soe.environment.gov.au/" xlink:type="simple">https://soe.environment.gov.au/</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext27">Cresswell I, Murphy H. Australia: State of the Environment 2016: Biodiversity, Independent Report to the Australian Government Minister for the Environment and Energy [Internet]. Canberra (AUST): Australian Department of Environment and Energy; 2016 [cited 2019 Jul 13]. Available from: https://soe.environment.gov.au/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0028">
+                     <ce:label>28</ce:label>
+                     <sb:reference id="sbref280">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Hill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>PL</ce:given-name>
+                                 <ce:surname>Pert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>CJ</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F</ce:given-name>
+                                 <ce:surname>Walsh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Falco-Mammone</ce:given-name>
+                                 <ce:surname>F</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Indigenous Land Management in Australia: Extent, Scope, Diversity, Barriers and Success Factors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>[Internet].</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Commonwealth Scientific and Industrial Research Organisation Ecosystem Sciences</sb:name>
+                                 <sb:location>Cairns (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2019 Feb 4]. Available from: <ce:inter-ref id="interrefs150" xlink:href="http://www.agriculture.gov.au/SiteCollectionDocuments/natural-resources/landcare/submissions/ilm-report.pdf" xlink:type="simple">http://www.agriculture.gov.au/SiteCollectionDocuments/natural-resources/landcare/submissions/ilm-report.pdf</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext28">Hill R, Pert PL, Davies J, Robinson CJ, Walsh F, Falco-Mammone F. Indigenous Land Management in Australia: Extent, Scope, Diversity, Barriers and Success Factors [Internet]. Cairns (AUST): Commonwealth Scientific and Industrial Research Organisation Ecosystem Sciences; 2013 [cited 2019 Feb 4]. Available from: http://www.agriculture.gov.au/SiteCollectionDocuments/natural-resources/landcare/submissions/ilm-report.pdf</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0029">
+                     <ce:label>29</ce:label>
+                     <sb:reference id="sbref290">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>ST</ce:given-name>
+                                 <ce:surname>Garnett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>ND</ce:given-name>
+                                 <ce:surname>Burgess</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JE</ce:given-name>
+                                 <ce:surname>Fa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Fernandez-Llamazares</ce:given-name>
+                                 <ce:surname>A</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z</ce:given-name>
+                                 <ce:surname>Molnar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>CJ</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Spatial Overview of the Global Importance of Indigenous land for Conservation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat Sustain.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>369</sb:first-page>
+                              <sb:last-page>374</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext29">Garnett ST, Burgess ND, Fa JE, Fernandez-Llamazares A, Molnar Z, Robinson CJ, et al. A Spatial Overview of the Global Importance of Indigenous land for Conservation. Nat Sustain. 2018;1:369–74.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0030">
+                     <ce:label>30</ce:label>
+                     <sb:reference id="sbref300">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>National Aboriginal Health Strategy Working Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>National Aboriginal Health Strategy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1989</sb:date>
+                              <sb:publisher>
+                                 <sb:name>NAHS</sb:name>
+                                 <sb:location>Canberra (AUST)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext30">National Aboriginal Health Strategy Working Group. National Aboriginal Health Strategy. Canberra (AUST): NAHS; 1989.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12958-bib-0031">
+                     <ce:label>31</ce:label>
+                     <sb:reference id="sbref310">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Sherwood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Edwards</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Decolonisation: A critical step for improving Aboriginal health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Contemp Nurse.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>178</sb:first-page>
+                              <sb:last-page>190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext31">Sherwood J, Edwards T. Decolonisation: A critical step for improving Aboriginal health. Contemp Nurse. 2006;22(2):178–90.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

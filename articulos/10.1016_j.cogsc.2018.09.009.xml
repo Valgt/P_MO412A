@@ -1,0 +1,475 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2452223618301081</prism:url><dc:identifier>doi:10.1016/j.cogsc.2018.09.009</dc:identifier><eid>1-s2.0-S2452223618301081</eid><prism:doi>10.1016/j.cogsc.2018.09.009</prism:doi><pii>S2452-2236(18)30108-1</pii><dc:title>UN sustainable development goals: How can sustainable/green chemistry contribute? The view from the agrochemical industry </dc:title><prism:publicationName>Current Opinion in Green and Sustainable Chemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>24522236</prism:issn><prism:volume>13</prism:volume><prism:startingPage>172</prism:startingPage><prism:endingPage>173</prism:endingPage><prism:pageRange>172-173</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-10-31</prism:coverDate><prism:coverDisplayDate>October 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>Reuse and Recycling / UN SGDs: How can Sustainable Chemistry Contribute? / Green Chemistry in Education</prism:issueName><dc:creator>O'Riordan, Timothy J.C.</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S2452223618301081" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2452223618301081" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="73864">https://api.elsevier.com/content/object/eid/1-s2.0-S2452223618301081-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85054838313</scopus-id><scopus-eid>2-s2.0-85054838313</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85054838313" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>314642</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291792</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291809</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Current Opinion in Green and Sustainable Chemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>CURRENTOPINIONINGREENSUSTAINABLECHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180929">2018-09-29</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180929">2018-09-29</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20181101">2018-11-01</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20181101">2018-11-01</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-11-01T00:01:23</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2452223618301081</xocs:eid>
+      <xocs:pii-formatted>S2452-2236(18)30108-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2452223618301081</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cogsc.2018.09.009</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2452223618X00042</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190726">2019-07-26T01:43:07.994532Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20181001</xocs:date-search-begin>
+      <xocs:date-search-end>20181031</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1538192323">2018-09-29T03:38:43.815528Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast misctext ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2452-2236</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24522236</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>13</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>13</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 13</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>16</xocs:sort-order>
+      <xocs:first-fp>172</xocs:first-fp>
+      <xocs:last-lp>173</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>172</xocs:first-page>
+         <xocs:last-page>173</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201810</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>October 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-10-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-10-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Reuse and Recycling / UN SGDs: How can Sustainable Chemistry Contribute? / Green Chemistry in Education</ce:title>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>UN SGDs: how can sustainable chemistry contribute?, edited by Tom Welton</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Commentary Articles</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>UNSUSTAINABLEDEVELOPMENTGOALSHOWCANSUSTAINABLEGREENCHEMISTRYCONTRIBUTEVIEWAGROCHEMICALINDUSTRY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ORIORDAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Response to other articles in the special edition</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>BURGMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>JOINTRESEARCHCENTREEUROPEANCOMMISSION</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SOMETHINGNOTHINGENSURINGSAFETYCHEMICALMIXTURES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3"/>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>PRICE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>34</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>WHICHMAYBESUBJECTTOBIASONTOPICSRELATEDTOCROPPROTECTIONCHEMICALSSEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>159</xocs:ref-first-fp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6"/>
+         <xocs:ref-info refid="sref7"/>
+         <xocs:ref-info refid="sref8"/>
+         <xocs:ref-info refid="sref9"/>
+         <xocs:ref-info refid="sref10"/>
+         <xocs:ref-info refid="sref11"/>
+         <xocs:ref-info refid="sref12"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ORIORDANX2018X172</xocs:refkey3>
+         <xocs:refkey4lp>ORIORDANX2018X172X173</xocs:refkey4lp>
+         <xocs:refkey4ai>ORIORDANX2018X172XT</xocs:refkey4ai>
+         <xocs:refkey5>ORIORDANX2018X172X173XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2452-2236(18)30108-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2452223618301081</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2452223618301081</xocs:eid>
+         <xocs:doi>10.1016/j.cogsc.2018.09.009</xocs:doi>
+         <xocs:cid>314642</xocs:cid>
+         <xocs:timestamp>2019-07-26T01:43:07.994532Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-10-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-10-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2452223618301081-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2452223618301081/MAIN/application/pdf/eb44dfa8d6e52a386bf50cc6bc00c6c1/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2452223618301081/MAIN/application/pdf/eb44dfa8d6e52a386bf50cc6bc00c6c1/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>162977</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2452223618301081-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2452223618301081/PREVIEW/image/png/4e187f790769c41aef252aa42b85d108/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2452223618301081/PREVIEW/image/png/4e187f790769c41aef252aa42b85d108/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65700</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2452223618301081-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>73864</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10RS4BHSK5P/MAIN/application/pdf/2775e7f7fc674ae8e81b39364db5c271/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10RS4BHSK5P/MAIN/application/pdf/2775e7f7fc674ae8e81b39364db5c271/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>COGSC</jid>
+            <aid>218</aid>
+            <ce:pii>S2452-2236(18)30108-1</ce:pii>
+            <ce:doi>10.1016/j.cogsc.2018.09.009</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:title id="title0010">UN sustainable development goals: How can sustainable/green chemistry contribute? The view from the agrochemical industry</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S2452223618301081-659c38d656c9eba61350cebd992ccd98">
+                  <ce:given-name>Timothy J.C.</ce:given-name>
+                  <ce:surname>O'Riordan</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2452223618301081-20c54fb98a690dccec23b024fc443a5c">
+                  <ce:textfn>Syngenta, Jealott's Hill International Research Centre, Bracknell, Berkshire, RG42 6EY, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Syngenta</sa:organization>
+                     <sa:organization>Jealott's Hill International Research Centre</sa:organization>
+                     <sa:city>Bracknell</sa:city>
+                     <sa:state>Berkshire</sa:state>
+                     <sa:postal-code>RG42 6EY</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author: O'Riordan, Timothy J. C.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:miscellaneous id="misc0010">This review comes from a themed issue on <ce:bold>UN SGDs: how can sustainable chemistry contribute?</ce:bold>
+            </ce:miscellaneous>
+            <ce:miscellaneous id="misc0015">Edited by <ce:bold>Tom Welton</ce:bold>
+            </ce:miscellaneous>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" view="all">
+                  <ce:section-title id="sectitle0010">Response to other articles in the special edition</ce:section-title>
+                  <ce:para id="p0010" view="all">Contributing authors to this special issue of Current Opinion in Green and Sustainable Chemistry were offered the opportunity to engage in a scientific discussion based on topics raised in the other articles accepted for publication. This is a laudable initiative which should be replicated throughout the scientific literature. This author was generally impressed by the clear desire from the other contributors to this special issue from across the chemical sector, both academic and industrial, to implement the principles of green and sustainable chemistry to solve the present and future problems facing an ever growing population. Continuing the spirit of this article, “The view from the agrochemical industry”, what follows are selected comments on the article by Burgman <ce:italic>et al</ce:italic>. <ce:cross-ref refid="bib1" id="crosref0015">[1]</ce:cross-ref> relating to the registration of crop protection chemicals.<ce:list id="olist0010">
+                        <ce:list-item id="o0010">
+                           <ce:label>1</ce:label>
+                           <ce:para id="p0015" view="all">Risk assessments of chemical mixtures</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0020" view="all">In section 2 of their article Burgman <ce:italic>et al</ce:italic>. state:<ce:displayed-quote id="disp0010">
+                        <ce:simple-para id="dspara0010" view="all">
+                           <ce:italic>Regulatory risk assessments focus on the impacts of individual chemicals, one at a time, ignoring exposure to multiple pollutants, their interactions and effects on non-target wildlife</ce:italic>.</ce:simple-para>
+                     </ce:displayed-quote>
+                  </ce:para>
+                  <ce:para id="p0025" view="all">On the whole regulatory risk assessments are indeed carried out for individual chemicals. However regulators, including the European Commission, <ce:cross-ref refid="bib2" id="crosref0020">[2]</ce:cross-ref> are aware of the challenges associated with exposure to unintentional chemical mixtures. Most crop protection chemicals are applied to the environment as formulated mixtures and may contain multiple active ingredients for which, at least in the EU, a combined risk assessment is required <ce:cross-ref refid="bib3" id="crosref0025">[3]</ce:cross-ref>. This may include, for example, data from tests to determine acute and/or chronic toxicity of the formulated mixture to non-target organisms. Studies have shown that only a few substances contribute to the toxicity of mixtures found in surface water and effluents with the toxicity of a mixture arising from a single substance in many instances <ce:cross-ref refid="bib4" id="crosref0030">[4]</ce:cross-ref>.<ce:list id="olist0015">
+                        <ce:list-item id="o0015">
+                           <ce:label>2</ce:label>
+                           <ce:para id="p0030" view="all">Run-off and leaching</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0035" view="all">In section 3 Burgman <ce:italic>et al</ce:italic>. propose a hypothetical herbicide X:<ce:displayed-quote id="disp0015">
+                        <ce:simple-para id="dspara0015" view="all">
+                           <ce:italic>In this scenario, analogues of X have been used in manufacturing and food production for many years without known harmful effects. Laboratory tests do not reveal deleterious effects on test organisms. The chemical is proposed for use in a novel setting, namely, controlling weeds in agricultural crops, and is likely to find its way into waterways. Its release is politically contentious</ce:italic>.</ce:simple-para>
+                     </ce:displayed-quote>
+                  </ce:para>
+                  <ce:para id="p0040" view="all">Often the mere presence of a chemical in water is indeed politically contentious. Risk assessments for chemicals are derived from the combination of hazard and exposure data. In the hypothetical case above laboratory tests show no hazards towards test organisms. Like all crop protection products, herbicides are tested for toxicity against a broad range of representative non-target organisms. Ecotoxicological test requirements for herbicides are focused on the likely most sensitive species, specifically aquatic algae, macrophytes and non-target terrestrial plants to derive effect and no effect levels. After the application of assessment (safety) factors these levels are compared to predicted or modelled realistic, worst-case exposure levels. In the scenario above, the overall risk of using herbicide X would be very low and deemed acceptable for use. In other situations exposure may be mitigated if necessary, for example, by the use of buffer strips to reduce run-off and spray-drift and/or the use of advanced nozzle application technology, also to reduce spray drift.<ce:list id="olist0020">
+                        <ce:list-item id="o0020">
+                           <ce:label>3</ce:label>
+                           <ce:para id="p0045" view="all">Data generation</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0050" view="all">Further on in section 3, Burgman <ce:italic>et al</ce:italic>. state:<ce:displayed-quote id="disp0020">
+                        <ce:simple-para id="dspara0020" view="all">
+                           <ce:italic>Most regulators depend on information supplied by proponents, potentially creating disincentives to find problems, or to disclose them once they are discovered</ce:italic>.</ce:simple-para>
+                     </ce:displayed-quote>
+                  </ce:para>
+                  <ce:para id="p0055" view="all">For crop protection chemicals, regulators are required to consider all relevant available data from sources including the primary literature <ce:cross-ref refid="bib5" id="crosref0035">[5]</ce:cross-ref> as well as the registration process. Industry-conducted studies on chemical safety have to comply with internationally agreed test guidelines <ce:cross-ref refid="bib6" id="crosref0040">[6]</ce:cross-ref> and Good Laboratory Practice <ce:cross-ref refid="bib7" id="crosref0045">[7]</ce:cross-ref> which ensures a high degree of robustness of the experiment and reliability of the data. Regulatory legislation in a number of countries <ce:cross-ref refid="bib8" id="crosref0050">[8]</ce:cross-ref> requires the formal reporting of information on adverse environmental, health and toxicological effects of crop protection chemicals. This includes new data generated in experimental studies including those conducted after formal registration of a crop protection chemical. Compliance with all relevant laws and regulations is one of the main pillars in the Code of Conduct published by Syngenta <ce:cross-ref refid="bib9" id="crosref0055">[9]</ce:cross-ref> and equivalent documents from the other innovation-based crop protection companies <ce:cross-refs refid="bib10 bib11 bib12" id="crosrefs0010">[10–12]</ce:cross-refs>.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0015">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Burgman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tennant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Vouvoulis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Makuch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Madani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Facilitating the transition to sustainable green chemistry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr Opin Green Sustain Chem</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.cogsc.2018.04.006</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Joint Research Centre (European Commission)</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Something from nothing? Ensuring the safety of chemical mixtures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>JRC Science for Policy Brief</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.2760/618648" id="intref0010" xlink:type="simple">https://doi.org/10.2760/618648</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <ce:other-ref id="sref3">
+                        <ce:textref>Regulation (EC) No 1107/2009 - plant protection products.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Price</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Junghans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kunz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Watts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Leverett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An application of a decision tree for assessing effects from exposures to multiple substances to the assessment of human and ecological effects from combined exposures to chemicals observed in surface waters and waste water effluents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ Sci Eur</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>34</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Which may be subject to bias on topics related to crop protection chemicals see</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Research: a standard for policy-relevant science</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>159</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <ce:other-ref id="sref6">
+                        <ce:textref>For example see: OECD Guidelines for the Testing of Chemicals (<ce:inter-ref xlink:href="http://www.oecd.org/chemicalsafety/testing/oecdguidelinesforthetestingofchemicals.htm" id="intref0015" xlink:type="simple">http://www.oecd.org/chemicalsafety/testing/oecdguidelinesforthetestingofchemicals.htm</ce:inter-ref>).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <ce:other-ref id="sref7">
+                        <ce:textref>Good Laboratory Practice (GLP) <ce:inter-ref xlink:href="http://www.oecd.org/chemicalsafety/testing/good-laboratory-practiceglp.htm" id="intref0020" xlink:type="simple">http://www.oecd.org/chemicalsafety/testing/good-laboratory-practiceglp.htm</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <ce:other-ref id="sref8">
+                        <ce:textref>For example in the EU, Article 56 of reference 3 and in the US EPA: toxic Substances Control Act - TSCA - section 8(e) or Federal Insecticide, Fungicide, and Rodenticide Act –FIFRA - Section 6(a)(2).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <ce:other-ref id="sref9">
+                        <ce:textref>Syngenta Code of Conduct <ce:inter-ref xlink:href="https://www.syngenta.com/who-we-are/corporate-governance/code-of-conduct" id="intref0025" xlink:type="simple">https://www.syngenta.com/who-we-are/corporate-governance/code-of-conduct</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <ce:other-ref id="sref10">
+                        <ce:textref>Bayer <ce:inter-ref xlink:href="https://www.bayer.com/en/corporate-compliance-policy-en.aspx" id="intref0030" xlink:type="simple">https://www.bayer.com/en/corporate-compliance-policy-en.aspx</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <ce:other-ref id="sref11">
+                        <ce:textref>BASF <ce:inter-ref xlink:href="https://www.basf.com/en/company/investor-relations/calendar-and-publications/factbook/basf-group/corporate-governance.html" id="intref0035" xlink:type="simple">https://www.basf.com/en/company/investor-relations/calendar-and-publications/factbook/basf-group/corporate-governance.html</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <ce:other-ref id="sref12">
+                        <ce:textref>DowDuPont <ce:inter-ref xlink:href="http://www.dow-dupont.com/investors/corporate-governance/" id="intref0040" xlink:type="simple">http://www.dow-dupont.com/investors/corporate-governance/</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

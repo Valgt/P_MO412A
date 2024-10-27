@@ -1,0 +1,713 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2214109X18302973</prism:url><dc:identifier>doi:10.1016/S2214-109X(18)30297-3</dc:identifier><eid>1-s2.0-S2214109X18302973</eid><prism:doi>10.1016/S2214-109X(18)30297-3</prism:doi><pii>S2214-109X(18)30297-3</pii><dc:title>Sustainable Development Goal 3 is unlikely to be achieved without renewed effort </dc:title><prism:publicationName>The Lancet Global Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>2214109X</prism:issn><prism:volume>6</prism:volume><prism:issueIdentifier>8</prism:issueIdentifier><prism:startingPage>e824</prism:startingPage><prism:endingPage>e825</prism:endingPage><prism:pageRange>e824-e825</prism:pageRange><prism:number>8</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2018-08-31</prism:coverDate><prism:coverDisplayDate>August 2018</prism:coverDisplayDate><prism:copyright>© 2018 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Gómez-Olivé, Francesc Xavier</dc:creator><dc:creator>Thorogood, Margaret</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2214109X18302973" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2214109X18302973" rel="scidir"/></coredata><scopus-id>85049736343</scopus-id><scopus-eid>2-s2.0-85049736343</scopus-eid><pubmed-id>30012258</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85049736343" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>286970</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291904</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Global Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETGLOBALHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180714">2018-07-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180714">2018-07-14</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180714">2018-07-14</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180714">2018-07-14</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-09-18T20:54:20</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2214109X18302973</xocs:eid>
+      <xocs:pii-formatted>S2214-109X(18)30297-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2214109X18302973</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2214-109X(18)30297-3</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.6</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2214109X18X00102</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200918">2020-09-18T20:24:48.569293Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180801</xocs:date-search-begin>
+      <xocs:date-search-end>20180831</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1531537873">2018-07-14T03:11:13.830857Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2214-109X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>2214109X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>6</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>6</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>8</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>8</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 6, Issue 8</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>8</xocs:sort-order>
+      <xocs:first-fp>e824</xocs:first-fp>
+      <xocs:last-lp>e825</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>e824</xocs:first-page>
+         <xocs:last-page>e825</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201808</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>SUSTAINABLEDEVELOPMENTGOAL3UNLIKELYACHIEVEDWITHOUTRENEWEDEFFORT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GOMEZOLIVE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S2214-109X(18)30242-0</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S2214109X18302420</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>BOWRY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1151</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1159</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALHEALTHESTIMATES2015DEATHSBYCAUSEAGESEXBYCOUNTRYBYREGION20002015</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>KE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e914</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e923</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>VERBALAUTOPSYSTANDARDSASCERTAININGATTRIBUTINGCAUSESDEATH2016VERBALAUTOPSYINSTRUMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>NICHOLS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e1002486</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>OWOLABI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>47</xocs:ref-first-fp>
+            <xocs:ref-last-lp>55</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>GOMEZOLIVE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-last-lp>68</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-normalized-surname>AROKIASAMY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>NATIONALRESEARCHCOUNCILPANELPOLICYRESEARCHDATANEEDSMEETCHALLENGEAGINGINASIA</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>LONGITUDINALAGINGSTUDYININDIAVISIONDESIGNIMPLEMENTATIONPRELIMINARYFINDINGS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1151</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1210</xocs:ref-last-lp>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GOMEZOLIVEX2018Xe824</xocs:refkey3>
+         <xocs:refkey4lp>GOMEZOLIVEX2018Xe824Xe825</xocs:refkey4lp>
+         <xocs:refkey4ai>GOMEZOLIVEX2018Xe824XF</xocs:refkey4ai>
+         <xocs:refkey5>GOMEZOLIVEX2018Xe824Xe825XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2018-06-07T13:08:51Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2214-109X(18)30297-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2214109X18302973</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2214109X18302973</xocs:eid>
+         <xocs:doi>10.1016/S2214-109X(18)30297-3</xocs:doi>
+         <xocs:cid>286970</xocs:cid>
+         <xocs:timestamp>2020-09-18T20:24:48.569293Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-08-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2214109X18302973-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X18302973/MAIN/application/pdf/ad92af3693ebbcf13d36309a42c80637/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>41353</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2214109X18302973-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X18302973/PREVIEW/image/png/0ed82a7febe4d5002dfa092d187f9f46/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>74751</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>LANGLO</jid>
+            <aid>965</aid>
+            <ce:pii>S2214-109X(18)30297-3</ce:pii>
+            <ce:doi>10.1016/S2214-109X(18)30297-3</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S2214-109X(18)30242-0</ce:pii>
+                  <ce:doi>10.1016/S2214-109X(18)30242-0</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="other" year="2018">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Sustainable Development Goal 3 is unlikely to be achieved without renewed effort</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S2214109X18302973-e2ccb20f4400331218f2bb374bafbf3b">
+                  <ce:given-name>Francesc Xavier</ce:given-name>
+                  <ce:surname>Gómez-Olivé</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S2214109X18302973-555d3a0efe656ff21032f8e38fe2202a">
+                  <ce:given-name>Margaret</ce:given-name>
+                  <ce:surname>Thorogood</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref30" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2214109X18302973-7d965a293222867b40611f5298d0099f">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>MRC/Wits-Agincourt Unit, Rural Public Health and Health Transitions Research Unit, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg 2195, South Africa</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>MRC/Wits-Agincourt Unit</sa:organization>
+                     <sa:organization>Rural Public Health and Health Transitions Research Unit</sa:organization>
+                     <sa:organization>Faculty of Health Sciences</sa:organization>
+                     <sa:organization>University of the Witwatersrand</sa:organization>
+                     <sa:city>Johannesburg</sa:city>
+                     <sa:postal-code>2195</sa:postal-code>
+                     <sa:country>South Africa</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2214109X18302973-e9e479dabf186f992b04fb895672b92f">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>School of Public Health, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg 2195, South Africa</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Public Health</sa:organization>
+                     <sa:organization>Faculty of Health Sciences</sa:organization>
+                     <sa:organization>University of the Witwatersrand</sa:organization>
+                     <sa:city>Johannesburg</sa:city>
+                     <sa:postal-code>2195</sa:postal-code>
+                     <sa:country>South Africa</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S2214109X18302973-117d2de2bb9895206a3b23e57e71d60b">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Division of Health Sciences, University of Warwick, Coventry, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Division of Health Sciences</sa:organization>
+                     <sa:organization>University of Warwick</sa:organization>
+                     <sa:city>Coventry</sa:city>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">Approximately 80% of worldwide cardiovascular disease deaths, including ischaemic heart disease and stroke, occur in low-income and middle-income countries.<ce:cross-ref id="cecref40" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> Despite the social and economic burden of these deaths in such countries, research on the epidemiology, treatment, and risk markers for cardiovascular disease deaths has been scarce, preventing the development of essential evidence-based policies to address the burden.</ce:para>
+               <ce:para id="para20" view="all">About 20% of worldwide cardiovascular disease deaths occur in India;<ce:cross-ref id="cecref50" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> therefore, Ke and colleagues' report<ce:cross-ref id="cecref60" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> of new findings on the trends in cardiovascular disease deaths in India over a period of 15 years is particularly important. Ke and colleagues have used data from the Sample Registration System, in which samples of 2·4 million households have been selected from the 1991 and 2001 censuses and their inhabitants followed-up in two periods (2001–03 and 2004–14) to measure mortality and ascertain probable causes of death with verbal autopsy. The authors extrapolated the observed rates of cardiovascular disease death in the entire Indian population up to 2015. They found a significant increase in ischaemic heart disease related deaths in India from 2000 to 2015. During that period, the age-standardised mortality rate for ischaemic heart disease in India increased from rates similar to that of the UK and USA to more than double these rates. By contrast, overall age-standardised mortality rates for stroke followed a similar decrease to that seen in the UK and USA, although stroke mortality rates in India were three times higher. Interestingly, in a subset of northeastern states, where the population is of a different ethnic mix (mainly Sino-Tibetan), mortality rates for stroke were higher than in other states, and were increasing rather than decreasing.</ce:para>
+               <ce:para id="para30" view="all">The differing experiences of rural and urban populations have important implications for other low-income and middle-income countries, although the data are hard to interpret at this stage. Age-standardised mortality for ischaemic heart disease decreased marginally in urban areas, but increased substantially in rural areas. An age-period cohort analysis found that younger people (born in the late 1970s) had a higher risk of death from ischaemic heart disease than previous cohorts of the same age, suggesting that ischaemic heart disease mortality in India will increase further in the next decades.</ce:para>
+               <ce:para id="para40" view="all">As with many low-income and middle-income countries, most deaths in India occur at home without official records. The data in Ke and colleagues' paper are derived from verbal autopsies, whereby interviewers collected structured information from the household where the death occurred and at least two physicians determined the probable cause of death. With all its limitations considered, verbal autopsy remains the best tool to establish possible cause of death when death certificates are unreliable, and has enabled many important analyses such as this one. WHO has created a standardised verbal autopsy questionnaire<ce:cross-ref id="cecref70" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> suitable for initiatives with automated algorithms that determine probabilities of causes of death, avoiding biased and inconsistent criteria set by doctors and enabling fast processing of large numbers of verbal autopsies.<ce:cross-ref id="cecref80" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para50" view="all">The pattern of cardiovascular deaths described by Ke and colleagues<ce:cross-ref id="cecref90" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> differs markedly from that seen in sub-Saharan Africa, where stroke is a more frequent cause of death than is ischaemic heart disease.<ce:cross-ref id="cecref100" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref> This disparity raises important questions and highlights the need for a greater understanding of why these variations occur. Africa and India have a high prevalence of many cardiovascular risk factors associated with ischaemic heart disease and stroke in high-income countries, such as tobacco use, diabetes, obesity, hypertension, and dyslipidaemia. These factors might be differently associated with cardiovascular disease in Indian and African populations, or other unidentified factors might exist. Establishment of risk factor scores for cardiovascular disease in low-income and middle-income countries would help to unravel this issue, but development of such scores requires large cohorts and long follow-up to have a sufficient number of cardiovascular disease deaths. Although new cohorts have been created in Africa<ce:cross-ref id="cecref110" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> and Asia<ce:cross-refs id="cecrefs10" refid="bib8 bib9">
+                     <ce:sup loc="post">8,9</ce:sup>
+                  </ce:cross-refs> to explore these associations and establish new risk factor scores, they are relatively small: this area requires increased funding.</ce:para>
+               <ce:para id="para60" view="all">The findings described by Ke and colleagues indicate that Sustainable Development Goal 3 of halving cardiovascular deaths by 2030 is unlikely to be achieved. The finding from the Global Burden of Disease Study 2016 that ischaemic heart disease was the leading cause of death in men and women supports this suggestion.<ce:cross-ref id="cecref120" refid="bib10">
+                     <ce:sup loc="post">10</ce:sup>
+                  </ce:cross-ref> These deaths could increase unless a new effort is implemented to better understand the risk factors and improve the diagnosis, treatment, and secondary prevention of cardiovascular disease in low-income and middle-income countries.</ce:para>
+               <ce:para id="para70" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>AD</ce:given-name>
+                                 <ce:surname>Bowry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Lewey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SB</ce:given-name>
+                                 <ce:surname>Dugani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>NK</ce:given-name>
+                                 <ce:surname>Choudhry</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The burden of cardiovascular disease in low- and middle-income countries: epidemiology and management</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can J Cardiol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1151</sb:first-page>
+                              <sb:last-page>1159</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global health estimates 2015: deaths by cause, age, sex, by country and by region, 2000–2015</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="http://www.who.int/healthinfo/global_burden_disease/estimates/en/index1.html" xlink:type="simple">http://www.who.int/healthinfo/global_burden_disease/estimates/en/index1.html</ce:inter-ref>
+                              <sb:date-accessed day="31" month="5" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Ke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Xavier</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Divergent trends in ischaemic heart disease and stroke mortality in India from 2000 to 2015: a nationally representative mortality study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e914</sb:first-page>
+                              <sb:last-page>e923</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Verbal autopsy standards: ascertaining and attributing causes of death. The 2016 WHO verbal autopsy instrument</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="http://www.who.int/healthinfo/statistics/verbalautopsystandards/en/" xlink:type="simple">http://www.who.int/healthinfo/statistics/verbalautopsystandards/en/</ce:inter-ref>
+                              <sb:date-accessed day="31" month="5" year="2018"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>EK</ce:given-name>
+                                 <ce:surname>Nichols</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Byass</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Chandramohan</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The WHO 2016 verbal autopsy instrument: an international standard suitable for automated analysis by InterVA, InSilicoVA, and Tariff 2.0</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e1002486</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Owolabi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Olowoyo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F</ce:given-name>
+                                 <ce:surname>Popoola</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The epidemiology of stroke in Africa: a systematic review of existing methods and new approaches</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Clin Hypertens</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>47</sb:first-page>
+                              <sb:last-page>55</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>FX</ce:given-name>
+                                 <ce:surname>Gomez-Olivé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Montana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>RG</ce:given-name>
+                                 <ce:surname>Wagner</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cohort profile: health and ageing in Africa: a longitudinal study of an INDEPTH community in South Africa (HAALSI)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Epidemiol</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online Jan 13.</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="http://dx.doi.org/10.1093/ije/dyx247" xlink:type="simple">DOI:10.1093/ije/dyx247</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JP</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Strauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cohort profile: the China Health and Retirement Longitudinal Study (CHARLS)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Epidemiol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                              <sb:last-page>68</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Arokiasamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Bloom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Feeney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Ozolins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Longitudinal aging study in India: vision, design, implementation, and preliminary findings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>JP</ce:given-name>
+                                    <ce:surname>Smith</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M</ce:given-name>
+                                    <ce:surname>Majmundar</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>National research council (US) panel on policy research and data needs to meet the challenge of aging in Asia</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>National Academies Press (US)</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>GBD 2016 Causes of Death Collaborators</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global, regional, and national age-sex specific mortality for 264 causes of death, 1980–2016: a systematic analysis for the Global Burden of Disease Study 2016</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>390</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1151</sb:first-page>
+                              <sb:last-page>1210</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

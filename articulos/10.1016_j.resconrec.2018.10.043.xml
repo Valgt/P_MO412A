@@ -1,0 +1,377 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0921344918304142</prism:url><dc:identifier>doi:10.1016/j.resconrec.2018.10.043</dc:identifier><eid>1-s2.0-S0921344918304142</eid><prism:doi>10.1016/j.resconrec.2018.10.043</prism:doi><pii>S0921-3449(18)30414-2</pii><dc:title>How do the sustainable development goals question rather than inform corporate sustainability? </dc:title><prism:publicationName>Resources, Conservation and Recycling</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>ssu</pubType><prism:issn>09213449</prism:issn><prism:volume>141</prism:volume><prism:startingPage>253</prism:startingPage><prism:endingPage>254</prism:endingPage><prism:pageRange>253-254</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-02-28</prism:coverDate><prism:coverDisplayDate>February 2019</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Moratis, Lars</dc:creator><dc:creator>Melissen, Frans</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0921344918304142" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0921344918304142" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="162850">https://api.elsevier.com/content/object/eid/1-s2.0-S0921344918304142-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85056158641</scopus-id><scopus-eid>2-s2.0-85056158641</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85056158641" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271808</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291705</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291768</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Resources, Conservation and Recycling</xocs:srctitle>
+      <xocs:normalized-srctitle>RESOURCESCONSERVATIONRECYCLING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20181104">2018-11-04</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20181104">2018-11-04</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20181104">2018-11-04</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20181104">2018-11-04</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-01-22T10:58:23</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0921344918304142</xocs:eid>
+      <xocs:pii-formatted>S0921-3449(18)30414-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0921344918304142</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.resconrec.2018.10.043</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0921344918X00111</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240102">2024-01-02T19:15:13.517899Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190201</xocs:date-search-begin>
+      <xocs:date-search-end>20190228</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1541307557">2018-11-04T04:59:17.783896Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0921-3449</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09213449</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>141</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>141</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 141</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>49</xocs:sort-order>
+      <xocs:first-fp>253</xocs:first-fp>
+      <xocs:last-lp>254</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>253</xocs:first-page>
+         <xocs:last-page>254</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201902</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Perspectives</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>ssu</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>HOWSUSTAINABLEDEVELOPMENTGOALSQUESTIONRATHERINFORMCORPORATESUSTAINABILITY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MORATIS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>EUROSTAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTINEUROPEANUNIONOVERVIEWPROGRESSTOWARDSSDGSINEUCONTEXT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>GLOBESCAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STATESUSTAINABLEBUSINESS2018</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>MORATIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SUSTAINABLECHANGESTATEFACESUSTAINABLEBUSINESSINBELGIUM</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>SDGBAROMETER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SDGBAROMETERBELGIUM2018BASELINEINSIGHTSENGAGEMENTORGANIZATIONSSUSTAINABLEDEVELOPMENTGOALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>WBCSD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>BUSINESSSDGSASURVEYWBCSDMEMBERSGLOBALNETWORKPARTNERS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MORATISX2019X253</xocs:refkey3>
+         <xocs:refkey4lp>MORATISX2019X253X254</xocs:refkey4lp>
+         <xocs:refkey4ai>MORATISX2019X253XL</xocs:refkey4ai>
+         <xocs:refkey5>MORATISX2019X253X254XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2020-11-04T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-11-04T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0921-3449(18)30414-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0921344918304142</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0921344918304142</xocs:eid>
+         <xocs:doi>10.1016/j.resconrec.2018.10.043</xocs:doi>
+         <xocs:cid>271808</xocs:cid>
+         <xocs:timestamp>2024-01-02T19:15:13.517899Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-02-28</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0921344918304142-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921344918304142/MAIN/application/pdf/79f308684d3fb86c106def3ce855397f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>171693</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0921344918304142-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921344918304142/PREVIEW/image/png/a63cb1673348b786a02df9ceafe35432/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63992</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921344918304142-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>162850</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1043TPGMHTT/MAIN/application/pdf/94445967e6ad2ce854cf38d0c58385b2/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1043TPGMHTT/MAIN/application/pdf/94445967e6ad2ce854cf38d0c58385b2/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="ssu">
+         <item-info>
+            <jid>RECYCL</jid>
+            <aid>4083</aid>
+            <ce:pii>S0921-3449(18)30414-2</ce:pii>
+            <ce:doi>10.1016/j.resconrec.2018.10.043</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <head>
+            <ce:dochead id="doh0005">
+               <ce:textfn>Perspective</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">How do the sustainable development goals question rather than inform corporate sustainability?</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S0921344918304142-2e4665cab4fa461a4bc09a81fe90ba40">
+                  <ce:given-name>Lars</ce:given-name>
+                  <ce:surname>Moratis</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0010" author-id="S0921344918304142-453835bcb628a76f078895a33dcc9d35">
+                  <ce:given-name>Frans</ce:given-name>
+                  <ce:surname>Melissen</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0921344918304142-819944a18b88af3981a23839e94ce3e9">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Breda University of Applied Sciences, the Netherlands &amp; Antwerp Management School, Belgium</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Breda University of Applied Sciences</sa:organization>
+                     <sa:organization>the Netherlands &amp; Antwerp Management School</sa:organization>
+                     <sa:country>Belgium</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S0921344918304142-1aa1fbe85fd7dfafdc12169bc178d8f2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Breda University of Applied Sciences, the Netherlands</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Breda University of Applied Sciences</sa:organization>
+                     <sa:country>the Netherlands</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="1" month="10" year="2018"/>
+            <ce:date-revised day="29" month="10" year="2018"/>
+            <ce:date-accepted day="30" month="10" year="2018"/>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="par0005" view="all">On 25 September 2018 it was three years since the United Nations (UN) General Assembly adopted resolution A/RES/70/1, titled ‘Transforming our world: The 2030 Agenda for Sustainable Development’. An important part of this resolution were the Sustainable Development Goals (SDGs). The SDGs reflect 17 of the most pressing sustainability challenges the world faces today, including eradicating poverty, ensuring affordable and clean energy, and quality education. Having huge positive and negative impacts on people and planet, companies has a central role to play in realizing the SDGs, presumably since the SDGs provide ample business opportunities. As the World Business Council for Sustainable Development (WBCSD) notes: “It is clear that companies perceive a wide range of benefits from engaging with the SDGs, underlining how the Goals can help business in a variety of ways” (<ce:cross-ref id="crf0020" refid="bib0025">WBCSD and DNV GL, 2018: 7</ce:cross-ref>).</ce:para>
+               <ce:para id="par0010" view="all">Such an anniversary is a good reason to take stock in order to celebrate one’s successes and failures. In addition, despite the fact that the SDGs have only come into force rather recently, some 20 percent of the time has already passed to achieve them since their launch. In the 12 years left to realize the 2030 Agenda, there is undeniably a lot of work to be done: a recent report by <ce:cross-ref id="crf0025" refid="bib0005">Eurostat (2018)</ce:cross-ref> shows that there has only been moderate progress on many SDG indicators. On the upside, many large companies appear to be aware of the SDGs’ existence. Yet, at the same time, a study among Belgian small and medium-sized enterprises found that half of them had never even heard of the SDGs (<ce:cross-ref id="crf0030" refid="bib0015">Moratis, 2018</ce:cross-ref>). We will leave it to the interpretation of the reader to determine whether or not this is a positive sign.</ce:para>
+               <ce:para id="par0015" view="all">Despite large companies’ awareness of the SDGs, recent research has shown that the lion’s share of them have not translated the SDGs into their strategies (<ce:cross-ref id="crf0035" refid="bib0025">WBCSD and DNV GL, 2018</ce:cross-ref>). Also, the majority of companies are currently not using the SDGs to inform target-setting, with North America lagging with 34 percent of companies not doing so (<ce:cross-ref id="crf0040" refid="bib0010">Globescan and BSR, 2018</ce:cross-ref>). In Belgium, most companies adopt the SDGs through bolting them onto their sustainability strategies and note that the SDGs have many similarities with their existing sustainability strategies (<ce:cross-ref id="crf0045" refid="bib0020">SDG Barometer, 2018</ce:cross-ref>).</ce:para>
+               <ce:para id="par0020" view="all">Interestingly, in their conclusions, such SDG studies tend to replicate the advice following from earlier research into the uptake of sustainability by business in general, including integrating sustainability into strategy development processes, making sustainability an integral part of procurement criteria, and exploring opportunities to spur sustainability through cross-sector partnerships. <ce:italic>L’histoire se répète</ce:italic> – and if that signals anything, we are afraid that it isn’t a lot of progress per se and that the adoption of the SDGs is bound to become nothing more than a UN-backed framework for legitimizing efforts that have already been undertaken by companies.</ce:para>
+               <ce:para id="par0025" view="all">However, there seems to be a substantial difference between embedding sustainability into companies on the one hand and embedding the SDGs on the other.</ce:para>
+               <ce:para id="par0030" view="all">In order to connect sustainability with their strategies, companies usually identify those social and environmental issues that are most relevant to them – and they consequently prioritize these through their sustainability strategies. These so-called ‘materiality assessments’ are part and parcel of every sustainability manager’s repertoire and an important rationale when it comes to selling sustainability to the C-suite. These material issues tend to cover subjects that relate to companies’ ‘core business’, those areas that have the highest economic impacts or pose the highest (financial) risks to the company, and the topics that key stakeholders have the most interest in. In this manner, the idea is, one can separate short-term priorities from longer-term priorities and from issues that should not be prioritized at all.</ce:para>
+               <ce:para id="par0035" view="all">Working with the SDGs seems to present companies with a whole other ball game. The 17 SDGs are mutually dependent in realizing them. In fact, the aforementioned UN resolution states that they are integrated and indivisible. While this argument holds true for sustainability issues in general (whether or not you bring them into a coherent set of goals, combating climate change and gender equality remain instrumental strategies for eradicating poverty), contending that the SDGs are integrated and indivisible actually reduces the discretion at which companies can identify material sustainability issues. Put differently, the idea is to prevent companies from cherry-picking the SDGs and to have them embracing and contributing to <ce:italic>all</ce:italic> of them. This runs counter to the materiality orientation that has underpinned the strategies of companies to approach sustainability. Practice however shows that companies tend to select and prioritize only a few SDGs, particularly those that they consider to have the main impact on or to be mainly affected by. A survey of WBCSD members found that 78 percent of companies have already undertaken efforts to identify priority SDGs for their organization (<ce:cross-ref id="crf0050" refid="bib0025">WBCSD and DNV GL, 2018</ce:cross-ref>). Recent research shows that the SDGs that are particularly prioritized by companies are Climate action and Decent work and economic growth (<ce:cross-ref id="crf0055" refid="bib0010">Globescan and BSR, 2018</ce:cross-ref>) and among those least prioritized are No poverty and Life below water. When focusing on specific SDGs, companies still tend communicate that they have ‘adopted the SDG framework’ or ‘subscribe to the 2030 Agenda’, leading skeptics to label such behavior as rainbowwashing, poking fun at the playful SDG colormap.</ce:para>
+               <ce:para id="par0040" view="all">Still, the SDGs prove to be more problematic than this. Just a quick glance at companies’ sustainability reports seems to reveal that many of the SDGs are considered as ‘not material’ or are only scored as ‘low relevance’ by business. Here, an undeniable contrast occurs: whereas the SDGs address those topics that need urgent attention from the perspective of a global development agenda, they do not fit well with companies’ sustainability strategies. This implies that the world is at risk of bringing business tot he fringes of the agenda of transformation propagated by the SDGs. Even worse, companies may be dodging responsibilities for their impacts, legitimizing their behavior through a widely accepted strategy for determining the basis of corporate sustainability strategies. In the context of a business case-oriented sustainability discourse it may be argued that companies will be able to better embrace the SDGs from an opportunity-driven materiality approach instead from a risk-driven materiality approach. Such an idea, which essentially also builds on pursuing corporate self-interest, could prompt business to adopt a wider set of goals. Nevertheless, arguments relating to cherry-picking the SDG agenda equally apply to this idea since companies will select those areas where societal interest coincides with theirs.</ce:para>
+               <ce:para id="par0045" view="all">One may conclude, therefore, that the SDGs actually question corporate sustainability rather than informing companies’ strategies in the social and ecological domain. In doing that, it should be realized that the SDGs reveal a fundamental flaw of business (emphasizing self-interest at the expense of society’s) and dominant approaches to corporate sustainability (based on the criterion of materiality). Truly weaving the SDGs into business requires companies to embrace the entire set of 17 goals for other reasons than merely instrumental ones – perhaps because pursuing a better world represents a value in itself rather than that it may provide business opportunities. In order to transform our world, it is pivotal to transform the idea of business and its instrumental approach to sustainability first. Having done that by the year 2030, however, seems highly improbable.</ce:para>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0005">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Eurostat, 2018</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Eurostat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development in the European Union – Overview of Progress Towards the SDGs in an EU Context</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>European Union</sb:name>
+                                 <sb:location>Brussels</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Globescan and BSR, 2018</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Globescan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>BSR</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The State of Sustainable Business 2018</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Globescan &amp; Business for Social Responsibility</sb:name>
+                                 <sb:location>San Francisco</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Moratis, 2018</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Moratis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Change – the State and Face of Sustainable Business in Belgium</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Antwerp Management School</sb:name>
+                                 <sb:location>Antwerp</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>SDG Barometer, 2018</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>SDG Barometer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG Barometer Belgium 2018: Baseline Insights on the Engagement of Organizations with the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Antwerp Management School</sb:name>
+                                 <sb:location>Antwerp</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>WBCSD and DNV GL, 2018</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>WBCSD</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>DNV GL</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Business and the SDGs: a Survey of WBCSD Members and Global Network Partners</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Business Council for Sustainable Development</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,529 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S221181601600003X</prism:url><dc:identifier>doi:10.1016/j.gheart.2016.01.002</dc:identifier><eid>1-s2.0-S221181601600003X</eid><prism:doi>10.1016/j.gheart.2016.01.002</prism:doi><pii>S2211-8160(16)00003-X</pii><dc:title>Research Is Essential for Attainment of NCD Targets and Sustainable Development Goals </dc:title><prism:publicationName>Global Heart</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>22118160</prism:issn><prism:volume>11</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>139</prism:startingPage><prism:endingPage>140</prism:endingPage><prism:pageRange>139-140</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2016-03-31</prism:coverDate><prism:coverDisplayDate>March 2016</prism:coverDisplayDate><prism:copyright>Copyright © 2016 World Heart Federation (Geneva). Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>World Heart Federation (Geneva). Published by Elsevier Ltd.</prism:publisher><prism:issueName>Investment in Global Health Research: A Public Private Partnership</prism:issueName><dc:creator>Mendis, Shanthi</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S221181601600003X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S221181601600003X" rel="scidir"/></coredata><scopus-id>84963812958</scopus-id><scopus-eid>2-s2.0-84963812958</scopus-eid><pubmed-id>27102031</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84963812958" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>280848</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291896</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Global Heart</xocs:srctitle>
+      <xocs:normalized-srctitle>GLOBALHEART</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160418">2016-04-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160418">2016-04-18</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160418">2016-04-18</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160418">2016-04-18</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-07-19T22:16:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S221181601600003X</xocs:eid>
+      <xocs:pii-formatted>S2211-8160(16)00003-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S221181601600003X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.gheart.2016.01.002</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2211816016X00026</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160720">2016-07-20T22:37:11.601248-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160301</xocs:date-search-begin>
+      <xocs:date-search-end>20160331</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1460966733">2016-04-18T08:05:33.631894Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2211-8160</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>22118160</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>11</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>11</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 11, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>16</xocs:sort-order>
+      <xocs:first-fp>139</xocs:first-fp>
+      <xocs:last-lp>140</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>139</xocs:first-page>
+         <xocs:last-page>140</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201603</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>March 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-03-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-03-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Investment in Global Health Research: A Public Private Partnership</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Gerald S.</ce:given-name>
+                     <ce:surname>Bloomfield</ce:surname>
+                  </ce:author>
+                  <ce:author>
+                     <ce:given-name>K.M. Venkat</ce:given-name>
+                     <ce:surname>Narayan</ce:surname>
+                  </ce:author>
+                  <ce:author>
+                     <ce:given-name>Uchechukwu K.A.</ce:given-name>
+                     <ce:surname>Sampson</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>EDITORIAL COMMENTS</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2016 World Heart Federation (Geneva). Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>RESEARCHESSENTIALFORATTAINMENTNCDTARGETSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MENDIS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALACTIONPLANFORPREVENTIONCONTROLNONCOMMUNICABLEDISEASES20132020</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALSTATUSREPORTNONCOMMUNICABLEDISEASES2014</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SIXTYSIXTHSESSIONUNITEDNATIONSGENERALASSEMBLY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>POLITICALDECLARATIONHIGHLEVELMEETINGGENERALASSEMBLYPREVENTIONCONTROLNONCOMMUNICABLEDISEASES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>APRIORITIZEDRESEARCHAGENDAFORPREVENTIONCONTROLNONCOMMUNICABLEDISEASES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>MYERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>ENGELGAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>BLOOMFIELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-last-lp>25</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MENDISX2016X139</xocs:refkey3>
+         <xocs:refkey4lp>MENDISX2016X139X140</xocs:refkey4lp>
+         <xocs:refkey4ai>MENDISX2016X139XS</xocs:refkey4ai>
+         <xocs:refkey5>MENDISX2016X139X140XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2017-04-18T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2211-8160(16)00003-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S221181601600003X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S221181601600003X</xocs:eid>
+         <xocs:doi>10.1016/j.gheart.2016.01.002</xocs:doi>
+         <xocs:cid>280848</xocs:cid>
+         <xocs:timestamp>2016-07-19T21:33:04.63416-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-03-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-03-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S221181601600003X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S221181601600003X/MAIN/application/pdf/e8c86fbfa41fd087356dae703772a227/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S221181601600003X/MAIN/application/pdf/e8c86fbfa41fd087356dae703772a227/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>101149</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S221181601600003X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S221181601600003X/PREVIEW/image/png/cdfdbb9b251502e72bfa5fcede2da299/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S221181601600003X/PREVIEW/image/png/cdfdbb9b251502e72bfa5fcede2da299/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>74925</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>GHEART</jid>
+            <aid>302</aid>
+            <ce:pii>S2211-8160(16)00003-X</ce:pii>
+            <ce:doi>10.1016/j.gheart.2016.01.002</ce:doi>
+            <ce:copyright type="society" year="2016">World Heart Federation (Geneva)</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:article-footnote>
+               <ce:note-para id="ntpara0010" view="all">The author has reported no relationships relevant to the contents of this paper to disclose.</ce:note-para>
+            </ce:article-footnote>
+            <ce:dochead id="dhead0010">
+               <ce:textfn>Editorial Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="title0010">Research Is Essential for Attainment of NCD Targets and Sustainable Development Goals</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1">
+                  <ce:given-name>Shanthi</ce:given-name>
+                  <ce:surname>Mendis</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:textfn>Geneva Learning Foundation, Geneva, Switzerland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Geneva Learning Foundation</sa:organization>
+                     <sa:city>Geneva</sa:city>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Correspondence: S. Mendis</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0010" view="all">There is global agreement that noncommunicable diseases (NCDs) including cardiovascular diseases constitute major challenges for health and socioeconomic development in the 21st century. Currently, more than 36 million people die of NCDs (63% of global deaths), including 16 million people who die prematurely, before the age of 70 years. Most premature deaths (82%) caused by NCDs are in low- and middle-income countries (LMICs) <ce:cross-ref refid="bib1" id="crosref0015">[1]</ce:cross-ref>. In 2013, member states of the World Health Organization (WHO) endorsed a new Global NCD Action Plan with 9 voluntary global targets and agreed on a road map of commitments to reduce premature mortality from NCDs by 25% by 2025 <ce:cross-ref refid="bib2" id="crosref0020">[2]</ce:cross-ref>. In September 2015, heads of state and government assembled at the United Nations General Assembly for the adoption of the post-2015 development agenda and to commit to several NCD-related targets as part of the universal Sustainable Development Goals 2015–2030 plan. The proposed NCD-related targets are reducing premature mortality, implementing the WHO Framework Convention on Tobacco Control, reducing harmful use of alcohol, and progressing toward universal health coverage. Research, particularly implementation research, is fundamental for attaining the 9 global NCD targets in the Global NCD Action Plan and the NCD-related targets included in the Sustainable Development Goals 2015–2030 plan.</ce:para>
+               <ce:para id="p0015" view="all">Heads of state and government agree that policies and programs in 4 mutually interconnected areas are key for successfully addressing NCDs <ce:cross-ref refid="bib3" id="crosref0025">[3]</ce:cross-ref>. These areas are as follows:<ce:list id="olist0010">
+                     <ce:list-item id="o0010">
+                        <ce:label>1.</ce:label>
+                        <ce:para id="p0020" view="all">Strengthening the primary role and responsibility of governments in addressing NCDs</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0015">
+                        <ce:label>2.</ce:label>
+                        <ce:para id="p0025" view="all">Developing public policies and legal and regulatory frameworks in all sectors to reduce major NCD risk factors: tobacco use, harmful use of alcohol, unhealthy diet, and physical inactivity</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0020">
+                        <ce:label>3.</ce:label>
+                        <ce:para id="p0030" view="all">Tracking the NCD epidemic and strengthening NCD surveillance</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0025">
+                        <ce:label>4.</ce:label>
+                        <ce:para id="p0035" view="all">Strengthening the health systems' response to NCDs through people-centered primary care and universal health coverage.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:para>
+               <ce:para id="p0040" view="all">Research priorities in each of these areas are already elaborated in the WHO prioritized NCD research agenda <ce:cross-ref refid="bib4" id="crosref0030">[4]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0045" view="all">The pivotal role of research in attaining NCD targets is also reiterated in the Global NCD Action Plan 2013–2020 <ce:cross-ref refid="bib2" id="crosref0035">[2]</ce:cross-ref>. This plan presents a menu of policy options to countries to promote and support national capacity for high-quality research and development for the prevention and control of NCDs. The global NCD action plan highlights 4 research areas for future investment:<ce:list id="olist0015">
+                     <ce:list-item id="o0030">
+                        <ce:label>1.</ce:label>
+                        <ce:para id="p0050" view="all">Research for placing NCDs in the global development agenda and for monitoring</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0035">
+                        <ce:label>2.</ce:label>
+                        <ce:para id="p0055" view="all">Research to understand and influence the multisectoral, macroeconomic, and social determinants of NCDs and risk factors</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0040">
+                        <ce:label>3.</ce:label>
+                        <ce:para id="p0060" view="all">Translational research and health systems research for global application of proven cost-effective strategies, particularly WHO “best buy” interventions</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0045">
+                        <ce:label>4.</ce:label>
+                        <ce:para id="p0065" view="all">Research to enable expensive but effective interventions to become accessible and be appropriately used in resource-constrained settings</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:para>
+               <ce:para id="p0070" view="all">There is no shortage of evidence-based interventions that can be implemented to attain global NCD targets <ce:cross-ref refid="bib1" id="crosref0040">[1]</ce:cross-ref>. The shortage is in the operationalization of these interventions within a research framework to provide the scientific basis for policy development and implementation <ce:cross-ref refid="bib5" id="crosref0045">[5]</ce:cross-ref>. Most of the available research comes from high-income countries, although a large part of the NCD burden is in LMICs. This mismatch may contribute to missing important differences in phenotypes, pathophysiology, and effectiveness of interventions. Therefore, national institutional capacity for research and development in LMICs requires strengthening through long-term investment focusing on research infrastructure and on the competence of researchers to conduct quality research. In addition, LMICs need to make more effective use of academic research institutions, incentivize innovation, and encourage policy-relevant multidisciplinary research, such as the studies from the National Heart, Blood, and Lung Institute (NHBLI) initiative showcased in this issue of <ce:italic>Global Heart</ce:italic> 
+                  <ce:cross-refs refid="bib6 bib7" id="crosrefs0010">[6,7]</ce:cross-refs>.</ce:para>
+               <ce:para id="p0075" view="all">The NHLBI research initiative has established 11 Centers of Excellence to conduct research to improve the prevention and management of NCDs including cardiovascular diseases and chronic respiratory disease in LMICs. In this initiative, the UnitedHealth Chronic Disease Initiative and the NHLBI support a global network of Centers of Excellence to bridge the gaps in infrastructure and training to conduct research into prevention and control of NCDs. As demonstrated from the success of the research projects, it is clear that this NHLBI research initiative has contributed significantly to strengthening the research capacity and research productivity in Argentina, Bangladesh, China, Guatemala, India, Kenya, Mexico, Peru, South Africa, and Tunisia. Importantly, the model used is sustainable because each center includes a research institution in an LMIC paired with at least 1 partner academic institution in a high-income country. This initiative needs to be strengthened and expanded to meet the growing research demands of LMICs in response to the burgeoning NCD epidemic. In the future, research projects conducted by these centers could be even better aligned to inform priority activities required to attain national NCD targets at the country level.</ce:para>
+               <ce:para id="p0080" view="all">In the post-2015 era, research should also focus on 3 challenging issues that are emerging as important drivers in the attainment of NCD targets. First, research is essential to gain a deeper insight on how to work with sectors beyond health. NCD targets can be achieved much more readily by influencing public policies in sectors beyond health than by changing health policy alone. Policy coherence and mutual accountability of different spheres of policymaking that have a bearing on NCDs are key for the attainment of national NCD targets. Research has a role to play in providing a better understanding of how governments can adopt approaches to NCD policy development that involve all government departments, thereby ensuring that public health issues receive a cross-sectoral response.</ce:para>
+               <ce:para id="p0085" view="all">Second, interaction with the private sector for NCD prevention and control must be informed by research. Heads of state and government committed themselves in 2011 to call on the private sector to:<ce:list id="olist0020">
+                     <ce:list-item id="o0050">
+                        <ce:label>1.</ce:label>
+                        <ce:para id="p0090" view="all">Reduce the impact of marketing of unhealthy foods and nonalcoholic beverages to children</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0055">
+                        <ce:label>2.</ce:label>
+                        <ce:para id="p0095" view="all">Produce and promote more products consistent with a healthy diet</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0060">
+                        <ce:label>3.</ce:label>
+                        <ce:para id="p0100" view="all">Create an enabling environment of healthy behaviors among workers in the workplace</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0065">
+                        <ce:label>4.</ce:label>
+                        <ce:para id="p0105" view="all">Reduce the use of salt in the food industry</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0070">
+                        <ce:label>5.</ce:label>
+                        <ce:para id="p0110" view="all">Improve access to and affordability of NCD medications and technologies.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:para>
+               <ce:para id="p0115" view="all">To date, there has been little progress in fulfilling these commitments. Research should test and monitor the effectiveness of different measures to engage the private sector effectively while managing the participation of stakeholders with conflicts of interest in such initiatives.</ce:para>
+               <ce:para id="p0120" view="all">Finally, significant additional investments will be required to address NCDs, including NCD research in the post-2015 era. These investments will need to rely primarily on yet untapped domestic public finance. Research is needed to better understand political, societal, and biological barriers to domestic financing of NCD activities and how to overcome them. For instance, only a few countries are exploring the potential to collect revenues for health from increased taxation on tobacco, alcohol, and unhealthy food items. Activities to attain NCD targets could be accelerated if at least a portion of the proceeds collected through such taxation is allocated to health. The global efforts to change the world with new development goals are unlikely to succeed without adequate investments in health and health-related research.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0010">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Health Organization</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global Action Plan for the Prevention and Control of Noncommunicable Diseases 2013−2020</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva, Switzerland</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Available at:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://apps.who.int/iris/bitstream/10665/94384/1/9789241506236_eng.pdf?ua=1" id="intref0010" xlink:type="simple">http://apps.who.int/iris/bitstream/10665/94384/1/9789241506236_eng.pdf?ua=1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>Accessed November 18, 2015</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Health Organization</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global Status Report on Noncommunicable Diseases 2014</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva, Switzerland</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Resolution 66/2</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Political declaration of the high-level meeting of the General Assembly on the prevention and control of non-communicable diseases</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Sixty-Sixth Session of the United Nations General Assembly</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2011</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations</sb:name>
+                                 <sb:location>New York, NY, USA</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>Available at:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.who.int/nmh/events/un_ncd_summit2011/political_declaration_en.pdf?ua=1" id="intref0015" xlink:type="simple">http://www.who.int/nmh/events/un_ncd_summit2011/political_declaration_en.pdf?ua=1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>Accessed September 18, 2015</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Health Organization</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Prioritized Research Agenda for Prevention and Control of Noncommunicable Diseases</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2011</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva, Switzerland</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Myers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mendis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cardiovascular disease research output in WHO priority areas between 2002 and 2011</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Epidemiol Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                              <sb:last-page>28</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Engelgau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.K.</ce:given-name>
+                                 <ce:surname>Sampson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Rabadan-Diehl</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tackling NCD in LMIC: achievements and lessons learned from the NHLBI-UnitedHealth Global Health Centers of Excellence Program</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Global Heart</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Bloomfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xavier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Belis</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Training and capacity building in LMICs for research in heart and lung diseases: the NHLBI-UnitedHealth Global Health Centers of Excellence Program</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Global Heart</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                              <sb:last-page>25</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

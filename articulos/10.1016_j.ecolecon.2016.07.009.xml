@@ -1,0 +1,2857 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0921800915303359</prism:url><dc:identifier>doi:10.1016/j.ecolecon.2016.07.009</dc:identifier><eid>1-s2.0-S0921800915303359</eid><prism:doi>10.1016/j.ecolecon.2016.07.009</prism:doi><pii>S0921-8009(15)30335-9</pii><dc:title>Modelling and measuring sustainable wellbeing in connection with the UN Sustainable Development Goals </dc:title><prism:publicationName>Ecological Economics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09218009</prism:issn><prism:volume>130</prism:volume><prism:startingPage>350</prism:startingPage><prism:endingPage>355</prism:endingPage><prism:pageRange>350-355</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-10-31</prism:coverDate><prism:coverDisplayDate>October 2016</prism:coverDisplayDate><prism:copyright>© 2016 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Costanza, Robert</dc:creator><dc:creator>Daly, Lew</dc:creator><dc:creator>Fioramonti, Lorenzo</dc:creator><dc:creator>Giovannini, Enrico</dc:creator><dc:creator>Kubiszewski, Ida</dc:creator><dc:creator>Mortensen, Lars Fogh</dc:creator><dc:creator>Pickett, Kate E.</dc:creator><dc:creator>Ragnarsdottir, Kristin Vala</dc:creator><dc:creator>De Vogli, Roberto</dc:creator><dc:creator>Wilkinson, Richard</dc:creator><dc:description>
+                  The UN Sustainable Development Goals (SDGs) offer a detailed dashboard of goals, targets and indicators. In this paper we investigate alternative methods to relate the SDGs to overall measures of sustainable wellbeing that can motivate and guide the process of global societal change. We describe what a Sustainable Wellbeing Index (SWI) that connects with and complements the SDG dashboard might look like. We first investigate several options for how to construct such an index and then discuss what is needed to build consensus around it. Finally, we propose linking the SDGs and our SWI with a comprehensive systems dynamics model that can track stocks and flows and make projections into the future under different policy scenarios.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Wellbeing</dcterms:subject><dcterms:subject>Ecosystem services</dcterms:subject><dcterms:subject>Natural capital</dcterms:subject><dcterms:subject>Social capital</dcterms:subject><dcterms:subject>GPI</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0921800915303359" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0921800915303359" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="87" size="11864">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="114" size="10650">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="122" size="2882">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="128" size="9146">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="384" height="152" size="25764">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="804" height="418" size="111550">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="584" height="324" size="22273">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="722" height="423" size="84474">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1701" height="675" size="161643">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3560" height="1852" size="986398">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2587" height="1436" size="174557">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3195" height="1871" size="722736">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="89" height="13" size="1462">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="290" height="13" size="2258">https://api.elsevier.com/content/object/eid/1-s2.0-S0921800915303359-si2.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84989892151</scopus-id><scopus-eid>2-s2.0-84989892151</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84989892151" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271867</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291780</xocs:ssid>
+         <xocs:ssid type="subj">291807</xocs:ssid>
+         <xocs:ssid type="subj">291840</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ecological Economics</xocs:srctitle>
+      <xocs:normalized-srctitle>ECOLOGICALECONOMICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160802">2016-08-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160802">2016-08-02</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160901">2016-09-01</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160901">2016-09-01</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-10-26T16:14:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0921800915303359</xocs:eid>
+      <xocs:pii-formatted>S0921-8009(15)30335-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0921800915303359</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ecolecon.2016.07.009</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.7</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0921800916X00092</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20191029">2019-10-29T04:17:28.395674Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20161001</xocs:date-search-begin>
+      <xocs:date-search-end>20161031</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1470114332">2016-08-02T05:05:32.135695Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0921-8009</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09218009</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>130</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>130</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 130</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>32</xocs:sort-order>
+      <xocs:first-fp>350</xocs:first-fp>
+      <xocs:last-lp>355</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>350</xocs:first-page>
+         <xocs:last-page>355</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201610</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>October 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-10-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-10-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Analysis</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>MODELLINGMEASURINGSUSTAINABLEWELLBEINGINCONNECTIONUNSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>COSTANZA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Existing General Approaches</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>A Hybrid Approach</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Comprehensive Systems Dynamics Model</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>ABDALLAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-last-lp>47</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>BOUMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>560</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>BOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>716</xocs:ref-first-fp>
+            <xocs:ref-last-lp>723</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ECOLOGICALECONOMICSSCIENCEMANAGEMENTSUSTAINABILITY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>39</xocs:ref-first-fp>
+            <xocs:ref-last-lp>44</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="or0005"/>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>193</xocs:ref-first-fp>
+            <xocs:ref-last-lp>196</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>253</xocs:ref-first-fp>
+            <xocs:ref-last-lp>260</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>417</xocs:ref-first-fp>
+            <xocs:ref-last-lp>446</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SUSTAINABILITYCOLLAPSEINTEGRATEDHISTORYFUTUREPEOPLEEARTH</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>INTEGRATEDGLOBALMODELS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BUILDINGASUSTAINABLEDESIRABLEECONOMYINSOCIETYINNATURE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>283</xocs:ref-first-fp>
+            <xocs:ref-last-lp>285</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>158</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>91</xocs:ref-first-fp>
+            <xocs:ref-last-lp>97</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONECOLOGICALECONOMICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>DALY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>DALY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>185</xocs:ref-first-fp>
+            <xocs:ref-last-lp>193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>DALY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>FORCOMMONGOODREDIRECTINGECONOMYTOWARDCOMMUNITYENVIRONMENTASUSTAINABLEFUTURE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>DEMYTTENAERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2581</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2590</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>FIORAMONTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>GROSSDOMESTICPROBLEMPOLITICSBEHINDWORLDSMOSTPOWERFULNUMBER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>FIORAMONTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HOWNUMBERSRULEWORLDUSEABUSESTATISTICSINGLOBALPOLITICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>FLEURBAEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BEYONDGDPMEASURINGWELFAREASSESSINGSUSTAINABILITY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>GARNASJORDET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>322</xocs:ref-first-fp>
+            <xocs:ref-last-lp>336</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>HAMILTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>333</xocs:ref-first-fp>
+            <xocs:ref-last-lp>356</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf20160">
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDHAPPINESSREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>KAHNEMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THINKINGFASTSLOW</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>KUBISZEWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-last-lp>68</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>LAYARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HAPPINESSLESSONSANEWSCIENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>32</xocs:ref-first-fp>
+            <xocs:ref-last-lp>40</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>LEONTIEF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1941</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>EMPIRICALAPPLICATIONEQUILIBRIUMANALYSIS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>STRUCTUREAMERICANECONOMY19191929</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>44</xocs:ref-first-fp>
+            <xocs:ref-last-lp>62</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-normalized-surname>ONEILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1213</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1231</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>OSTROM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>30</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>PILLARISETTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>599</xocs:ref-first-fp>
+            <xocs:ref-last-lp>609</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0165">
+            <xocs:ref-normalized-surname>ROCKSTROM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>472</xocs:ref-first-fp>
+            <xocs:ref-last-lp>475</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0170">
+            <xocs:ref-normalized-surname>SPENCERRODGERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1416</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1432</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0175">
+            <xocs:ref-normalized-surname>STIGLITZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>REPORTCOMMISSIONMEASUREMENTECONOMICPERFORMANCESOCIALPROGRESS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0180">
+            <xocs:ref-normalized-surname>SUTTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>509</xocs:ref-first-fp>
+            <xocs:ref-last-lp>527</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0185">
+            <xocs:ref-normalized-surname>TALBERTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>GENUINEPROGRESSINDICATOR2006ATOOLFORSUSTAINABLEDEVELOPMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0190">
+            <xocs:ref-normalized-surname>UNDP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>HUMANDEVELOPMENTREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0195">
+            <xocs:ref-normalized-surname>UNITEDNATIONS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TRANSFORMINGWORLD2030AGENDAFORSUSTAINABLEDEVELOPMENTOUTCOMEDOCUMENTFORUNSUMMITADOPTPOST2015DEVELOPMENTAGENDADRAFTFORADOPTIONNEWYORK2015</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0200">
+            <xocs:ref-normalized-surname>UNUIHDPANDUNEP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>MEASURINGPROGRESSTOWARDSUSTAINABILITY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>INCLUSIVEWEALTHREPORT2014</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0205">
+            <xocs:ref-normalized-surname>VEMURI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-last-lp>133</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0210">
+            <xocs:ref-normalized-surname>WILKINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SPIRITLEVELGREATEREQUALITYMAKESSOCIETIESSTRONGER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>COSTANZAX2016X350</xocs:refkey3>
+         <xocs:refkey4lp>COSTANZAX2016X350X355</xocs:refkey4lp>
+         <xocs:refkey4ai>COSTANZAX2016X350XR</xocs:refkey4ai>
+         <xocs:refkey5>COSTANZAX2016X350X355XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-09-01T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2017-12-14T01:48:06.730Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0921-8009(15)30335-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0921800915303359</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0921800915303359</xocs:eid>
+         <xocs:doi>10.1016/j.ecolecon.2016.07.009</xocs:doi>
+         <xocs:cid>271867</xocs:cid>
+         <xocs:timestamp>2019-10-29T04:17:28.395674Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-10-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-10-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/MAIN/application/pdf/e24bdd0cd6a756778cc43216d6d880c2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>526407</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0921800915303359-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/PREVIEW/image/png/d9e2d9b07b57f01b3322b070031f9129/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>54806</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr1/THUMBNAIL/image/gif/7abc3dbd62975e340b1f1d5be9203bfe/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11864</xocs:filesize>
+               <xocs:pixel-height>87</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr2/THUMBNAIL/image/gif/0f1104aba2c49e048644f0faad5ead64/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10650</xocs:filesize>
+               <xocs:pixel-height>114</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr3/THUMBNAIL/image/gif/779d4c11ff6dfd36c7a5ee51ba2688b3/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2882</xocs:filesize>
+               <xocs:pixel-height>122</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr4/THUMBNAIL/image/gif/905122eed54747b5fda23fe1f8e559c7/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9146</xocs:filesize>
+               <xocs:pixel-height>128</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr1/DOWNSAMPLED/image/jpeg/93d1bbe9af8e44478f29d4516d149e5c/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25764</xocs:filesize>
+               <xocs:pixel-height>152</xocs:pixel-height>
+               <xocs:pixel-width>384</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr2/DOWNSAMPLED/image/jpeg/668bc68300719e111f32d3f29cb70639/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>111550</xocs:filesize>
+               <xocs:pixel-height>418</xocs:pixel-height>
+               <xocs:pixel-width>804</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr3/DOWNSAMPLED/image/jpeg/f8bc91c830605dd0ebadbaa3dbd3a43a/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22273</xocs:filesize>
+               <xocs:pixel-height>324</xocs:pixel-height>
+               <xocs:pixel-width>584</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr4/DOWNSAMPLED/image/jpeg/bd78b578896d1ecc3b24404862cfbbf1/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>84474</xocs:filesize>
+               <xocs:pixel-height>423</xocs:pixel-height>
+               <xocs:pixel-width>722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr1/HIGHRES/image/jpeg/f495dab32699db7f584e5da243278ba2/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>161643</xocs:filesize>
+               <xocs:pixel-height>675</xocs:pixel-height>
+               <xocs:pixel-width>1701</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr2/HIGHRES/image/jpeg/de4df482cdcebd93231c85da5e99e41f/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>986398</xocs:filesize>
+               <xocs:pixel-height>1852</xocs:pixel-height>
+               <xocs:pixel-width>3560</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr3/HIGHRES/image/jpeg/f0d07eacac3ac4fb35c6ac0da3d814f8/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>174557</xocs:filesize>
+               <xocs:pixel-height>1436</xocs:pixel-height>
+               <xocs:pixel-width>2587</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/gr4/HIGHRES/image/jpeg/cd14b9ef3d22b456aac80dac1873e069/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>722736</xocs:filesize>
+               <xocs:pixel-height>1871</xocs:pixel-height>
+               <xocs:pixel-width>3195</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/STRIPIN/image/gif/0161b4bc7d46a97105288e3e93735223/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1462</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>89</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921800915303359-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921800915303359/STRIPIN/image/gif/fd12a4bc2feaf8e03c809246eeb9dc0c/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2258</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>290</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>ECOLEC</jid>
+            <aid>5352</aid>
+            <ce:pii>S0921-8009(15)30335-9</ce:pii>
+            <ce:doi>10.1016/j.ecolecon.2016.07.009</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">The “means – ends” spectrum showing the three elements of sustainable wellbeing used to cluster the SDGs in <ce:cross-ref id="cf0005" refid="t0005">Table 1</ce:cross-ref> (<ce:cross-ref id="cf0010" refid="bb0055">Costanza et al., 2014a</ce:cross-ref>).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S0921800915303359/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">The relationship of the 17 UN Sustainable Development Goals (SDGs) to each other, to the framework of ecological economics, and to the overarching goal of a sustainable, equitable and prosperous system of humans embedded in the rest of nature.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S0921800915303359/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">Example of limiting factor type curve, where: Result<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>E<ce:hsp sp="0.25"/>/<ce:hsp sp="0.25"/>(k<ce:inf loc="post">e</ce:inf>
+                     <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>E) for a value of k<ce:inf loc="post">e</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10. k<ce:inf loc="post">e</ce:inf> is the “half saturation constant” or the value of E where Result reaches 50% of its maximum value.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S0921800915303359/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">“Full World” model of the whole system (<ce:cross-ref id="cf0015" refid="bb0075">Costanza et al., 2014e</ce:cross-ref>).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S0921800915303359/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">the 17 SDGs (<ce:cross-ref id="cf0020" refid="bb0200">UN, 2015</ce:cross-ref>) clustered under the three elements of sustainable wellbeing shown in <ce:cross-ref id="cf0025" refid="f0005">Fig. 1</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Table 1</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <tbody>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <italic>Efficient allocation: building a living economy</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 7.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Ensure access to affordable, reliable, sustainable, and modern energy for all</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 8.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 9.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 11.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Make cities and human settlements inclusive, safe, resilient and sustainable</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 12.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Ensure sustainable consumption and production patterns</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <italic>Fair distribution: protecting capabilities for flourishing</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 1.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">End poverty in all its forms everywhere</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 2.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">End hunger, achieve food security and improved nutrition, and promote sustainable agriculture</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 3.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Ensure healthy lives and promote well-being for all at all ages</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 4.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Ensure inclusive and equitable quality education and promote life-long learning opportunities for all</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 5.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Achieve gender equality and empower all women and girls</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 10.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Reduce inequality within and among countries</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 16.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 17.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Strengthen the means of implementation and revitalize the global partnership for sustainable development</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <italic>Sustainable scale: staying within planetary boundaries</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 6.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Ensure availability and sustainable management of water and sanitation for all</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 13.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Take urgent action to combat climate change and its impacts <sup loc="post">⁎</sup>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 14.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Conserve and sustainably use the oceans, seas and marine resources for sustainable development</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Goal 15.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <simple-head>
+            <ce:title id="ti0005">Modelling and measuring sustainable wellbeing in connection with the UN Sustainable Development Goals</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0921800915303359-6b58a174f6d5a336fa3fe49ddab35148">
+                  <ce:given-name>Robert</ce:given-name>
+                  <ce:surname>Costanza</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0035">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S0921800915303359-0223ffdf392e7711d0f033f90572d381">
+                  <ce:given-name>Lew</ce:given-name>
+                  <ce:surname>Daly</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0040">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0921800915303359-75fbcde8aa8fbe4834be6a1c7b57dbe4">
+                  <ce:given-name>Lorenzo</ce:given-name>
+                  <ce:surname>Fioramonti</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0045">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S0921800915303359-8d9f958623bef475822932af72464d3e">
+                  <ce:given-name>Enrico</ce:given-name>
+                  <ce:surname>Giovannini</ce:surname>
+                  <ce:cross-ref refid="af0020" id="cf0050">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025" author-id="S0921800915303359-951ba20feb6a14fd5bfe95fc03673ff4">
+                  <ce:given-name>Ida</ce:given-name>
+                  <ce:surname>Kubiszewski</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0055">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S0921800915303359-7cf5a197281f7111023ec96f7aa910c5">
+                  <ce:given-name>Lars Fogh</ce:given-name>
+                  <ce:surname>Mortensen</ce:surname>
+                  <ce:cross-ref refid="af0025" id="cf0060">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0035" author-id="S0921800915303359-cf75fa7e3b35bf70476f57da963acef9">
+                  <ce:given-name>Kate E.</ce:given-name>
+                  <ce:surname>Pickett</ce:surname>
+                  <ce:cross-ref refid="af0030" id="cf0065">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0040" author-id="S0921800915303359-38b6941bfeaa51d8696afe2ffd589ee3">
+                  <ce:given-name>Kristin Vala</ce:given-name>
+                  <ce:surname>Ragnarsdottir</ce:surname>
+                  <ce:cross-ref refid="af0035" id="cf0070">
+                     <ce:sup loc="post">g</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0045" author-id="S0921800915303359-7e135a1fafecd5551cfb1a6c7c9fec2d">
+                  <ce:given-name>Roberto</ce:given-name>
+                  <ce:surname>De Vogli</ce:surname>
+                  <ce:cross-ref refid="af0040" id="cf0075">
+                     <ce:sup loc="post">h</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0050" author-id="S0921800915303359-fb0e02fe334bd0fc78735c39c4ba8b09">
+                  <ce:given-name>Richard</ce:given-name>
+                  <ce:surname>Wilkinson</ce:surname>
+                  <ce:cross-ref refid="af0045" id="cf0080">
+                     <ce:sup loc="post">i</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">Crawford School of Public Policy, Australian National University, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Crawford School of Public Policy</sa:organization>
+                     <sa:organization>Australian National University</sa:organization>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">Demos, New York, NY, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Demos</sa:organization>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0015">Centre for the Study of Governance Innovation, University of Pretoria, South Africa</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Centre for the Study of Governance Innovation</sa:organization>
+                     <sa:organization>University of Pretoria</sa:organization>
+                     <sa:country>South Africa</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0020">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="tn0020">Department of Economics and Finance, University of Rome Tor Vergata, Italy</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Economics and Finance</sa:organization>
+                     <sa:organization>University of Rome Tor Vergata</sa:organization>
+                     <sa:country>Italy</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0025">
+                  <ce:label>e</ce:label>
+                  <ce:textfn id="tn0025">European Environmental Agency, Copenhagen, DK, Denmark</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>European Environmental Agency</sa:organization>
+                     <sa:city>Copenhagen</sa:city>
+                     <sa:state>DK</sa:state>
+                     <sa:country>Denmark</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0030">
+                  <ce:label>f</ce:label>
+                  <ce:textfn id="tn0030">Department of Health Sciences, University of York, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Health Sciences</sa:organization>
+                     <sa:organization>University of York</sa:organization>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0035">
+                  <ce:label>g</ce:label>
+                  <ce:textfn id="tn0035">Faculty of Earth Sciences, University of Iceland, Reykjavik, Iceland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Faculty of Earth Sciences</sa:organization>
+                     <sa:organization>University of Iceland</sa:organization>
+                     <sa:city>Reykjavik</sa:city>
+                     <sa:country>Iceland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0040">
+                  <ce:label>h</ce:label>
+                  <ce:textfn id="tn0040">Department of Public Health Sciences, University of California, Davis, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Public Health Sciences</sa:organization>
+                     <sa:organization>University of California</sa:organization>
+                     <sa:city>Davis</sa:city>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0045">
+                  <ce:label>i</ce:label>
+                  <ce:textfn id="tn0045">Division of Epidemiology and Public Health, University of Nottingham, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Division of Epidemiology and Public Health</sa:organization>
+                     <sa:organization>University of Nottingham</sa:organization>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="14" month="9" year="2015"/>
+            <ce:date-revised day="18" month="7" year="2016"/>
+            <ce:date-accepted day="26" month="7" year="2016"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0030" view="all">The UN Sustainable Development Goals (SDGs) offer a detailed dashboard of goals, targets and indicators. In this paper we investigate alternative methods to relate the SDGs to overall measures of sustainable wellbeing that can motivate and guide the process of global societal change. We describe what a Sustainable Wellbeing Index (SWI) that connects with and complements the SDG dashboard might look like. We first investigate several options for how to construct such an index and then discuss what is needed to build consensus around it. Finally, we propose linking the SDGs and our SWI with a comprehensive systems dynamics model that can track stocks and flows and make projections into the future under different policy scenarios.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Wellbeing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Ecosystem services</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Natural capital</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Social capital</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0030">GPI</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">The Sustainable Development Goals (SDGs) agreed in the UN 2030 Agenda for Sustainable Development (<ce:cross-ref id="cf0085" refid="bb0200">UN, 2015</ce:cross-ref>) are a major step forward and an improvement on the Millennium Development Goals (MDGs). They address some of the systemic barriers to sustainable development and contain better coverage of, and balance between, the three dimensions of sustainable development – social, economic, and environmental – and their institutional/governance aspects. In addition, the SDGs apply to all countries, not just developing nations, as the MDGs did. The SDG process provides an opportunity to trigger systemic change to build a sustainable future in an increasingly interconnected world, However, with 17 goals, 169 targets, and over 300 indicators proposed, the SDGs provide diluted guidance at best. This is to be expected, given the complex political process that led to the SDGs.</ce:para>
+                  <ce:para id="p0010" view="all">The SDG process so far has merely opened the door. There is still much additional work needed to elaborate (1) the complex interconnections between the goals; (2) the means-ends continuum toward an overarching goal; and (3) a ‘narrative of change’ to describe the societal shifts and policy reforms necessary to achieve the SDGs and how this could actually happen within existing socioeconomic and geopolitical circumstances (<ce:cross-refs id="cf0090" refid="bb0025 bb0160">Costanza, 2014; Ostrom, 2014</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0015" view="all">The SDGs need an overarching goal with clear metrics of progress toward that goal that are geared to integrate the sub-goals (<ce:cross-ref id="cf0095" refid="bb0055">Costanza et al., 2014a</ce:cross-ref>). <ce:cross-ref id="cf0100" refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/> shows the relationship between the “ultimate end” of sustainable, equitable and prosperous wellbeing and the intermediate means of the economy and society, and the ultimate means of the environment. <ce:cross-ref id="cf0105" refid="t0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/> shows the 17 proposed SDGs clustered according to the three sub-goals of ecological economics originally proposed by <ce:cross-ref id="cf0110" refid="bb0085">Daly (1992)</ce:cross-ref> of sustainable scale, fair distribution, and efficient allocation. These are embedded in the “means-ends” spectrum shown in <ce:cross-ref id="cf0115" refid="f0005">Fig. 1</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0020" view="all">One important point of clarification is that sustainability is impossible to measure directly. It can only be assessed after the fact, so any measure of “sustainability” is in reality a prediction of which characteristics of the system might ultimately be sustainable (<ce:cross-refs id="cf0120" refid="bb0035 bb0115">Costanza and Patten, 1995; Garnåsjordet et al., 2012</ce:cross-refs>). The requirement for “sustainable scale” is based on the idea that a sustainable system cannot deplete natural capital or damage ecosystem services beyond a certain “safe operating space” (<ce:cross-ref id="cf0125" refid="bb0170">Rockström et al., 2009</ce:cross-ref>). What we are after is a system that is both sustainable and desirable in all senses, including the contributions of natural, social, human, and built capital assets (<ce:cross-ref id="cf0130" refid="bb0050">Costanza et al., 2013</ce:cross-ref>). Ultimately, to properly assess sustainability and desirability will require an integrated dynamic systems modelling approach, as we discuss further on. The SDGs represent an important step in building global consensus on what kind of world is desirable, and sustainability in the sense of longevity is certainly one of the characteristics of a desirable world, but it can only be predicted, not measured directly.</ce:para>
+                  <ce:para id="p0025" view="all">In this paper, we investigate alternative methods to relate the SDGs to overall measures of sustainable wellbeing that can motivate and guide the process of global societal change. The SDGs, along with their targets and indicators provide a detailed dashboard for the transition to sustainable development. Some would argue that a dashboard approach is sufficient and the only feasible option. We disagree and contend that dashboards and aggregate indicators are <ce:italic>not</ce:italic> mutually exclusive — in fact they are both essential. For example, having a well-instrumented dashboard in your car is essential, but so is knowing where you are going and whether you are making progress toward your destination. As baseball star Yogi Berra once quipped: “if you don't know where you're going, you end up somewhere else.” We must first decide where we are going - our overarching goal - in order to measure progress toward it. The 17 proposed SDGs are best seen as sub-goals or means to this larger end (<ce:cross-ref id="cf0135" refid="t0005">Table 1</ce:cross-ref>). We are certainly not recommending throwing out the dashboard, but merely recognizing that the dashboard and an aggregated indicator of overall progress toward our shared goal are <ce:italic>both</ce:italic> necessary if we hope to achieve our goal.</ce:para>
+                  <ce:para id="p0030" view="all">The SDGs in fact acknowledge this need in Target 17.19, which states: “By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries.”</ce:para>
+                  <ce:para id="p0035" view="all">In this paper we investigate what an aggregate Sustainable Wellbeing Index (SWI) that connects with the SDG dashboard might look like. We first analyse several options for how to construct such an index and then propose a way forward that builds a hybrid approach. Finally, we propose linking the SDGs and our SWI to a comprehensive, non-linear, systems dynamics model that can track both flows and stocks of built, human, social, and natural capital and make projections into the future under different policy scenarios. This is an essential and often overlooked step in the process. GDP has been so widely accepted partly because of its links to the System of National Accounts (SNA) and the underlying static, linear input-output model of the economy. We need a new, integrated, dynamic systems model to underlie and integrate the SDG goals and aggregate wellbeing indicators.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0020">Existing General Approaches</ce:section-title>
+                  <ce:para id="p0040" view="all">There have been a large number of alternative approaches to aggregate indicators of societal wellbeing and progress developed over the years. <ce:cross-ref id="cf0140" refid="bb0060">Costanza et al., 2014b</ce:cross-ref> includes a table listing some of the major ones. Three basic approaches have been used in developing these indicators. We first discuss these basic approaches and then discuss how these approaches might be applied to the SDGs.<ce:list id="l0005">
+                        <ce:list-item id="o0005">
+                           <ce:label>1.</ce:label>
+                           <ce:para id="p0045" view="all">Consumption, Production, and Wealth Based Indicators</ce:para>
+                           <ce:para id="p0050" view="all">Conventional measures of national progress, like the gross domestic product (GDP), are based on production and consumption of goods and services exchanged in markets (with the odd imputed value). GDP was never designed as a measure of societal wellbeing, but a popular assumption, derived from utilitarian philosophy, is that, all else being equal, more consumption leads to higher wellbeing and that therefore GDP/capita can be used as a proxy for national wellbeing (<ce:cross-ref id="cf0145" refid="bb0070">Costanza et al., 2014d</ce:cross-ref>). This assumption has been challenged for decades and the problems with using GDP as an indicator of national wellbeing are well known (<ce:cross-refs id="cf0150" refid="bb0180 bb0100 bb0110 bb0060">Stiglitz et al., 2009; Fioramonti, 2013; Fleurbaey and Blanchet, 2013; Costanza et al., 2014b</ce:cross-refs>). For example, <ce:cross-ref id="cf0155" refid="bb0195">UNDP (1996)</ce:cross-ref> identified five types of negative GDP growth: (1) <ce:italic>jobless growth</ce:italic> (the economy gets bigger with more buying and selling of goods and services, but without creating more jobs); (2) <ce:italic>voiceless growth</ce:italic> (an apparently successful economy rides on the back of the suppression of civil rights, union membership and democracy); (3) <ce:italic>ruthless growth</ce:italic> (accompanying high or rising inequality); (4) <ce:italic>rootless growth</ce:italic> (culturally destructive effects of economic globalisation); and (5) <ce:italic>futureless growth</ce:italic> (that steals our collective future by depending on the unsustainable consumption of finite natural resources).</ce:para>
+                           <ce:para id="p0055" view="all">Several alternatives have been devised that attempt to correct some of the problems with GDP. These include Green GDP (<ce:cross-refs id="cf0160" refid="bb0015 bb0150">Boyd, 2007; Li and Lang, 2010</ce:cross-refs>), Genuine Savings (<ce:cross-refs id="cf0165" refid="bb0120 bb0165">Hamilton and Clemens, 1999; Pillarisetti, 2005</ce:cross-refs>), the Inclusive Wealth Index (<ce:cross-ref id="cf0170" refid="bb0205">UNU-IHDP and UNEP, 2014</ce:cross-ref>), the “degrowth accounts” proposed by <ce:cross-ref id="cf0175" refid="bb0155">O'Neill (2015)</ce:cross-ref>, and the Index of Sustainable Economic Welfare (ISEW – <ce:cross-ref id="cf0180" refid="bb0090">Daly and Cobb, 1989</ce:cross-ref>), also known as the Genuine Progress Indicator (GPI – <ce:cross-ref id="cf0185" refid="bb0190">Talberth et al., 2007</ce:cross-ref>). For example, the GPI is calculated by starting with personal consumption expenditures, a measure of all spending by individuals and a major component of GDP, weighting it by income distribution to recognize the impacts of inequality on societal welfare (<ce:cross-ref id="cf0190" refid="bb0215">Wilkinson and Pickett, 2009</ce:cross-ref>), and making more than 20 additions and subtractions to account for ‘goods’ and ‘bads’ which are not included in conventional measures of income. “Goods” include volunteer work and work in the family, and “bads” include costs of divorce, crime, pollution and the depletion of natural capital. The GPI has been estimated for several countries and has been formally adopted by the US States of Maryland and Vermont. Results show that when growing inequality and environmental costs are incorporated, GPI has not been growing at all in many countries over the last several decades (<ce:cross-ref id="cf0195" refid="bb0130">Kubiszewski et al., 2013</ce:cross-ref>).</ce:para>
+                           <ce:para id="p0060" view="all">The SDGs include some costs and benefits not incorporated in the GPI, for example gender equality, urban resilience, and accountable institutions. One could create a “GPI SDG” that incorporated these factors as well as other changes that have been suggested. One characteristic of GPI is that it is denominated in monetary units, making it directly comparable with GDP but also requiring that all the elements be assessed in monetary units. These valuations can be quite difficult and imprecise. But one should keep in mind that GDP itself, and the data behind it, is not as precise as often assumed, especially for developing countries (<ce:cross-refs id="cf0200" refid="bb0100 bb0105">Fioramonti, 2013, 2014</ce:cross-refs>).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0010">
+                           <ce:label>2.</ce:label>
+                           <ce:para id="p0065" view="all">Aggregation of all of the SDG Indicators Into a Unit-Less Index</ce:para>
+                           <ce:para id="p0070" view="all">One could build an aggregate, unit-less indicator from the expected 200–300 SDG indicators. The well-known problem with this approach is how to weight the different indicators. There are several examples of this approach (<ce:cross-ref id="cf0205" refid="bb0060">Costanza et al., 2014b</ce:cross-ref>). One recent example is the OECD Better Life index (<ce:inter-ref id="ir0005" xlink:href="http://www.oecdbetterlifeindex.org" xlink:type="simple">http://www.oecdbetterlifeindex.org</ce:inter-ref>/), which is built from 11 elements, each with one or two indicators. In the default mode, each element is ranked on a 1–10 scale and the elements are averaged together, weighted equally. However, one can change the weights on the website and observe the effects on the rankings. The OECD is collecting a survey of user weightings and this could be used to construct a weighted index. But weighting all the SDG indicators via surveys seems too ambitious and a simple unweighted average seems arbitrary and not in line with different national priorities. Furthermore, for many of the SDGs and associated goals and indicators, data will not be available for all countries in the short and medium term. Similar concerns can be raised with respect to new indices such as the Social Progress Index (recently adopted in Massachusetts and in Paraguay) and the Legatum Prosperity Index, which aggregate various dimensions of wellbeing, social capital and prosperity.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0015">
+                           <ce:label>3.</ce:label>
+                           <ce:para id="p0075" view="all">Contributions to Subjective Wellbeing</ce:para>
+                           <ce:para id="p0080" view="all">Another approach to weighting is to construct a regression model with all indicators as the independent variables and some existing approximation of wellbeing – for example subjective life satisfaction scores – as the dependent variable. This would provide statistically derived weights in terms of degree of correlation with the dependent variable. The main challenge here is what to choose as the dependent variable. Subjective wellbeing (SWB), from international/national public opinion surveys, has been suggested by some as the most appropriate dependent variable and the most appropriate national policy goal (<ce:cross-ref id="cf0210" refid="bb0135">Layard, 2005</ce:cross-ref>). There has been some research with statistical models that include subjective wellbeing as the dependent variable and built, human, natural and social capital indicators as the independent variables (<ce:cross-refs id="cf0215" refid="bb0210 bb0005">Vemuri and Costanza, 2006; Abdallah et al., 2008</ce:cross-refs>). These approaches successfully predict over 80% of the variation in subjective wellbeing across countries. More recently, the World Happiness Report (<ce:cross-ref refid="bb9000" id="cf9000">Helliwell et al., 2016</ce:cross-ref>) developed regressions of SWB against a range of independent variables that explained 73% of the variation across countries.</ce:para>
+                           <ce:para id="p0085" view="all">However, it is also well known that individuals' perceptions are limited, they may be culturally biased, and people may be unaware of some of the factors that contribute to their wellbeing (<ce:cross-ref id="cf0220" refid="bb0125">Kahneman, 2011</ce:cross-ref>). For example, the contributions of natural capital and ecosystem services may not be well perceived by individuals and may not show up in life satisfaction surveys. Individuals do not directly perceive the climate regulation benefits of forests or the storm protection benefits of coastal wetlands, although these may be critical contributors to their sustainable wellbeing. Moreover, measures of subjective wellbeing can be heavily influenced by cultural factors making international comparisons difficult. For example, studies comparing levels of happiness and depression in China and the United States showed that, although the Chinese seem less happy (<ce:cross-ref id="cf0225" refid="bb0175">Spencer-Rodgers et al., 2004</ce:cross-ref>) and optimistic (<ce:cross-ref id="cf0230" refid="bb0140">Lee and Seligman, 1997</ce:cross-ref>) than their American counterparts, people living in the US are more depressed than the Chinese (<ce:cross-ref id="cf0235" refid="bb0095">Demyttenaere et al., 2004</ce:cross-ref>).</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0025">A Hybrid Approach</ce:section-title>
+                  <ce:para id="p0090" view="all">All of the approaches mentioned above have positive and negative aspects. So the question becomes: can we construct a hybrid indicator that incorporates most of the positive aspects and minimizes the negative? As <ce:cross-ref id="cf0240" refid="bb0060">Costanza et al. (2014b)</ce:cross-ref> conclude:</ce:para>
+                  <ce:para id="p0095" view="all">“The successor to GDP should be a new set of metrics that integrates current knowledge of how ecology, economics, psychology and sociology collectively contribute to establishing and measuring sustainable wellbeing. The new metrics must garner broad support from stakeholders in the coming conclaves.”</ce:para>
+                  <ce:para id="p0100" view="all">Against this backdrop, one potential hybrid SWI could be a combination of three basic parts, each covering the contributions to sustainable wellbeing from the dimensions of economy, society, and nature.<ce:list id="l0010">
+                        <ce:list-item id="o0020">
+                           <ce:label>a -</ce:label>
+                           <ce:para id="p0105" view="all">Net Economic Contribution: E</ce:para>
+                           <ce:para id="p0110" view="all">The GPI can be thought of as a measure of the <ce:italic>net</ce:italic> contribution of economic (production and consumption) elements to wellbeing. As we have seen, it weights personal consumption by income distribution, adds some positive economic elements left out of GDP, and subtracts a range of costs that should not be counted as benefits. Although some costs to natural and social capital are included in GPI, many others are missing (e.g. loss of community cohesion due to the social disruptions caused by economic growth) and we also need a way to measure and include the positive benefits to wellbeing from natural and social capital. We therefore need to supplement the current GPI with additional cost estimates from the SDGs, including its targets and proposed indicators, as well as measurements of the positive contributions of natural and social capital.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0025">
+                           <ce:label>b -</ce:label>
+                           <ce:para id="p0115" view="all">Natural Capital/Ecosystem Services Contribution: N</ce:para>
+                           <ce:para id="p0120" view="all">The positive contributions of natural capital and the ecosystem services it provides have been estimated in spatially explicit form and can be valued in different units, including monetary units (<ce:cross-refs id="cf0245" refid="bb0040 bb0065 bb0185">Costanza et al., 1997, 2014c; Sutton and Costanza, 2002</ce:cross-refs>). These can be estimated at the country level, as well as at subnational and regional scales and included. For example, the Wealth Accounting and Valuation of Ecosystem Services (WAVES) project of the World Bank (<ce:inter-ref id="ir0010" xlink:href="https://www.wavespartnership.org" xlink:type="simple">https://www.wavespartnership.org</ce:inter-ref>/) is actively pursuing this agenda, as are several other initiative, including the new Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES - <ce:inter-ref id="ir0015" xlink:href="http://www.ipbes.net" xlink:type="simple">http://www.ipbes.net</ce:inter-ref>/), The Economics of Ecosystems and Bioversity (TEEB - <ce:inter-ref id="ir0020" xlink:href="http://www.teebweb.org" xlink:type="simple">http://www.teebweb.org</ce:inter-ref>/), the Economics of Land Degradation initiative (ELD - <ce:inter-ref id="ir0025" xlink:href="http://eld-initiative.org" xlink:type="simple">http://eld-initiative.org</ce:inter-ref>/) and the Ecosystem Services Partnership (ESP - <ce:inter-ref id="ir0030" xlink:href="http://www.fsd.nl/esp" xlink:type="simple">http://www.fsd.nl/esp</ce:inter-ref>).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0030">
+                           <ce:label>c -</ce:label>
+                           <ce:para id="p0125" view="all">Social Capital/Community Contribution: S</ce:para>
+                           <ce:para id="p0130" view="all">The positive contributions to wellbeing from social capital could be captured via surveys of the various components of life satisfaction. For example the World Values Survey as well as regional barometers (e.g. Eurobarometer, Afrobarometer, etc.) ask questions about trust, and other aspects of social capital. However, we may need to add additional survey questions that ask explicitly about the value of community and social capital, in addition to individual life satisfaction.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0135" view="all">
+                     <ce:cross-ref id="cf0250" refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/> shows the 17 SDGs and how they contribute to each of the three categories mentioned above. These categories correspond to the three basic goals outlined in the framework of <ce:italic>Ecological Economics</ce:italic> (<ce:cross-refs id="cf0255" refid="bb0080 bb0020 bb0050 bb0075">Daly, 1990; Costanza, 1991; Costanza et al., 2013, 2014e</ce:cross-refs>) and the three basic components of sustainability. Note that many of the SDG sub-goals contribute to more than one category.</ce:para>
+                  <ce:para id="p0140" view="all">Ultimately, a pluralistic approach that allows several options to be investigated will be required in the short term, and a consensus-building process will be needed to narrow down the possibilities to those that are most useful in assessing overall progress toward sustainable wellbeing.</ce:para>
+                  <ce:para id="p0145" view="all">But for a start, we propose the following:<ce:display>
+                        <ce:formula id="fo0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mi>SWI</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mi>f</mml:mi>
+                              <mml:mspace width="0.25em"/>
+                              <mml:mfenced open="(" close=")" separators=",,">
+                                 <mml:mi mathvariant="normal">E</mml:mi>
+                                 <mml:mi mathvariant="normal">N</mml:mi>
+                                 <mml:mi mathvariant="normal">S</mml:mi>
+                              </mml:mfenced>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0150" view="all">Where: <ce:hsp sp="1.0"/>SWI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Sustainable Wellbeing Index</ce:para>
+                  <ce:para id="p0155" view="all">E<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Net Economic Contribution</ce:para>
+                  <ce:para id="p0160" view="all">N<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Natural Capital/Ecosystem Services Contribution</ce:para>
+                  <ce:para id="p0165" view="all">S<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Social Capital/Community Contribution</ce:para>
+                  <ce:para id="p0170" view="all">How these three elements combine to produce SWI is important. They are not linear combinations, since the absence of any one of these factors would lead to zero SWI. At the same time, they are not purely multiplicative with the possibility for infinite SWI. For example, it is clear that increases in material standards make a very major difference to wellbeing in poorer countries where many people lack basic necessities, yet as countries get richer, further increases in material standards make less and less difference to wellbeing. In richer countries social capital and community may be the limiting factor. We therefore propose that a “limiting factor” approach might be a better option. For example an equation like the following might work.<ce:display>
+                        <ce:formula id="fo0010">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si2.gif" overflow="scroll">
+                              <mml:mi>SWI</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:msub>
+                                 <mml:mi mathvariant="normal">L</mml:mi>
+                                 <mml:mo>max</mml:mo>
+                              </mml:msub>
+                              <mml:mo>*</mml:mo>
+                              <mml:mfenced open="(" close=")" separators=",">
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">E</mml:mi>
+                                    <mml:mo stretchy="true">/</mml:mo>
+                                    <mml:mfenced open="(" close=")" separators=",">
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi mathvariant="normal">k</mml:mi>
+                                             <mml:mi mathvariant="normal">e</mml:mi>
+                                          </mml:msub>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:mi mathvariant="normal">E</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                              </mml:mfenced>
+                              <mml:mo>*</mml:mo>
+                              <mml:mfenced open="(" close=")" separators=",">
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">N</mml:mi>
+                                    <mml:mo stretchy="true">/</mml:mo>
+                                    <mml:mfenced open="(" close=")" separators=",">
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi mathvariant="normal">k</mml:mi>
+                                             <mml:mi mathvariant="normal">n</mml:mi>
+                                          </mml:msub>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:mi mathvariant="normal">N</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                              </mml:mfenced>
+                              <mml:mo>*</mml:mo>
+                              <mml:mo stretchy="true">(</mml:mo>
+                              <mml:mi mathvariant="normal">S</mml:mi>
+                              <mml:mo stretchy="true">/</mml:mo>
+                              <mml:mfenced open="(" close=")" separators=",">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi mathvariant="normal">k</mml:mi>
+                                       <mml:mi mathvariant="normal">s</mml:mi>
+                                    </mml:msub>
+                                    <mml:mo>+</mml:mo>
+                                    <mml:mi mathvariant="normal">S</mml:mi>
+                                 </mml:mrow>
+                              </mml:mfenced>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0175" view="all">Where: L<ce:inf loc="post">max</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>the maximum achievable SWI when all factors are simultaneously at their maximum.</ce:para>
+                  <ce:para id="p0180" view="all">k<ce:inf loc="post">e</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>the “half saturation constant” of E – the value of E where the result of this term achieves 1/2 its maximum value.</ce:para>
+                  <ce:para id="p0185" view="all">k<ce:inf loc="post">n</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>the “half saturation constant” of N.</ce:para>
+                  <ce:para id="p0190" view="all">k<ce:inf loc="post">s</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>the “half saturation constant” of S.</ce:para>
+                  <ce:para id="p0195" view="all">In this equation, each of the terms approaches 1 as the variable approaches infinity. As all the terms approach 1, SWI approaches L<ce:inf loc="post">max</ce:inf>. Lmax can be denominated in any relevant units, the simplest being a unit-less maximum on a 0 to 100 or 0 to 10 scale, similar to the subjective well-being scales.</ce:para>
+                  <ce:para id="p0200" view="all">The larger the half saturation constant relative to the size of the variable, the slower is the approach to 1. Any one of the variables can be the “limiting factor.” For example, if E is very large its term in the equation will be close to 1. But if S is small its term will be a small fraction that will reduce and limit SWI. <ce:cross-ref id="cf0260" refid="f0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/> is an example of the relationship for (E<ce:hsp sp="0.25"/>/<ce:hsp sp="0.25"/>((k<ce:inf loc="post">e</ce:inf>
+                     <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>E)).</ce:para>
+                  <ce:para id="p0205" view="all">This approach is based on the idea that the best system is one that achieves the overarching goal of a <ce:italic>simultaneously</ce:italic> prosperous, high quality of life that is equitably shared and sustainable (<ce:cross-ref id="cf0265" refid="f0005">Fig. 1</ce:cross-ref>). The goal is not infinite growth, but <ce:italic>balanced</ce:italic> prosperity, equity and sustainability.</ce:para>
+                  <ce:para id="p0210" view="all">Many countries have words that encapsulate this overarching goal as the essence of the “good life”. For example, the Swedish term “lagom,” means roughly “just the right amount, equitably shared” (<ce:cross-ref id="cf0270" refid="bb0030">Costanza, 2015</ce:cross-ref>). In parts of Latin America, this concept is encapsulated in terms such as “buen vivir” and “pura vida”, while in Africa it connects with collective welfare traditions like “ubuntu”. We are searching for a way to quantify and guide progress toward the goals that many cultures implicitly share.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0030">Comprehensive Systems Dynamics Model</ce:section-title>
+                  <ce:para id="p0215" view="all">One of the reasons why GDP has achieved such dominance as an indicator of national progress is that it is integrated with an underlying model of the economic system. The model used is the basic linear Input-Output originally developed by <ce:cross-ref id="cf0275" refid="bb0145">Leontief (1941)</ce:cross-ref>. It is a linear accounting model of flows from sector to sector in the economy and to “final demand” (which is GDP). It does not account for stocks of capital assets except as a flow of “net capital formation” that is part of final demand. It is the basis of the System of National Accounts (SNA) that all countries currently use.</ce:para>
+                  <ce:para id="p0220" view="all">We need to replace the misuse of GDP as a measure of national success with not just an alternative indicator of wellbeing, but also with a dynamic, non-linear, systems model of the entire system of the economy-in-society-in-nature that keeps track of both stocks and flows. <ce:cross-ref id="cf0280" refid="f0020">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/> is a simplified example. The input-output structure of the economy could be embedded in this model, but it would have to go far beyond that in order to account for the costs and benefits from natural and social capital and the dynamics of capital formation and decline. Versions of such models exist (<ce:cross-refs id="cf0285" refid="bb0010 bb0045">Boumans et al., 2002; Costanza et al., 2007</ce:cross-refs>) and are currently in further development. This approach could help to build better assessments of progress toward sustainable wellbeing. These models can also span several time scales, including past, present, and future scenarios, allowing us to make better predictions of what sets of policies are actually sustainable and desirable and overcome the short-termism that afflicts much of current policy.</ce:para>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="st0035">Conclusions</ce:section-title>
+                  <ce:para id="p0225" view="all">The agreed UN SDGs are a major achievement in the development of shared goals for all of humanity. The SDGs have been agreed to by all UN member states and they include economic, social, and environmental elements. However, they lack an overarching goal and an effective aggregate indicator of progress toward that goal. One could argue that such an aggregate indicator is not necessary (or possible) and that the pursuit of the individual goals will be sufficient to achieve sustainable development. That might be true if the goals were independent of each other and they all contributed to the overarching goal equally. This is obviously not the case, especially in the context of the widely different situations in each country. We need an aggregate indicator that can assess the relative contribution of each of the SDGs and their interactions with each other in order to assess overall progress. We have suggested three fundamental categories that could make up a hybrid indicator and how they could be combined, but we also propose the development of an underlying systems dynamics model to assess interactions and synergies over space and time, including both stocks and flows, causes and effects. It is also necessary to develop a framework of policy reforms and societal change that make the achievement of the SDGs possible at both the national and global level. In today's interconnected world, the SDGs cannot be achieved unless there is sustainable wellbeing globally. We hope that the SDG process will continue in the direction we have proposed in order to speed the approach to a sustainable and desirable future.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0040">Acknowledgements</ce:section-title>
+               <ce:para id="p0230" view="all">This paper was the product of a workshop held at the Centre for the Study of Governance Innovation (GovInn) at the University of Pretoria, South Africa, June 1–5, 2015. We thank GovInn for supporting the workshop and three anonymous reviewers for their helpful comments on earlier drafts.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0045">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>Abdallah et al., 2008</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Abdallah</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Thompson</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Marks</ce:surname>
+                                 <ce:given-name>N.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Estimating worldwide life satisfaction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                              <sb:last-page>47</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>Boumans et al., 2002</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Boumans</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Farley</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wilson</ce:surname>
+                                 <ce:given-name>M.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Portela</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Rotmans</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Villa</ce:surname>
+                                 <ce:given-name>F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Grasso</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling the dynamics of the integrated earth system and the value of global ecosystem services using the GUMBO model</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>529</sb:first-page>
+                              <sb:last-page>560</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>Boyd, 2007</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Boyd</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nonmarket benefits of nature: what should be counted in green GDP?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>716</sb:first-page>
+                              <sb:last-page>723</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>Costanza, 1991</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:surname>Costanza</ce:surname>
+                                    <ce:given-name>R.</ce:given-name>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Ecological Economics: The Science and Management of Sustainability</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1991</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Columbia University Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>(525<ce:hsp sp="0.25"/>pp.)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>Costanza, 2014</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A theory of socio-ecological system change</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Bioecon.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>39</sb:first-page>
+                              <sb:last-page>44</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10818-013-9165-5</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>Costanza, 2015</ce:label>
+                     <ce:other-ref id="or0005">
+                        <ce:textref id="tr0005">Costanza, R. 2015. How to build a 'lagomist' economy. The Guardian. London, Guardian News. <ce:inter-ref xlink:href="http://www.theguardian.com/sustainable-business/2015/apr/06/lagomist-economy-consumerism-quality-of-life" id="ir0035" xlink:type="simple">http://www.theguardian.com/sustainable-business/2015/apr/06/lagomist-economy-consumerism-quality-of-life</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>Costanza and Patten, 1995</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Patten</ce:surname>
+                                 <ce:given-name>B.C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Defining and predicting sustainability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>193</sb:first-page>
+                              <sb:last-page>196</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>Costanza et al., 1997</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>d'Arge</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>de Groot</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Farber</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Grasso</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Hannon</ce:surname>
+                                 <ce:given-name>B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Naeem</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Limburg</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Paruelo</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>O'Neill</ce:surname>
+                                 <ce:given-name>R.V.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Raskin</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sutton</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>van den Belt</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The value of the world's ecosystem services and natural capital</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>387</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>253</sb:first-page>
+                              <sb:last-page>260</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>Costanza et al., 2007</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Leemans</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Boumans</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Gaddis</ce:surname>
+                                 <ce:given-name>E.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integrated global models</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:surname>Costanza</ce:surname>
+                                    <ce:given-name>R.</ce:given-name>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:surname>Graumlich</ce:surname>
+                                    <ce:given-name>L.</ce:given-name>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:surname>Steffen</ce:surname>
+                                    <ce:given-name>W.</ce:given-name>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Sustainability or Collapse? An Integrated History and Future of People on Earth</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2007</sb:date>
+                              <sb:publisher>
+                                 <sb:name>MIT Press</sb:name>
+                                 <sb:location>Cambridge, MA</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>417</sb:first-page>
+                              <sb:last-page>446</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>Costanza et al., 2013</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Alperovitz</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Daly</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Farley</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Franco</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jackson</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kubiszewski</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Schor</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Victor</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Building a Sustainable and Desirable Economy-In-Society-In-Nature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>ANU ePress</sb:name>
+                                 <sb:location>Canberra, Australia</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://epress.anu.edu.au/titles/building-a-sustainable-and-desirable-economy-in-society-in-nature" id="ir0040" xlink:type="simple">http://epress.anu.edu.au/titles/building-a-sustainable-and-desirable-economy-in-society-in-nature</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>Costanza et al., 2014a</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>McGlade</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lovins</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kubiszewski</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An overarching goal for the UN sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solutions</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                              <sb:last-page>16</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://thesolutionsjournal.com/node/237220" id="ir0045" xlink:type="simple">http://thesolutionsjournal.com/node/237220</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>Costanza et al., 2014b</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kubiszewski</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Giovannini</ce:surname>
+                                 <ce:given-name>E.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lovins</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>McGlade</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Pickett</ce:surname>
+                                 <ce:given-name>K.E.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Ragnarsdóttir</ce:surname>
+                                 <ce:given-name>K.V.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Roberts</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>De Vogli</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wilkinson</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Time to leave GDP behind</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Nature</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>505</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>283</sb:first-page>
+                              <sb:last-page>285</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>available at: <ce:inter-ref id="ir0050" xlink:href="http://www.nature.com/news/development-time-to-leave-gdp-behind-1.14499" xlink:type="simple">http://www.nature.com/news/development-time-to-leave-gdp-behind-1.14499</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>Costanza et al., 2014c</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>de Groot</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sutton</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>van der Ploeg</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Anderson</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kubiszewski</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Farber</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Turner</ce:surname>
+                                 <ce:given-name>R.K.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Changes in the global value of ecosystem services</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glob. Environ. Chang.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>158</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://sites.google.com/a/idakub.com/www/CV/publications/2014_Costanza_GlobalValueUpdate.pdf" id="ir0055" xlink:type="simple">https://sites.google.com/a/idakub.com/www/CV/publications/2014_Costanza_GlobalValueUpdate.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>Costanza et al., 2014d</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Hart</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kubiszewski</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Talberth</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Moving beyond GDP to measure well-being and happiness</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solutions</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>91</sb:first-page>
+                              <sb:last-page>97</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>Costanza et al., 2014e</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Cumberland</ce:surname>
+                                 <ce:given-name>J.C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Daly</ce:surname>
+                                 <ce:given-name>H.E.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Goodland</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Norgaard</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kubiszewski</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Franco</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An Introduction to Ecological Economics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>second ed</sb:edition>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Taylor and Francis</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>Daly, 1990</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Daly</ce:surname>
+                                 <ce:given-name>H.E.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Toward some operational principles of sustainable development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>6</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>Daly, 1992</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Daly</ce:surname>
+                                 <ce:given-name>H.E.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Allocation, distribution, and scale: towards an economics that is efficient, just, and sustainable</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>185</sb:first-page>
+                              <sb:last-page>193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>Daly and Cobb, 1989</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Daly</ce:surname>
+                                 <ce:given-name>H.E.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Cobb</ce:surname>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>For the Common Good: Redirecting the Economy Toward Community, the Environment, and a Sustainable Future</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1989</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Beacon Press</sb:name>
+                                 <sb:location>Boston</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>Demyttenaere et al., 2004</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Demyttenaere</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Prevalence, severity and unmet need for treatment of mental disorders in the World Health Organization World Mental Health Surveys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JAMA</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>291</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2581</sb:first-page>
+                              <sb:last-page>2590</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>Fioramonti, 2013</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Fioramonti</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Gross Domestic Problem: The Politics Behind the World's Most Powerful Number</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Zed Books</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>Fioramonti, 2014</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Fioramonti</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How Numbers Rule the World: The Use and Abuse of Statistics in Global Politics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Zed Books</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>Fleurbaey and Blanchet, 2013</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Fleurbaey</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Blanchet</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Beyond GDP: Measuring Welfare and Assessing Sustainability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oxford University Press</sb:name>
+                                 <sb:location>Oxford, New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>Garnåsjordet et al., 2012</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Garnåsjordet</ce:surname>
+                                 <ce:given-name>P.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Aslaksen</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Giampietro</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Funtowicz</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Ericson</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable development indicators: from statistics to policy: sustainable development indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Policy Gov.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>322</sb:first-page>
+                              <sb:last-page>336</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>Hamilton and Clemens, 1999</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Hamilton</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Clemens</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Genuine savings rates in developing countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>World Bank Econ. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>333</sb:first-page>
+                              <sb:last-page>356</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb9000">
+                     <ce:label>Helliwell et al., 2016</ce:label>
+                     <sb:reference id="rf20160">
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Helliwell</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>R.</ce:given-name>
+                                    <ce:surname>Layard</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Sachs</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>World Happiness Report</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Sustainable Development Solutions Network</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>Kahneman, 2011</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Kahneman</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thinking, fast and Slow</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2011</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Macmillan</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>Kubiszewski et al., 2013</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Kubiszewski</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Franco</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lawn</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Talberth</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jackson</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Aylmer</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Beyond GDP: measuring and achieving global genuine progress</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                              <sb:last-page>68</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>Layard, 2005</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Layard</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Happiness: Lessons From a New Science</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Penguin</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>Lee and Seligman, 1997</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Lee</ce:surname>
+                                 <ce:given-name>Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Seligman</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Are Americans more optimistic than the Chinese?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Personal. Soc. Psychol. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>32</sb:first-page>
+                              <sb:last-page>40</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>Leontief, 1941</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Leontief</ce:surname>
+                                 <ce:given-name>W.W.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The structure of American economy, 1919–1929</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>An Empirical Application of Equilibrium Analysis</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1941</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Harvard University Press</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>Li and Lang, 2010</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>V.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lang</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>China's “green GDP” experiment and the struggle for ecological modernisation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Contemp. Asia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>44</sb:first-page>
+                              <sb:last-page>62</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>O'Neill, 2015</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>O'Neill</ce:surname>
+                                 <ce:given-name>D.W.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The proximity of nations to a socially sustainable steady-state economy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1213</sb:first-page>
+                              <sb:last-page>1231</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>Ostrom, 2014</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Ostrom</ce:surname>
+                                 <ce:given-name>E.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Do institutions for collective action evolve?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Bioecon.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>30</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10818-013-9154-8</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0165">
+                     <ce:label>Pillarisetti, 2005</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Pillarisetti</ce:surname>
+                                 <ce:given-name>J.R.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The World Bank's ‘genuine savings’ measure and sustainability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>599</sb:first-page>
+                              <sb:last-page>609</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0170">
+                     <ce:label>Rockström et al., 2009</ce:label>
+                     <sb:reference id="rf0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Rockström</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Steffen</ce:surname>
+                                 <ce:given-name>W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Noone</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Persson</ce:surname>
+                                 <ce:given-name>Å.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chapin</ce:surname>
+                                 <ce:given-name>F.S.</ce:given-name>
+                                 <ce:suffix>III</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lambin</ce:surname>
+                                 <ce:given-name>E.F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lenton</ce:surname>
+                                 <ce:given-name>T.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Scheffer</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Folke</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Schellnhuber</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Nykvist</ce:surname>
+                                 <ce:given-name>B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>de Wit</ce:surname>
+                                 <ce:given-name>C.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Hughes</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>van der Leeuw</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Rodhe</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sörlin</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Snyder</ce:surname>
+                                 <ce:given-name>P.K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Svedin</ce:surname>
+                                 <ce:given-name>U.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Falkenmark</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Karlberg</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Corell</ce:surname>
+                                 <ce:given-name>R.W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Fabry</ce:surname>
+                                 <ce:given-name>V.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Hansen</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Liverman</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Richardson</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Crutzen</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Foley</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A safe operating space for humanity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>461</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>472</sb:first-page>
+                              <sb:last-page>475</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0175">
+                     <ce:label>Spencer-Rodgers et al., 2004</ce:label>
+                     <sb:reference id="rf0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Spencer-Rodgers</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Peng</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Hou</ce:surname>
+                                 <ce:given-name>Y.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dialectial self-esteem and east-west differences in psychological well-being</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Personal. Soc. Psychol. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1416</sb:first-page>
+                              <sb:last-page>1432</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0180">
+                     <ce:label>Stiglitz et al., 2009</ce:label>
+                     <sb:reference id="rf0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Stiglitz</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sen</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Fitoussi</ce:surname>
+                                 <ce:given-name>J.-P.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Report of the Commission on the Measurement of Economic Performance and Social Progress</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2009</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0185">
+                     <ce:label>Sutton and Costanza, 2002</ce:label>
+                     <sb:reference id="rf0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Sutton</ce:surname>
+                                 <ce:given-name>P.C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global estimates of market and non-market values derived from nighttime satellite imagery, land use, and ecosystem service valuation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>509</sb:first-page>
+                              <sb:last-page>527</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0190">
+                     <ce:label>Talberth et al., 2007</ce:label>
+                     <sb:reference id="rf0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Talberth</ce:surname>
+                                 <ce:given-name>D.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Cobb</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Slattery</ce:surname>
+                                 <ce:given-name>N.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Genuine Progress Indicator 2006: A Tool for Sustainable Development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2007</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Redefining Progress</sb:name>
+                                 <sb:location>Oakland, California</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0195">
+                     <ce:label>UNDP, 1996</ce:label>
+                     <sb:reference id="rf0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UNDP</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Human Development Report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1996</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Development Programme</sb:name>
+                                 <sb:location>Nairobi, Kenya</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0200">
+                     <ce:label>United Nations, 2015</ce:label>
+                     <sb:reference id="rf0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transforming our World: The 2030 Agenda for Sustainable Development. Outcome Document for the UN Summit to Adopt the Post-2015 Development Agenda: Draft for Adoption. New York. 2015</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0205">
+                     <ce:label>UNU-IHDP and UNEP, 2014</ce:label>
+                     <sb:reference id="rf0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UNU-IHDP and UNEP</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Inclusive Wealth Report 2014</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Measuring Progress toward Sustainability</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Cambridge University Press</sb:name>
+                                 <sb:location>Cambridge</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0210">
+                     <ce:label>Vemuri and Costanza, 2006</ce:label>
+                     <sb:reference id="rf0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Vemuri</ce:surname>
+                                 <ce:given-name>A.W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Costanza</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of human, social, built, and natural capital in explaining life satisfaction at the country level: toward a National Well-Being Index (NWI)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol. Econ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                              <sb:last-page>133</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0215">
+                     <ce:label>Wilkinson and Pickett, 2009</ce:label>
+                     <sb:reference id="rf0210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Wilkinson</ce:surname>
+                                 <ce:given-name>R.G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Pickett</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Spirit Level: Why Greater Equality Makes Societies Stronger</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Bloomsbury Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

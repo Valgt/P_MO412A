@@ -1,0 +1,1197 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673615602446</prism:url><dc:identifier>doi:10.1016/S0140-6736(15)60244-6</dc:identifier><eid>1-s2.0-S0140673615602446</eid><prism:doi>10.1016/S0140-6736(15)60244-6</prism:doi><pii>S0140-6736(15)60244-6</pii><dc:title>Public health, universal health coverage, and Sustainable Development Goals: can they coexist? </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>01406736</prism:issn><prism:volume>386</prism:volume><prism:issueIdentifier>9996</prism:issueIdentifier><prism:startingPage>928</prism:startingPage><prism:endingPage>930</prism:endingPage><prism:pageRange>928-930</prism:pageRange><prism:number>9996</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2015-09-04</prism:coverDate><prism:coverDisplayDate>29 August–4 September 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Schmidt, Harald</dc:creator><dc:creator>Gostin, Lawrence O</dc:creator><dc:creator>Emanuel, Ezekiel J</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673615602446" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673615602446" rel="scidir"/></coredata><scopus-id>84940961374</scopus-id><scopus-eid>2-s2.0-84940961374</scopus-eid><pubmed-id>26138141</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84940961374" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150629">2015-06-29</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150629">2015-06-29</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20150827">2015-08-27</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20150827">2015-08-27</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-02-20T04:56:19</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673615602446</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(15)60244-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673615602446</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(15)60244-6</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673615X0002X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160829">2016-08-29T17:37:32.590528-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150829</xocs:date-search-begin>
+      <xocs:date-search-end>20150904</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1435622499">2015-06-30T00:01:39.590943Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body acknowledge affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>386</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>386</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9996</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9996</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 386, Issue 9996</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>37</xocs:sort-order>
+      <xocs:first-fp>928</xocs:first-fp>
+      <xocs:last-lp>930</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>928</xocs:first-page>
+         <xocs:last-page>930</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20150829</xocs:start-date>
+         <xocs:end-date>20150904</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>29 August–4 September 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-08-29</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-09-04</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PUBLICHEALTHUNIVERSALHEALTHCOVERAGESUSTAINABLEDEVELOPMENTGOALSCANCOEXIST</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SCHMIDT</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>CHAN</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20"/>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>FRENK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>862</xocs:ref-first-fp>
+            <xocs:ref-last-lp>864</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>MONITORINGPROGRESSTOWARDSUNIVERSALHEALTHCOVERAGECOUNTRYGLOBALLEVELS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>MAKINGFAIRCHOICESPATHUNIVERSALHEALTHCOVERAGE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref10"/>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>GIEDION</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>IMPACTUNIVERSALCOVERAGESCHEMESINDEVELOPINGWORLDAREVIEWEXISTINGEVIDENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>BOERMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e1001731</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>MAEDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>UNIVERSALHEALTHCOVERAGEFORINCLUSIVESUSTAINABLEDEVELOPMENTASYNTHESIS11COUNTRYCASESTUDIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-normalized-surname>OCONNELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>277</xocs:ref-first-fp>
+            <xocs:ref-last-lp>279</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-normalized-surname>DURAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>247</xocs:ref-first-fp>
+            <xocs:ref-last-lp>268</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>IMPLEMENTINGHEALTHFINANCINGREFORM</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>FINANCINGPUBLICHEALTHSERVICESPROGRAMMESTIMELOOKBLACKBOX</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref110">
+            <xocs:ref-normalized-surname>MARMOT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1228</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref120">
+            <xocs:ref-normalized-surname>GWATKIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2160</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2161</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref130">
+            <xocs:ref-normalized-surname>TANTIVESS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>f462</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref140">
+            <xocs:ref-normalized-surname>TANGCHAROENSATHIEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref150">
+            <xocs:ref-normalized-surname>GUERRERO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>LADOBLEDESCENTRALIZACIONENELSECTORSALUDEVALUACIONYALTERNATIVASDEPOLITICAPUBLICA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref160">
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>REPORTGLOBALTOBACCOEPIDEMIC2008THEMPOWERPACKAGE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref170">
+            <xocs:ref-normalized-surname>JAMISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1898</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1955</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref180">
+            <xocs:ref-normalized-surname>EXWORTHY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>318</xocs:ref-first-fp>
+            <xocs:ref-last-lp>327</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref190">
+            <xocs:ref-normalized-surname>KICKBUSCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HEALTHYSOCIETIESADDRESSING21STCENTURYHEALTHCHALLENGES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref200">
+            <xocs:ref-normalized-surname>NIR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>180</xocs:ref-first-fp>
+            <xocs:ref-last-lp>192</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref210">
+            <xocs:ref-normalized-surname>LAZARUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>670</xocs:ref-first-fp>
+            <xocs:ref-last-lp>671</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SCHMIDTX2015X928</xocs:refkey3>
+         <xocs:refkey4lp>SCHMIDTX2015X928X930</xocs:refkey4lp>
+         <xocs:refkey4ai>SCHMIDTX2015X928XH</xocs:refkey4ai>
+         <xocs:refkey5>SCHMIDTX2015X928X930XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2016-02-27T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>Open</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(15)60244-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673615602446</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673615602446</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(15)60244-6</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2016-02-20T00:14:01.074968-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-08-29</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-09-04</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673615602446-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615602446/MAIN/application/pdf/3c4b709c003d2143f2bf45b99812f11e/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615602446/MAIN/application/pdf/3c4b709c003d2143f2bf45b99812f11e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>62218</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673615602446-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615602446/PREVIEW/image/png/bc9c5851ff1862e483a43e95309f4210/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615602446/PREVIEW/image/png/bc9c5851ff1862e483a43e95309f4210/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>90557</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>109</aid>
+            <ce:pii>S0140-6736(15)60244-6</ce:pii>
+            <ce:doi>10.1016/S0140-6736(15)60244-6</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Review and Opinion</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Viewpoint</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Viewpoint</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Public health, universal health coverage, and Sustainable Development Goals: can they coexist?</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10">
+                  <ce:degrees>Dr</ce:degrees>
+                  <ce:given-name>Harald</ce:given-name>
+                  <ce:surname>Schmidt</ce:surname>
+                  <ce:degrees>PhD</ce:degrees>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref30" refid="cor1">
+                     <ce:sup loc="post">*</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20">
+                  <ce:degrees>Prof</ce:degrees>
+                  <ce:given-name>Lawrence O</ce:given-name>
+                  <ce:surname>Gostin</ce:surname>
+                  <ce:degrees>JD</ce:degrees>
+                  <ce:cross-ref id="cecref40" refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30">
+                  <ce:degrees>Prof</ce:degrees>
+                  <ce:given-name>Ezekiel J</ce:given-name>
+                  <ce:surname>Emanuel</ce:surname>
+                  <ce:degrees>MD</ce:degrees>
+                  <ce:cross-ref id="cecref50" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref60" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Medical Ethics and Health Policy</sa:organization>
+                     <sa:organization>University of Pennsylvania</sa:organization>
+                     <sa:city>Philadelphia</sa:city>
+                     <sa:state>PA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Center for Health Incentives and Behavioral Economics, University of Pennsylvania, Philadelphia, PA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Center for Health Incentives and Behavioral Economics</sa:organization>
+                     <sa:organization>University of Pennsylvania</sa:organization>
+                     <sa:city>Philadelphia</sa:city>
+                     <sa:state>PA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Perelman School of Medicine, and Wharton School, University of Pennsylvania, Philadelphia, PA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Perelman School of Medicine, and Wharton School</sa:organization>
+                     <sa:organization>University of Pennsylvania</sa:organization>
+                     <sa:city>Philadelphia</sa:city>
+                     <sa:state>PA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff4">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>O'Neill Institute for National and Global Health Law and WHO Collaborating Center on Public Health Law and Human Rights, Georgetown University, Washington, DC, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>O'Neill Institute for National and Global Health Law and WHO Collaborating Center on Public Health Law and Human Rights</sa:organization>
+                     <sa:organization>Georgetown University</sa:organization>
+                     <sa:city>Washington</sa:city>
+                     <sa:state>DC</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Correspondence to: Dr Harald Schmidt, Department of Medical Ethics and Health Policy, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104-3308, USA</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Correspondence to: Dr Harald Schmidt</sa:organization>
+                     <sa:organization>Department of Medical Ethics and Health Policy</sa:organization>
+                     <sa:organization>Perelman School of Medicine</sa:organization>
+                     <sa:organization>University of Pennsylvania</sa:organization>
+                     <sa:city>Philadelphia</sa:city>
+                     <sa:state>PA</sa:state>
+                     <sa:postal-code>19104-3308</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">In her 2012 reconfirmation speech as WHO Director-General, Dr Margaret Chan asserted: “universal coverage is the single most powerful concept that public health has to offer. It is our ticket to greater efficiency and better quality. It is our saviour from the crushing weight of chronic noncommunicable diseases that now engulf the globe”.<ce:cross-ref id="cecref70" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> The UN General Assembly is currently considering proposals for Sustainable Development Goals (SDGs), succeeding the Millennium Development Goals.<ce:cross-ref id="cecref80" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> 
+                  <ce:inter-ref id="interrefs10" xlink:href="https://sustainabledevelopment.un.org/focussdgs.html" xlink:type="simple">SDG 3</ce:inter-ref>, focusing on health, specifically includes universal health coverage (UHC) among its targets.</ce:para>
+               <ce:para id="para20" view="all">Unquestionably, UHC is timely and fundamentally important.<ce:cross-refs id="cecrefs10" refid="bib3 bib4 bib5">
+                     <ce:sup loc="post">3–5</ce:sup>
+                  </ce:cross-refs> However, its promotion also entails substantial risks. A narrow focus on UHC could emphasise expansion of access to health-care services over equitable improvement of health outcomes through action across all relevant sectors—especially public health interventions, needed to effectively address non-communicable diseases (NCDs).</ce:para>
+               <ce:para id="para30" view="all">WHO first endorsed UHC in its 2005 resolution on sustainable health financing, calling on states to provide “access to [necessary] promotive, preventive, curative and rehabilitative health interventions for all at an affordable cost”.<ce:cross-ref id="cecref90" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref> The resolution and its UHC concept firmly and narrowly centre on health insurance packages financed through pre-payment. This narrow understanding is echoed in major recent reviews of 65 empirical studies on UHC progress.<ce:cross-refs id="cecrefs20" refid="bib7 bib8 bib9">
+                     <ce:sup loc="post">7–9</ce:sup>
+                  </ce:cross-refs> The proposed SDGs also separate population-level public health measures from UHC, addressing the former as distinct targets, not under UHC.<ce:cross-ref id="cecref100" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> Yet, a broader understanding encompassing non-clinical measures can also be found in relevant WHO documents.<ce:cross-refs id="cecrefs30" refid="bib4 bib5">
+                     <ce:sup loc="post">4,5</ce:sup>
+                  </ce:cross-refs> Independent of UHC's conceptual indeterminacy, clinical health services are an essential part of UHC,<ce:cross-refs id="cecrefs40" refid="bib4 bib5 bib10">
+                     <ce:sup loc="post">4,5,10</ce:sup>
+                  </ce:cross-refs> and are likely to dominate post-2015 state health system improvements. In implementing UHC, how can we ensure continued emphasis on the full spectrum of public health interventions?</ce:para>
+               <ce:para id="para40" view="all">Unmediated, a narrow UHC focus risks that five distinct pressures prioritise expanded curative clinical services at the expense of individual and population-level health promotion, prevention,<ce:cross-ref id="cecref110" refid="bib11">
+                     <ce:sup loc="post">11</ce:sup>
+                  </ce:cross-ref> and action on social determinants of health.<ce:cross-ref id="cecref120" refid="bib12">
+                     <ce:sup loc="post">12</ce:sup>
+                  </ce:cross-ref> The risk is that this focus leads to more health-care services, but worse overall health outcomes, with less equitably distributed benefits.</ce:para>
+               <ce:para id="para50" view="all">First, unbalanced, the introduction of UHC usually increases inequity by disproportionately benefiting the wealthiest groups.<ce:cross-ref id="cecref130" refid="bib13">
+                     <ce:sup loc="post">13</ce:sup>
+                  </ce:cross-ref> Although there are some exceptions, UHC progress analyses from 11 countries at different levels of development suggest poorer people often lose out initially. UHC expansion generally begins with civil servants or urban formal sector workers;<ce:cross-ref id="cecref140" refid="bib9">
+                     <ce:sup loc="post">9</ce:sup>
+                  </ce:cross-ref> wealthier, well connected urban populations demand and receive clinical services, while poorer and rural populations do not. Some public health interventions—such as nutrition labelling, or information campaigns on behavioural NCD risks—also tend to disproportionately benefit wealthier groups, raising similar concerns. But other population-level measures such as clean air acts or road-safety improvements benefit the whole population from the outset, ensuring greater equity. Targeted population-level measures can balance temporary or persistent inequities arising from the introduction of UHC.</ce:para>
+               <ce:para id="para60" view="all">Second, the clinical sector commonly tends to emphasise specialist curative over health promotion or preventive primary care. Interventions such as dialysis, organ transplants, or new cancer therapies—frequently introduced under UHC—often have the irresistible aura of the rule of rescue, enabling the instant saving of otherwise doomed lives. But as the addition of dialysis to the public benefit package in Thailand illustrates, doing so can entail substantial budgetary opportunity costs with unclear sustainability,<ce:cross-ref id="cecref150" refid="bib14">
+                     <ce:sup loc="post">14</ce:sup>
+                  </ce:cross-ref> and deprioritisation of primary and secondary prevention,<ce:cross-ref id="cecref160" refid="bib15">
+                     <ce:sup loc="post">15</ce:sup>
+                  </ce:cross-ref> undermining benefits to far more people than typically benefit from high-cost curative care.</ce:para>
+               <ce:para id="para70" view="all">Third, political and societal pressures can skew budgets towards more advanced, costly clinical services at the expense of public health. Such shifts rarely take the form of pure zero-sum situations, in which one sector gains what the other loses, but are embedded in complex allocation decisions. In Thailand, the initial 2002 Universal Coverage Scheme spending formula reserved 20% of the budget for health promotion and prevention at individual and family level (personal communication, Viroj Tangcharoensathien, International Health Policy Program, Ministry of Public Health, Nonthaburi, Thailand). With the decision to cover high-cost interventions including antiretroviral therapy in 2004, dialysis and kidney transplantation in 2008, and to account for other newly covered services, inflation, and increased outpatient and inpatient service uptake, between 2001 and 2012 the per head budget was increased by 3% per year above inflation. But with reduced prevention and health promotion unit cost, the share of the ring-fenced budget decreased from the initial 20% to 14% over the past several years (although it has recently been decided to return to previous levels). While the clinical benefit package was expanded, no new health promotion and prevention services were added in the past decade (personal communication, Viroj Tangcharoensathien).</ce:para>
+               <ce:para id="para80" view="all">Similarly, Colombia introduced UHC in 1993. Since then, health plan budgets increased annually by 6·4% above inflation. Public health budgets, administered at the municipal level, stayed tied to inflation (personal communication, Ramiro Guerrero, Centro PROESA, Universidad Icesi, Cali, Colombia). Secondary prevention, provided mainly through the insurance system, is supposed to be funded by a dedicated budget, separated from curative care. However, the prevention budget by itself is insufficient, and in practice health plans typically pool budgets. Demands for curative care are usually more pressing than preventive ones, and as a result preventive care receives less than it needs (personal communication, Ramiro Guerrero). The relative stagnation of Colombia's public health funds reflects the priority that curative clinical services have had, as well as political distrust in the efficiency of municipal governance, including the identification of health needs.<ce:cross-ref id="cecref170" refid="bib16">
+                     <ce:sup loc="post">16</ce:sup>
+                  </ce:cross-ref> Clearly articulated broad public health policy with the same political support as clinical health can help to avoid such situations, but in practice is rarely achieved.</ce:para>
+               <ce:para id="para90" view="all">Additionally, as the USA and other high-income countries demonstrate, clinical services attract the bulk of resources in large part because powerful constituencies on the supply side support their prioritisation. Physicians, hospitals, and other stakeholders, including patient interest groups, campaign for prioritisation of clinical services.<ce:cross-ref id="cecref180" refid="bib11">
+                     <ce:sup loc="post">11</ce:sup>
+                  </ce:cross-ref> But no constituencies have similar leverage in public health, and the asymptomatic public rarely—and less passionately—demand population-level or individual-level health promotion or prevention measures.</ce:para>
+               <ce:para id="para100" view="all">Fourth, most low-income and even middle-income countries lack a sufficient trained health-care workforce.<ce:cross-ref id="cecref190" refid="bib9">
+                     <ce:sup loc="post">9</ce:sup>
+                  </ce:cross-ref> And even if employment opportunities under UHC were scaled up equally in clinical and non-clinical sectors, clinical services are more attractive: compensation is typically higher, and clinical training generally makes physicians and nurses more marketable in high-income countries, further threatening workforce retention.<ce:cross-ref id="cecref200" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para110" view="all">Finally, many of the targets under SDG 3 need population-level health interventions. For instance, targets for maternal and newborn mortality, communicable diseases and NCDs, alcohol, and narcotics (3.1–3.5), sexual and reproductive health (3.7), and tobacco (3a) call for broader, largely non-clinical measures, including education, improved sanitation, hygiene, nutrition, bednets, taxation, and restrictions or bans on selling and promoting alcohol, narcotics, and tobacco. Similarly, targets for road traffic (3.6) and air, water, soil pollution (3.9) fall entirely outside clinical services.</ce:para>
+               <ce:para id="para120" view="all">The SDG proposal identifies UHC as a distinct target. But UHC is a means, not an end in itself. The ultimate goal must be improvement of health. Unfortunately, most population-level health targets do not include policy vehicles that can help to accomplish them.</ce:para>
+               <ce:para id="para130" view="all">Tobacco provides a case example. Lung cancer is among the most devastating NCDs. Globally, deaths from smoking are expected to increase greatly in low-income countries. In the 20th century, tobacco use killed around 100 million people worldwide; ten times more—1 billion—will die in the 21st century. By 2030, low-income countries are estimated to bear more than 80% of tobacco-attributable deaths.<ce:cross-ref id="cecref210" refid="bib17">
+                     <ce:sup loc="post">17</ce:sup>
+                  </ce:cross-ref> Under UHC's focus on clinical services, responses generally centre on nicotine-replacement therapy, smoking-cessation programmes, surgery, radiation, and chemotherapy for lung cancer. Clinicians are likely to screen for and treat cancer, but not prevent it.</ce:para>
+               <ce:para id="para140" view="all">Although it is important to help ill people to regain health, it is clearly more ethical and efficient to keep them healthy in the first place. The preferred response is therefore to stringently implement the Framework Convention on Tobacco Control<ce:cross-ref id="cecref220" refid="bib18">
+                     <ce:sup loc="post">18</ce:sup>
+                  </ce:cross-ref>—as identified under target 3a, the only policy vehicle to achieve a non-clinical public health goal—and WHO's MPOWER strategy, which chiefly includes protections from tobacco smoke; health risk warnings; enforcements of advertising, promotion, and sponsorship bans; and raising taxes. Particularly cost-effective measures such as taxation would furthermore generate revenue to fund both population-level and individual-level public health interventions.<ce:cross-ref id="cecref230" refid="bib18">
+                     <ce:sup loc="post">18</ce:sup>
+                  </ce:cross-ref> These measures are entirely outside the clinical-service realm and should not be sacrificed to increase budgets for detection and treatment of tobacco-related cancers under UHC.</ce:para>
+               <ce:para id="para150" view="all">Looking ahead, policy makers must make complex prioritisations in moving towards UHC. This process includes striking the right balance between individual-level curative services, and individual-level and population-level health promotion and preventive measures. Three steps can help to ensure that increased attention to clinical services will not undermine, but support, robust action across the full range of public health measures and social determinants of health.<ce:cross-ref id="cecref240" refid="bib12">
+                     <ce:sup loc="post">12</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para160" view="all">First, effective cross-departmental action is needed. The risk of UHC unduly skewing the agenda becomes higher if health departments are the central focus for implementation of UHC. Optimally, states should take stock of the broader context of government action on health, including food, housing, educational, environmental, and tax policies. Effective communication and concerted action among health, finance, enterprise, and other departments is therefore imperative.<ce:cross-refs id="cecrefs50" refid="bib11 bib12 bib19">
+                     <ce:sup loc="post">11,12,19</ce:sup>
+                  </ce:cross-refs> Relaunching and structuring of health departments as departments of public health can be one way of avoiding an unduly narrow focus. The Health in All Polices (HiAP) strategy—endorsed by WHO in 2009—can provide a helpful structural vehicle. Among other things, HiAP requires public health staff presence on relevant committees of other departments, health impact assessments for non-health policies, and joint cross-departmental health targets and evaluations.<ce:cross-ref id="cecref250" refid="bib20">
+                     <ce:sup loc="post">20</ce:sup>
+                  </ce:cross-ref> Progress with implementation of intersectoral strategies<ce:cross-refs id="cecrefs60" refid="bib11 bib19">
+                     <ce:sup loc="post">11,19</ce:sup>
+                  </ce:cross-refs> has been disappointingly slow. Addition of HiAP as a SDG target would complement other approaches, further focusing attention.</ce:para>
+               <ce:para id="para170" view="all">Second, fixed and distinct budgets are important. As noted, political and societal pressures favouring curative services under UHC can harm health promotion and prevention. Fixed and distinct budgets are the most appropriate way to avoid cannibalism and ensure sustainability and peaceful coexistence. Fixed budgets also focus attention on determining value for money. Thailand's approach of ring-fencing 20% of the UHC budget for health promotion and prevention is a useful model. Budgets should be sensitive to a country's level of development and be driven by epidemiological, economic, and ethical analyses, prioritising the most cost-effective and equitable measures—even if this means deprioritising curative services. In principle, the same approach would be desirable for population-level public health measures. But given that these frequently fragmented measures<ce:cross-ref id="cecref260" refid="bib11">
+                     <ce:sup loc="post">11</ce:sup>
+                  </ce:cross-ref> span many government departments and civil society sectors, a careful accounting of public health measures will also be necessary. This process again emphasises the importance of an approach such as HiAP, and robust analyses of alignments of efforts within a broad public health strategy.</ce:para>
+               <ce:para id="para180" view="all">Third, a robust public health workforce should be ensured. SDG's target 3c seeks to “increase substantially…recruitment, development, training and retention of the health workforce”. As with UHC, there are risks and opportunities. Specifically, capacity building must not narrowly centre on the clinical context, should promote the public health workforce development, and be implemented in ways that reduce brain-drain likelihood. Promising strategies include locally relevant training with a focus on endemic conditions, and practising of medicine within country-specific resource scarcity constraints. This approach promotes professional prestige of local practice, equips workers with realistic expectations, and reduces chances that clinical medicine training is chosen predominantly as a stepping stone to work in high-income countries.<ce:cross-ref id="cecref270" refid="bib21">
+                     <ce:sup loc="post">21</ce:sup>
+                  </ce:cross-ref> Externally sponsored training should generally take the form of so-called sandwich training, with most time spent in the sponsored—not the sponsors'—country.<ce:cross-ref id="cecref280" refid="bib22">
+                     <ce:sup loc="post">22</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para190" view="all">The global move towards UHC by ensuring affordable access to essential health benefits is urgent and long overdue. The current enthusiasm and momentum is encouraging. However, the ultimate challenge for policy makers is not merely to improve clinical services, but to achieve equitable health outcome improvements through genuine integration of individual and population-level health promotion and preventative efforts with curative services. Future UHC evaluations should include assessments of the extent to which this integration is accomplished<ce:cross-ref id="cecref290" refid="bib11">
+                     <ce:sup loc="post">11</ce:sup>
+                  </ce:cross-ref>—with particular attention to the distribution of benefits across groups—and not, as major current work,<ce:cross-refs id="cecrefs70" refid="bib7 bib8 bib9">
+                     <ce:sup loc="post">7–9</ce:sup>
+                  </ce:cross-refs> be limited to the clinical side.</ce:para>
+               <ce:para id="para200" role="acknowledgement" view="all">
+                  <ce:bold>Contributors</ce:bold>
+               </ce:para>
+               <ce:para id="para210" role="acknowledgement" view="all">HS has conceived of and wrote the first draft of the manuscript. LOG and EJE reviewed and revised subsequent versions and discussed all substantive points in person or by email.</ce:para>
+               <ce:para id="para220" role="acknowledgement" view="all">
+                  <ce:bold>Declaration of interests</ce:bold>
+               </ce:para>
+               <ce:para id="para230" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+            <ce:acknowledgment id="ceack10" view="all">
+               <ce:para id="para240" view="all">
+                  <ce:bold>Acknowledgments</ce:bold>
+               </ce:para>
+               <ce:para id="para250" role="acknowledgement" view="all">We thank Anne Barnhill, Daniel Cotlear, Leonardo Cubillos-Turriago, Eric A Friedman, Ramiro Guerrero, Felicia Marie Knaul Windish, Joe Kutzin, Trygve Ottersen, Govind Persad, Jennifer Prah Ruger, Viroj Tangcharoensathien, Suwit Wibulpolprasert, and Petronella Vergeer for comments on earlier versions of the manuscript and crucial help with specific factual queries. We are also grateful for helpful comments from the three anonymous reviewers that enabled us to clarify several central points. All errors are the authors' alone.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Universal coverage is the ultimate expression of fairness. Acceptance speech at the 65th World Health Assembly; Geneva, Switzerland; May 23, 2012</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="http://www.who.int/dg/speeches/2012/wha_20120523/en/index.html" xlink:type="simple">http://www.who.int/dg/speeches/2012/wha_20120523/en/index.html</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed May 29, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Open Working Group of the General Assembly</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Open Working Group Proposal for Sustainable Development Goals. 2014. A/68/970</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="http://undocs.org/A/68/970" xlink:type="simple">http://undocs.org/A/68/970</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed May 29, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Frenk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>de Ferranti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Universal health coverage: good health, good economics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>380</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>862</sb:first-page>
+                              <sb:last-page>864</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                              <sb:collaboration>World Bank</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Monitoring progress towards universal health coverage at country and global levels</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO Consultative Group on Equity and Universal Health Coverage</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Making fair choices on the path to universal health coverage</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <ce:other-ref id="oref10">
+                        <ce:textref>WHO. World Health Assembly Resolution: sustainable health financing, universal coverage and social health insurance. 58th World Health Assembly; Geneva, Switzerland; May 16–25, 2005.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U</ce:given-name>
+                                 <ce:surname>Giedion</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>EA</ce:given-name>
+                                 <ce:surname>Alfonso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y</ce:given-name>
+                                 <ce:surname>Díaz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>The impact of universal coverage schemes in the developing world: a review of the existing evidence</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Bank</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Boerma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Eozenou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M-P</ce:given-name>
+                                 <ce:surname>Kieny</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Wagstaff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Monitoring progress towards universal health coverage at country and global levels</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e1001731</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Maeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Araujo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Cashin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Harris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Ikegami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>MR</ce:given-name>
+                                 <ce:surname>Reich</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Universal health coverage for inclusive and sustainable development: a synthesis of 11 country case studies</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Bank</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>O'Connell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Rasanathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Chopra</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>What does universal health coverage mean?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>383</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>277</sb:first-page>
+                              <sb:last-page>279</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Duran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Kutzin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Financing of public health services and programmes: time to look into the black box</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J</ce:given-name>
+                                    <ce:surname>Kutzin</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>C</ce:given-name>
+                                    <ce:surname>Cashin</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M</ce:given-name>
+                                    <ce:surname>Jakab</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Implementing health financing reform</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>WHO Regional Office for Europe</sb:name>
+                                 <sb:location>Copenhagen</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>247</sb:first-page>
+                              <sb:last-page>268</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Marmot</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Universal health coverage and social determinants of health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>382</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1227</sb:first-page>
+                              <sb:last-page>1228</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sbref120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DR</ce:given-name>
+                                 <ce:surname>Gwatkin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Ergo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Universal health coverage: friend or foe of health equity?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>377</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2160</sb:first-page>
+                              <sb:last-page>2161</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="sbref130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Tantivess</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Werayingyong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Chuengsaman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y</ce:given-name>
+                                 <ce:surname>Teerawattananon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Universal coverage of renal dialysis in Thailand: promise, progress, and prospects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>346</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>f462</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>15</ce:label>
+                     <sb:reference id="sbref140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V</ce:given-name>
+                                 <ce:surname>Tangcharoensathien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Pitayarangsarit</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W</ce:given-name>
+                                 <ce:surname>Patcharanarumol</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Promoting universal financial protection: how the Thai universal coverage scheme was designed to ensure equity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Health Res Policy Syst</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>16</ce:label>
+                     <sb:reference id="sbref150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Guerrero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SI</ce:given-name>
+                                 <ce:surname>Prada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Chenichovsky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>La doble descentralización en el sector salud: evaluación y alternativas de política pública</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Fedesarrollo</sb:name>
+                                 <sb:location>Bogota</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="sbref160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>WHO report on the global tobacco epidemic, 2008—the MPOWER package</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="sbref170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DT</ce:given-name>
+                                 <ce:surname>Jamison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>LH</ce:given-name>
+                                 <ce:surname>Summers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Alleyne</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global health 2035: a world converging within a generation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>382</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1898</sb:first-page>
+                              <sb:last-page>1955</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>19</ce:label>
+                     <sb:reference id="sbref180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Exworthy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Policy to tackle the social determinants of health: using conceptual models to understand the policy process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Health Policy Plan</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>318</sb:first-page>
+                              <sb:last-page>327</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>20</ce:label>
+                     <sb:reference id="sbref190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I</ce:given-name>
+                                 <ce:surname>Kickbusch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Healthy societies: addressing 21st century health challenges</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Adelaide Thinkers in Residence, Government of South Australia</sb:name>
+                                 <sb:location>Adelaide</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>21</ce:label>
+                     <sb:reference id="sbref200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Eyal</ce:given-name>
+                                 <ce:surname>Nir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Samia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hurst. Physician brain drain: can nothing be done?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Public Health Ethics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>180</sb:first-page>
+                              <sb:last-page>192</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>22</ce:label>
+                     <sb:reference id="sbref210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>JV</ce:given-name>
+                                 <ce:surname>Lazarus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SA</ce:given-name>
+                                 <ce:surname>Wallace</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Liljestrand</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improving African health research capacity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scand J Public Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>670</sb:first-page>
+                              <sb:last-page>671</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

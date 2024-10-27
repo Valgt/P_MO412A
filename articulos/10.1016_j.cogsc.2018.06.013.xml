@@ -1,0 +1,2371 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2452223617301219</prism:url><dc:identifier>doi:10.1016/j.cogsc.2018.06.013</dc:identifier><eid>1-s2.0-S2452223617301219</eid><prism:doi>10.1016/j.cogsc.2018.06.013</prism:doi><pii>S2452-2236(17)30121-9</pii><dc:title>UN sustainable development goals: How can sustainable/green chemistry contribute? </dc:title><prism:publicationName>Current Opinion in Green and Sustainable Chemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>rev</pubType><prism:issn>24522236</prism:issn><prism:volume>13</prism:volume><prism:startingPage>154</prism:startingPage><prism:endingPage>157</prism:endingPage><prism:pageRange>154-157</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-10-31</prism:coverDate><prism:coverDisplayDate>October 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>Reuse and Recycling / UN SGDs: How can Sustainable Chemistry Contribute? / Green Chemistry in Education</prism:issueName><dc:creator>Pavez, Paulina</dc:creator><dc:creator>Honores, Jessica</dc:creator><dc:creator>Millán, Daniela</dc:creator><dc:creator>Isaacs, Mauricio</dc:creator><dc:description>
+                  A brief review of Chilean policies on sustainability along with the academic efforts related to green chemistry, in order with this new scenario are discussed. Topics considered are extraction processes, new solvents, CO2 transformation and emerging photovoltaics materials.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S2452223617301219" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2452223617301219" rel="scidir"/></coredata><scopus-id>85051376887</scopus-id><scopus-eid>2-s2.0-85051376887</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85051376887" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>314642</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291792</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291809</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Current Opinion in Green and Sustainable Chemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>CURRENTOPINIONINGREENSUSTAINABLECHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180630">2018-06-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180630">2018-06-30</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20181101">2018-11-01</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20181101">2018-11-01</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-11-01T00:01:23</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2452223617301219</xocs:eid>
+      <xocs:pii-formatted>S2452-2236(17)30121-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2452223617301219</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cogsc.2018.06.013</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2452223618X00042</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20221029">2022-10-29T04:18:53.68297Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20181001</xocs:date-search-begin>
+      <xocs:date-search-end>20181031</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1530343621">2018-06-30T07:27:01.606931Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav body acknowledge affil articletitle auth authfirstini authfull authlast grantnumber grantsponsor misctext orcid primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2452-2236</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24522236</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>13</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>13</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 13</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>154</xocs:first-fp>
+      <xocs:last-lp>157</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>154</xocs:first-page>
+         <xocs:last-page>157</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201810</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>October 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-10-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-10-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Reuse and Recycling / UN SGDs: How can Sustainable Chemistry Contribute? / Green Chemistry in Education</ce:title>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>UN SGDs: how can sustainable chemistry contribute?, edited by Tom Welton</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>rev</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>UNSUSTAINABLEDEVELOPMENTGOALSHOWCANSUSTAINABLEGREENCHEMISTRYCONTRIBUTE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PAVEZ</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conflict of interest statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>MELLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELCOBRECHILENOCOMOPLATAFORMADEINNOVACIONTECNOLOGICA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2"/>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>SHERWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9650</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9652</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>JESSOP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1391</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>GUAJARDO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>165</xocs:ref-first-fp>
+            <xocs:ref-last-lp>176</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>MOSCOSO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-last-lp>72</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>ARANCIBIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1567</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1573</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>ARANCIBIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>303</xocs:ref-first-fp>
+            <xocs:ref-last-lp>309</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>ARANCIBIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>189</xocs:ref-first-fp>
+            <xocs:ref-last-lp>194</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>ZUNIGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>504</xocs:ref-first-fp>
+            <xocs:ref-last-lp>510</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>DELVALLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>180</xocs:ref-first-fp>
+            <xocs:ref-last-lp>199</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>NUNEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>118</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>SEPULVEDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>KUCHUROV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3914</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3946</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>GU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9550</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9570</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>CLARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>90</xocs:ref-first-fp>
+            <xocs:ref-last-lp>93</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>GUAJARDO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1393</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1396</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>GUAJARDO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>MARULLO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>90165</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>MERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>84</xocs:ref-first-fp>
+            <xocs:ref-last-lp>92</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>PAVEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7023</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7031</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>PAVEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9670</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9676</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>SEPULVEDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>899</xocs:ref-first-fp>
+            <xocs:ref-last-lp>908</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>QUIJADAMALDONADO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>200</xocs:ref-first-fp>
+            <xocs:ref-last-lp>206</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>JIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4080</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4106</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>PLAZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>201</xocs:ref-first-fp>
+            <xocs:ref-last-lp>212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>MERLET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>337</xocs:ref-first-fp>
+            <xocs:ref-last-lp>343</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>SAKAKURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2365</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2387</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29"/>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>TAKASHIMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>415</xocs:ref-first-fp>
+            <xocs:ref-last-lp>421</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>MORRIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>191</xocs:ref-first-fp>
+            <xocs:ref-last-lp>196</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref32">
+            <xocs:ref-normalized-surname>ISAACS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>224</xocs:ref-first-fp>
+            <xocs:ref-last-lp>232</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref33">
+            <xocs:ref-normalized-surname>ROSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>643</xocs:ref-first-fp>
+            <xocs:ref-last-lp>644</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref34">
+            <xocs:ref-normalized-surname>TANNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26442</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26447</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref35">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>287</xocs:ref-first-fp>
+            <xocs:ref-last-lp>291</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref36">
+            <xocs:ref-normalized-surname>QUEZADA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3606</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3612</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref37">
+            <xocs:ref-normalized-surname>QUEZADA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4090</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4100</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref38">
+            <xocs:ref-normalized-surname>HONORES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1155</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1162</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref39">
+            <xocs:ref-normalized-surname>GALLARDOFUENTES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>114</xocs:ref-first-fp>
+            <xocs:ref-last-lp>120</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref40"/>
+         <xocs:ref-info refid="sref41">
+            <xocs:ref-normalized-surname>HENRIQUEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4966</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4978</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref42">
+            <xocs:ref-normalized-surname>LOPEZVERGARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>386</xocs:ref-first-fp>
+            <xocs:ref-last-lp>391</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PAVEZX2018X154</xocs:refkey3>
+         <xocs:refkey4lp>PAVEZX2018X154X157</xocs:refkey4lp>
+         <xocs:refkey4ai>PAVEZX2018X154XP</xocs:refkey4ai>
+         <xocs:refkey5>PAVEZX2018X154X157XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-10-29T04:16:53.159Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>FONDECYT</xocs:funding-agency-matched-string>
+            <xocs:funding-id>1141199</xocs:funding-id>
+            <xocs:funding-id>1170976</xocs:funding-id>
+            <xocs:funding-id>1181226</xocs:funding-id>
+            <xocs:funding-id>3150122</xocs:funding-id>
+            <xocs:funding-id>3180061</xocs:funding-id>
+            <xocs:funding-agency-acronym>FONDECYT</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Fondo Nacional de Desarrollo Científico y Tecnológico</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100002850</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3895114/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ministerio de Economía, Fomento y Turismo</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Ministerio de Economía, Fomento y Turismo, Chile</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100005886</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3895114/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Fondo de Innovación para la Competitividad</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>FIC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Fondo de Innovación para la Competitividad</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100016014</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3895114/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>Authors thanks to project RC 130006, CILIS, granted by Fondo de Innovación para la Competitividad, del Ministerio de Economía, Fomento y Turismo, Chile; FONDECYT 1141199, 1170976, 1181226 and FONDECYT postdoctorado 3150122 and 3180061.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2452-2236(17)30121-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2452223617301219</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2452223617301219</xocs:eid>
+         <xocs:doi>10.1016/j.cogsc.2018.06.013</xocs:doi>
+         <xocs:cid>314642</xocs:cid>
+         <xocs:timestamp>2018-11-01T14:55:50.810823Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-10-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-10-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2452223617301219-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2452223617301219/MAIN/application/pdf/46a83d404831d9d992594d873c25d3e6/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2452223617301219/MAIN/application/pdf/46a83d404831d9d992594d873c25d3e6/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>237910</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2452223617301219-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2452223617301219/PREVIEW/image/png/42a79939ac88e034efe3cefe8c63d9d4/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2452223617301219/PREVIEW/image/png/42a79939ac88e034efe3cefe8c63d9d4/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73130</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="rev" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>COGSC</jid>
+            <aid>186</aid>
+            <ce:pii>S2452-2236(17)30121-9</ce:pii>
+            <ce:doi>10.1016/j.cogsc.2018.06.013</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <head>
+            <ce:dochead id="dhead0010">
+               <ce:textfn>Review article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="title0010">UN sustainable development goals: How can sustainable/green chemistry contribute?</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S2452223617301219-95692ca83b6cd1c9f16608fb1e4cbb6a">
+                  <ce:given-name>Paulina</ce:given-name>
+                  <ce:surname>Pavez</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S2452223617301219-01e401cfca6c4e8a608892208eca85e4">
+                  <ce:given-name>Jessica</ce:given-name>
+                  <ce:surname>Honores</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0015">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" orcid="0000-0002-4264-7967" author-id="S2452223617301219-2995ed9248c0c80a521bc39fec2c9f4e">
+                  <ce:given-name>Daniela</ce:given-name>
+                  <ce:surname>Millán</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0020">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4" author-id="S2452223617301219-6c4a6b48fda419c7e719ea40a9e84f48">
+                  <ce:given-name>Mauricio</ce:given-name>
+                  <ce:surname>Isaacs</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0025">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff3" id="crosref0030">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff4" id="crosref0035">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0040">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2452223617301219-879e18abd4f3526ad79f50f99a2e5324">
+                  <ce:label>1</ce:label>
+                  <ce:textfn>Pontificia Universidad Católica Chile, Facultad de Química, Chile</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Pontificia Universidad Católica Chile</sa:organization>
+                     <sa:organization>Facultad de Química</sa:organization>
+                     <sa:country>Chile</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2452223617301219-39983c6720793d6d5598e0e2b73aba6d">
+                  <ce:label>2</ce:label>
+                  <ce:textfn>Universidad Bernardo O'Higgins, Laboratorio de Bionanotecnología, General Gana 1702, Santiago, Chile</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Universidad Bernardo O'Higgins</sa:organization>
+                     <sa:organization>Laboratorio de Bionanotecnología</sa:organization>
+                     <sa:address-line>General Gana 1702</sa:address-line>
+                     <sa:city>Santiago</sa:city>
+                     <sa:country>Chile</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S2452223617301219-c2bfd6dc743f84491087e17eb5840ef4">
+                  <ce:label>3</ce:label>
+                  <ce:textfn>CIEN-UC, Chile</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CIEN-UC</sa:organization>
+                     <sa:country>Chile</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff4" affiliation-id="S2452223617301219-d61f4eb4e95402bd6b4f7bea9af9c823">
+                  <ce:label>4</ce:label>
+                  <ce:textfn>UC Energy Research Center, Chile</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>UC Energy Research Center</sa:organization>
+                     <sa:country>Chile</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author: Isaacs, Mauricio</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="15" month="12" year="2017"/>
+            <ce:date-revised day="16" month="4" year="2018"/>
+            <ce:date-accepted day="14" month="6" year="2018"/>
+            <ce:miscellaneous id="misc0010">This review comes from a themed issue on <ce:bold>UN SGDs: how can sustainable chemistry contribute?</ce:bold>
+            </ce:miscellaneous>
+            <ce:miscellaneous id="misc0015">Edited by <ce:bold>Tom Welton</ce:bold>
+            </ce:miscellaneous>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">A brief review of Chilean policies on sustainability along with the academic efforts related to green chemistry, in order with this new scenario are discussed. Topics considered are extraction processes, new solvents, CO<ce:inf loc="post">2</ce:inf> transformation and emerging photovoltaics materials.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0010" view="all">Chile is a developing country, its economy despite past efforts; still depends on natural resources such as mining and raw materials exports, with low added value that strongly pressures the environment. On the other hand, Chile as a member of the Organization for Economic Co-operation and Development (OECD) faces environmental challenges from its partners in terms of competitiveness, such as the <ce:italic>green mining concept</ce:italic>. It is certain that Chile will not be a developed country if it does not initiate a technological revolution in the medium term, since no country-in the modern era-has achieved these objectives without generating a change in the means of production of its economy <ce:cross-ref refid="bib1" id="crosref0045">[1]</ce:cross-ref>. However, for the twenty-first century scenario, it is no longer enough to improve only technologically but also in terms of sustainability. Fortunately, the National Council for Innovation and Development (CNID for its acronym in Spanish) along with the scientific agencies and the Ministries of Energy, Mining, Environment and Economy have drawn road maps that motivate the use of renewable energies, to replace fossil fuels, on which Chile depends almost entirely, sustainable mining and solar photovoltaics among others <ce:cross-ref refid="bib2" id="crosref0050">[2]</ce:cross-ref>. For instance, government agencies launched a contest whose objectives were development of photovoltaic solar technology for desert climates and high radiation, to design new technologies that can be commercialized within a maximum period of 10 years. One of the objectives of the contest is to reduce the level cost (LCOE) of this type of technology to a level of $ 25 USD/MWh per year 2025 <ce:cross-ref refid="bib2" id="crosref0055">[2]</ce:cross-ref>. On the other hand, the concept of green mining have been introduced by the relevant stakeholders, where carbon neutral technologies, efficient and sustainable management of tails; and the introduction of H<ce:inf loc="post">2</ce:inf> in diesel engines and fuel cells as an energy transition vector, among others are the main issues that will be considered in the short term <ce:cross-ref refid="bib2" id="crosref0060">[2]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0015" view="all">These guidelines of short and medium term actions places our country in a promising scenario in terms of its future sustainable development by 2050. From the academic point of view, the following paragraphs describe specific advances in the field of Green Chemistry in Chile, along with the policies explained above, which we have identified as significant examples.</ce:para>
+               <ce:para id="p0020" view="all">In the replacement of traditional hydrocarbon-derived toxic organic solvents by solvents less harmful for the environment <ce:cross-refs refid="bib3 bib4 bib5 bib6" id="crosrefs0010">[3–6]</ce:cross-refs>, in Chile supercritical fluids (SCFs) and Ionic liquids (ILs) have been used mainly in extraction processes <ce:cross-refs refid="bib7 bib8 bib9 bib10 bib11 bib12 bib13" id="crosrefs0015">[7–13]</ce:cross-refs>. In addition, ionic liquids and bio-based solvents (BBS) have appeared as the most promising approaches for the replacement of volatile organic solvents (VOS) <ce:cross-refs refid="bib14 bib15 bib16" id="crosrefs0020">[14–16]</ce:cross-refs>. They have been used as reaction media in several organic processes <ce:cross-refs refid="bib17 bib18 bib19" id="crosrefs0025">[17–19]</ce:cross-refs>, synthesis <ce:cross-ref refid="bib20" id="crosref0065">[20]</ce:cross-ref> and degradation of toxic compounds <ce:cross-refs refid="bib21 bib22" id="crosrefs0030">[21,22]</ce:cross-refs>. For instance, recently Pavez et al., demonstrated the degradation of two organophosphorus pesticides, Paraoxon and Fenitrothion, occurred more efficiently in ILs and BBS as reaction media than in organic solvents or aqueous solution. The degradation of both pesticides is enhanced in terms of velocity and the products obtained in this reaction. The Paraoxon degradation is obtained with efficiency, yielding phosphate products that are less lipophilic and therefore less toxic to humans.</ce:para>
+               <ce:para id="p0025" view="all">On the other hand for extraction processes, the removal of Cu(II) ions from aqueous solutions was reported <ce:cross-ref refid="bib23" id="crosref0070">[23]</ce:cross-ref> using different hydrophobic imidazolium-based ionic liquids such as: 1-butyl-3-methyl-imidazolium hexafluorophosphate [bmim]PF<ce:inf loc="post">6</ce:inf>, 1-hexyl-3-methyl-imidazolium hexafluorophosphate [hmim]PF<ce:inf loc="post">6</ce:inf> and 1-butyl-3-methyl-imidazolium bis (trifluoromethylsulfonyl) imide [bmim]NTf<ce:inf loc="post">2</ce:inf> and 1,1,1-trifluoro-2,4-pentanedione (TFA) as extractant. Solutions containing Cu(II) ions were contacted with [bmim]PF<ce:inf loc="post">6</ce:inf>, [hmim]PF<ce:inf loc="post">6</ce:inf> and [bmim]NTf<ce:inf loc="post">2</ce:inf> in presence of TFA. After liquid–liquid extraction, both phases were analysed, verifying the formation of the neutral complex Cu(TFA)<ce:inf loc="post">2</ce:inf> as the predominant extraction mechanism in [bmim]PF<ce:inf loc="post">6</ce:inf> and [bmim]NTf<ce:inf loc="post">2</ce:inf>. Meanwhile, the extraction of Cu(II) in [bmim]PF<ce:inf loc="post">6</ce:inf> was strongly influenced by the direct interaction between the metal ion and the IL. The ionic liquids were regenerated using supercritical CO<ce:inf loc="post">2</ce:inf> at 18 MPa and 40 °C. The ionic liquid [bmim]NTf<ce:inf loc="post">2</ce:inf> showed the highest accumulative extraction percentage (≈80%) after sequential loads of Cu(II) ions. Afterwards the recovery performance in [bmim]NTf<ce:inf loc="post">2</ce:inf> and TFA as extractant was improved <ce:cross-ref refid="bib13" id="crosref0075">[13]</ce:cross-ref>. A modified procedure was proposed, which showed better L–L extraction percentages with a decreasing of the concentration of TFA. This configuration allowed obtaining a stripping percentage higher than that obtained with a previously tested procedure in batch mode with a consumption of CO<ce:inf loc="post">2</ce:inf> 4.3 times lower than the observed one in Ref. <ce:cross-ref refid="bib9" id="crosref0080">[9]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0030" view="all">Also, the recovery of Molybdenum (VI), other important metal for the Chilean economy, from aqueous solution by solvent extraction method (SX) was achieved <ce:cross-ref refid="bib24" id="crosref0085">[24]</ce:cross-ref>, using two hydrophobic ILs: [bmim]PF<ce:inf loc="post">6</ce:inf> and 1-octyl-3-methyl-imidazolium bis(trifluoromethylsulfonyl)imide [omim]NTf<ce:inf loc="post">2</ce:inf>, In this study, bis(2-ethylhexyl) phosphoric acid (D<ce:inf loc="post">2</ce:inf>EHPA) was used as the extractant. The use of the selected ILs as solvents involved higher extraction percentages for the entire measured range of extractant concentration and aqueous-organic ratios, decreasing four times the required volume of diluent compared to the experiments performed with kerosene.</ce:para>
+               <ce:para id="p0035" view="all">On the other hand, separation of Acetone-Butanol-Ethanol (ABE) mixtures, which are used to produce biobutanol <ce:cross-ref refid="bib25" id="crosref0090">[25]</ce:cross-ref>, from aqueous solution was proposed by sweep gas pervaporation using gelled supported ionic liquid membranes and by membrane evaporation <ce:cross-ref refid="bib26" id="crosref0095">[26]</ce:cross-ref>. IL membranes were found to have a great potential for separation of butanol from the ABE mixtures by pervaporation <ce:cross-ref refid="bib27" id="crosref0100">[27]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0040" view="all">Since carbon dioxide has an important impact in the global warming and its anthropogenic emission has been sharply increasing in the last century, energetically favourable transformation of carbon dioxide into useful products represents a social and scientific need that must be solved <ce:cross-ref refid="bib28" id="crosref0105">[28]</ce:cross-ref>. It is well known that Chile is not a main contributor to the global warming, however what its less known is that Chile is probably one of the most threatened countries in the world because of this climate disruption. Indeed, the impact of this phenomenon is already being felt in the decrease of experienced rainfall, being partly responsible for a situation that is defined as mega-drought between the regions of Coquimbo and Araucanía <ce:cross-refs refid="bib2 bib29" id="crosrefs0035">[2,29]</ce:cross-refs>. In this context, different catalysts for carbon dioxide utilization have been designed, such as metal nanoparticles <ce:cross-ref refid="bib30" id="crosref0110">[30]</ce:cross-ref>, organic reagents <ce:cross-ref refid="bib31" id="crosref0115">[31]</ce:cross-ref> and macrocyclic complexes <ce:cross-ref refid="bib32" id="crosref0120">[32]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0045" view="all">Ionic liquids as solvents for carbon dioxide reduction have been intensively studied worldwide <ce:cross-refs refid="bib33 bib34 bib35" id="crosrefs0040">[33–35]</ce:cross-refs>, since the wide electrochemical window and higher solubility of CO<ce:inf loc="post">2</ce:inf> in these solvents make them a good option when greener processes are needed. Quezada et al. in 2014 reported <ce:cross-ref refid="bib36" id="crosref0125">[36]</ce:cross-ref> the electro-catalytic reduction of carbon dioxide using cobalt 5,10,15,20 tetrakis(4- aminophenyl)porphyrin forming a conducting polymer on an indium tin oxide electrode (ITO), using 1-butyl-3-methylimidazolium tetrafluoroborate [bmim]BF<ce:inf loc="post">4</ce:inf> as reaction medium. This was the first example of reduction of carbon dioxide in ILs using a modified cathodic surface finding carbon monoxide as main reaction product at −0.8 V vs Ag/AgCl. Spectroelectrochemical evidence suggested that the reactive species promoting the reaction is an electrochemically generated Co(I) porphyrin. The same authors reported the preparation of zinc (II) and iron (III) poly tetra-amino-phenyl porphyrins on (ITO) in [bmim]BF<ce:inf loc="post">4</ce:inf> 
+                  <ce:cross-ref refid="bib37" id="crosref0130">[37]</ce:cross-ref>. The authors compared the activity of Fe and Zn modified surfaces, with only the former having considerable activity for carbon monoxide production. Spectroelectrochemical experiments shown intermediary species like Fe–CO<ce:inf loc="post">2</ce:inf> and Fe–CO at open-circuit potential, indicating CO may be poisoning the surface. Overall, iron-porphyrin conducting polymers have showed a turnover number of 9.18, while the Zn film shows a value of 2.74; both being outperformed by the cobalt complex, which showed a TON of 69.</ce:para>
+               <ce:para id="p0050" view="all">Solutions of macrocyclic complexes in ionic liquids were later reported by Honores et al., in 2017 <ce:cross-ref refid="bib38" id="crosref0135">[38]</ce:cross-ref>. In their work, the electrochemical reduction of carbon dioxide using [Mn<ce:sup loc="post">+</ce:sup>(cyclam)Cl<ce:inf loc="post">n</ce:inf>] (M = Ni<ce:sup loc="post">2+</ce:sup> and Co<ce:sup loc="post">3+</ce:sup>) as electrocatalysts was studied in [bmim]BF<ce:inf loc="post">4</ce:inf> and [bmim]NTf<ce:inf loc="post">2</ce:inf>. Results indicated that both complexes in [bmim]BF<ce:inf loc="post">4</ce:inf> present faster M(II)/M(I) redox processes, despite its higher viscosity when compared to [bmim]NTf<ce:inf loc="post">2</ce:inf>. Electrochemical experiments demonstrated that [Ni(cyclam)Cl<ce:inf loc="post">2</ce:inf>] is the most active macrocycle towards the reaction under survey, potential controlled electrolysis carried out at −1.4 V vs. Ag/AgCl in [bmim]BF<ce:inf loc="post">4</ce:inf> yielded only CO as a reaction product, with a turnover frequency (TOF) of 0.73 h<ce:sup loc="post">−1</ce:sup>. FT-IR thin layer spectroelectrochemical experiments in CO<ce:inf loc="post">2</ce:inf> saturated solution in [bmim]BF<ce:inf loc="post">4</ce:inf> show the formation of [Ni(cyclam)CO]<ce:sup loc="post">+</ce:sup> as a precursor species, and also the most stable [Ni(CO)<ce:inf loc="post">4</ce:inf>].</ce:para>
+               <ce:para id="p0055" view="all">Theoretical approaches to carbon dioxide activation were designed by Gallardo et al., in their report on the mechanism of CO<ce:inf loc="post">2</ce:inf> electro-cycloaddition to propylene oxide <ce:cross-ref refid="bib39" id="crosref0140">[39]</ce:cross-ref>. The study considered the analysis of mild and sustainable conditions to obtain cyclic carbonates from carbon dioxide. Within the electrochemical approach, the application of an overpotential in the reaction enhances the reaction yield significantly with respect to the thermal pathway. The quantum-mechanical approach provided relevant information about the reaction mechanism. Specifically, the use of the Lewis acid catalyst Mg<ce:sup loc="post">2+</ce:sup> in the presence of the [bmim]Br IL presented the best condition for the electro-synthesis.</ce:para>
+               <ce:para id="p0060" view="all">In of terms energy, Chile has committed to change its electrical system from thermoelectric to 20% renewable by 2025, where photovoltaics presents one of the most promising opportunities in the world. Indeed, Chile and the associated industrial sector have invested and installed photovoltaics generation plants in the Atacama Desert with a growth from 11 Mw installed in 2014 to 800 Mw at the end of 2016; at present there are under construction or in contract a capacity of 13.3 GW <ce:cross-ref refid="bib40" id="crosref0145">[40]</ce:cross-ref>. This scenario pressures for new and sustainable materials with enhanced photo-electrical properties avoiding the use of precious metals, intensive extraction metals or semiconductors. Materials such as kesterite and calcopyrites have been prepared and tested as new sustainable absorbers for solar cells where the work of Henriquez <ce:cross-ref refid="bib41" id="crosref0150">[41]</ce:cross-ref> and Galdamez <ce:cross-ref refid="bib42" id="crosref0155">[42]</ce:cross-ref> is pioneering.</ce:para>
+               <ce:section id="sec1" role="conclusion" view="all">
+                  <ce:section-title id="sectitle0010">Conclusions</ce:section-title>
+                  <ce:para id="p0065" view="all">Several strategies for more sustainable processes were discussed. The replacement of petroleum-derived solvents is reflected in the decontamination of toxic compounds such as organophosphorus pesticides and in extraction processes of metals such as Cu and Mo. On the other hand, the reduction of CO<ce:inf loc="post">2</ce:inf> in greener solvents has been demonstrated. Also, some advances in solar cells with sustainable materials were mentioned. These academic efforts are in order with new policies in Chile that aim for sustainable development. It is hoped that these efforts will be realized in the coming years.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:section-title id="sectitle0025">Conflict of interest statement</ce:section-title>
+                  <ce:para id="p0075" view="all">Nothing declared.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0015">Acknowledgements</ce:section-title>
+               <ce:para id="p0070" view="all">Authors thanks to project RC 130006, CILIS, granted by <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Fondo de Innovación para la Competitividad, del Ministerio de Economía, Fomento y Turismo, Chile</ce:grant-sponsor>; <ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">FONDECYT</ce:grant-sponsor> 
+                  <ce:grant-number refid="gs2">1141199</ce:grant-number>, <ce:grant-number refid="gs2">1170976</ce:grant-number>, <ce:grant-number refid="gs2">1181226</ce:grant-number> and <ce:grant-sponsor id="gs3" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">FONDECYT postdoctorado</ce:grant-sponsor> 
+                  <ce:grant-number refid="gs3">3150122</ce:grant-number> and <ce:grant-number refid="gs3">3180061</ce:grant-number>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0020">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Meller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Gana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>El cobre chileno como plataforma de innovación tecnológica</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Innovación tecnológica</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015, June</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CIEPLAN</sb:name>
+                                 <sb:location>Santiago de Chile</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://scioteca.caf.com/handle/123456789/771" id="intref0010" xlink:type="simple">http://scioteca.caf.com/handle/123456789/771</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <ce:other-ref id="sref2">
+                        <ce:textref>Ciencias, tecnologías e innovación para un nuevo pacto de desarrollo sostenible e inclusivo. Consejo Nacional de Innovación para el desarrollo. Retrieved from: <ce:inter-ref xlink:href="http://www.cnid.cl/documentos/" id="intref0015" xlink:type="simple">http://www.cnid.cl/documentos/</ce:inter-ref>; <ce:inter-ref xlink:href="https://www.corfo.cl/sites/Satellite?c=C_NoticiaNacional&amp;cid=1476720285488&amp;d=Touch&amp;pagename=CorfoPortalPublico%2FC_NoticiaNacional%2FcorfoDetalleNoticiaNacionalWeb" id="interref0010" xlink:type="simple">https://www.corfo.cl/sites/Satellite?c=C_NoticiaNacional&amp;cid=1476720285488&amp;d=Touch&amp;pagename=CorfoPortalPublico%2FC_NoticiaNacional%2FcorfoDetalleNoticiaNacionalWeb</ce:inter-ref>; <ce:inter-ref xlink:href="http://programaaltaley.cl/hoja-de-ruta/" id="intref0025" xlink:type="simple">http://programaaltaley.cl/hoja-de-ruta/</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sherwood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>De bruyn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Constantinou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Moity</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>McElroy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Farmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Duncan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Raverty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Hunt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Clark</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dihydrolevoglucosenone (Cyrene) as a bio-based alternative for dipolar aprotic solvents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Commun</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9650</sb:first-page>
+                              <sb:last-page>9652</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>∗4</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Jessop</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Searching for green solvents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Green Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1391</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Nadia</ce:given-name>
+                                 <ce:surname>Guajardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Carlos</ce:given-name>
+                                 <ce:surname>Carlesi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Rodrigo</ce:given-name>
+                                 <ce:surname>Schrebler</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Applications of liquid/liquid biphasic oxidations by hydrogen peroxide with ionic liquids or deep eutectic solvents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemPlusChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>165</sb:first-page>
+                              <sb:last-page>176</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Moscoso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Carbajo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Squella</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>1,3-Dioxolane: a green solvent for the preparation of carbon nanotube-modified electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem Commun</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                              <sb:last-page>72</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Arancibia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lopez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Zuniga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Segura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Extraction of arsenic as the diethyl dithiophosphate complex with supercritical fluid and quantitation by cathodic stripping voltammetry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1567</sb:first-page>
+                              <sb:last-page>1573</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Arancibia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Valderrama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tapia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of chromium in urine samples by complexation-supercritical fluid extraction and liquid or gas chromatography</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Chromatogr B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>785</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>303</sb:first-page>
+                              <sb:last-page>309</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Arancibia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Alarcon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Segura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Supercritical fluid extraction of cadmium as Cd–oxine complex from human hair: determination by square wave anodic or adsorptive stripping voltammetry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal Chim Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>502</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>189</sb:first-page>
+                              <sb:last-page>194</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Zuniga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Jover</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Arancibia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Bayona</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a methodology for the simultaneous determination of inorganic and organolead compounds using supercritical fluid extraction followed by gas chromatography–mass spectrometry and its application to environmental matrices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Talanta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>504</sb:first-page>
+                              <sb:last-page>510</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>José M.</ce:given-name>
+                                 <ce:surname>del Valle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Extraction of natural compounds using supercritical CO<ce:inf loc="post">2</ce:inf>: going from the laboratory to the industrial application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Supercrit Fluids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>180</sb:first-page>
+                              <sb:last-page>199</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Nunez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>del Valle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Navia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Supercritical CO<ce:inf loc="post">2</ce:inf> oilseed extraction in multi-vessel plants. 3. Effect of extraction pressure and plant size on production cost</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Supercrit Fluid</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                              <sb:last-page>118</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>∗13</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sepúlveda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Castillo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Plaza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sánchez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Torres</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improvement of recovery performance in the solvent extraction of Cu(II) using [bmim][Tf2N] and a β-diketone as extractant and its stripping with supercritical carbon dioxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Supercrit Fluids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>128</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Kuchurov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Zharkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Fershtat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Makhova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Zlotin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Prospective symbiosis of green chemistry and energetic materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemSusChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3914</sb:first-page>
+                              <sb:last-page>3946</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>∗15</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Jérôme</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bio-based solvents: an emerging generation of fluids for the design of eco-efficient processes in catalysis and organic chemistry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Soc Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9550</sb:first-page>
+                              <sb:last-page>9570</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>∗16</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Clark</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Macquarrie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sherwood</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>: a quantitative comparison between conventional and bio-derived solvents from citrus waste in esterification and amidation kinetic studies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Green Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>90</sb:first-page>
+                              <sb:last-page>93</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Nadia</ce:given-name>
+                                 <ce:surname>Guajardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Pablo</ce:given-name>
+                                 <ce:surname>Dominguez de María</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Katherine</ce:given-name>
+                                 <ce:surname>Ahumada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Rodrigo A.</ce:given-name>
+                                 <ce:surname>Schrebler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Rodrigo</ce:given-name>
+                                 <ce:surname>Ramirez-Tagle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Fernando A.</ce:given-name>
+                                 <ce:surname>Crespo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Carlos</ce:given-name>
+                                 <ce:surname>Carlesi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Water as cosolvent: nonviscous deep eutectic solvents for efficient lipase-catalyzed esterifications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemCatChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1393</sb:first-page>
+                              <sb:last-page>1396</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Nadia</ce:given-name>
+                                 <ce:surname>Guajardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Carlos</ce:given-name>
+                                 <ce:surname>Carlesi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Rodrigo</ce:given-name>
+                                 <ce:surname>Schrebler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Jaime</ce:given-name>
+                                 <ce:surname>Morales</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Applications of liquid/liquid biphasic oxidations by hydrogen peroxide with ionic liquids or deep eutectic solvents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemPlusChem</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/cplu.201600594</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>19</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Salvatore</ce:given-name>
+                                 <ce:surname>Marullo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Francesca</ce:given-name>
+                                 <ce:surname>D'Anna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Paola R.</ce:given-name>
+                                 <ce:surname>Campodonico</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Renato</ce:given-name>
+                                 <ce:surname>Noto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ionic liquid binary mixtures: how different factors contribute to determine their effect on the reactivity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>90165</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>20</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Adriana C.</ce:given-name>
+                                 <ce:surname>Mera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yanko</ce:given-name>
+                                 <ce:surname>Moreno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>David</ce:given-name>
+                                 <ce:surname>Contreras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Nestor</ce:given-name>
+                                 <ce:surname>Escalona</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Manuel F.</ce:given-name>
+                                 <ce:surname>Meléndrez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ramalinga Viswanathan</ce:given-name>
+                                 <ce:surname>Mangalaraja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Héctor D.</ce:given-name>
+                                 <ce:surname>Mansillaa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improvement of the BiOI photocatalytic activity optimizing the solvothermal synthesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>84</sb:first-page>
+                              <sb:last-page>92</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>∗∗21</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Paulina</ce:given-name>
+                                 <ce:surname>Pavez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Guillermo</ce:given-name>
+                                 <ce:surname>Oliva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Daniela</ce:given-name>
+                                 <ce:surname>Millán</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Green solvents as a promising approach to degradation of organophosphorate pesticides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Sustain Chem Eng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7023</sb:first-page>
+                              <sb:last-page>7031</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>22</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Paulina</ce:given-name>
+                                 <ce:surname>Pavez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Daniela</ce:given-name>
+                                 <ce:surname>Millán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Javiera I.</ce:given-name>
+                                 <ce:surname>Morales</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Enrique A.</ce:given-name>
+                                 <ce:surname>Castro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Claudio A.</ce:given-name>
+                                 <ce:surname>López</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>José G.</ce:given-name>
+                                 <ce:surname>Santos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanisms of degradation of paraoxon in different ionic liquids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Org Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9670</sb:first-page>
+                              <sb:last-page>9676</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>23</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sepúlveda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sánchez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Copper removal from aqueous solutions by means of ionic liquids containing a -diketone and the recovery of metal complexes by supercritical fluid extraction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Chem Technol Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>899</sb:first-page>
+                              <sb:last-page>908</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>∗∗24</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Quijada-Maldonado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Torres</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solvent extraction of molybdenum (VI) from aqueous solution using ionic liquids as diluents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Separ Purif Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>200</sb:first-page>
+                              <sb:last-page>206</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>25</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progress in the production and application of n-butanol as a biofuel</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renew Sustain Energy Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4080</sb:first-page>
+                              <sb:last-page>4106</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>∗∗26</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Plaza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Merlet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hasanoglu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Isaacs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sanchez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Separation of butanol from ABE mixtures by sweep gas pervaporation using a supported gelled ionic liquid membrane: analysis of transport phenomena and selectivity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Membr Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>444</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>201</sb:first-page>
+                              <sb:last-page>212</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>27</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Merlet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Uribe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Aravena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rodríguez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Cabezas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Quijada-Maldonado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Separation of fermentation products from ABE mixtures by perstraction using hydrophobic ionic liquids as extractants</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Membr Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>537</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>337</sb:first-page>
+                              <sb:last-page>343</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>28</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sakakura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-C.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yasuda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transformation of carbon dioxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2365</sb:first-page>
+                              <sb:last-page>2387</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>29</ce:label>
+                     <ce:other-ref id="sref29">
+                        <ce:textref>Criterios de vulnerabilidad al Cambio Climático de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC). Los estudios disponibles (2<ce:sup loc="post">a</ce:sup> Comunicación Nacional de Cambio Climático, 2011).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>30</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Takashima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Irie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical carbon dioxide reduction on copper-modified palladium nanoparticles synthesized by underpotential deposition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>229</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>415</sb:first-page>
+                              <sb:last-page>421</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>31</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Morris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mcgibbon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Bocarsly</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrocatalytic carbon dioxide activation: the rate-determining step of pyridinium-catalyzed CO<ce:inf loc="post">2</ce:inf> reduction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemSusChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>191</sb:first-page>
+                              <sb:last-page>196</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>32</ce:label>
+                     <sb:reference id="sref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Isaacs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Canales</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Aguirre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Estiú</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Caruso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ferraudi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Costamagna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrocatalytic reduction of CO<ce:inf loc="post">2</ce:inf> by aza-macrocyclic complexes of Ni(II), Co(II), and Cu(II). Theoretical contribution to probable mechanisms</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorganica Chim Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>339</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>224</sb:first-page>
+                              <sb:last-page>232</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>∗33</ce:label>
+                     <sb:reference id="sref33">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Rosen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Salehi-Khojin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Thorson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.T.</ce:given-name>
+                                 <ce:surname>Whipple</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.A.</ce:given-name>
+                                 <ce:surname>Kenis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.I.</ce:given-name>
+                                 <ce:surname>Masel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ionic liquid–mediated selective conversion of CO<ce:inf loc="post">2</ce:inf> to CO at low overpotentials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>334</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>643</sb:first-page>
+                              <sb:last-page>644</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>34</ce:label>
+                     <sb:reference id="sref34">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.E.L.</ce:given-name>
+                                 <ce:surname>Tanner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Batchelor-McAuley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Compton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon dioxide reduction in room-temperature ionic liquids: the effect of the choice of electrode material, cation, and anion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Phys Chem C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26442</sb:first-page>
+                              <sb:last-page>26447</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>35</ce:label>
+                     <sb:reference id="sref35">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical reduction of supercritical carbon dioxide in ionic liquid 1-n-butyl-3-methylimidazolium hexafluorophosphate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Supercrit Fluids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>287</sb:first-page>
+                              <sb:last-page>291</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib36">
+                     <ce:label>∗36</ce:label>
+                     <sb:reference id="sref36">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Quezada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Honores</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>García</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Armijo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Isaacs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrocatalytic reduction of carbon dioxide on a cobalt tetrakis(4-aminophenyl)porphyrin modified electrode in BMImBF<ce:inf loc="post">4</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>New J Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3606</sb:first-page>
+                              <sb:last-page>3612</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib37">
+                     <ce:label>37</ce:label>
+                     <sb:reference id="sref37">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Quezada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Honores</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Aguirre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Isaacs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrocatalytic reduction of carbon dioxide on conducting glass electrode modified with polymeric porphyrin films containing transition metals in ionic liquid medium</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Coord Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4090</sb:first-page>
+                              <sb:last-page>4100</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib38">
+                     <ce:label>∗∗38</ce:label>
+                     <sb:reference id="sref38">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Honores</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Quezada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>García</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Calfumán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Muena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Aguirre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Arévalo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Isaacs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon neutral electrochemical conversion of carbon dioxide mediated by [M<ce:sup loc="post">n+</ce:sup>(cyclam)Cl<ce:inf loc="post">n</ce:inf>] (M = Ni<ce:sup loc="post">2+</ce:sup> and Co<ce:sup loc="post">3+</ce:sup>) on mercury free electrodes and ionic liquids as reaction media</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Green Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1155</sb:first-page>
+                              <sb:last-page>1162</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib39">
+                     <ce:label>39</ce:label>
+                     <sb:reference id="sref39">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gallardo-Fuentes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Contreras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Isaacs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Honores</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Quezada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Landaeta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ormazábal-Toledo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the mechanism of CO<ce:inf loc="post">2</ce:inf> electro-cycloaddition to propylene oxides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J CO<ce:inf loc="post">2</ce:inf> Util</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>114</sb:first-page>
+                              <sb:last-page>120</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib40">
+                     <ce:label>40</ce:label>
+                     <ce:other-ref id="sref40">
+                        <ce:textref>XX Anuario CNE 2016, Retrieved from: <ce:inter-ref xlink:href="http://dataset.cne.cl/Energia_Abierta/Estudios/CNE/AnuarioCNE2016Final_vImprimible.pdf" id="intref0030" xlink:type="simple">http://dataset.cne.cl/Energia_Abierta/Estudios/CNE/AnuarioCNE2016Final_vImprimible.pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib41">
+                     <ce:label>41</ce:label>
+                     <sb:reference id="sref41">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Henríquez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Vasquez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Briones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Muñoz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Leyton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Dalchiele</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Single phase FeS2 (pyrite) thin films prepared by combined electrodeposition and hydrothermal low temperature techniques</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Electrochem Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4966</sb:first-page>
+                              <sb:last-page>4978</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib42">
+                     <ce:label>42</ce:label>
+                     <sb:reference id="sref42">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>López-Vergara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Galdámez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Manríquez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Barahona</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Peña</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cu<ce:inf loc="post">2</ce:inf>Mn<ce:inf loc="post">1</ce:inf>−xCoxSnS<ce:inf loc="post">4</ce:inf>: novel kësterite type solid solutions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Solid State Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>198</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>386</sb:first-page>
+                              <sb:last-page>391</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

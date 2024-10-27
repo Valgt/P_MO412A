@@ -1,0 +1,726 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1877050922003817</prism:url><dc:identifier>doi:10.1016/j.procs.2022.01.372</dc:identifier><eid>1-s2.0-S1877050922003817</eid><prism:doi>10.1016/j.procs.2022.01.372</prism:doi><pii>S1877-0509(22)00381-7</pii><dc:title>Innovation in a food SME to match the UN2030 sustainable development goals </dc:title><prism:publicationName>Procedia Computer Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>18770509</prism:issn><prism:volume>200</prism:volume><prism:startingPage>1715</prism:startingPage><prism:endingPage>1725</prism:endingPage><prism:pageRange>1715-1725</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2022-12-31</prism:coverDate><prism:coverDisplayDate>2022</prism:coverDisplayDate><prism:copyright>© 2022 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><prism:issueName>3rd International Conference on Industry 4.0 and Smart Manufacturing</prism:issueName><dc:creator>Pugliese, Erika</dc:creator><dc:creator>Filice, Luigino</dc:creator><dc:creator>Passarelli, Mariacarmela</dc:creator><dc:description>
+                  Sustainable development goals may be reached with some bold country policies but also optimizing any manufacturing process. Awareness of the large amount of waste produced along the dairy supply chain, for instance, raised great concern: continuous questions are raised about the consequences that will affect environmental sustainability, the continuous waste of resources and, above all, the future health of the entire ecosystem. In fact, dairy wastewater cannot be disposed of as simple wastewater (due to the high organic load and the nutrients it contains); therefore, adequate disposal processes and techniques are requested. The latter have a huge impact on company production costs.
+                  In this regard, coherently with some goals of Agenda2030, the study focuses on the search for a technological solution that could guarantee a reduction in the volume of whey, in order to reduce the number of monthly trips dedicated to disposal and the consequent environmental impact. The optimal selection could improve from one side corporate finances but, at the same time, could result in a green technological solution allowing a more harmonious production within the Pollino National Park in which the farm is located.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Process innovation</dcterms:subject><dcterms:subject>agenda2030</dcterms:subject><dcterms:subject>food waste</dcterms:subject><dcterms:subject>sustainability</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1877050922003817" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1877050922003817" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="221340">https://api.elsevier.com/content/object/eid/1-s2.0-S1877050922003817-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85127791089</scopus-id><scopus-eid>2-s2.0-85127791089</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85127791089" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>280203</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291871</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia Computer Science</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIACOMPUTERSCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220308">2022-03-08</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220308">2022-03-08</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220308">2022-03-08</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220308">2022-03-08</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2022-11-15T08:00:01</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1877050922003817</xocs:eid>
+      <xocs:pii-formatted>S1877-0509(22)00381-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1877050922003817</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.procs.2022.01.372</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1877050922X00033</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20221115">2022-11-15T08:13:30.827844Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220101</xocs:date-search-begin>
+      <xocs:date-search-end>20221231</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1646744772">2022-03-08T13:06:12.440256Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1877-0509</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18770509</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>200</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>200</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 200</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>176</xocs:sort-order>
+      <xocs:first-fp>1715</xocs:first-fp>
+      <xocs:last-lp>1725</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1715</xocs:first-page>
+         <xocs:last-page>1725</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2022</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title id="tt001">3rd International Conference on Industry 4.0 and Smart Manufacturing</ce:title>
+            <ce:editors>
+               <ce:author-group id="aa001">
+                  <ce:author author-id="S1877050922X00033-fa17ceca4d43967e8d307285579ee498" id="aa002">
+                     <ce:given-name>Francesco</ce:given-name>
+                     <ce:surname>Longo</ce:surname>
+                  </ce:author>
+                  <ce:author author-id="S1877050922X00033-e0cda49d5cea953b6983b6c285251d69" id="aa003">
+                     <ce:given-name>Michael</ce:given-name>
+                     <ce:surname>Affenzeller</ce:surname>
+                  </ce:author>
+                  <ce:author author-id="S1877050922X00033-9cd76751552669e7b0a23b629dbd704e" id="aa004">
+                     <ce:given-name>Antonio</ce:given-name>
+                     <ce:surname>Padovano</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>INNOVATIONINAFOODSMEMATCHUN2030SUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PUGLIESE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>FILIPPINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-last-lp>70</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>VOURCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>190</xocs:ref-first-fp>
+            <xocs:ref-last-lp>202</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>TOFFLEMIRE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1201</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1208</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0004"/>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>ZEPPA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>185</xocs:ref-first-fp>
+            <xocs:ref-last-lp>193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0006"/>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>PASSARELLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>893</xocs:ref-first-fp>
+            <xocs:ref-last-lp>902</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>PANCHAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>SHARMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>124</xocs:ref-first-fp>
+            <xocs:ref-last-lp>137</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00010">
+            <xocs:ref-normalized-surname>KOAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>135</xocs:ref-first-fp>
+            <xocs:ref-last-lp>169</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref00011"/>
+         <xocs:ref-info refid="sbref00012">
+            <xocs:ref-normalized-surname>PALMIERI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>881</xocs:ref-first-fp>
+            <xocs:ref-last-lp>889</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref00013"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PUGLIESEX2022X1715</xocs:refkey3>
+         <xocs:refkey4lp>PUGLIESEX2022X1715X1725</xocs:refkey4lp>
+         <xocs:refkey4ai>PUGLIESEX2022X1715XE</xocs:refkey4ai>
+         <xocs:refkey5>PUGLIESEX2022X1715X1725XE</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2022-01-26T01:19:28Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1877-0509(22)00381-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1877050922003817</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1877050922003817</xocs:eid>
+         <xocs:doi>10.1016/j.procs.2022.01.372</xocs:doi>
+         <xocs:cid>280203</xocs:cid>
+         <xocs:timestamp>2022-11-15T08:13:30.827844Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1877050922003817-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877050922003817/MAIN/application/pdf/fbfc8364ca45b9f22be7cc949043f0aa/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>532301</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>11</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1877050922003817-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877050922003817/PREVIEW/image/png/d97a3b769b7a85042e1430276a7b5f0b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>49475</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1877050922003817-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10BXRMFBHD5/MAIN/application/pdf/a7783906a795bf784753bffd339fad01/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>221340</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">ScienceDirect Available online at www.sciencedirect.com Procedia Computer Science 200 (2022) 1715â€“1725 1877-0509 Â© 2022 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 3rd International Conference on Industry 4.0 and Smart Manufacturing 10.1016/j.procs.2022.01.372 10.1016/j.procs.2022.01.372 1877-0509 Â© 2022 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 3rd International Conference on Industry 4.0 and Smart  Manufacturing 3rd International Conference on Industry 4.0 and Smart Manufacturing Available online at www.sciencedirect.com ScienceDirect Procedia Computer Science 00 (2019) 000â€“000 www.elsevier.com/locate/procedia International Conference on Industry 4.0 and Smart Manufacturing Innovation in a food SME to match the UN2030 sustainable development goals Erika Pugliesea, Luigino Filicea , Mariacarmela Passarellia aUniversity of Calabria, via Pietro Bucci, Arcavacata di Rende (Cosenza) 87036, Italy Abstract Sustainable development goals may be reached with some bold country policies but also optimizing any manufacturing process. Awareness of the large amount of waste produced along the dairy supply chain, for instance, raised great concern: continuous questions are raised about the consequences that will affect environmental sustainability, the continuous waste of resources and, above all, the future health of the entire ecosystem. In fact, dairy wastewater cannot be disposed of as simple wastewater (due to the high organic load and the nutrients it contains); therefore, adequate disposal processes and techniques are requested. The latter have a huge impact on company production costs. In this regard, coherently with some goals of Agenda2030, the study focuses on the search for a technological solution that could guarantee a reduction in the volume of whey, in order to reduce the number of monthly trips dedicated to disposal and the consequent environmental impact. The optimal selection could improve from one side corporate finances but, at the same time, could result in a green technological solution allowing a more harmonious production within the Pollino National Park in which the farm is located. Â© 2022 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 3rd International Conference on Industry 4.0 and Smart Manufacturing Keywords: Process innovation, agenda2030, food waste, sustainability. 1. Introduction Over the years, in Italy, the dairy supply chain has transformed into a qualitative and economic certainty and it is considered the flagship of the Country. In fact, Italian dairy products are increasingly known and imitated all over the World, appearing in one of the most important places in the '' Made in Italy '' food sector and boasting a turnover that has continued to grow over the last ten years [1]. However, if from the one side the continuous increase in the demand for consumption of dairy products is seen as an extremely positive element for the growth and development of the Country, on the other side the consequent proportional growth of wastewater is kept in mind harmful from the same production. 1877-0509 Â© 2022 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 3rd International Conference on Industry 4.0 and Smart Manufacturing Available online at www.sciencedirect.com Sci nceDirect Procedia Computer Science 00 (2019) 000â€“000 www.elsevier.com/locate/procedia International Confer nce on Industry 4.0 and Smart Manufacturing Innovation in a food SME to match the UN2030 sustainable development goals Erika Pugliesea, Luigino Filicea , Mariacarmela Passarellia aUniversity of Calabria, via Pietro Bucci, Arcavacata di Rende (Cosenza) 87036, Italy Abstract Sustainable development goals may be reached with some bold country policies but also optimizing any manufacturing process. Awareness of the large amount of waste produced along the dairy supply chain, for instance, raised great concern: continuous questions are raised about the consequences that will affect environmental sustainability, the continuous waste of resources and, above all, the future health of the entire ecosystem. In fact, dairy wastewater cannot be disposed of as simple wastewater (due to the high organic load and the nutrients it contains); therefore, adequate disposal processes and techniques are requested. The latter have a huge impact on company production costs. In this regard, coherently with some goals of Agenda2030, the study focuses on the search for a technological solution that could guarantee a reduction in the volume of whey, in order to reduce the number of monthly trips dedicated to disposal and the consequent environmental impact. The optimal selection could improve from one side corporate finances but, at the same time, could result in a green technological solution allowing a more harmonious production within the Pollino National Park in which the farm is located. Â© 2022 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 3rd International Conference on Industry 4.0 and Smart Manufacturing Keywords: Process innovation, agenda2030, food waste, sustainability. 1. Introduction Over the years, in Italy, the dairy supply chain has transformed into a qualitative and economic certainty and it is considered the flagship of the Country. In fact, Italian dairy products are increasingly known and imitated all over the World, appearing in one of the most important places in the '' Made in Italy '' food sector and boasting a turnover that has continued to grow over the last ten years [1]. However, if from the one side the continuous increase in the demand for consumption of dairy products is seen as an extremely positive element for the growth and development of the Country, on the other side the consequent proportional growth of wastewater is kept in mind harmful from the same production. 1877-0509 Â© 2022 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review u der responsibility of scientific committe  of the 3rd Int rnational C ference o  Industry 4.0 and Smart Manufacturing  2022 The uthors. Published by Elsevier B.V. This is an open access article under the  - -  license (https://creativeco ons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committe  of the 3 d Int r tional Co f re ce on Industry 4.0 and Smart  anufacturing 1716 Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“17252 / Procedia Computer Science 00 (2022) 000â€“000 In fact, in recent years, the awareness of this large amount of waste produced continuously along the supply chain has raised great concerns to the competent authorities and public opinion, to the point of asking continuous questions about the consequences that will be reflected on environmental sustainability, on the continuous waste of resources and above all on the future health of the entire ecosystem. As it is known, disposing of this waste and the resulting costs, has a huge impact on production costs [2]. The problem arises because the wastewater deriving from dairy products cannot be disposed of as normal wastewater (considered harmful and highly resistant, due to the high organic load and nutrients they contain). Therefore, if adequate treatments are not carried out, eutrophication phenomena could occur with a consequent deterioration of various ecosystems [3]. Therefore, a strong point could be to distinguish wastewater in two parts: water to be considered real waste to be disposed of (such as those deriving from washing equipment) and the one by-products deriving from transformation processes, representing the most critical but of greater relevance. This second category is around 80-90% of the volume of milk used for cheese making and amounts to a huge quantity of the order of millions of tons per year, only in Italy [4]. The distinction between the two types of waste is very important, as whey is a reusable product. In fact, over the years, it is assuming an ever-greater value: a multitude of technologies are being developed whose final purpose is its enhancement, aimed at pursuing the recovery/reuse of components [5]. In Italy, however, whey is mainly considered a special waste and, unlike in other countries, the use of the substance outside the zootechnical field is not yet common. Therefore, the most used and important practice is its destination for animal feed â€“ mainly swine. Even with this solution, however, the problem linked to disposal is extremely felt by the Italian dairies, since the cost to transport the liquid results very huge. The solution could arise taking into account that the milk waste and all the by-products deriving from the transformation process (whey, buttermilk etc.) are composed of very high percentages of water. Therefore, to make their disposal cheaper and, above all, easier, it would be enough to reduce their volume by reducing the water content. In particular, the elimination of water from liquid substances can occur thanks to various simple and in some cases even economic treatments, such as the evaporation process, membrane filtration and the drying process. This is the core of this paper since it is quite obvious that volume reduction is not free and an optimization (not only from an economic point of view) is required. The work was concretely developed solving the problem of a Calabrian dairy linked to the transport of whey destined for surrounding farms for zootechnical feeding. The studyâ€™s goal was to find an economic solution that could improve the company's finances and, above all, a sustainable technological solution. We mainly worked on the search for a possible technology that could guarantee a reduction in the volume of whey, reducing the number of monthly trips for the transport of the substance from the dairy to the recipient farms accordingly, bearing in mind that part of this is destined daily to feed swine on farms. Greater attention was paid to the concentration of the whey, a technique that is widely used to reduce volumes and costs due to the transport of processing effluents for disposal [6]. Another considered aspect was the possibility of reusing the water obtained from the process within the plant. Starting from these ideas and keeping in mind the above, during the study the technical, energetic and economic feasibility of the various technologies examined were evaluated, with consequent economic-environmental comparisons. Finally, a further study was integrated on a possible energy efficiency of the company, evaluating the feasibility and efficiency of a possible installation of a solar thermal system for preheating milk, in order to drastically reduce fuel consumption in the company moving toward the companyâ€™s carbon neutrality. 2. Sustainable Agriculture supply chain in a society 5.0 The 1976 Nobel price Milton Friedman, founder of the â€œChicago schoolâ€�, was the father of a commonly held management principle according to which â€œthe only responsibility of a company is to maximise the profit of its shareholdersâ€�. As if they were guided by some kind of underlying universal order (Adam Smithâ€™s famous â€œinvisible handâ€�), he believed that companies whose sole objective was to maximise profits would spontaneously propagate shared value to society. There was no need to worry about external effects, such as environmental impact or social responsibility. Nor about the equitable distribution of prosperity. Not even long-term competitiveness or national  Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“1725 17172 / Procedia Computer Science 00 (2022) 000â€“000 In fact, in recent years, the awareness of this large amount of waste produced continuously along the supply chain has raised great concerns to the competent authorities and public opinion, to the point of asking continuous questions about the consequences that will be reflected on environmental sustainability, on the continuous waste of resources and above all on the future health of the entire ecosystem. As it is known, disposing of this waste and the resulting costs, has a huge impact on production costs [2]. The problem arises because the wastewater deriving from dairy products cannot be disposed of as normal wastewater (considered harmful and highly resistant, due to the high organic load and nutrients they contain). Therefore, if adequate treatments are not carried out, eutrophication phenomena could occur with a consequent deterioration of various ecosystems [3]. Therefore, a strong point could be to distinguish wastewater in two parts: water to be considered real waste to be disposed of (such as those deriving from washing equipment) and the one by-products deriving from transformation processes, representing the most critical but of greater relevance. This second category is around 80-90% of the volume of milk used for cheese making and amounts to a huge quantity of the order of millions of tons per year, only in Italy [4]. The distinction between the two types of waste is very important, as whey is a reusable product. In fact, over the years, it is assuming an ever-greater value: a multitude of technologies are being developed whose final purpose is its enhancement, aimed at pursuing the recovery/reuse of components [5]. In Italy, however, whey is mainly considered a special waste and, unlike in other countries, the use of the substance outside the zootechnical field is not yet common. Therefore, the most used and important practice is its destination for animal feed â€“ mainly swine. Even with this solution, however, the problem linked to disposal is extremely felt by the Italian dairies, since the cost to transport the liquid results very huge. The solution could arise taking into account that the milk waste and all the by-products deriving from the transformation process (whey, buttermilk etc.) are composed of very high percentages of water. Therefore, to make their disposal cheaper and, above all, easier, it would be enough to reduce their volume by reducing the water content. In particular, the elimination of water from liquid substances can occur thanks to various simple and in some cases even economic treatments, such as the evaporation process, membrane filtration and the drying process. This is the core of this paper since it is quite obvious that volume reduction is not free and an optimization (not only from an economic point of view) is required. The work was concretely developed solving the problem of a Calabrian dairy linked to the transport of whey destined for surrounding farms for zootechnical feeding. The studyâ€™s goal was to find an economic solution that could improve the company's finances and, above all, a sustainable technological solution. We mainly worked on the search for a possible technology that could guarantee a reduction in the volume of whey, reducing the number of monthly trips for the transport of the substance from the dairy to the recipient farms accordingly, bearing in mind that part of this is destined daily to feed swine on farms. Greater attention was paid to the concentration of the whey, a technique that is widely used to reduce volumes and costs due to the transport of processing effluents for disposal [6]. Another considered aspect was the possibility of reusing the water obtained from the process within the plant. Starting from these ideas and keeping in mind the above, during the study the technical, energetic and economic feasibility of the various technologies examined were evaluated, with consequent economic-environmental comparisons. Finally, a further study was integrated on a possible energy efficiency of the company, evaluating the feasibility and efficiency of a possible installation of a solar thermal system for preheating milk, in order to drastically reduce fuel consumption in the company moving toward the companyâ€™s carbon neutrality. 2. Sustainable Agriculture supply chain in a society 5.0 The 1976 Nobel price Milton Friedman, founder of the â€œChicago schoolâ€�, was the father of a commonly held management principle according to which â€œthe only responsibility of a company is to maximise the profit of its shareholdersâ€�. As if they were guided by some kind of underlying universal order (Adam Smithâ€™s famous â€œinvisible handâ€�), he believed that companies whose sole objective was to maximise profits would spontaneously propagate shared value to society. There was no need to worry about external effects, such as environmental impact or social responsibility. Nor about the equitable distribution of prosperity. Not even long-term competitiveness or national / Procedia Computer Science 00 (2019) 000â€“000 3 wealth. The immediate optimisation of profits would automatically drag economies and societies to balanced, positive and fair growth. 40 years later, the United Nations (UN), in September 2015, launched the Agenda 2030, which includes 17 sustainable development goals (SDGs) in order to achieve economic growth, social integration and environmental protection. Among these, SDG 6 intents to â€œEnsure availability and sustainable management of water and sanitation for allâ€�, 12 ensures â€œsustainable consumption and production patternsâ€� and 13 ensures â€œto face climate change and its impactsâ€�. In 2020, the European Commission launched, inside the bigger â€œEuropean Green Dealâ€�, the â€œFarm to fork strategyâ€�, which proposes measures and targets for each stage, from production to distribution to consumption, in order to make the European food systems more sustainable. Within this perspective, firms can find the opportunity to rethink process and products, by ensuring a sustainable supply chain, also basing on its liquidity as demonstrated during pandemic [7]. This paper deals with milk serum. It is a very difficult effluent to be treated and biologically reclaimed in order to reduce its polluting load. The presence of lactose inhibits the biological purification processes with activated sludge. It is therefore possible to treat in a simple biological purifier - present in some farms - only the water deriving from the cleaning processes of the machinery and certainly not the whey. For this reason, the disposal of whey through zootechnical feeding is the most effective method, thanks to which it is possible to dispose of the entire amount of waste without fractionizing it. In this regard, the study has the aim to search, coherently with some goals of Agenda 2030, for possible techniques able to reduce the water content of the whey deriving from the transformation processes of the SocietÃ  Agricola Campotenese, a Calabrian farm founded in 2014 near Campotenese in the municipality of Morano Calabro (province of Cosenza). It is located in the heart of the Pollino National Park, an emblematic place in terms of sustainable cities and communities (SDG 11), where the interaction between man and nature is the prelude for the society 5.0. 3. Technologies for water content reduction The dairy owned by the company â€“ as well as many Italian dairies â€“ daily struggles with the problem related to the disposal of effluents deriving from the transformation processes; these, classified as â€œspecial wasteâ€�, with a high environmental impact due to their high organic content, cannot be discharged into sewers or surface water courses without prior treatment and in compliance with the parameters set by Italian decrees. In fact, the company taken as the object of study, by allocating large quantities of milk to dairy processing transformed for about 80-85% into whey to be disposed of, annually has dilemmas related to disposal of the effluent. In particular, the SocietÃ  Agricola Campotenese produces daily a quantity of whey ranging from 13 tons in the Summer months to 8 tons in the Winter months and only 3,5 tons a day of these are used for feeding the company pigs. Bearing in mind that the dairy works on average from Monday to Saturday (6 days a week), while the company pigs are fed 7 days a week, the company needs to transport an average of 23,5 compared to 53,5 tons per week in Winter and Summer respectively. Considering the maximum residence time of the liquid in the Winter weeks of 4 days, while, in the Summer weeks of 2 â€“ (based on the external temperature) [5] â€“ an average number of annual trips was estimated (bearing in mind that the company uses external vehicles with a max capacity of 20 tons for disposal and assuming an average of 3 trips a week in Summer and a single weekly trip in Winter, from which an annual average of 2 trips per week). The cost of a single trip is equal to 300 â‚¬ (regardless of the effective load) even if a further chance is to pay 200 â‚¬ for a 10 tons vehicle. In this way, the last three years the company spent an average amount of 38.064 â‚¬/year which corresponds to a weekly average cost of 732 â‚¬. Starting from the considerations of section 2 and basing the work on the search for possible techniques that can ensure a reduction of water within the effluent, three different technological scenarios can be considered: â—� Scenario 1 ï¿½ vacuum evaporator with heat pump + plate heat exchanger; 1718 Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“17254 / Procedia Computer Science 00 (2022) 000â€“000 â—� Scenario 2 ï¿½ vacuum steam evaporator + plate heat exchanger: the main difference with the previous one consists in the power supply of the evaporator (the first powered by electricity, while the second by thermal energy); this involves a different energy analysis; â—� Scenario 3 ï¿½ plate heat exchanger + Reverse Osmosis (RO) system. Starting from these points, in the following sections, analyses, comparisons and energy and economic evaluations are reported for each of the three proposed scenarios. Other technical alternatives have been neglected according to their cost and other constraints related to the use case. 4. Energy and economic analysis The choices related to the plant dimension were based on the summer milk production â€“ higher than the Winter one â€“ which results in a greater number of workhours of the new machinery. From the trade-off between purchase costs and consumption, we have calculated a flow rate of 1 m3/h (for the evaporators) and 1,5 m3/h (for the RO system). For the nominal and absorbed power by the plants, it was calculated on the basis of the alternatives deriving from the different concentration levels. Also in this case, the right trade-off linked to the choice of the concentration factor has been evaluated: increasing the levels of whey concentration reduces transport costs but the energy cost increases. Thus, a concentration level of 3 was finally fixed. It is important to say that the extract water (2/3 of the initial mass) is used for industrial process, saving further money. Based on this concentration level, the weekly quantity of whey to be transported is reduced on average to 17,8 tons per week during the Summer season (compared to the previous 53,5) and 7,8 tons per day during the Winter (compared to the previous 23,5); the average number of trips per week decreases from 2 to 1,5 (as above introduced, smaller vehicles, with a capacity of 10 tons require a cost for each journey of 200 â‚¬). Therefore, a significant decrease (50%) in the total annual transport cost is obtained: from 38.064 â‚¬ to 19.032 â‚¬. However, to evaluate the feasibility and economic-energy convenience of the proposed solutions, obtainable benefits, costs and consumption resulting from the implementation of the three basic technologies (heat pump evaporator, steam evaporator and RO system) were calculated. According to that, the results obtained in table 1 are briefly reported. In addition, the investment costs were assumed given the sum of the purchase cost and installation costs (105.000 â‚¬ for the heat pump evaporator, 75.000 â‚¬ for the steam evaporator and 72.000 â‚¬ for the system RO). Table 1. Final results for the three different technologies analyzed and for a concentration level of 3. Heat pump evaporator Steam evaporator RO System Energy consumption [kWh/year] 252.252 293,66 [kWhel] + 222.889,89 [kWhth] 23.306,40 Revenues = transport and water saving [â‚¬/year] 19.032 + 1.388,05 = 20.420,05 19.032 + 1.388,05 = 20.420,05 19.032 + 1.388,05 = 20.420,05 Operating costs = Electricity cost + +Maintenance costs [â‚¬/year] 45.405,36 + 7.000 = 52.405,36 23.711,69 + +52,86 + 7.000 = 30.764,55 4.195,15 + 4.000 + 1.600 =1 9.795,15 Benefits = Revenues - Operating costs [â‚¬/year] -31.985,36 -10.344,50 10.624,90 1 For the RO system, the cost of replacing the membranes is added. Two membrane containers were considered suitable for housing two RO elements of the wound spiral type, with nominal dimensions of 8.038, average duration of about 36 months and cost of around 1.200 â‚¬ each. Therefore, the annual cost attributable to the use and change of membranes amounts to 1.600 â‚¬/year ((1.200 [â‚¬] * 4 [membranes])/3 [years]).  Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“1725 17194 / Procedia Computer Science 00 (2022) 000â€“000 â—� Scenario 2 ï¿½ vacuum steam evaporator + plate heat exchanger: the main difference with the previous one consists in the power supply of the evaporator (the first powered by electricity, while the second by thermal energy); this involves a different energy analysis; â—� Scenario 3 ï¿½ plate heat exchanger + Reverse Osmosis (RO) system. Starting from these points, in the following sections, analyses, comparisons and energy and economic evaluations are reported for each of the three proposed scenarios. Other technical alternatives have been neglected according to their cost and other constraints related to the use case. 4. Energy and economic analysis The choices related to the plant dimension were based on the summer milk production â€“ higher than the Winter one â€“ which results in a greater number of workhours of the new machinery. From the trade-off between purchase costs and consumption, we have calculated a flow rate of 1 m3/h (for the evaporators) and 1,5 m3/h (for the RO system). For the nominal and absorbed power by the plants, it was calculated on the basis of the alternatives deriving from the different concentration levels. Also in this case, the right trade-off linked to the choice of the concentration factor has been evaluated: increasing the levels of whey concentration reduces transport costs but the energy cost increases. Thus, a concentration level of 3 was finally fixed. It is important to say that the extract water (2/3 of the initial mass) is used for industrial process, saving further money. Based on this concentration level, the weekly quantity of whey to be transported is reduced on average to 17,8 tons per week during the Summer season (compared to the previous 53,5) and 7,8 tons per day during the Winter (compared to the previous 23,5); the average number of trips per week decreases from 2 to 1,5 (as above introduced, smaller vehicles, with a capacity of 10 tons require a cost for each journey of 200 â‚¬). Therefore, a significant decrease (50%) in the total annual transport cost is obtained: from 38.064 â‚¬ to 19.032 â‚¬. However, to evaluate the feasibility and economic-energy convenience of the proposed solutions, obtainable benefits, costs and consumption resulting from the implementation of the three basic technologies (heat pump evaporator, steam evaporator and RO system) were calculated. According to that, the results obtained in table 1 are briefly reported. In addition, the investment costs were assumed given the sum of the purchase cost and installation costs (105.000 â‚¬ for the heat pump evaporator, 75.000 â‚¬ for the steam evaporator and 72.000 â‚¬ for the system RO). Table 1. Final results for the three different technologies analyzed and for a concentration level of 3. Heat pump evaporator Steam evaporator RO System Energy consumption [kWh/year] 252.252 293,66 [kWhel] + 222.889,89 [kWhth] 23.306,40 Revenues = transport and water saving [â‚¬/year] 19.032 + 1.388,05 = 20.420,05 19.032 + 1.388,05 = 20.420,05 19.032 + 1.388,05 = 20.420,05 Operating costs = Electricity cost + +Maintenance costs [â‚¬/year] 45.405,36 + 7.000 = 52.405,36 23.711,69 + +52,86 + 7.000 = 30.764,55 4.195,15 + 4.000 + 1.600 =1 9.795,15 Benefits = Revenues - Operating costs [â‚¬/year] -31.985,36 -10.344,50 10.624,90 1 For the RO system, the cost of replacing the membranes is added. Two membrane containers were considered suitable for housing two RO elements of the wound spiral type, with nominal dimensions of 8.038, average duration of about 36 months and cost of around 1.200 â‚¬ each. Therefore, the annual cost attributable to the use and change of membranes amounts to 1.600 â‚¬/year ((1.200 [â‚¬] * 4 [membranes])/3 [years]). Available online at www.sciencedirect.com ScienceDirect Procedia Computer Science 00 (2019) 000â€“000 www.elsevier.com/locate/procedia Therefore, the three proposed alternatives were compared, calculating the cumulative net economic benefits of the plants for each, imposing a 10-years amortization of the investment cost. RO system presents a positive trend, for the evaporators the trend remains negative even when the cost of the system is fully covered (in the tenth year) mostly because the energy concerns. The same analysis was addressed with the addition of an incentive at 50% of the purchase costs (possible for energy related investments): for the evaporators no large variations in trends were generated. Therefore, the only alternative considered for a possible concentration of the whey of the Campotenese dairy was the technology working with the membrane filtration technique. 1.1. Economic-energy analysis of reverse osmosis (RO) technology For the sizing of the exchanger and the pumping system connected to Scenario 3, we proceeded with the calculation of the heat exchange, in order to identify the heat necessary to obtain the desired temperatures, taking into account the inlet temperature constraints of the fluids and the requirement for the outlet temperature. The fluids used in the cooling are whey (hot fluid, with an initial temperature of 60 Â°C) and water from the company well (cold fluid, with an initial temperature of 7 Â°C), about 50-60 m deep. The logic was based on thermal and mechanical principles relating respectively to heat exchangers and hydraulic pumping systems, well known in engineering field. For sake of clearness, an appendix reports all the variables indicated within the equations. Specifically, in a single-phase fluid the amount of heat transferred is indicated as: (1) Inside the exchanger the thermal balance between the two fluids must be satisfied and, therefore: (2) An exchange equation links the thermal power exchanged between the two fluids to the inlet and/or outlet temperatures, to the global heat exchange coefficient and to the heat exchange area: (3) The global heat exchange coefficient is related to the characteristics of the exchanger and of the fluids. Furthermore, for counter-current exchangers such as the one hypothesized, the logarithmic mean Î”t is equal to: 1877-0509 Â© 2022 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 3rd International Conference on Industry 4.0 and Smart Manufacturing 1720 Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“1725 6 / Procedia Computer Science 00 (2022) 000â€“000 (4) Where (5) (6) An optimization problem has been built with the objective of minimizing electrical pumping costs â€“ linked to the exchanger hours of operation dependent by the flow of the fluid. For this purpose the data were: a hot and cold fluid inlet temperature equal to 60 Â°C and 7 Â°C respectively, a hot fluid flow rate of 1.5 m3/h (equal to the flow rate of the RO system); an outlet temperature of the hot fluid of at least 15 Â°C (more restrictive constraint of RO systems and future storage temperature of the whey); an outlet temperature of the cold fluid of at least 40 Â°C (working to accumulate the thermal power which, otherwise, would be dissipated). From the problem were found the outlet temperatures of the fluids (variables of the model), considering as constraints the relations expressed in 1-6 to which the basic principles of hydraulic pumps have been added. The calculation of the nominal and electrical power of a hydraulic pump, in turn linked by the calculation of the volumetric flow rate, with efficiency assumed at 80%, was included in the analysis. The specific heat of the water was considered as the value of the specific heat of the whey (95% water). The different quantities of whey to be treated were considered (Saturdays, the Summer and Winter seasons) and pumps for pumping the fluids in and out. The model generated a flow rate of the cold fluid equal to 0,43 kg/s, an outlet temperature of the fluids respectively equal to 50,6Â° C for the hot one and 15Â° C for the cold one. Therefore, an exchanged heat value of about 80 kW was generated and electrical power absorbed by the pumping system respectively of 0,4 kW (for the two well water circulation pumps), 0,03 kW (for the system pumping of whey), and annual electric pumping costs of about 205 â‚¬/year. The costs of purchasing equipment and installation are added to the investment costs of the previous section, thus a total initial outlay of approximately 81.000 â‚¬ is calculated (incentive of 50% changes to 42.500 â‚¬). Thus, different PBPs (pay-back period) arise: 7,78 years and 4,08 with incentivized investments. However, by obtaining the new trend of the cumulative cash flows, the feasibility of the project in the long term is demonstrated, which, in a time horizon of 15 years, leads to a total economic return of more than 50.000 â‚¬. 5. Milk heating by renewable thermal energy Given the long payback times and the economic effectiveness of the investment linked to the installation of new technologies for the disposal of whey and given the feeling of Campotenese company towards more sustainable solutions, a study was made regarding the milk heating through a more economical, efficient and sustainable system. In fact, the use of fossil fuels, leads to a very significant emission of CO2. Solar radiation, despite its low density (with clear days 1 kW/m2), is still the most abundant and cleanest energy source â€“ especially in southern Italy â€“ where sunny days are more frequent. For this reason, a system operating by solar radiation was considered to improve the aspects linked to the process inefficiency of the company; the system was considered also to save cost since the company is not connected to methane network but uses LPG (Liquefied petroleum gas) gas. The thermal solar system has been evaluated to obtain a pre-heating of the milk, in order to reduce the consumption related to the use of LPG gas in the dairy. Furthermore, the implementation of technologies would allow to obtain an increase in corporate sustainability according to its vision. Based on these initial considerations, a brief and generic analysis of a potential use of a solar thermal system is reported below [8-10].  Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“1725 1721 6 / Procedia Computer Science 00 (2022) 000â€“000 (4) Where (5) (6) An optimization problem has been built with the objective of minimizing electrical pumping costs â€“ linked to the exchanger hours of operation dependent by the flow of the fluid. For this purpose the data were: a hot and cold fluid inlet temperature equal to 60 Â°C and 7 Â°C respectively, a hot fluid flow rate of 1.5 m3/h (equal to the flow rate of the RO system); an outlet temperature of the hot fluid of at least 15 Â°C (more restrictive constraint of RO systems and future storage temperature of the whey); an outlet temperature of the cold fluid of at least 40 Â°C (working to accumulate the thermal power which, otherwise, would be dissipated). From the problem were found the outlet temperatures of the fluids (variables of the model), considering as constraints the relations expressed in 1-6 to which the basic principles of hydraulic pumps have been added. The calculation of the nominal and electrical power of a hydraulic pump, in turn linked by the calculation of the volumetric flow rate, with efficiency assumed at 80%, was included in the analysis. The specific heat of the water was considered as the value of the specific heat of the whey (95% water). The different quantities of whey to be treated were considered (Saturdays, the Summer and Winter seasons) and pumps for pumping the fluids in and out. The model generated a flow rate of the cold fluid equal to 0,43 kg/s, an outlet temperature of the fluids respectively equal to 50,6Â° C for the hot one and 15Â° C for the cold one. Therefore, an exchanged heat value of about 80 kW was generated and electrical power absorbed by the pumping system respectively of 0,4 kW (for the two well water circulation pumps), 0,03 kW (for the system pumping of whey), and annual electric pumping costs of about 205 â‚¬/year. The costs of purchasing equipment and installation are added to the investment costs of the previous section, thus a total initial outlay of approximately 81.000 â‚¬ is calculated (incentive of 50% changes to 42.500 â‚¬). Thus, different PBPs (pay-back period) arise: 7,78 years and 4,08 with incentivized investments. However, by obtaining the new trend of the cumulative cash flows, the feasibility of the project in the long term is demonstrated, which, in a time horizon of 15 years, leads to a total economic return of more than 50.000 â‚¬. 5. Milk heating by renewable thermal energy Given the long payback times and the economic effectiveness of the investment linked to the installation of new technologies for the disposal of whey and given the feeling of Campotenese company towards more sustainable solutions, a study was made regarding the milk heating through a more economical, efficient and sustainable system. In fact, the use of fossil fuels, leads to a very significant emission of CO2. Solar radiation, despite its low density (with clear days 1 kW/m2), is still the most abundant and cleanest energy source â€“ especially in southern Italy â€“ where sunny days are more frequent. For this reason, a system operating by solar radiation was considered to improve the aspects linked to the process inefficiency of the company; the system was considered also to save cost since the company is not connected to methane network but uses LPG (Liquefied petroleum gas) gas. The thermal solar system has been evaluated to obtain a pre-heating of the milk, in order to reduce the consumption related to the use of LPG gas in the dairy. Furthermore, the implementation of technologies would allow to obtain an increase in corporate sustainability according to its vision. Based on these initial considerations, a brief and generic analysis of a potential use of a solar thermal system is reported below [8-10]. / Procedia Computer Science 00 (2019) 000â€“000 7 For the evaluation of the efficiency and effectiveness relating to the installation of the solar thermal system, first of all the quantity of thermal energy required for heating the large quantity of milk transformed daily in the dairy was calculated, as well as the consumption and consequent annual costs of LPG gas. In this regards, two hypotheses were considered: the first relating to the quantity of thermal energy required and the corresponding consumption of LPG for a possible pre-heating of the milk from the initial temperature of 4 Â°C to 20 Â°C, while the second, relative to a heating of the milk from its initial temperature of 4 Â°C to the coagulation temperature (about 35 Â°C). In detail, as a first step, the quantity of milk processed on average in the dairy during the Summer and Winter days was assessed (assuming that 80% of processed milk turns into sheets): an average quantity of milk processed daily in Summer was equal to 16 tons and, in Winter, equal to 10 tons. Thus: Hi LPG = 7 kWh/kg Price LPG = 0,66 â‚¬/kg Unit cost LPG = 0,66 [â‚¬/kg] / 7 [kg] = 0,094 â‚¬/kWh Specific heat of milk = 3.900 J/kgK Starting from these data, the annual fuel needs, consumption and costs were calculated for both hypotheses. The results are reported in Table 2. Table 2. Requirements, consumption and annual costs of LPG necessary to heat the milk from 4 to 20 Â°C and from 4 to 35 Â°C. Hp 1 (4-20 Â°C) Hp 2 (4-35 Â°C) Annual LPG requirement [kWh] 92.274 136.214 Annual LPG consumption [kg] 13.182 19.460 Annual LPG cost [â‚¬/year] 8.700 12.844 For the second part of the analysis, relating to the sizing of the system, different types of collectors were evaluated. On the basis of various characteristics, solar collectors with glazed shelves were considered, preferred over vacuum because they are characterized by a lower cost and not always by a lower efficiency compared to vacuum tube collectors (for low temperature applications). Flat collectors with absorption surfaces of about 2,71 m2, gross surfaces of 2,85 m2, nominal yields of about 0,74 (average value for the new solar collectors) and an annual irradiation of the Calabrian surface were considered of 1.650 kWh/m2. For the sizing of the system, the annual requirement necessary to obtain the requests â€“ previously set â€“ out was considered through the use of flat collectors oriented to the south and with an inclination assumed at 30Â°. Finally, for the calculation of the feasibility, the return on investment was considered both in the case of total cost and in the case of incentive quotas (indeed, given the tendency of the Italian government to push towards the use of RES plants, it can be taking into consideration the hypothesis relating to an incentive share). Starting from the annual needs calculated previously and necessary for heating the milk, the surface and the minimum number of collectors necessary to achieve the requirement under ideal operating conditions of the solar panels in the hypothesis of shadows was calculated. A total absorption surface of 75,6 m2 was obtained, a total surface area of  79,5 m2 and a maximum annual thermal production produced of 92.274 kWh/year for the first hypothesis; while, for the second hypothesis, a total absorption surface of 113,82 m2, a total surface area of  119,7 m2 and a maximum annual thermal production produced of 138.974,2 kWh/year. To evaluate the production of the plant, the real efficiency of the system was considered, bearing in mind: 1722 Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“1725 8 / Procedia Computer Science 00 (2022) 000â€“000 (7) By calculating according to the 7, the average daily yields for each month, the real production level of the plant was obtained for both hypotheses. For this purpose it has been assumed that: to feed the industrial process an average temperature in the collector of 40 and 50 Â°C is required in Summer and in Winter respectively (given the low temperature of interest), transferring the necessary heat in a system of accumulation; the collectors have a thermal dispersion value of 3,29 W/m2K (k1) and 0,001 W/m2K (k2); the daily daylight hours for each month; the average daily values  of irradiation on the surface of the locality of Campotenese in the various months of the year (instantaneous average values  of irradiation obtained from the European Photovoltaic Goegraphical Information System site and relating to the year 2016 [11]); the average daily temperatures on the same surface calculated over the 12 months (obtained from the same site). Therefore, keeping in mind these considerations, the average energy produced in an hour of light and in the hypothesis of a clear sky was obtained. From this, the production level of the plant was then obtained in the various months of the year, the sum of which led to the annual energy potentially producible in the Campotenese area. Obviously, the results also represent the energy (generated by fossil fuels) saved, since in the absence of solar systems, the same energy share should have been provided by the company boilers. Therefore, starting from the energy produced annually, the annual amount of fuel saved was calculated, as well as the lack of cost associated with it, which represents the annual benefit deriving from the investment. Finally, assuming an average total cost related to the installation of the system equal to 800 â‚¬/m2, the total cost of the system and the consequent PBPs were calculated, both for the total share and for that incentivized (with an incentive of 55% of the total cost). The results are summarized in Table 3.  Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“1725 1723 8 / Procedia Computer Science 00 (2022) 000â€“000 (7) By calculating according to the 7, the average daily yields for each month, the real production level of the plant was obtained for both hypotheses. For this purpose it has been assumed that: to feed the industrial process an average temperature in the collector of 40 and 50 Â°C is required in Summer and in Winter respectively (given the low temperature of interest), transferring the necessary heat in a system of accumulation; the collectors have a thermal dispersion value of 3,29 W/m2K (k1) and 0,001 W/m2K (k2); the daily daylight hours for each month; the average daily values  of irradiation on the surface of the locality of Campotenese in the various months of the year (instantaneous average values  of irradiation obtained from the European Photovoltaic Goegraphical Information System site and relating to the year 2016 [11]); the average daily temperatures on the same surface calculated over the 12 months (obtained from the same site). Therefore, keeping in mind these considerations, the average energy produced in an hour of light and in the hypothesis of a clear sky was obtained. From this, the production level of the plant was then obtained in the various months of the year, the sum of which led to the annual energy potentially producible in the Campotenese area. Obviously, the results also represent the energy (generated by fossil fuels) saved, since in the absence of solar systems, the same energy share should have been provided by the company boilers. Therefore, starting from the energy produced annually, the annual amount of fuel saved was calculated, as well as the lack of cost associated with it, which represents the annual benefit deriving from the investment. Finally, assuming an average total cost related to the installation of the system equal to 800 â‚¬/m2, the total cost of the system and the consequent PBPs were calculated, both for the total share and for that incentivized (with an incentive of 55% of the total cost). The results are summarized in Table 3. / Procedia Computer Science 00 (2019) 000â€“000 9 Table 3. Final results relating to the implementation of the solar thermal system for each of the two hypotheses. Hp 1 (4-20 Â°C) Hp 2 (4-35 Â°C) Actual annual production [kWh] 70.851 93.198 LPG saved [kg] 10.122 13.314 Annual LPG cost avoided (Benefit) [â‚¬/year] Initial disbursement [â‚¬] Pay Back Period [years] Initial outlay (with 55% incentive) [â‚¬] Pay Back Period (with 55% incentive) [years] 6.660 63.581 9,55 28.612 4,3 8.761 95.760 10,93 43.092 4,92 In conclusion, by comparing the results relating to the two different scenarios, it is clear that the hypothesized investment would lead to a good economic return in the case of incentivized shares, which, precisely, lead to halved payback times. Consequently, the two plants would guarantee excellent annual levels of avoided CO2 emissions and annual benefits deriving from the missed cost of diesel of almost 7.000 â‚¬ in the first case and 9.000 â‚¬ in the second. Furthermore, it is shown that â€“ from a purely economic point of view â€“ in the event of a lack of incentives, the most convenient investment in the long term is certainly the first hypothesized plant solution. On the other hand, in the hypothesis of an incentive quota, despite the larger PBPs of the second alternative, in the long term, the investment would entail greater economic and environmental benefits: it should be noted that in the case of a simple preheating of the milk, the quantity of thermal energy must be guaranteed at a later time by means of the steam generator, thus leading to a higher total process cost and, consequently, to a lower convenience of the first investment over the second. Finally, as a last step, the future cash flows and the cumulative future cash flows were calculated and generated (only in the case of non-incentivized portion). Specifically, in the hypothesis of a capitalization rate of 10%, obviously better situations arose; for both alternatives the PBPs were halved by at least 3 years and in the first ten years the net economic returns exceed 50.000 euros. Therefore, it can be concluded that, despite the high investment costs, the demand for adequate surfaces and the direct link with solar radiation (random variable), solar thermal is a consolidated technology, mature and with zero environmental impact. Its use is certainly interesting in the case of the application of incentives, as well as with the replacement of more expensive fuels (such as diesel and LPG). Actually, with the assumed cost, the Campotenese company would reach an economic payback time of about 4 years; this indication appears comforting as the expected life for solar systems is over 20 years. 6. Conclusions Nowadays, the quality of an industrial sector is not measured only in terms of raw material, but also on the basis of the efficiency and sustainability of production, which is the reason why the search for more efficient and sustainable processes has become the cornerstone of the milk processing system. This study gave a set of technical solutions to reduce first of all the impact on the ecosystem. What is more, the company is located in a natural park and this gives further constraints in terms of buildings. The availability of different technological alternatives is a good way to choose the most sustainable not only from an economic point of view while other studies just analyse one technology or another. The dairy industry is associated with the production of wastewater that has a significant environmental impact due to its polluting characteristics. In fact, among these, whey is an important source of pollution that requires adequate treatment due to various environmental burdens. However, in Italy, the whey treatment plants that should solve the problem of environmental disposal are few, at a time when the reuse of production waste and the recycling of water becomes decisive [12]. 1724 Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“1725 10 / Procedia Computer Science 00 (2022) 000â€“000 Despite this, thanks to its nutritional value, whey can be successfully recycled for zootechnical feed; in particular, its use represents by far the most ecological system, ensuring the recovery of the entire quantity and minimizing environmental impacts, limiting them to those produced by transport from the dairy to the farm. Within this framework, the study had as its ultimate goal the research and proposal of improvement actions, based on the eco-efficiency of the whey disposal process produced by the dairy of the SocietÃ  Agricola Campotenese, increasing its sustainability and efficiency thanks to a possible technological implementation, which would involve a reduction in the volume of the liquid to be transported. The idea is to fit the UN agenda 2030 sustainable development goals with a meaning also related to economic sustainability. It was demonstrated that: 1. Technology exist and can be properly set for the industrial needs; 2. Incentives can help to reduce significantly the PBP even if it is not prohibitive also in case of 100% due cost; 3. The comparison between the option zero and the innovated process must include also some intangibles: the partner company is located within a national park, less truck will ride on the green ways, less quantities of CO2 will be produced. All these aspects could be the pillars of a new company storytelling, inducing a new imagine among the customers, also looking together toward a new and harmonious 5.0 super smart society [13]. References [1] Filippini R., Marraccini E., Lardon S., Bonari E. (2014): Assessing food production capacity of farms in periurban areas, Italian Journal of Agronomy, 9, (2), 63-70 [2] Vourch M., Balannec B., Chaufer B., Dorange G. (2008): Treatment of dairy industry wastewater by reverse osmosis for water reuse, Desalination â€“Elsevier-, 219, 1-3, 190-202 [3] Tofflemire, T. J., and Van Alstyne F. E. (1974): Land Disposal of Wastewater, Water Pollution Control Federation, 46, 6, 1201-1208 [4] Giaccone V.: Siero di latte: biotecnologie per valorizzare un sottoprodotto dellâ€™industria alimentare italiana, web publication [5] Zeppa G., Dal Bello B., Marchiani R., Ghirardello D., Belviso S., Giornadano M.,Bertolino M. (2013): Sviluppo di prodotti caseari funzionalizzati con sottoprodotti agricoli, Scienza e Tecnica Lattiero-Casearia, 64 (5-6), 185-193. Quine Business Publisher - issuu [6] Marro C., Falco P, Iorio P., Lubrano D., Lucariello L. (2016) Gli indicatori ambientali e la stima del fabbisogno impiantistico regionale per il trattamento del siero ai fini del recupero di materia, la gestione dei reflui dellâ€™industria casearia campana nel rispetto della normativa ambientale, report of the ARPAC (Agenzia Regionale Protezione Ambiente Campania), web publication [7] Passarelli M., Ambrogio G., Filice L., Cariola A., Straffalaci V. (2021): LiSC Model: an innovative paradigm for Liquid Supply Chain, Procedia Computer Science, 180, 893-902 [8] Panchal H., Patel R., Chaudhary S., Patel D.K., Sathyamurthy R., Arunkumar T. (2018): Solar energy utilisation for milk pasteurisation: A comprehensive review, Renewable and Sustainable Energy Reviews â€“ Elsevier, 92, 1-8 [9] Sharma A.K., Sharma C., Mullick S.C., Kandpal T.C. (2017): Solar industrial process heating: A review, Renewable and Sustainable Energy Reviews â€“ Elsevier, 78, 124-137 [10] KoÒ«ak B., Fernandez A. I., Paksoy H. (2020): Review on sensible thermal energy storage for industrial solar applications and sustainability aspects, Solar Energy â€“ Elsevier, 209, 135-169 [11] JRC Photovoltaic Geographical Information System (PVGIS) - European Commission (europa.eu), web [12] Palmieri N., Bonaventura Forleo M., Salimei E. (2017): Environmental impacts of a dairy cheese chain including whey feeding: An Italian case study, Journal of Cleaner Production â€“ Elsevier, 140, (2), 881-889 [13] Cicione F., Filice L., Marino D., Harmonic Innovation, Super Smart Society 5.0 and Technological Humanismâ€�, Springer, Series: Lecture Notes in Networks and Systems, in press  Erika Pugliese  et al. / Procedia Computer Science 200 (2022) 1715â€“1725 1725 10 / Procedia Computer Science 00 (2022) 000â€“000 Despite this, thanks to its nutritional value, whey can be successfully recycled for zootechnical feed; in particular, its use represents by far the most ecological system, ensuring the recovery of the entire quantity and minimizing environmental impacts, limiting them to those produced by transport from the dairy to the farm. Within this framework, the study had as its ultimate goal the research and proposal of improvement actions, based on the eco-efficiency of the whey disposal process produced by the dairy of the SocietÃ  Agricola Campotenese, increasing its sustainability and efficiency thanks to a possible technological implementation, which would involve a reduction in the volume of the liquid to be transported. The idea is to fit the UN agenda 2030 sustainable development goals with a meaning also related to economic sustainability. It was demonstrated that: 1. Technology exist and can be properly set for the industrial needs; 2. Incentives can help to reduce significantly the PBP even if it is not prohibitive also in case of 100% due cost; 3. The comparison between the option zero and the innovated process must include also some intangibles: the partner company is located within a national park, less truck will ride on the green ways, less quantities of CO2 will be produced. All these aspects could be the pillars of a new company storytelling, inducing a new imagine among the customers, also looking together toward a new and harmonious 5.0 super smart society [13]. References [1] Filippini R., Marraccini E., Lardon S., Bonari E. (2014): Assessing food production capacity of farms in periurban areas, Italian Journal of Agronomy, 9, (2), 63-70 [2] Vourch M., Balannec B., Chaufer B., Dorange G. (2008): Treatment of dairy industry wastewater by reverse osmosis for water reuse, Desalination â€“Elsevier-, 219, 1-3, 190-202 [3] Tofflemire, T. J., and Van Alstyne F. E. (1974): Land Disposal of Wastewater, Water Pollution Control Federation, 46, 6, 1201-1208 [4] Giaccone V.: Siero di latte: biotecnologie per valorizzare un sottoprodotto dellâ€™industria alimentare italiana, web publication [5] Zeppa G., Dal Bello B., Marchiani R., Ghirardello D., Belviso S., Giornadano M.,Bertolino M. (2013): Sviluppo di prodotti caseari funzionalizzati con sottoprodotti agricoli, Scienza e Tecnica Lattiero-Casearia, 64 (5-6), 185-193. Quine Business Publisher - issuu [6] Marro C., Falco P, Iorio P., Lubrano D., Lucariello L. (2016) Gli indicatori ambientali e la stima del fabbisogno impiantistico regionale per il trattamento del siero ai fini del recupero di materia, la gestione dei reflui dellâ€™industria casearia campana nel rispetto della normativa ambientale, report of the ARPAC (Agenzia Regionale Protezione Ambiente Campania), web publication [7] Passarelli M., Ambrogio G., Filice L., Cariola A., Straffalaci V. (2021): LiSC Model: an innovative paradigm for Liquid Supply Chain, Procedia Computer Science, 180, 893-902 [8] Panchal H., Patel R., Chaudhary S., Patel D.K., Sathyamurthy R., Arunkumar T. (2018): Solar energy utilisation for milk pasteurisation: A comprehensive review, Renewable and Sustainable Energy Reviews â€“ Elsevier, 92, 1-8 [9] Sharma A.K., Sharma C., Mullick S.C., Kandpal T.C. (2017): Solar industrial process heating: A review, Renewable and Sustainable Energy Reviews â€“ Elsevier, 78, 124-137 [10] KoÒ«ak B., Fernandez A. I., Paksoy H. (2020): Review on sensible thermal energy storage for industrial solar applications and sustainability aspects, Solar Energy â€“ Elsevier, 209, 135-169 [11] JRC Photovoltaic Geographical Information System (PVGIS) - European Commission (europa.eu), web [12] Palmieri N., Bonaventura Forleo M., Salimei E. (2017): Environmental impacts of a dairy cheese chain including whey feeding: An Italian case study, Journal of Cleaner Production â€“ Elsevier, 140, (2), 881-889 [13] Cicione F., Filice L., Marino D., Harmonic Innovation, Super Smart Society 5.0 and Technological Humanismâ€�, Springer, Series: Lecture Notes in Networks and Systems, in press / Procedia Computer Science 00 (2019) 000â€“000 11 APPENDIX A Nomenclature Q amount of heat [W] Qc amount of heat exchanged in the cold fluid [W] Qh amount of heat exchanged in the hot fluid [W] cP specific heat of the fluid Î”t temperature difference generated in the heat exchange G fluid flow rate Gc flow rate of the cold fluid [kg/s] Gh flow rate of the hot fluid [kg/s] To,h outlet temperature of the hot fluid in the exchanger [K] Ti,h inlet temperature of the hot fluid in the exchanger [K] To,c outlet temperature of the cold fluid in the exchanger [K] Ti,c inlet temperature of the cold fluid in the exchanger [K] K global heat transfer coefficient S exchange surface [m2] Î”tml logarithmic mean delta t Hi LPG lower calorific value of LPG gas k1 first heat loss factor of the chosen collector [W/m2K] k2 second heat loss factor of the chosen collector [W/m2K] Î”T temperature difference between the heat transfer fluid present in the collector and the external temperature  needs; 2. Incentives can help to reduce significantly the PBP even if it is not prohibitive also in case of 100% due cost; 3. The comparison between the option zero and the innovated process must includ</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PROCS</jid>
+            <aid>42157</aid>
+            <ce:pii>S1877-0509(22)00381-7</ce:pii>
+            <ce:doi>10.1016/j.procs.2022.01.372</ce:doi>
+            <ce:copyright type="unknown" year="2021"/>
+         </item-info>
+         <head>
+            <ce:title id="tte0001">Innovation in a food SME to match the UN2030 sustainable development goals</ce:title>
+            <ce:author-group id="aug0001">
+               <ce:author id="au0624" author-id="S1877050922003817-ce0ae0e784053ac9be4706e0a536d44b">
+                  <ce:given-name>Erika</ce:given-name>
+                  <ce:surname>Pugliese</ce:surname>
+                  <ce:cross-ref id="cecref0662" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0625" author-id="S1877050922003817-278ec96efe4a31e3e9d7b69408f57882">
+                  <ce:given-name>Luigino</ce:given-name>
+                  <ce:surname>Filice</ce:surname>
+                  <ce:cross-ref id="cecref0663" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0626" author-id="S1877050922003817-94acce80d136d45d88f9caf886359489">
+                  <ce:given-name>Mariacarmela</ce:given-name>
+                  <ce:surname>Passarelli</ce:surname>
+                  <ce:cross-ref id="cecref0664" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S1877050922003817-fa321fd09d0c34653a4eee1a51178ec9">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">University of Calabria, via Pietro Bucci, Arcavacata di Rende (Cosenza) 87036, Italy</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>University of Calabria</sa:organization>
+                     <sa:address-line>via Pietro Bucci</sa:address-line>
+                     <sa:city>Arcavacata di Rende</sa:city>
+                     <sa:state>(Cosenza)</sa:state>
+                     <sa:postal-code>87036</sa:postal-code>
+                     <sa:country>Italy</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara0196" view="all">Sustainable development goals may be reached with some bold country policies but also optimizing any manufacturing process. Awareness of the large amount of waste produced along the dairy supply chain, for instance, raised great concern: continuous questions are raised about the consequences that will affect environmental sustainability, the continuous waste of resources and, above all, the future health of the entire ecosystem. In fact, dairy wastewater cannot be disposed of as simple wastewater (due to the high organic load and the nutrients it contains); therefore, adequate disposal processes and techniques are requested. The latter have a huge impact on company production costs.</ce:simple-para>
+                  <ce:simple-para id="spara0197" view="all">In this regard, coherently with some goals of Agenda2030, the study focuses on the search for a technological solution that could guarantee a reduction in the volume of whey, in order to reduce the number of monthly trips dedicated to disposal and the consequent environmental impact. The optimal selection could improve from one side corporate finances but, at the same time, could result in a green technological solution allowing a more harmonious production within the Pollino National Park in which the farm is located.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0836">
+                  <ce:text id="cetext0836">Process innovation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0837">
+                  <ce:text id="cetext0837">agenda2030</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0838">
+                  <ce:text id="cetext0838">food waste</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0839">
+                  <ce:text id="cetext0839">sustainability</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="cebibsec1" view="all">
+               <ce:section-title id="cesectitle0003">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec2" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Filippini</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Marraccini</ce:surname>
+                                 <ce:given-name>E.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lardon</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bonari</ce:surname>
+                                 <ce:given-name>E.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Assessing food production capacity of farms in periurban areas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Italian Journal of Agronomy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                              <sb:last-page>70</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Vourch</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Balannec</ce:surname>
+                                 <ce:given-name>B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chaufer</ce:surname>
+                                 <ce:given-name>B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Dorange</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Treatment of dairy industry wastewater by reverse osmosis for water reuse</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Desalination -Elsevier-</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>219</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1-3</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>190</sb:first-page>
+                              <sb:last-page>202</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Tofflemire</ce:surname>
+                                 <ce:given-name>T.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Van Alstyne</ce:surname>
+                                 <ce:given-name>F.E</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Land Disposal of Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Pollution Control Federation</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1201</sb:first-page>
+                              <sb:last-page>1208</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>4</ce:label>
+                     <ce:other-ref id="oref0004">
+                        <ce:textref>Giaccone V.: Siero di latte: biotecnologie per valorizzare un sottoprodotto dell’industria alimentare italiana, web publication</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zeppa</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Dal Bello</ce:surname>
+                                 <ce:given-name>B</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Marchiani</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Ghirardello</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Belviso</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Giornadano M.,Bertolino</ce:surname>
+                                 <ce:given-name>M</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sviluppo di prodotti caseari funzionalizzati con sottoprodotti agricoli</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scienza e Tecnica Lattiero-Casearia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5-6</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>185</sb:first-page>
+                              <sb:last-page>193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Quine Business Publisher-issuu</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>6</ce:label>
+                     <ce:other-ref id="oref0006">
+                        <ce:textref>Marro C., Falco P, Iorio P., Lubrano D., Lucariello L. (2016) Gli indicatori ambientali e la stima del fabbisogno impiantistico regionale per il trattamento del siero ai fini del recupero di materia, la gestione dei reflui dell’industria casearia campana nel rispetto della normativa ambientale, report of the ARPAC (Agenzia Regionale Protezione Ambiente Campania), web publication</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Passarelli</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Ambrogio</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Filice</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Cariola</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Straffalaci</ce:surname>
+                                 <ce:given-name>V.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>LiSC Model: an innovative paradigm for Liquid Supply Chain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Procedia Computer Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>893</sb:first-page>
+                              <sb:last-page>902</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Panchal</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Patel</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chaudhary</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Patel</ce:surname>
+                                 <ce:given-name>D.K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sathyamurthy</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Arunkumar</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solar energy utilisation for milk pasteurisation: A comprehensive review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renewable and Sustainable Energy Reviews-Elsevier</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Sharma</ce:surname>
+                                 <ce:given-name>A.K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sharma</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Mullick</ce:surname>
+                                 <ce:given-name>S.C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kandpal</ce:surname>
+                                 <ce:given-name>T.C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solar industrial process heating: A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renewable and Sustainable Energy Reviews-Elsevier</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>124</sb:first-page>
+                              <sb:last-page>137</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00010">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref00010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Koҫak</ce:surname>
+                                 <ce:given-name>B</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Fernandez</ce:surname>
+                                 <ce:given-name>A.I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Paksoy</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Review on sensible thermal energy storage for industrial solar applications and sustainability aspects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solar Energy-Elsevier</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>209</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>135</sb:first-page>
+                              <sb:last-page>169</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00011">
+                     <ce:label>11</ce:label>
+                     <ce:other-ref id="oref00011">
+                        <ce:textref>JRC Photovoltaic Geographical Information System (PVGIS)-European Commission (europa.eu), web</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00012">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref00012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Palmieri</ce:surname>
+                                 <ce:given-name>N.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bonaventura Forleo</ce:surname>
+                                 <ce:given-name>M</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Salimei</ce:surname>
+                                 <ce:given-name>E.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Environmental impacts of a dairy cheese chain including whey feeding: An Italian case study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Cleaner Production-Elsevier</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>881</sb:first-page>
+                              <sb:last-page>889</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00013">
+                     <ce:label>13</ce:label>
+                     <ce:other-ref id="oref00013">
+                        <ce:textref>Cicione F., Filice L., Marino D., Harmonic Innovation, Super Smart Society 5.0 and Technological Humanism”, Springer, Series: Lecture Notes in Networks and Systems, in press</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

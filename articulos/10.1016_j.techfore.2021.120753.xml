@@ -1,0 +1,881 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0040162521001852</prism:url><dc:identifier>doi:10.1016/j.techfore.2021.120753</dc:identifier><eid>1-s2.0-S0040162521001852</eid><prism:doi>10.1016/j.techfore.2021.120753</prism:doi><pii>S0040-1625(21)00185-2</pii><dc:title>Peace engineering as a pathway to the sustainable development goals </dc:title><prism:publicationName>Technological Forecasting and Social Change</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00401625</prism:issn><prism:volume>168</prism:volume><prism:startingPage>120753</prism:startingPage><prism:pageRange>120753</prism:pageRange><articleNumber>120753</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-07-31</prism:coverDate><prism:coverDisplayDate>July 2021</prism:coverDisplayDate><prism:copyright>© 2021 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Yarnall, Kala</dc:creator><dc:creator>Olson, Mira</dc:creator><dc:creator>Santiago, Ivonne</dc:creator><dc:creator>Zelizer, Craig</dc:creator><dc:description>
+                  Two billion people live in countries where sustainable development outcomes are affected by fragility, conflict, and violence. Conflict is a critical development challenge that threatens the successful achievement of the Sustainable Development Goals. Business-as-usual practices that apply top-down approaches to development projects without considering the contextual dynamics are neither appropriate nor sufficient. To fully attain the Sustainable Development Goals, engineers must first recognize that development can only proceed when there is peace and stability, then must be prepared and willing to meet the complex challenges that threaten their long-term achievement. Peace Engineering is an emerging field dedicated to reducing and eliminating conflict-motivated violence through the use of innovative research, technology, policy, systems-level thinking and design. Peace Engineering provides a clear pathway for engineers, scientists, and technologists to apply strong technical skills and system approaches to meet the challenges of the Sustainable Development Goals by incorporating conflict and peace outcomes into business practices, project design and implementation. This paper explores opportunities for engineers to directly advance the Sustainable Development Goals, identifies critical issues that hinder the progress of these goals, introduces Peace Engineering as a guiding framework for overcoming sustainability challenges, and provides examples of effective peace engineering projects and outcomes.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Peacebuilding</dcterms:subject><dcterms:subject>Sustainable development</dcterms:subject><dcterms:subject>Peace engineering</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0040162521001852" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0040162521001852" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="490" size="127076">https://api.elsevier.com/content/object/eid/1-s2.0-S0040162521001852-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="189" height="164" size="20074">https://api.elsevier.com/content/object/eid/1-s2.0-S0040162521001852-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="2170" size="1052165">https://api.elsevier.com/content/object/eid/1-s2.0-S0040162521001852-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="384041">https://api.elsevier.com/content/object/eid/1-s2.0-S0040162521001852-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85102969147</scopus-id><scopus-eid>2-s2.0-85102969147</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85102969147" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271733</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291708</xocs:ssid>
+         <xocs:ssid type="subj">291817</xocs:ssid>
+         <xocs:ssid type="subj">291860</xocs:ssid>
+         <xocs:ssid type="subj">291862</xocs:ssid>
+         <xocs:ssid type="subj">291943</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Technological Forecasting and Social Change</xocs:srctitle>
+      <xocs:normalized-srctitle>TECHNOLOGICALFORECASTINGSOCIALCHANGE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210322">2021-03-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210322">2021-03-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210322">2021-03-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210322">2021-03-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-10-27T16:42:38</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0040162521001852</xocs:eid>
+      <xocs:pii-formatted>S0040-1625(21)00185-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0040162521001852</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.techfore.2021.120753</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0040162521X00042</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240101">2024-01-01T22:23:09.299537Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210701</xocs:date-search-begin>
+      <xocs:date-search-end>20210731</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1616433637">2021-03-22T17:20:37.332693Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authkeywords authlast orcid primabst ref vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0040-1625</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00401625</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>168</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>168</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 168</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>31</xocs:sort-order>
+      <xocs:first-fp>120753</xocs:first-fp>
+      <xocs:article-number>120753</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>120753</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202107</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>July 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-07-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-07-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Peace Engineering and Innovation: A New Techno-Socio-Economic Development Framework; Edited by Yorgos Marinakis, Yorgos Marinakis, Bernard Amadei, Ramiro Jordan &amp; Mark Nelson</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PEACEENGINEERINGAPATHWAYSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>YARNALL</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>K</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Collaboration around the SDGs</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Engineering opportunities within the SDGs</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>The impact of conflict on the achievement of SDGs</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Peace engineering</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Peace engineering approaches to overcome challenges in achieving SDGs</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>7</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Author statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001"/>
+         <xocs:ref-info refid="sbref0002"/>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>ANDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>NOHARMHOWAIDCANSUPPORTPEACEWAR</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004"/>
+         <xocs:ref-info refid="sbref0005"/>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>CECH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-last-lp>94</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007"/>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>DONOHOE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>573</xocs:ref-first-fp>
+            <xocs:ref-last-lp>587</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009"/>
+         <xocs:ref-info refid="sbref0010"/>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STATEFOODSECURITYNUTRITIONINWORLD2019SAFEGUARDINGAGAINSTECONOMICSLOWDOWNSDOWNTURNSROMEFAOLICENCECCBYNCSA30IGOGLOBALPEACEINDEX2019MEASURINGPEACEINACOMPLEXWORLD</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012"/>
+         <xocs:ref-info refid="sbref0013"/>
+         <xocs:ref-info refid="sbref0014"/>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>MOLONEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PEACECORPSPULLSOUTELSALVADOROVERVIOLENCESECURITY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016"/>
+         <xocs:ref-info refid="sbref0017"/>
+         <xocs:ref-info refid="sbref0018"/>
+         <xocs:ref-info refid="sbref0019"/>
+         <xocs:ref-info refid="sbref0020"/>
+         <xocs:ref-info refid="sbref0021"/>
+         <xocs:ref-info refid="sbref0022"/>
+         <xocs:ref-info refid="sbref0023"/>
+         <xocs:ref-info refid="sbref0024"/>
+         <xocs:ref-info refid="sbref0025"/>
+         <xocs:ref-info refid="sbref0026"/>
+         <xocs:ref-info refid="sbref0027"/>
+         <xocs:ref-info refid="sbref0028"/>
+         <xocs:ref-info refid="sbref0029"/>
+         <xocs:ref-info refid="sbref0030"/>
+         <xocs:ref-info refid="sbref0031"/>
+         <xocs:ref-info refid="sbref0032"/>
+         <xocs:ref-info refid="sbref0033"/>
+         <xocs:ref-info refid="sbref0034"/>
+         <xocs:ref-info refid="sbref0035"/>
+         <xocs:ref-info refid="sbref0036"/>
+         <xocs:ref-info refid="sbref0037"/>
+         <xocs:ref-info refid="sbref0038"/>
+         <xocs:ref-info refid="sbref0039"/>
+         <xocs:ref-info refid="sbref0040"/>
+         <xocs:ref-info refid="sbref0041">
+            <xocs:ref-normalized-surname>ZELIZER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTEGRATEDPEACEBUILDINGINNOVATIVEAPPROACHESTRANSFORMINGCONFLICT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>YARNALLX2021X120753</xocs:refkey3>
+         <xocs:refkey4ai>YARNALLX2021X120753XK</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2023-03-22T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2023-03-22T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Elsevier Inc. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-06-02T10:56:41.093Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0040-1625(21)00185-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0040162521001852</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0040162521001852</xocs:eid>
+         <xocs:doi>10.1016/j.techfore.2021.120753</xocs:doi>
+         <xocs:cid>271733</xocs:cid>
+         <xocs:timestamp>2024-01-01T22:23:09.299537Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-07-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-07-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0040162521001852-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040162521001852/MAIN/application/pdf/f16d2cf41d1e2b352d287bf838f1c49e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2665207</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0040162521001852-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040162521001852/PREVIEW/image/png/8bea10b7869ab0aa4b8bd7e70873a7cc/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59451</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040162521001852-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040162521001852/gr1/DOWNSAMPLED/image/jpeg/08b2f7abd573756319abbbb2f073ce14/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>127076</xocs:filesize>
+               <xocs:pixel-height>490</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040162521001852-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040162521001852/gr1/THUMBNAIL/image/gif/0d2aff92b482ac033b5b2761f5848335/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20074</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>189</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040162521001852-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040162521001852/gr1/HIGHRES/image/jpeg/8557d3969e90237c67fef09ff2d4b3a4/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1052165</xocs:filesize>
+               <xocs:pixel-height>2170</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040162521001852-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1067BG81H9K/MAIN/application/pdf/5be003779e0652c1b1a43df05f9751ed/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>384041</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>TFS</jid>
+            <aid>120753</aid>
+            <ce:article-number>120753</ce:article-number>
+            <ce:pii>S0040-1625(21)00185-2</ce:pii>
+            <ce:doi>10.1016/j.techfore.2021.120753</ce:doi>
+            <ce:copyright type="full-transfer" year="2021">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara001" view="all">Connecting the Engineering Grand Challenges to the SDGs (<ce:cross-ref id="crf0039" refid="bib0017">National Academy of Engineering, 2008</ce:cross-ref>).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Fig 1</ce:alt-text>
+               <ce:link id="celink0001" locator="gr1" xlink:href="pii:S0040162521001852/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:article-footnote>
+               <ce:note-para id="notep0001" view="all">This article belong to the special section on Peace Engineering and Innovation: A New Techno-Socio-Economic Development Framework.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tte0002">Peace engineering as a pathway to the sustainable development goals</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author author-id="S0040162521001852-72223fa45f1f3d3e2e117675a5a96448" biographyid="auth1Bio1" id="au0001" orcid="0000-0002-2796-3152">
+                  <ce:given-name>Kala</ce:given-name>
+                  <ce:surname>Yarnall</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0002" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S0040162521001852-7f741aafd436bc6d7bea0f7dddd85784" biographyid="auth2Bio2" id="au0002">
+                  <ce:given-name>Mira</ce:given-name>
+                  <ce:surname>Olson</ce:surname>
+                  <ce:cross-ref id="crf0003" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author author-id="S0040162521001852-1bd79fbc97f25bbcfbe985a1a5bddb64" biographyid="auth3Bio3" id="au0003" orcid="0000-0001-7989-0656">
+                  <ce:given-name>Ivonne</ce:given-name>
+                  <ce:surname>Santiago</ce:surname>
+                  <ce:cross-ref id="crf0004" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author author-id="S0040162521001852-702807263db9afe2f67d5b96bfc5b808" biographyid="auth4Bio4" id="au0004" orcid="0000-0002-2181-2900">
+                  <ce:given-name>Craig</ce:given-name>
+                  <ce:surname>Zelizer</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0003">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S0040162521001852-6a2690d1e38a0860d90d7768d23ced17">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">Peace Engineering, Drexel University, 3141 Chestnut St Curtis Hall 251 Philadelphia, PA 19104, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Peace Engineering</sa:organization>
+                     <sa:organization>Drexel University</sa:organization>
+                     <sa:address-line>3141 Chestnut St Curtis Hall 251</sa:address-line>
+                     <sa:city>Philadelphia</sa:city>
+                     <sa:state>PA</sa:state>
+                     <sa:postal-code>19104</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">aPeace Engineering Department, Drexel University, 3141 Chestnut St Curtis Hall 251 Philadelphia, PA 19104, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S0040162521001852-24577105464cab7d74fdaf224ca0a213">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">Civil Engineering Department, University of Texas at El Paso, Engineering Building El Paso, TX 79968, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Civil Engineering Department</sa:organization>
+                     <sa:organization>University of Texas at El Paso</sa:organization>
+                     <sa:address-line>Engineering Building El Paso</sa:address-line>
+                     <sa:state>TX</sa:state>
+                     <sa:postal-code>79968</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0002">bCivil Engineering Department, University of Texas at El Paso, Engineering Building El Paso, TX 79968, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0003" affiliation-id="S0040162521001852-28726f6fe5059cada4fa2685ca9bad4c">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="cetextfn0003">PCDN.global, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>PCDN.global</sa:organization>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0003">cPCDN.global, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="27" month="7" year="2020"/>
+            <ce:date-revised day="10" month="3" year="2021"/>
+            <ce:date-accepted day="12" month="3" year="2021"/>
+            <ce:abstract class="author" id="abs0001" view="all"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara002" view="all">Two billion people live in countries where sustainable development outcomes are affected by fragility, conflict, and violence. Conflict is a critical development challenge that threatens the successful achievement of the Sustainable Development Goals. Business-as-usual practices that apply top-down approaches to development projects without considering the contextual dynamics are neither appropriate nor sufficient. To fully attain the Sustainable Development Goals, engineers must first recognize that development can only proceed when there is peace and stability, then must be prepared and willing to meet the complex challenges that threaten their long-term achievement. Peace Engineering is an emerging field dedicated to reducing and eliminating conflict-motivated violence through the use of innovative research, technology, policy, systems-level thinking and design. Peace Engineering provides a clear pathway for engineers, scientists, and technologists to apply strong technical skills and system approaches to meet the challenges of the Sustainable Development Goals by incorporating conflict and peace outcomes into business practices, project design and implementation. This paper explores opportunities for engineers to directly advance the Sustainable Development Goals, identifies critical issues that hinder the progress of these goals, introduces Peace Engineering as a guiding framework for overcoming sustainability challenges, and provides examples of effective peace engineering projects and outcomes.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="keys0001" view="all">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0001a">
+                  <ce:text id="cetext0002a">Peacebuilding</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0001b">
+                  <ce:text id="cetext0002b">Sustainable development</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0001c">
+                  <ce:text id="cetext0002c">Peace engineering</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0001" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="cesectitle0003">Introduction</ce:section-title>
+                  <ce:para id="para0006" view="all">In 2015 the Earth's population was 7.4 billion (<ce:cross-ref id="crf0006" refid="bib0028">The World Bank, 2019</ce:cross-ref>) and is projected to reach 9.8 billion by 2050 (<ce:cross-ref id="crf0007" refid="bib0029">United Nations, 2017</ce:cross-ref>). The current human population is characterized as the healthiest and wealthiest in all of history and yet a large portion of the population still does not have access to clean water, sanitation, education, decent housing, basic employment, health care, and other basic needs. A 2017 report released by the World Health Organization (WHO) and the United Nation Children's Fund (UNICEF) estimates that there are 2.1 billion people who do not have access to safely managed drinking water while a 2019 report released by the Food and Agriculture organization of the United Nations states that over 820 million people do not have access to enough food (<ce:cross-ref id="crf0008" refid="bib0039">WHO/UNICEF, 2017</ce:cross-ref>; <ce:cross-ref id="crf0009" refid="bib0011">FAO, IFAD, UNICEF, WFP and WHO, 2019</ce:cross-ref>). Additionally, climate change and environmental degradation continue to reinforce social and economic inequalities (<ce:cross-ref id="crf0010" refid="bib0008">Donohoe, 2003</ce:cross-ref>). According to the 2019 Global Wealth Report released by Credit Suisse, the elite 1% of the global population own 43.9% of total global wealth, whereas the poorest 56.6% own only 1.8% of the wealth (<ce:cross-ref id="crf0011" refid="bib0025">Shorrocks et al., 2019</ce:cross-ref>). A study conducted by the United Nations Development Programme (UNDP) and the Pardee Center for International Futures at the University of Denver predicts that the occurrence of the COVID-19 pandemic will only increase the number of people living in poverty, with the possibility of over 1 billion people experiencing extreme poverty by 2030 (<ce:cross-ref id="crf0012" refid="bib0036">United Nations Development Programme, 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0007" view="all">The Sustainable Development Goals (SDGs) are seventeen targets that the United Nations (UN) established in 2015 to provide guidance for its 193 country signatories to foster a more peaceful and prosperous world (<ce:cross-ref id="crf0013" refid="bib0030">United Nations, 2015</ce:cross-ref>a; <ce:cross-ref id="crf0014" refid="bib0034">United Nations Department of Economic and Social Affairs, 2020</ce:cross-ref>a). The SDGs were designed after the 15-year period in which the Millennium Development Goals (MDGs) guided global development activity. It is important to note that while significant progress was made in achieving partial success of the MDGs, the results in low-income and conflict-affected countries after 15 years were quite dire. In a summary of the results of the MDGs in Conflict Affected Countries, Save the Children and the Center for American Progress found that “states affected by conflict, fragility, or crisis have made distressingly little progress on the MDGs” (<ce:cross-ref id="crf0015" refid="bib0018">Norris et al., 2015</ce:cross-ref>). For development to be effective and sustainable it is essential that major conflictual issues are addressed, as “there can be no sustainable development without peace and no peace without sustainable development” (<ce:cross-ref id="crf0016" refid="bib0031">United Nations, 2015b</ce:cross-ref>). Whereas peace and conflict were not explicitly addressed in the MDGs, the SDGs do address peace and justice by including SDG 16 whose goal is to, “promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels” (<ce:cross-ref id="crf0017" refid="bib0035">United Nations Department of Economic and Social Affairs, 2020b</ce:cross-ref>). While the language of SDG 16 is quite broad, its inclusion as a core goal represents an important step in helping to foster the full or partial achievement of many of the other SDGs by 2030. The collective initiatives of all SDGs are complementary and symbiotic; for example, in order to achieve peace (SDG 16) it will also be necessary to end hunger (SDG 2), provide clean water and sanitation for all (SDG 6), and promote climate action (SDG 13) (<ce:cross-ref id="crf0018" refid="bib0032">United Nations, 2015c</ce:cross-ref>). As these initiatives have been adopted by all of the UN members, they have become a shared global priority, not only for country signatories, but also for the non-government organizations (NGOs), bi-lateral aid organizations, businesses, and institutions that operate within these countries. This creates a unique opportunity for collaboration, innovation, and entrepreneurship.</ce:para>
+                  <ce:para id="para0008" view="all">The purpose of this paper is to illustrate how the field of Peace Engineering can connect the business world to the SDGs and act as a “call to action” for engineers to better understand and prioritize their impact on society, politics, and culture. The COVID-19 pandemic further challenges achievement of the SDGs and it is now more critical than ever for engineers to understand how their work can benefit communities and the world.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="cesectitle0004">Collaboration around the SDGs</ce:section-title>
+                  <ce:para id="para0009" view="all">Global international non-governmental organizations (INGOs), national and local NGOs all widely recognize the SDGs and have worked to align their practices within these goals, acknowledging that efforts to achieve one goal may have impacts on others. Additionally, an increasing number of businesses are recognizing the SDGs as a framework within which to align their business models and actions, including prioritizing “…reducing water, curtailing emissions, [and] enacting better labor practices. . . ” in order to advance the SDGs <ce:cross-ref id="crf0019" refid="bib0027">(Sustainable Brands, 2018</ce:cross-ref>). The UN and other international institutions have also put a strong emphasis on fostering collaboration with the private sector as a central step toward achieving the SDGs. There are several reasons for this, including the fact that Overseas Development Assistance (ODA) as well as national government budget spending is far below the targets needed to achieve the success of the SDGs (<ce:cross-ref id="crf0020" refid="bib0033">United Nations Conference on Trade and Development, 2014</ce:cross-ref>). According to the World Investment Report of 2014 released by the United Nations Conference on Trade and Development (UNCTAD), the estimated required annual investment in key SDG sectors within developing countries is 3.3 to 3.4 trillion; however, only 1.4 trillion USD is actually invested each year leaving an estimated funding gap of at least 1.9 trillion USD per year between what is spent and what would be sufficient (<ce:cross-ref id="crf0021" refid="bib0033">United Nations Conference on Trade and Development, 2014</ce:cross-ref>). While there is a need for increased public spending and ODA, the UN is also seeking additional support from the private sector. In addition to closing the funding gap, the private sector brings a strong set of expertise, the ability to foster economic and job growth in-country and employs a significant percentage of workers in the world. One innovative example is the work of Unilever, a British-Dutch multinational and multibillion consumer goods company. The former CEO of Unilever, Paul Polman, directed Unilever's business model, both for the main company and their 300 global brands, towards the pursuit of the SDGs, thereby integrating sustainability into the long- term growth plan for the company (<ce:cross-ref id="crf0022" refid="bib0013">LexisNexis Blog, 2017</ce:cross-ref>). Along with sustainability, the Business &amp; Sustainable Development Commission anticipates that the SDG markets will create over $12 trillion in opportunities in the fields that make up 60% of the economy, including: food and agriculture, cities, energy and materials, and health and well-being (<ce:cross-ref id="crf0023" refid="bib0004">Business and Sustainable Development Commission, 2017</ce:cross-ref>). Importantly, businesses are now increasingly reaching out to NGOs as partners in advancing the SDGs. Recognizing the on-the-ground knowledge and community trust that NGOs have built for years delivering aid and fulfilling humanitarian needs, Sustainable Brands, a global community of brand innovators, identifies the importance of NGO-business partnerships in advancing the shared priority of fulfilling the SDGs (<ce:cross-ref id="crf0024" refid="bib0027">Sustainable Brands, 2018</ce:cross-ref>.). The report suggests that one of the best ways for businesses to begin measurably fulfilling their commitments to the SDGs is to partner with NGOs that already have strong foundations working to advance the goals. To facilitate these relationships, Sustainable Brands created a list of each of the 17 SDGs and matched them with NGOs that had common priorities and experience. This report gives a positive example that alignment around the SDGs is creating valuable relationships between NGOs and businesses, thereby opening business opportunities and markets.</ce:para>
+                  <ce:para id="para0010" view="all">An example of a complementary partnership aimed at achieving several SDGs is the partnership between Danone, an international food company, and Grameen Bank, a micro- finance and community development bank located in Bangladesh. These two organizations partnered together in 2005 in hopes of creating a self-sustaining social business to address the malnutrition prevalent in many children in Bangladesh, create employment opportunities for locals, have a minimal environmental footprint, and support the sustainable growth of local communities. Their collaboration helped create Grameen Danone, a social business that produces Shokti +, a yogurt rich in micronutrients that are lacking in many Bangladeshis diets. The first factory built in Bogra, Bangladesh was designed with minimal automation, thereby creating more local jobs and a smaller environmental footprint. In order to broaden the market for the yogurt, local saleswomen were hired to go door-to-door to introduce the product and give families the opportunity to try it. The price of the yogurt is fixed based on the price of the milk from local farmers, allowing it to be affordable for even the poorest of families (<ce:cross-ref id="crf0025" refid="bib0023">Renouard, 2012</ce:cross-ref>). According to Danone, Grameen Danone has provided nutrition for 300,000 children, employed 317 workers, and created sustainable revenues for 500 local farmers. Their targeted SDGs are no poverty (SDG 1), zero hunger (SDG 2), good health and well-being (SDG 3), and decent work and economic growth (SDG 8), (<ce:cross-ref id="crf0026" refid="bib0007">Danone, 2020</ce:cross-ref>). It should also be noted that since the social business specifically focuses on hiring local women for much of its work, gender equality (SDG 5) could be included in the goals and outcome of their business. More recently, companies such as Visa have supported the NGO-business partnership approach by partnering with the organizations IFundWomen and Hand in Hand International to support their commitment to women's economic empowerment. With the help of their partners, Visa will begin implementing educational training and funding around the world to support women entrepreneurs and women who wish to become entrepreneurs (<ce:cross-ref id="crf0027" refid="bib0005">Business Wire, 2020</ce:cross-ref>). Despite the many benefits to partnerships such as these, there are also strong critiques. For example, the goals of the private sector can supersede the interest of local civil society actors when profit is a central motive. There is also concern that companies will undertake efforts that link to the SDGs to appear to be doing good, while supporting fundamental practices that work against the best interests of the communities in which they do their work. For this reason, partnership models must be monitored, evaluated based on a broad and inclusive range of indicators, and revised. For instance, when it first began, Grameen Danone had issues with economic sustainability. To raise profits, Grameen Danone created new flavors of Shokti + and began selling it at a higher price in the cities where most of the profit comes from (<ce:cross-ref id="crf0028" refid="bib0026">Storchi, 2018</ce:cross-ref>).</ce:para>
+               </ce:section>
+               <ce:section id="sec0003" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="cesectitle0005">Engineering opportunities within the SDGs</ce:section-title>
+                  <ce:para id="para0011" view="all">As NGOs and businesses increasingly identify opportunities to align their goals with the SDGs, they create avenues for engineers to advance these initiatives. However, many engineers have trouble aligning the humanitarian goals of the SDGs with the innovation priorities of engineering, some of which are represented in the Engineering Grand Challenges. The Engineering Grand Challenges, created in 2008, are a list of technological goals for engineers to achieve in the 21st century. These 14 goals were placed into the 4 categories of sustainability, health, security, and joy of life (<ce:cross-ref id="crf0029" refid="bib0017">National Academy of Engineering, 2008</ce:cross-ref>). While many of these goals seem to be human focused, a critique by Erin Cech describes how the Engineering Grand Challenges ignore the undeniable relationship that technology has on society, politics, and culture and in doing so relieves the engineer from any negative impact they may have on society (<ce:cross-ref id="crf0030" refid="bib0006">Cech, 2012</ce:cross-ref>). The Royal Academy of Engineering advocates for engineers to play a vital role in all the SDGs (<ce:cross-ref id="crf0031" refid="bib0009">Dowling et al., 2016</ce:cross-ref>), opening up many opportunities for engineers to address major world issues such as reducing poverty, hunger, and inequalities, and promoting health, well-being, quality education, gender equality, economic growth, peace, justice, strong institutions, and partnership. Designing safe and reliable infrastructure is one example of the critical and far-reaching role that engineers of many different backgrounds may have in advancing SDGs, including defining and incorporating resiliency for a changing environment (<ce:cross-ref id="crf0032" refid="bib0016">Murray, 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0012" view="all">
+                     <ce:cross-ref id="crf0033" refid="fig0001">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig0001"/> below was created by the authors to map the Engineering Grand Challenges to relevant SDGs in order to illustrate how engineering priority areas may also be applied to achieve the SDGs. This alignment was created to couple the Engineering Grand Challenges with applications that maximize their impact on society, politics, and culture. For engineering challenges to align with societal challenges, local knowledge and expertise needs to be valued and included in the design process. There are many engineers who dedicate their work towards the fulfillment of these goals; however, it is important to re-align engineering practice in order to more significantly address societal challenges. If taken as a call to action, this redirection may encourage engineers to work on complex issues on which they may have never worked before, and wherein the application of their specific skill sets is not immediately apparent. The reenvisioned role of the engineer may guide technical work to address social outcomes and create opportunities for engineers to incorporate long-term value in their technical work.</ce:para>
+                  <ce:para id="para0013" view="all">It is important to note that expanding the domain in which engineers work will require close collaboration with NGOs and other groups familiar with contextual constraints and local challenges. For engineers to work effectively: NGOs must be willing to connect engineers to the locally driven, contextual issues; businesses must provide financial backing by investing in the SDGs; governments must cooperate and encourage businesses and NGOs working in these fields by validating their contributions and/or providing economic incentives; and engineers must recognize the value of working in local partnership. However, most governments, NGOs, and businesses will not allocate money to projects unless the working conditions are safe and there is a reasonable likelihood that the project will be successful and sustainable (measuring success in the fact it will be used and maintained). Instability and conflict often drive organizations and businesses away as it is difficult to maintain a stable enterprise in the midst of an unstable community.</ce:para>
+               </ce:section>
+               <ce:section id="sec0004" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="cesectitle0006">The impact of conflict on the achievement of SDGs</ce:section-title>
+                  <ce:para id="para0014" view="all">Conflict is a critical development challenge that threatens successful achievement of the Sustainable Development Goals. The World Bank implicates conflict as the “primary driver” of suffering and poverty and indicates that conflict drives 80% of all humanitarian needs. In 2018, humanity invested $14.1 trillion (11.2% of global GNP) in the avoidance, administering, or recovery from violence, of which violent crisis and military expenditures represented $5.7 trillion (<ce:cross-ref id="crf0034" refid="bib0011">FAO, IFAD, UNICEF, WFP and WHO, 2019</ce:cross-ref>). Beyond these economic measures, the cost of violence extends deeply into society. Political conflicts resulted in at least 38 highly violent crises in 2016, contributing to the over 68.5 million people displaced worldwide by persecution, conflict, or generalized violence. This is the highest level since World War II (<ce:cross-ref id="crf0035" refid="bib0038">United Nations High Commissioner for Refugees, 2018</ce:cross-ref>). In Somalia, for example, long-term violence has left half the population in need of humanitarian assistance and nearly 400,000 children suffering from acute malnutrition (<ce:cross-ref id="crf0036" refid="bib0019">O'Connell, 2017</ce:cross-ref>). Lessons learned from the development and early implementation of MDGs reveal that progress was often hampered by conflict (<ce:cross-ref id="crf0037" refid="bib0037">United Nations Development Programme, 2016</ce:cross-ref>). In fact, the final Millennium Development Goals Report claims that conflict is the biggest threat to human development (<ce:cross-ref id="crf0038" refid="bib0030">United Nations, 2015a</ce:cross-ref>). Therefore, progress towards Sustainable Development Goals requires a deep commitment to reducing violent conflict and promoting sustained peace. In this sense, all Sustainable Development Goals work towards SDG 16: Peace, Justice and Strong Institutions, and none will be possible without an existing state of peace.</ce:para>
+                  <ce:para id="para0015" view="all">Organizations working to advance SDGs can only function in secure societies. For example, the U.S. Peace Corps, which has been providing social, technical and economic development support around the world since 1962, has often encountered scenarios in which they have had to completely halt their work and pull volunteers out of a country due to violence occurring in the area (<ce:cross-ref id="crf0040" refid="bib0015">Moloney, 2016</ce:cross-ref>). Current operations have been suspended in at least 4 countries due to conflict and violence (<ce:cross-ref id="crf0041" refid="bib0021">Peace Corps, 2020</ce:cross-ref>). Although the COVID-19 pandemic has impacted the entire world, conflict affected countries are more susceptible to outbreaks due to organizational support being forced to flee from the conflict as well as the unstable systems that lack infrastructure and the trust of the people. In Libya for example the wars drove out the foreign medics providing aid on the ground. This violent conflict has caused their health system to nearly collapse and has caused the displacement of people who now must live in overcrowded conditions (<ce:cross-ref id="crf0042" refid="bib0012">International Crisis Group, 2020</ce:cross-ref>; <ce:cross-ref id="crf0043" refid="bib0040">World Health Organization, 2020</ce:cross-ref>). When support must leave due to conflict, whatever progress they may have made building trust in the communities, medical facilities and schools can be completely destroyed. Similarly, NGOs that provide critical services and support for development work are also limited in their impact by conflict. Following the Iranian missile attacks on the US in response to the attack on the Iranian General Soleimani in January 2020 additional security measures were implemented in Iraq. These extra security measures restricted the humanitarian work of the NGO Oxfam International as well as many others by creating road checkpoints and restricting travel around the country. These restrictions forced Oxfam to suspend their work in three regions due to the lack of accessibility to these areas. The suspension of their work is felt immensely by vulnerable populations that require the emergency food and cash aid that Oxfam provides daily (<ce:cross-ref id="crf0044" refid="bib0020">Oxfam International, 2020</ce:cross-ref>). Engineers Without Borders (EWB), another non-profit that develops engineering projects such as buildings and water and sanitation systems, may take months laboring over designs but may never be able to implement their project if the proposed area becomes unstable. In 2019 the Washington D.C.-based EWB professional chapter suspended travel to two of their four projects due to the political instability that threatened the safety of the volunteers (<ce:cross-ref id="crf0045" refid="bib0010">Engineers Without Borders Washington DC Professional Chapter, 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0016" view="all">Not only can conflict hinder progress, but it can also be exacerbated by acts of goodwill if they are not done in a conflict sensitive manner. In the groundbreaking book Do No Harm: How Aid Can Support Peace–or War the author argues that when any outside resources, human or financial, are introduced into a conflict-affected environment, it is imperative to explore and plan for the potential positive or negative impacts on peace and conflict (<ce:cross-ref id="crf0046" refid="bib0003">Anderson, 1999</ce:cross-ref>). This is a basic tenet for all humanitarian, private sector or development work to ensure that, at a minimum, the project does not cause harm to people and/or exacerbate the conflict, and ideally serves to help foster peace and support people and groups (connectors) working on peace (<ce:cross-ref id="crf0047" refid="bib0041">Zelizer, 2013</ce:cross-ref>). Unintended consequences, including conflict, can arise from development projects when community dynamics are not fully understood. Resources such as water and food can be hoarded or weaponized. If an organization provides these resources without taking the surrounding conflict scenarios into consideration, they may be jeopardizing the lives they are trying to sustain. One such example occurred when an engineering student design team from the University of Texas at El Paso collaborated with two industrial partners on a humanitarian mission funded by a private donor to provide a sustainable source of clean water to a community in Haiti whose main water source was brackish and undrinkable. In an effort to provide clean water using a system that could be easily maintained to the Po Ploom community, two wells were drilled, and a reverse osmosis (RO) system was built to treat the water. This RO treatment system was housed in a shipping container with the energy to power the system obtained from solar panels attached to the top of the structure and an AGM battery. The solar panels provided energy for the system and charged the batteries during the day. At night, the system would switch to the battery source. While the positive impacts of this project, both anticipated and unanticipated, were profound, some of the unintended consequences put the community at increased risk of violence. The community became a target to those around it, and they were held at gunpoint while some of their solar panels were stolen about three months after the system was installed (<ce:cross-ref id="crf0048" refid="bib0024">Santiago, 2020</ce:cross-ref>). While this is an example of a small-scale engineering project that led to the outbreak of conflict, there are many large-scale engineering projects such as bridges, buildings, pipelines, and dams that have created conflicts among nations and have had inequitable negative impacts that tend to cause the most harm to poor and marginalized communities. For development to progress and SDGs be achieved, peace and stability must be incorporated as an intentional priority for all projects. If engineers are to make an impact on fulfilling these goals, they must incorporate a peacebuilding mindset and peacebuilding skills into routine professional practice.</ce:para>
+               </ce:section>
+               <ce:section id="sec0005" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="cesectitle0007">Peace engineering</ce:section-title>
+                  <ce:para id="para0017" view="all">Peace engineering is an emerging discipline aimed at integrating engineering design and practice toward outcomes of peace by fusing engineering approaches with the study and practice of peacebuilding. Peacebuilding is a field that draws on many disciplines to, “manage, mitigate, resolve, and transform central aspects of conflict,” and works towards sustainable peace (<ce:cross-ref id="crf0049" refid="bib0002">Alliance for Peacebuilding, 2020</ce:cross-ref>). Peacebuilders and peacebuilding organizations work to identify the root problems of a conflict and, in partnership with communities, develop robust approaches to build resilience, transform relationships and create innovative and stronger institutions and processes to help reduce violence and advance peace. Peace- building is a lens through which to examine conflict and potential projects (including efforts from the private sector). At a minimum there is a need to ensure any type of project, whether a large-scale infrastructure development effort, a small-scale project such as building a well, or a small-scale micro-finance project does not exacerbate conflict dynamics. It is critical to understand the root sources of conflicts, power dynamics, the various parties and agendas and the existing actors on the ground who are working to advance peace and those actively fueling conflict; the role of an outside engineer is also important within this context. The control volume for identifying root causes is subjective and can change with time; however, peace engineers focus on what is important to present-day communities. This means looking at the internal operations of a project from hiring of staff, to sourcing, to how projects are planned and executed, who receives benefit and who does not, how diverse actors ranging from business, and government to criminal and armed actors, may attempt to hijack or prevent peaceful efforts. However, peacebuilding extends beyond seeking to not do harm; it aims to fully integrate into an organization's internal and external operations for peace, thus maximizing the potential of its work (<ce:cross-ref id="crf0050" refid="bib0041">Zelizer, 2013</ce:cross-ref>). Peacebuilding practice highlights the value of trust-building processes between outsiders and locals and the importance of long-term relationships with communities (<ce:cross-ref id="crf0051" refid="bib0001">Alliance for Peacebuilding, 2013</ce:cross-ref>). When analyzing a conflict and possible solutions, peacebuilding practice calls for careful critical thinking about assumptions and the possible unintended consequences those assumptions may create.</ce:para>
+                  <ce:para id="para0018" view="all">Peace engineering incorporates peacebuilding knowledge and multidisciplinary community engagement approaches into traditional engineering design. Peace engineers are taught a broader range of skills so that they are able to apply a peacebuilding lens to all stages of the engineering design process; this includes incorporating local knowledge, considering social impacts of design outcomes, and considering potential failure scenarios, for example. Peace engineering cultivates an understanding of how engineering and technology have the potential to either create or mitigate conflict, and infuses conflict-sensitive approaches into engineering research and practice to reduce the impact of violent conflict on society, going beyond the minimum goal of do-no-harm. Traditional engineering approaches often remove a problem from its societal context in order to solve it within confined technical boundaries, thereby limiting the opportunity for the engineer to fully understand the broader context of their work. Peace engineering embraces the impact that engineering projects have on society and incorporates that impact into design criteria and considerations. Peace engineers also understand that monitoring, evaluation and continual adaptation are vital to success; circumstances may change after implementation and the project may also need to be revised to consider the changing circumstances. When applied with a conflict-sensitive lens, there is a clear call to leverage the latest technologies to reduce conflict and enhance the design and implementation of development projects. In fact, the needs of society may be used to identify and prioritize engineering advances, as seen in <ce:cross-ref id="crf0052" refid="fig0001">Fig. 1</ce:cross-ref>. A partnered approach and broader base of knowledge enables engineers to envision how their work may be used to benefit local communities, government policy, and global challenges.</ce:para>
+               </ce:section>
+               <ce:section id="sec0006" view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title id="cesectitle0008">Peace engineering approaches to overcome challenges in achieving SDGs</ce:section-title>
+                  <ce:para id="para0019" view="all">Recognizing that violent conflict can hinder NGO and business operations or even force the closure of their work, and that even acts of goodwill can have unintended consequences that create or exacerbate conflict, peace engineers consider conflict dynamics in the engineering design process. They incorporate peacebuilding skills into their practice and recognize that SDG 16: Peace, Justice, and Strong Institutions must be integrated into all project goals, regardless of scope. Some of the additional steps that peace engineers incorporate into their work include creating goals to understand and promote local culture, developing an understanding of the system dynamics and how an engineering project fits into it, self-reflection on assumptions and biases, and committing to long-term trust-building partnerships with communities.</ce:para>
+                  <ce:para id="para0020" view="all">It is also important to highlight and further support the unexpected positive impacts that emerge from community-partnered engineering projects. While the community violence brought about by the water treatment system in Po Ploom, Haiti (mentioned earlier in the paper) was clearly an unintended negative consequence, the project also brought several unanticipated positive outcomes. The structure not only served to provide clean water, but it also became a place of community where mothers would sit with each other and watch their children play together. The water treatment system also became a valuable infrastructure asset that created a bond within the community. Once the community was threatened and the solar panels were stolen, the community banded together and created shifts to guard and protect the water treatment system. Overall, it provided not only a local and relatively inexpensive source of water, but also an important social infrastructure that the collective community now holds precious (<ce:cross-ref id="crf0053" refid="bib0024">Santiago, 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0021" view="all">Additionally, it is important to support and validate community-led efforts rather than make assumptions about appropriate technologies. Since Somaliland's declaration of independence from Somalia in 1991 they have made an effort to become a peaceful democracy. In order to create and sustain a peaceful democracy, Somalilanders sought to hold free and fair elections but had no mechanism for identifying voters and tracking participation. Somalilanders, through their National Electoral Commission, collaborated with peace engineers to address the issue of voter fraud. This led to the Commission adopting an iris-scanning biometric technology that would prevent voter fraud while ensuring a Somaliland-driven solution that also contributed to maintaining peace. While there were several low-tech alternatives available, such as inking the finger, as well as other higher tech solutions such as fingerprint scanning, the Commission, in collaboration with civil society and the government, recognized the ink was too easy to remove and too many Somalilanders lack distinct fingerprints as their nomadic lifestyles and manual labor focus has worn their fingerprints down, making them undetectable. These concerns led to considerations of alternative technologies, which were thoroughly researched. In a collaborative and iterative effort, they found together that the iris scanning option was the best biometric technology to solve their challenges and ensure the proper registering of voters and production of the voter registry. While it was considered by many to be the most technologically sophisticated option, raising concerns about if it was the most appropriate technology, the success of their voter registration process in 2017, and the positive role it played in the 2018 elections, validated the Commission's decision (<ce:cross-ref id="crf0054" refid="bib0014">McCann, 2020</ce:cross-ref>; <ce:cross-ref id="crf0055" refid="bib0022">PeaceTech Lab and Drexel Peace Engineering, 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0022" view="all">Some best practices held by peace engineers include consideration of disparities that a project might introduce and the ensuing potential for conflict, reflection on possible unintended consequences (whether positive or negative), sourcing of materials and labor, and creation of equal partnerships among stakeholders to promote the long-term sustainability of a particular effort. Peace engineers consider potential future conflicts in the planning, design, and implementation of projects and acknowledge that even acts of goodwill can cause conflict. Local projects not only have local impacts, but also contribute to mitigating global challenges. As these impacts reverberate, tensions can be mitigated so that conflict does not turn violent and perhaps help to prevent potential violence or deep conflicts from developing. If violence is prevented then the work of NGOs, businesses, and governments can also continue with limited interruptions. Consistency and adaptability are key to creating positive and sustainable peace. Peace engineering strives to create sustainable systems that succeed even when conflict does occur. These engineering projects should be designed to be resilient and adaptive to the long-term growth of the communities that they impact. Finally, peace engineers value the importance of creating equal partnerships among stakeholders and seek to incorporate local knowledge of history, culture, and both technical and social capacity that outsiders would never possess. These partnerships give distinctive insight to engineers about the conflict and history of a community. Collaboration between peace engineers and local communities will ensure that good engineering decisions can be applied that consider the past, present, and future of a community's history and culture.</ce:para>
+               </ce:section>
+               <ce:section id="sec0007" role="conclusion" view="all">
+                  <ce:label>7</ce:label>
+                  <ce:section-title id="cesectitle0009">Conclusion</ce:section-title>
+                  <ce:para id="para0023" view="all">Each of the seventeen SDGs created by the UN provides a challenge and an opportunity for engineers to engage in integrated approaches to advance the collective vision of achieving the SDGs. With a growing interest in the SDGs by governments, businesses and NGOs, more opportunities are arising for engineers to lead the successful application of technical solutions in support of the SDGs. However, in order for all of these goals to be attained, peace needs to be integrated within every phase of the design process. Peace engineers are a necessary asset, not only for transforming conflict into peace through traditional peace- building approaches, but also for applying the engineering mindset to create technology that advances peace while simultaneously achieving the SDGs. Peace engineers utilize the skills of peacebuilding within their engineering practices to create sustainable change within government, private businesses, NGOs, and/or local communities. Peace engineers are empowered to take off the blinders and biases that traditional engineering curricula create and be more cognizant of the work they do and how it influences conflict. Finally, peace engineers have the multidisciplinary skills necessary to advance the SDGs with the understanding that no engineering project can be successful and have lasting positive results if the goals of the project are not centered within the pursuit of long-term peace.</ce:para>
+               </ce:section>
+               <ce:section id="sec0008" view="all">
+                  <ce:section-title id="cesectitle0010">Author statement</ce:section-title>
+                  <ce:para id="para0024" view="all">
+                     <ce:bold>Kala Yarnall</ce:bold>: Data curation; Investigation; Visualization; Roles/Writing- original draft; Writing-review &amp; editing <ce:bold>Mira Olson</ce:bold>: Conceptualization, Data curation, Investigation; Supervision, Writing- review &amp; editing <ce:bold>Ivonne Santiago</ce:bold>: Writing- review &amp; editing <ce:bold>Craig Zelizer</ce:bold>: Writing- review &amp; editing.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0011">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>Alliance for Peacebuilding 2013</ce:label>
+                     <ce:other-ref id="sbref0001">
+                        <ce:textref>Alliance for Peacebuilding. (2013). Toward Peacebuilding 2.0. Retrieved from <ce:inter-ref id="interref0001" xlink:href="https://allianceforpeacebuilding.org/2013/08/toward-peacebuilding-2-0/" xlink:type="simple">https://allianceforpeacebuilding.org/2013/08/toward-peacebuilding-2-0/</ce:inter-ref> April 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>Alliance for Peacebuilding, 2020</ce:label>
+                     <ce:other-ref id="sbref0002">
+                        <ce:textref>Alliance for Peacebuilding. (2020). What is Peacebuilding? Retrieved from <ce:inter-ref id="interref0002" xlink:href="https://allianceforpeacebuilding.org/what-is-peacebuilding/" xlink:type="simple">https://allianceforpeacebuilding.org/what-is-peacebuilding/</ce:inter-ref>March 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>Anderson, 1999</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Do No Harm: How Aid Can Support Peace – or War</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Lynne Rienner Publishers</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0003">Anderson, M.B. (1999). Do No Harm: How Aid Can Support Peace – or War.Lynne Rienner Publishers.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>Business and Sustainable Development Commission 2017</ce:label>
+                     <ce:other-ref id="sbref0004">
+                        <ce:textref>Business and Sustainable Development Commission. (2017). Better Business Better World, 121. Retrieved from <ce:inter-ref id="interref0003" xlink:href="https://olc.worldbank.org/system/files/Better_Business__Better_World_Executive-Summary_Pg_1to11.pdf" xlink:type="simple">https://olc.worldbank.org/system/files/Better_Business__Better_World_Executive-Summary_Pg_1to11.pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Business Wire 2020</ce:label>
+                     <ce:other-ref id="sbref0005">
+                        <ce:textref>Business Wire. (2020). Visa Champions a New Decade for Women's Empowerment. Retrieved from <ce:inter-ref id="interref0004" xlink:href="https://www.businesswire.com/news/home/20200303005388/en/Visa-Champions-New-Decade-Women's-Empowerment" xlink:type="simple">https://www.businesswire.com/news/home/20200303005388/en/Visa-Champions-New-Decade-Women's-Empowerment</ce:inter-ref> April 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>Cech, 2012</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Cech</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Great problems of grand challenges: problematizing engineering's understanding of its role in society</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Eng. Soc. Justice Peace</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                              <sb:last-page>94</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.24908/ijesjp.v1i2.4304</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Cech, E. (2012). Great problems of grand challenges: problematizing engineering's understanding of its role in society. Int. J. Eng. Soc. Justice Peace, 1(2), 85–94. doi: 10.24908/ijesjp.v1i2.4304</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>Danone 2020</ce:label>
+                     <ce:other-ref id="sbref0007">
+                        <ce:textref>Danone. (2020). Danone Communities: Grameen Danone, Fighting Against Malnutrition In Bangladesh. Retrieved from <ce:inter-ref id="interref0005" xlink:href="https://www.danone.com/integrated-annual-report-2019/sustainable-projects/danone-communities-grameen.html" xlink:type="simple">https://www.danone.com/integrated-annual-report-2019/sustainable-projects/danone-communities-grameen.html</ce:inter-ref> March 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>Donohoe, 2003</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Donohoe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Causes and health consequences of environmental degradation and social injustice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Soc. Sci. Med.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>573</sb:first-page>
+                              <sb:last-page>587</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/S0277-9536(02)00055-2</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">Donohoe, M. (2003). Causes and health consequences of environmental degradation and social injustice. Soc. Sci. Med., 56(3), 573–587. doi: 10.1016/S0277-9536(02)00055-2</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>Dowling et al., 2016</ce:label>
+                     <ce:other-ref id="sbref0009">
+                        <ce:textref>Dowling, D.A., Howells, K., Lomas, P.S., Conway, S.G., Badiane, O., Ahmed, A., … Litster, R. (2016). Engineering a Better World: Achieving the United Nations Sustainable Development Goals. Retrieved from <ce:inter-ref id="interref0006" xlink:href="https://www.raeng.org.uk/publications/other/engineering-a-better-world-brochure" xlink:type="simple">https://www.raeng.org.uk/publications/other/engineering-a-better-world-brochure</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Engineers Without Borders Washington DC Professional Chapter 2019</ce:label>
+                     <ce:other-ref id="sbref0010">
+                        <ce:textref>Engineers Without Borders Washington DC Professional Chapter. (2019). 2019: A Year in Review. Retrieved from <ce:inter-ref id="interref0007" xlink:href="http://www.ewb-dc.org/wp-content/uploads/2019/12/2019-EWB-DC-Annual-Report_web.pdf" xlink:type="simple">http://www.ewb-dc.org/wp-content/uploads/2019/12/2019-EWB-DC-Annual-Report_web.pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>FAO, IFAD, UNICEF, WFP and WHO 2019</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>FAO, IFAD, UNICEF, WFP and WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The State of Food Security and Nutrition in the World 2019. Safeguarding Against Economic Slowdowns and Downturns. Rome, FAO. Licence: CC BY-NC-SA 3.0 IGO.Global Peace Index 2019: Measuring Peace in a Complex World</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Institute for Economics and Peace</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0008" xlink:href="http://visionofhumanity.org/app/uploads/2019/06/GPI-2019-web003.pdf" xlink:type="simple">http://visionofhumanity.org/app/uploads/2019/06/GPI-2019-web003.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">FAO, IFAD, UNICEF, WFP and WHO. 2019. The State of Food Security and Nutrition in the World 2019. Safeguarding Against Economic Slowdowns and Downturns. Rome, FAO. Licence: CC BY-NC-SA 3.0 IGO.Global Peace Index 2019: Measuring Peace in a Complex World. (Institute for Economics and Peace. Retrieved fromhttp://visionofhumanity.org/app/uploads/2019/06/GPI-2019-web003.pdf</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>International Crisis Group 2020</ce:label>
+                     <ce:other-ref id="sbref0012">
+                        <ce:textref>International Crisis Group. (2020). COVID-19 and Conflict: seven Trends to Watch. Crisis Group Special Briefing N°4. Retrieved from <ce:inter-ref id="interref0009" xlink:href="https://www.crisisgroup.org/global/sb4-covid-19-and-conflict-seven-trends-watch" xlink:type="simple">https://www.crisisgroup.org/global/sb4-covid-19-and-conflict-seven-trends-watch</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>LexisNexis Blog 2017</ce:label>
+                     <ce:other-ref id="sbref0013">
+                        <ce:textref>LexisNexis Blog. (2017). SDGs: an opportunity for business. Retrieved from <ce:inter-ref id="interref0010" xlink:href="https://sdgresources.relx.com/articles-features/sdgs-opportunity-business" xlink:type="simple">https://sdgresources.relx.com/articles-features/sdgs-opportunity-business</ce:inter-ref> March 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>McCann, 2020</ce:label>
+                     <ce:other-ref id="sbref0014">
+                        <ce:textref>McCann, J. (2020). Personal communication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Moloney, 2016</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Moloney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>U.S. Peace Corps Pulls Out of El Salvador Over Violence, Security</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Thomson Reuters Foundation</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0011" xlink:href="https://www.reuters.com/article/us-el-salvador-peace-corps-violence-idUSKCN0UR2PM20160113" xlink:type="simple">https://www.reuters.com/article/us-el-salvador-peace-corps-violence-idUSKCN0UR2PM20160113</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0015">Moloney, A. (2016). U.S. Peace Corps Pulls Out of El Salvador Over Violence, Security. Thomson Reuters Foundation. Retrieved fromhttps://www.reuters.com/article/us-el-salvador-peace-corps-violence-idUSKCN0UR2PM20160113</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>Murray, 2019</ce:label>
+                     <ce:other-ref id="sbref0016">
+                        <ce:textref>Murray, S. (2019). The Critical Role of Infrastructure For the Sustainable Development Goals. Retrieved from <ce:inter-ref id="interref0012" xlink:href="https://unops.economist.com/wp-content/uploads/2019/01/ThecriticalroleofinfrastructurefortheSustainableDevelopmentGoals.pdf" xlink:type="simple">https://unops.economist.com/wp-content/uploads/2019/01/ThecriticalroleofinfrastructurefortheSustainableDevelopmentGoals.pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>National Academy of Engineering. 2008</ce:label>
+                     <ce:other-ref id="sbref0017">
+                        <ce:textref>National Academy of Engineering. (2008). NAE Grand Challenges For Engineering. Retrieved from <ce:inter-ref id="interref0013" xlink:href="http://www.engineeringchallenges.org/challenges.aspx" xlink:type="simple">http://www.engineeringchallenges.org/challenges.aspx</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>Norris et al., 2015</ce:label>
+                     <ce:other-ref id="sbref0018">
+                        <ce:textref>Norris, J., Dunning, C., &amp; Malknecht, A. (2015). Fragile Progress: The Record of the Millennium Development Goals in States Affected By Conflict, Fragility, and Crisis. Retrieved from <ce:inter-ref id="interref0014" xlink:href="https://resourcecentre.savethechildren.net/node/9355/pdf/fragilestates-report_web.pdf" xlink:type="simple">https://resourcecentre.savethechildren.net/node/9355/pdf/fragilestates-report_web.pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>O'Connell, 2017</ce:label>
+                     <ce:other-ref id="sbref0019">
+                        <ce:textref>O'Connell, S. (2017). The true cause of hunger and famine? War and weak governance. Retrieved from <ce:inter-ref id="interref0015" xlink:href="https://www.weforum.org/agenda/2017/04/conflict-and-famine-time-for-honesty/" xlink:type="simple">https://www.weforum.org/agenda/2017/04/conflict-and-famine-time-for-honesty/</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Oxfam International 2020</ce:label>
+                     <ce:other-ref id="sbref0020">
+                        <ce:textref>Oxfam International. (2020). US-Iran conflict restricting aid work in Iraq - Oxfam. Retrieved from <ce:inter-ref id="interref0016" xlink:href="https://www.oxfam.org/en/press-releases/us-iran-conflict-restricting-aid-work-iraq-oxfam" xlink:type="simple">https://www.oxfam.org/en/press-releases/us-iran-conflict-restricting-aid-work-iraq-oxfam</ce:inter-ref> February 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>Peace Corp, 2020</ce:label>
+                     <ce:other-ref id="sbref0021">
+                        <ce:textref>Peace Corp. (2020). Countries. Retrieved from <ce:inter-ref id="interref0018" xlink:href="https://www.peacecorps.gov/countries/" xlink:type="simple">https://www.peacecorps.gov/countries/</ce:inter-ref>February 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0022">
+                     <ce:label>PeaceTech Lab &amp; Drexel Peace Engineering, 2020</ce:label>
+                     <ce:other-ref id="sbref0022">
+                        <ce:textref>PeaceTech Lab &amp; Drexel Peace Engineering. (2020). Somaliland Biometric Voting: Peacebuilding through Free and Fair Elections. Retrieved from <ce:inter-ref id="interref0019" xlink:href="https://peaceengineering.webflow.io/cases/somaliland-biometric-voting" xlink:type="simple">https://peaceengineering.webflow.io/cases/somaliland-biometric-voting</ce:inter-ref> March 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0023">
+                     <ce:label>Renouard, 2012,</ce:label>
+                     <ce:other-ref id="sbref0023">
+                        <ce:textref>Renouard, C. (2012). A Social Business Success Story: Grameen Danone in Bangladesh. Retrieved from <ce:inter-ref id="interref0020" xlink:href="http://knowledge.essec.edu/en/sustainability/a-social-business-success-story.html" xlink:type="simple">http://knowledge.essec.edu/en/sustainability/a-social-business-success-story.html</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0024">
+                     <ce:label>Santiago, April 2020</ce:label>
+                     <ce:other-ref id="sbref0024">
+                        <ce:textref>Santiago, I. (2020). Personal communication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Shorrocks et al., 2019</ce:label>
+                     <ce:other-ref id="sbref0025">
+                        <ce:textref>Shorrocks, A., Davies, J., &amp; Lluberas, R. (2019). Global Wealth Report 2019. Retrieved from <ce:inter-ref id="interref0021" xlink:href="https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html" xlink:type="simple">https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0026">
+                     <ce:label>Storchi, 2018</ce:label>
+                     <ce:other-ref id="sbref0026">
+                        <ce:textref>Storchi, A. (2018). Critical analysis of grameen danone food LTD case as a model of sustainable private-NGO joint venture. 10.13140/RG.2.2.32675.09761.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0027">
+                     <ce:label>Sustainable Brands 2018</ce:label>
+                     <ce:other-ref id="sbref0027">
+                        <ce:textref>Sustainable Brands. (2018). NGOs Leading the Way on Sustainable Development Goals. Retrieved from <ce:inter-ref id="interref0022" xlink:href="http://www.sustainablesids.org/wp-content/uploads/2018/08/NGOs-leading-SDGs-Sustainable-Brands.pdf" xlink:type="simple">http://www.sustainablesids.org/wp-content/uploads/2018/08/NGOs-leading-SDGs-Sustainable-Brands.pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0028">
+                     <ce:label>The World Bank 2019</ce:label>
+                     <ce:other-ref id="sbref0028">
+                        <ce:textref>The World Bank. (2019). Population. Retrieved from <ce:inter-ref id="interref0023" xlink:href="https://data.worldbank.org/indicator/SP.POP.TOTL" xlink:type="simple">https://data.worldbank.org/indicator/SP.POP.TOTL</ce:inter-ref> March 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0029">
+                     <ce:label>United Nations 2017</ce:label>
+                     <ce:other-ref id="sbref0029">
+                        <ce:textref>United Nations. (2017). World population projected to reach 9.8 billion in 2050, and 11.2 billion in 2100. Retrieved from <ce:inter-ref id="interref0024" xlink:href="https://www.un.org/development/desa/en/news/population/world-population-prospects-2017.html" xlink:type="simple">https://www.un.org/development/desa/en/news/population/world-population-prospects-2017.html</ce:inter-ref> February 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>United Nations 2015a</ce:label>
+                     <ce:other-ref id="sbref0030">
+                        <ce:textref>United Nations. (2015). Sustainable Development Goals Officially Adopted By 193 Countries. Retrieved from <ce:inter-ref id="interref0025" xlink:href="http://www.un.org.cn/info/6/620.html" xlink:type="simple">http://www.un.org.cn/info/6/620.html</ce:inter-ref> March 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0031">
+                     <ce:label>United Nations 2015b</ce:label>
+                     <ce:other-ref id="sbref0031">
+                        <ce:textref>United Nations. (2015). Transforming Our World: The 2030 Agenda for Sustainable Development. https://doi.org/10.1891/9780826190123.ap02.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0032">
+                     <ce:label>United Nations 2015c</ce:label>
+                     <ce:other-ref id="sbref0032">
+                        <ce:textref>United Nations. (2015). The Millennium Development Goals Report 2015 (C. Way (ed.)). <ce:inter-ref id="interref0026" xlink:href="https://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG2015rev(July1).pdf" xlink:type="simple">https://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG2015rev(July1).pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0033">
+                     <ce:label>United Nations Conference on Trade and Development. 2014</ce:label>
+                     <ce:other-ref id="sbref0033">
+                        <ce:textref>United Nations Conference on Trade and Development. (2014). World Investment Report 2014: investing in the SDGs: an Action Plan. In United Nations Publication. <ce:inter-ref id="interref0027" xlink:href="https://unctad.org/system/files/official-document/wir2014_en.pdf" xlink:type="simple">https://unctad.org/system/files/official-document/wir2014_en.pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0034">
+                     <ce:label>United Nations Department of Economic and Social Affairs, 2020a</ce:label>
+                     <ce:other-ref id="sbref0034">
+                        <ce:textref>United Nations Department of Economic and Social Affairs. (2020). Sustainable Development Goal 16. Retrieved from <ce:inter-ref id="interref0028" xlink:href="https://sdgs.un.org/goals/goal16" xlink:type="simple">https://sdgs.un.org/goals/goal16</ce:inter-ref> February 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>United Nations Department of Economic and Social Affairs, 2020b</ce:label>
+                     <ce:other-ref id="sbref0035">
+                        <ce:textref>United Nations Department of Economic and Social Affairs. (2020). The 17 Goals. Retrieved from <ce:inter-ref id="interref0029" xlink:href="https://sdgs.un.org/goals" xlink:type="simple">https://sdgs.un.org/goals</ce:inter-ref> February 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0036">
+                     <ce:label>United Nations Development Programme 2020</ce:label>
+                     <ce:other-ref id="sbref0036">
+                        <ce:textref>United Nations Development Programme. (2020). Impact of COVID -19 On the Sustainable Development Goals. Retrieved from <ce:inter-ref id="interref0030" xlink:href="https://sdgintegration.undp.org/accelerating-development-progressduring-covid-19" xlink:type="simple">https://sdgintegration.undp.org/accelerating-development-progressduring-covid-19</ce:inter-ref> December 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0037">
+                     <ce:label>United Nations Development Programme 2016</ce:label>
+                     <ce:other-ref id="sbref0037">
+                        <ce:textref>United Nations Development Programme. (2016). UNDP Support to the Implementation of the Sustainable Development Goals. Retrieved from <ce:inter-ref id="interref0031" xlink:href="https://www.undp.org/content/undp/en/home/librarypage/sustainable-development-goals/undp-support-to-the-implementation-of-the-2030-agenda.html" xlink:type="simple">https://www.undp.org/content/undp/en/home/librarypage/sustainable-development-goals/undp-support-to-the-implementation-of-the-2030-agenda.html</ce:inter-ref> March 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0038">
+                     <ce:label>United Nations High Commissioner for Refugees 2018</ce:label>
+                     <ce:other-ref id="sbref0038">
+                        <ce:textref>United Nations High Commissioner for Refugees. (2018). Global Trends: forced Displacement in 2017. Retrieved from <ce:inter-ref id="interref0032" xlink:href="https://www.unhcr.org/5ee200e37.pdf" xlink:type="simple">https://www.unhcr.org/5ee200e37.pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0039">
+                     <ce:label>WHO/UNICEF 2017</ce:label>
+                     <ce:other-ref id="sbref0039">
+                        <ce:textref>WHO/UNICEF. (2017). Progress On Drinking Water, Sanitation and Hygiene: 2017 Update and SDG Baselines. Retrieved from <ce:inter-ref id="interref0033" xlink:href="https://www.unicef.org/reports/progress-on-drinking-water-sanitation-and-hygiene-2019" xlink:type="simple">https://www.unicef.org/reports/progress-on-drinking-water-sanitation-and-hygiene-2019</ce:inter-ref> March 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>World Health Organization 2020</ce:label>
+                     <ce:other-ref id="sbref0040">
+                        <ce:textref>World Health Organization. (2020). Libya: Fighting COVID-19 in Times of Conflict. Retrieved from <ce:inter-ref id="interref0034" xlink:href="https://www.who.int/news-room/feature-stories/detail/libya-fighting-covid-19-in-times-of-conflict" xlink:type="simple">https://www.who.int/news-room/feature-stories/detail/libya-fighting-covid-19-in-times-of-conflict</ce:inter-ref> November 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0041">
+                     <ce:label>Zelizer, 2013</ce:label>
+                     <sb:reference id="sbref0041">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zelizer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integrated Peacebuilding: Innovative Approaches to Transforming Conflict</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>1st ed.</sb:edition>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Westview Press</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                           <ce:doi>10.4324/9780429493669</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0041">Zelizer, C. (2013). Integrated Peacebuilding: Innovative Approaches to Transforming Conflict (1st ed.). Westview Press. doi: 10.4324/9780429493669</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="auth1Bio1" view="all">
+               <ce:simple-para id="spara003" view="all">
+                  <ce:bold>Kala Yarnall:</ce:bold> Kala Yarnall is a second-year graduate student at Drexel University pursuing a master's in Peace Engineering and Ph.D. in Environmental Engineering. She holds a B.S in Environmental Engineering and has research and work experience with the remediation of mine impacted waters.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="auth2Bio2" view="all">
+               <ce:simple-para id="spara004" view="all">
+                  <ce:bold>Mira Olson:</ce:bold> Dr. Mira Olson is an Associate Professor in the Civil, Architectural and Environmental Engineering Department at Drexel University. She holds a B.S in Mechanical Engineering and B.A. in Environmental Sciences and Engineering from Rice University, and an M.E. and Ph.D. in Civil (Environmental) Engineering from the University of Virginia. The broad focus of her research is on protecting source water quality, with current interests in transboundary water management and community-based research design. Dr. Olson is an editor of the International Journal of Engineering, Social Justice and Peace and has served as faculty fellow in Drexel's Office of University and Community Partnerships. She is a co-founder of the newly established Peace Engineering program at Drexel and currently serves as Program Director.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="auth3Bio3" view="all">
+               <ce:simple-para id="spara005" view="all">
+                  <ce:bold>Ivonne Santiago:</ce:bold> Dr. Ivonne Santiago is a Clinical professor of the Civil Engineering Department and a member of the Center for Inland Desalination Systems (CIDS) at the University of Texas at El Paso (UTEP). She is a Professional Engineer and holds a B.S in Civil Engineering from the University of Puerto Rico, an M.E. in Environmental Systems Engineering from Clemson University, and a Ph.D. in Civil Engineering from New Mexico State University. Dr. Santiago has a combined experience of over 20 years in the areas of water quality, water treatment and wastewater treatment in Puerto Rico (PR), New Mexico and Texas. She has worked as Director of the Water Quality Area of the PR Environmental Quality Board) as consultant, performing technical and compliance audits of water and waste treatment plants in PR); as an environmentally engaged citizen (on the EPA's National Advisory Committee and the EPA's Good Neighbor Environmental Board for the President and Congress of the US). As researcher, Dr. Santiago is working on the use of natural and surface modified zeolites in water, wastewater, and agricultural applications, and sustainability determinations of POU systems.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="auth4Bio4" view="all">
+               <ce:simple-para id="spara006" view="all">
+                  <ce:bold>Craig Zelizer:</ce:bold> Dr. Craig Zelizer is the Founder and CEO of PCDN.global one of the world's leading platforms connecting changemakers in diverse sectors to opportunities around the world. From 2005 to 2016 he served as professor in the Conflict Resolution program at Georgetown University before stepping down in June 2016 to work on PCDN full time (he continues to teach a class on social entrepreneurship). He received a BA in Social Thought and Political Economy from the University of Massachusetts Amherst, a master's degree in Sociology from the Central European University, and Ph.D. in Conflict Analysis and Resolution from George Mason University. Before creating PCDN, Craig also helped to co-found two NG0s – the Alliance for Conflict Transformation and the TEAM foundation in Hungary. Craig serves on a number of boards/advisory boards including Tech Change, Move this World, Amani Institute and Alliance for Conflict Transformation. He spent two years in Hungary as Fulbright Scholar and was a Boren Fellow in Bosnia.</ce:simple-para>
+            </ce:biography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

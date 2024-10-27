@@ -1,0 +1,2788 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/B9780323853439000276</prism:url><dc:identifier>doi:10.1016/B978-0-323-85343-9.00027-6</dc:identifier><eid>3-s2.0-B9780323853439000276</eid><prism:doi>10.1016/B978-0-323-85343-9.00027-6</prism:doi><pii>B978-0-323-85343-9.00027-6</pii><dc:title>Chapter 2 Biochar and sustainable development goals </dc:title><prism:publicationName>Biochar in Agriculture for Achieving Sustainable Development Goals</prism:publicationName><prism:aggregationType>EBook</prism:aggregationType><pubType>chp</pubType><prism:isbn>9780323853439</prism:isbn><prism:startingPage>15</prism:startingPage><prism:endingPage>22</prism:endingPage><prism:pageRange>15-22</prism:pageRange><dcterms:isPartOf>urn:isbn:978-0-323-85343-9</dcterms:isPartOf><dc:format>text/xml</dc:format><prism:coverDate>2022-12-31</prism:coverDate><prism:coverDisplayDate>2022</prism:coverDisplayDate><prism:copyright>Copyright © 2022 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Xiong, Xinni</dc:creator><dc:creator>He, Mingjing</dc:creator><dc:creator>Dutta, Shanta</dc:creator><dc:creator>Tsang, Daniel C.W.</dc:creator><dc:description>
+               According to the sustainable development goals set by the United Nations, great efforts should be made on improving soil health and developing sustainable green materials. As a renewable and economical carbonaceous material derived from biomass waste, biochar provides a nature-based solution in improving soil health and relieving energy crisis. Biochar has shown great environmental benefits by being extensively applied in soil amendment, soil remediation, and mitigation of greenhouse gas emissions. Novel and facile ways of various emerging modification strategies are being explored to synthesize cost-efficient biochar composites. In the future, interdisciplinary collaborations among multiple sides are suggested to boost the sustainable development in a green manner.
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Biochar</dcterms:subject><dcterms:subject>soil health</dcterms:subject><dcterms:subject>sustainable development goals</dcterms:subject><dcterms:subject>soil management</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/B9780323853439000276" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/B9780323853439000276" rel="scidir"/></coredata><objects><object ref="f02-01-9780323853439" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="758" height="576" size="103443">https://api.elsevier.com/content/object/eid/3-s2.0-B9780323853439000276-f02-01-9780323853439.jpg?httpAccept=%2A%2F%2A</object><object ref="f02-01-9780323853439" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="12093">https://api.elsevier.com/content/object/eid/3-s2.0-B9780323853439000276-f02-01-9780323853439.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>85138918543</scopus-id><scopus-eid>2-s2.0-85138918543</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85138918543" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>nonserial</xocs:content-family>
+      <xocs:content-type>BK</xocs:content-type>
+      <xocs:cid>782144</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291768</xocs:ssid>
+         <xocs:ssid type="subj">291780</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291839</xocs:ssid>
+         <xocs:ssid type="content">35</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biochar in Agriculture for Achieving Sustainable Development Goals</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOCHARINAGRICULTUREFORACHIEVINGSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220513">2022-05-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220521">2022-05-21</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220513">2022-05-13</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220521">2022-05-21</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2022-09-02T07:32:54</xocs:ew-transaction-id>
+      <xocs:eid>3-s2.0-B9780323853439000276</xocs:eid>
+      <xocs:pii-formatted>B978-0-323-85343-9.00027-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>B9780323853439000276</xocs:pii-unformatted>
+      <xocs:doi>10.1016/B978-0-323-85343-9.00027-6</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>3-s2.0-C2020001978X</xocs:hub-eid>
+      <xocs:hub-doi>10.1016/C2020-0-01978-X</xocs:hub-doi>
+      <xocs:timestamp yyyymmdd="20221212">2022-12-12T23:05:11.343412Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220101</xocs:date-search-begin>
+      <xocs:date-search-end>20221231</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1652462093">2022-05-13T17:14:53.809613Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate isbn isbns isbnnorm isbnsnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref figure body</xocs:articleinfo>
+      <xocs:isbns>
+         <xocs:isbn-primary-formatted purpose="PAPERBACK">978-0-323-85343-9</xocs:isbn-primary-formatted>
+         <xocs:isbn-primary-unformatted purpose="PAPERBACK">9780323853439</xocs:isbn-primary-unformatted>
+         <xocs:isbn-formatted purpose="ONLINE">978-0-323-85344-6</xocs:isbn-formatted>
+         <xocs:isbn-unformatted purpose="ONLINE">9780323853446</xocs:isbn-unformatted>
+      </xocs:isbns>
+      <xocs:display-name>Biochar in Agriculture for Achieving Sustainable Development Goals</xocs:display-name>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>15</xocs:first-fp>
+      <xocs:last-lp>22</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>15</xocs:first-page>
+         <xocs:last-page>22</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-text>2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:editors>
+               <ce:author-group id="aug0010">
+                  <ce:author id="au0010" author-id="C2020001978X-40c8125ebf216c09d5ca839a25a6a461">
+                     <ce:given-name>Daniel C.W.</ce:given-name>
+                     <ce:surname>Tsang</ce:surname>
+                  </ce:author>
+                  <ce:affiliation id="aff1" affiliation-id="C2020001978X-fd073e7e922368270c4f8ff5944c58a6">
+                     <ce:textfn>Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hong Kong, P.R. China</ce:textfn>
+                     <sa:affiliation>
+                        <sa:organization>Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University</sa:organization>
+                        <sa:city>Hong Kong</sa:city>
+                        <sa:country>P.R. China</sa:country>
+                     </sa:affiliation>
+                     <ce:source-text id="srct1">Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hong Kong, P.R. China</ce:source-text>
+                  </ce:affiliation>
+               </ce:author-group>
+               <ce:author-group id="aug0015">
+                  <ce:author id="au0015" author-id="C2020001978X-1b164fc3b9ef151afd9a90e575657fea">
+                     <ce:given-name>Yong Sik</ce:given-name>
+                     <ce:surname>Ok</ce:surname>
+                  </ce:author>
+                  <ce:affiliation id="aff2" affiliation-id="C2020001978X-8fee5db2105239f9a54c7710984e1545">
+                     <ce:textfn>Korea Biochar Research Center, APRU Sustainable Waste Management Program and Division of Environmental Science and Ecological Engineering, Korea University, Seoul, Republic of Korea</ce:textfn>
+                     <sa:affiliation>
+                        <sa:organization>Korea Biochar Research Center, APRU Sustainable Waste Management Program and Division of Environmental Science and Ecological Engineering, Korea University</sa:organization>
+                        <sa:city>Seoul</sa:city>
+                        <sa:country>Republic of Korea</sa:country>
+                     </sa:affiliation>
+                     <ce:source-text id="srct2">Korea Biochar Research Center, APRU Sustainable Waste Management Program and Division of Environmental Science and Ecological Engineering, Korea University, Seoul, Republic of Korea</ce:source-text>
+                  </ce:affiliation>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-label>Part I</xocs:hub-sec-label>
+         <xocs:hub-sec-title>Introduction</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>chapter</xocs:document-type>
+      <xocs:document-subtype>chp</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2022 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>BIOCHARSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>XIONG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2.1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2.2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Biochar material</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Production of biochar</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Biochar properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Biochar modification and functionalization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2.3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Sustainable soil management by biochar</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Soil quality improvement</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Contaminants immobilization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Carbon sequestration</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2.4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Prospect and future recommendations</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2.5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>Reference</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>ALAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19007</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>AWAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>132</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>BOLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>216</xocs:ref-first-fp>
+            <xocs:ref-last-lp>225</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>BOLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>CAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>599</xocs:ref-first-fp>
+            <xocs:ref-last-lp>609</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>DELUCA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>421</xocs:ref-first-fp>
+            <xocs:ref-last-lp>454</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIOCHARFORENVIRONMENTALMANAGEMENTSCIENCETECHNOLOGYIMPLEMENTATIONVOL2</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>263</xocs:ref-first-fp>
+            <xocs:ref-last-lp>271</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>FISCHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MANAGEMENTORGANICWASTE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>196</xocs:ref-first-fp>
+            <xocs:ref-last-lp>204</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>125378</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>HOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2315</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2320</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>HOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1005</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1018</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>HOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>138961</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>HOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>366</xocs:ref-first-fp>
+            <xocs:ref-last-lp>381</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1900149</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123613</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref166">
+            <xocs:ref-normalized-surname>LIBRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-last-lp>106</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12251</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12285</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>MOHANTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1644</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1658</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>OK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>206</xocs:ref-first-fp>
+            <xocs:ref-last-lp>209</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>QIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1055</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1064</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>QUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>102</xocs:ref-first-fp>
+            <xocs:ref-last-lp>106</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>RAJAPAKSHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1567</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1573</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>SEVILLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1880</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1888</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109944</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>SHERENE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>SOHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4782</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref27">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2587</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2594</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref28">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>391</xocs:ref-first-fp>
+            <xocs:ref-last-lp>401</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref29">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>568</xocs:ref-first-fp>
+            <xocs:ref-last-lp>579</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>130387</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref31">
+            <xocs:ref-normalized-surname>TRAKAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-last-lp>141</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIOCHARBIOMASSWASTEFUNDAMENTALSAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="otherref0005"/>
+         <xocs:ref-info refid="sbref32">
+            <xocs:ref-normalized-surname>VOGEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>83</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref33">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>358</xocs:ref-first-fp>
+            <xocs:ref-last-lp>386</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref34">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14797</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14814</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref35">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>25</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref36">
+            <xocs:ref-normalized-surname>WOOLF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>56</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref37">
+            <xocs:ref-normalized-surname>XIONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>680</xocs:ref-first-fp>
+            <xocs:ref-last-lp>707</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref38">
+            <xocs:ref-normalized-surname>XIONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>254</xocs:ref-first-fp>
+            <xocs:ref-last-lp>270</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref39">
+            <xocs:ref-normalized-surname>YOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>572</xocs:ref-first-fp>
+            <xocs:ref-last-lp>582</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4007</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4010</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref42">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>538</xocs:ref-first-fp>
+            <xocs:ref-last-lp>542</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref43">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>266</xocs:ref-first-fp>
+            <xocs:ref-last-lp>273</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref44">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>98</xocs:ref-first-fp>
+            <xocs:ref-last-lp>115</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>XIONGX2022X15</xocs:refkey3>
+         <xocs:refkey4lp>XIONGX2022X15X22</xocs:refkey4lp>
+         <xocs:refkey4ai>XIONGX2022X15XX</xocs:refkey4ai>
+         <xocs:refkey5>XIONGX2022X15X22XX</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>B978-0-323-85343-9.00027-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>B9780323853439000276</xocs:pii-unformatted>
+         <xocs:eid>3-s2.0-B9780323853439000276</xocs:eid>
+         <xocs:doi>10.1016/B978-0-323-85343-9.00027-6</xocs:doi>
+         <xocs:cid>782144</xocs:cid>
+         <xocs:timestamp>2022-09-02T06:51:26.185915Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>3-s2.0-B9780323853439000276-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780323853439000276/MAIN/application/pdf/bb25398333fb1bfa77d26d174a5f3954/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>549128</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>3-s2.0-B9780323853439000276-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780323853439000276/PREVIEW/image/png/7aaeb8f910c4f092b9357c17b0a5df89/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>70347</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780323853439000276-f02-01-9780323853439.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780323853439000276/f02-01-9780323853439/DOWNSAMPLED/image/jpeg/94696c72004df5e882f9899414b7b9b8/f02-01-9780323853439.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f02-01-9780323853439</xocs:file-basename>
+               <xocs:filename>f02-01-9780323853439.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>103443</xocs:filesize>
+               <xocs:pixel-height>576</xocs:pixel-height>
+               <xocs:pixel-width>758</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780323853439000276-f02-01-9780323853439.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780323853439000276/f02-01-9780323853439/THUMBNAIL/image/gif/b1a78136a4b5eb786fa219b19bc68357/f02-01-9780323853439.sml</xocs:ucs-locator>
+               <xocs:file-basename>f02-01-9780323853439</xocs:file-basename>
+               <xocs:filename>f02-01-9780323853439.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12093</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:nonserial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <chapter xmlns="http://www.elsevier.com/xml/bk/dtd" version="5.6" xml:lang="en" docsubtype="chp" id="c0002">
+         <info>
+            <ce:pii>B978-0-323-85343-9.00027-6</ce:pii>
+            <ce:doi>10.1016/B978-0-323-85343-9.00027-6</ce:doi>
+            <ce:isbn>978-0-323-85343-9</ce:isbn>
+            <ce:copyright type="full-transfer" year="2022">Elsevier Inc.</ce:copyright>
+         </info>
+         <ce:floats>
+            <ce:figure id="f0010">
+               <ce:label>Figure 2.1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">Biochar soil application associated with sustainable development goals.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f02-01-9780323853439" xlink:href="pii:B9780323853439000276/f02-01-9780323853439" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <ce:label>Chapter 2</ce:label>
+         <ce:title id="tit0010">Biochar and sustainable development goals</ce:title>
+         <ce:author-group id="aug0010">
+            <ce:author id="au0010" author-id="B9780323853439000276-ba90d801747345811772c7ed48983afc">
+               <ce:given-name>Xinni</ce:given-name>
+               <ce:surname>Xiong</ce:surname>
+            </ce:author>
+            <ce:author id="au0015" author-id="B9780323853439000276-8baf4dc96f311925de64d97631fa5f62">
+               <ce:given-name>Mingjing</ce:given-name>
+               <ce:surname>He</ce:surname>
+            </ce:author>
+            <ce:author id="au0020" author-id="B9780323853439000276-9905aca3e5c7d71e35b1fb966469c187">
+               <ce:given-name>Shanta</ce:given-name>
+               <ce:surname>Dutta</ce:surname>
+            </ce:author>
+            <ce:author id="au0025" author-id="B9780323853439000276-40c8125ebf216c09d5ca839a25a6a461">
+               <ce:given-name>Daniel C.W.</ce:given-name>
+               <ce:surname>Tsang</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff1" affiliation-id="B9780323853439000276-fd073e7e922368270c4f8ff5944c58a6">
+               <ce:textfn>Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hong Kong, P.R. China</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University</sa:organization>
+                  <sa:state>Hong Kong</sa:state>
+                  <sa:country>P.R. China</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="srct1">Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hong Kong, P.R. China</ce:source-text>
+            </ce:affiliation>
+         </ce:author-group>
+         <ce:abstract class="author" id="ab0010" view="extended"><ce:abstract-sec id="abs0010" view="all">
+               <ce:simple-para id="sp0015" view="all">According to the sustainable development goals set by the United Nations, great efforts should be made on improving soil health and developing sustainable green materials. As a renewable and economical carbonaceous material derived from biomass waste, biochar provides a nature-based solution in improving soil health and relieving energy crisis. Biochar has shown great environmental benefits by being extensively applied in soil amendment, soil remediation, and mitigation of greenhouse gas emissions. Novel and facile ways of various emerging modification strategies are being explored to synthesize cost-efficient biochar composites. In the future, interdisciplinary collaborations among multiple sides are suggested to boost the sustainable development in a green manner.</ce:simple-para>
+            </ce:abstract-sec></ce:abstract>
+         <ce:keywords class="keyword" id="kys0010" view="extended">
+            <ce:section-title id="st0015">Keywords</ce:section-title>
+            <ce:keyword id="kyw0010">
+               <ce:text>Biochar</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kyw0015">
+               <ce:text>soil health</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kyw0020">
+               <ce:text>sustainable development goals</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kyw0025">
+               <ce:text>soil management</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:sections>
+            <ce:section id="s0010" view="all">
+               <ce:label>2.1</ce:label>
+               <ce:section-title id="st0020">Introduction</ce:section-title>
+               <ce:para id="p0010" view="all">
+                  <ce:anchor id="p15"/>Over the past years, the sustainable development goals (SDGs) become an attractive topic for sustainable development and international collaboration over the globe. The United Nations put forward 17 SDGs as the blueprint to build a greener and more sustainable future for the whole world. These SDGs aim to address various global challenges such as poverty, climate change, and environmental remediation (<ce:cross-ref id="crf1" refid="bib34">UN, 2015</ce:cross-ref>). In particular, soil health becomes a vital element among several SDGs, including SDG 1 (no poverty), SDG 2 (zero hunger), SDG 3 (good health and well-being), SDG 6 (clean water and sanitation), SDG 7 (affordable and clean energy), SDG 12 (responsible consumption and production), SDG 13 (climate action), and SDG 15 (life on land). The biochar soil application associated with SDGs can be illustrated in <ce:cross-ref id="crf2" refid="f0010">Fig. 2.1</ce:cross-ref>
+                  <ce:float-anchor refid="f0010"/>. Soil constitutes a significant section of the ecosystem and serves as a fundamental support for crop growth, thus acting as a determining factor for productivity and human well-being. Soil biodiversity closely affects crop diseases and assures the ordered working of ecosystem. The health of soil environment is not only the significant factor for eliminating poverty and hunger but also a critical condition to ensure water quality and greenhouse gas (GHG) emissions (<ce:cross-ref id="crf3" refid="bib13">Hou et al., 2020a</ce:cross-ref>).</ce:para>
+               <ce:para id="p0015" view="all">It is encouraged to develop cutting-edge technologies to pursue a sustainable development with carbon-efficient manner and reach the United Nation’s SDGs. Soil management with secure land use and efficient food production is a critical factor to achieve the above goals. It is commonly known that the accumulated potentially toxic elements from geogenic and anthropogenic sources into agricultural soils are threatening global food safety and security. The major contaminants in soil include toxic elements such as cadmium, mercury, copper, zinc, and lead, and organic pollutants, such as polycyclic aromatic hydrocarbons and pesticides. In recent years, microplastics are emerging as the contaminants in the soil environment and are drawing more and more attention (<ce:cross-ref id="crf4" refid="bib10">He et al., 2021</ce:cross-ref>). Therefore innovative technologies are being encouraged to search for effective and efficient ways for soil remediation; nature-based solution (NBS) is defined to exploit nature-based, economical, and environmentally friendly treatment technologies while redeveloping strategies that are socially inclusive and economically viable (<ce:cross-ref id="crf5" refid="bib22">Song et al., 2019</ce:cross-ref>). This novel concept expects growing research studies to better understand the benefits and enhance its practicality to achieve SDGs. Therefore exploration of proper materials and techniques is essential to assure the sustainable use and management of soil resource and achieve SDGs.</ce:para>
+            </ce:section>
+            <ce:section id="s0015" view="all">
+               <ce:label>2.2</ce:label>
+               <ce:section-title id="st0025">Biochar material</ce:section-title>
+               <ce:section id="s0020" view="all">
+                  <ce:label>2.2.1</ce:label>
+                  <ce:section-title id="st0030">Production of biochar</ce:section-title>
+                  <ce:para id="p0020" view="all">In the last few decades, a biomass waste–derived carbonaceous material, known as biochar, is gradually attracting much attention as an economical alternative to remove potentially toxic elements from soil via absorption, complexation, electronic attraction, etc. (<ce:cross-refs id="crfs1" refid="bib46 bib26 bib30">Zhou et al., 2017; Mohanty et al., 2018; Rajapaksha et al., 2018</ce:cross-refs>). Biomass is abundant on the earth and forms much faster than fossil fuel, which is regarded as a promising resource for renewable energy and material production. Biochar material dated back to the discovery of Terra Preta de indio (black carbon/earth) from the Amazon basin in the early 20th century, which was found to significantly improve crop growth compared with other topical soils. According to the United Nations Environment Programme, it was estimated that approximately 140 billion metric tons of <ce:anchor id="p16"/>biomass waste is generated globally from agriculture each year. Biomass-derived biochar has been extensively demonstrated to immobilize soil contaminants in numerous research studies (<ce:cross-refs id="crfs2" refid="bib7 bib42">Fang et al., 2016; Yoo et al., 2018</ce:cross-refs>). In addition, research advances are emerging on biochar modification and synthesis of functional carbon composites from pristine biochar (<ce:cross-ref id="crf6" refid="bib40">Xiong et al., 2017</ce:cross-ref>), which provide great scientific insights for fabrication of renewable and novel environmental materials for soil fertility improvement, soil remediation, and other clean productions.</ce:para>
+                  <ce:para id="p0025" view="all">Biochar can be conventionally produced via biomass pyrolysis under limited oxygen environment at the temperature primarily ranging from 300 to 800°C (<ce:cross-ref id="crf7" refid="bib40">Xiong et al., 2017</ce:cross-ref>). Pyrolysis includes fast and slow pyrolysis according to the operating parameters. Conventional carbonization, known as slow pyrolysis, generates biochar as the major product in solid phase while producing a small amount of syngas as well as condensed bio-oil in gaseous and liquid phases, respectively. This process usually requires a relatively low heating rate (5–7°C/min) with long residence time (&gt;1<ce:hsp sp="0.25"/>h) (<ce:cross-ref id="crf8" refid="bib17">Liu et al., 2015</ce:cross-ref>). Comparatively, fast pyrolysis at the heating rate higher than 200°C/min and the residence time within 10<ce:hsp sp="0.25"/>s tends to favor the generation of bio-oil (<ce:cross-ref id="crf9" refid="bib18">Qian et al., 2015</ce:cross-ref>). Besides, gasification is a partial combustion process. It is conducted at high temperature range (600–1200°C) and could produce biochar as the coproduct in solid phase as well as syngas (H<ce:inf loc="post">2</ce:inf>, CO, and CO<ce:inf loc="post">2</ce:inf>) as the main product in gaseous phase, with the presence of oxidizing agents such as oxygen and steam. The coproducts along with the biochar thermochemical production process, that is, bio-oil and syngas, can be utilized as fuel oils for electricity generation and platform chemicals due to the presence of phenol and phenol derivatives at high contents (<ce:cross-ref id="crf10" refid="bib29">Quan et al., 2010</ce:cross-ref>). In recent years, hydrothermal carbonization of biomass emerges as a novel approach for the production of hydrochar as the biochar analog at relevantly milder conditions (temperature 180–250°C under pressure in water) compared with conventional approaches, which eliminates the redundant step of energy-intensive drying of feedstock biomass (<ce:cross-ref id="crf9000" refid="bib48">Libra et al., 2011</ce:cross-ref>).<ce:anchor id="p17"/>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>2.2.2</ce:label>
+                  <ce:section-title id="st0035">Biochar properties</ce:section-title>
+                  <ce:para id="p0030" view="all">Biochar is a renewable and sustainable carbonaceous material derived from biomass waste, including lignocellulosic residues such as food waste and forestry residues, as well as nonlignocellulosic residues like dairy manure and organic proportion of municipal solid waste. Lignocellulosic biomass is typically composed of cellulose, hemicellulose, and lignin, the components of which are highly dependent on the properties of biomass feedstock. For example, biochars derived from manure feedstocks tend to present less carbon, oxygen, and hydrogen contents than lignocellulosic-derived biochars. The economical feedstock and synthesis method bring about various advantageous properties, including large specific surface area, developed pore structure, enriched surface functional groups, and long-term stability. The physicochemical properties of biochar, for example, surface functional groups, surface area, porous structure, and metal dispersion, can be further tailored for improving the function of biochar materials for a diverse range of environmental applications (<ce:cross-ref id="crf11" refid="bib40">Xiong et al., 2017</ce:cross-ref>). In recent years, biochar application has been broadened and covered numerous cutting-edge frontiers such as energy and health-care industry, in terms of biochar’s economical synthesis, sustainable benefits, and tunable characteristics (<ce:cross-ref id="crf12" refid="bib28">Ok et al., 2015</ce:cross-ref>). Biochar mainly contains carbon, hydrogen, and oxygen in high contents and several other elements in low contents, including nitrogen, sulfur, phosphors, potassium, sodium, magnesium, aluminum, iron, calcium, and Si, depending on the feedstock type as well as pyrolysis conditions (<ce:cross-ref id="crf13" refid="bib3">Bolan et al., 2021</ce:cross-ref>). The presence of oxygen-containing functional groups on biochar surface assures its potential for functionalization, and it can be also altered by varying pyrolysis conditions, such as temperature, residence time, and purging gas. The zeta potential and the zero point charge could indicate the surface charge of biochar particle. The identification and quantification of biochar proximate, ultimate, physicochemical, surface, and structural properties are critical to evaluate optimal performances for soil management. These characteristics of biochar, including pH, bulk density, electrical conductivity, and elemental composition, can be quantified via traditional techniques. Advanced analytical instruments can quantify chemical elements and quantity aromatic compounds within the bulk matrix of biochar (<ce:cross-ref id="crf14" refid="bib3">Bolan et al., 2021</ce:cross-ref>).</ce:para>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>2.2.3</ce:label>
+                  <ce:section-title id="st0040">Biochar modification and functionalization</ce:section-title>
+                  <ce:para id="p0035" view="all">Synthesis of engineered biochar composites with porous structure as well as developed functionalities has facilitated a diverse range of environmental applications. The modified biochars with increased surface area and enriched functional groups are able to serve as cost-effective and renewable catalysts and/or catalyst supports for chemical and physical transformations, including adsorption and degradation of environmental contaminants. For example, emerging applications of biochar as catalysts or catalyst supports for environmental remediation (e.g., advanced oxidation processes) and green biorefineries have been explored extensively in the last few decades (<ce:cross-ref id="crf15" refid="bib15">Kumar et al., 2020a</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0040" view="all">Biochar activation can be realized by forming and developing newly formed internal porous structure or functional groups during activation, including physical and chemical activations (<ce:cross-ref id="crf16" refid="bib15">Kumar, et al., 2020a</ce:cross-ref>). Physical activation is usually achieved by thermal activation using CO<ce:inf loc="post">2</ce:inf> or steam at high temperatures (800–900°C). Comparatively, chemical activation of biochars can be achieved by means of acidic solution or hydroxides, where biochar is typically mixed and stirred with activation agents such as KOH, K<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>, and KHCO<ce:inf loc="post">3</ce:inf> (<ce:cross-ref id="crf17" refid="bib19">Sevilla et al., 2016</ce:cross-ref>). Chemical activation is able to enhance biochar porous structure by releasing tar particles from micropores. It is effective to enlarge the Brunauer-Emmett-Teller (BET) surface, for example, aim to facilitate highly efficient magnetic impregnation. Various biochar surface modification methodologies (such as impregnation methods for biochar-based composites) have been developed by scientists to cater to diverse environmental applications. By means of functionalization of pristine biochar, the biochar composites can be synthesized and present superior performances. Typical biochar composites include (1) metal–biochar composites, (2) mineral–biochar composites, (3) layered double hydroxide–biochar composites, (4) carbonaceous engineering nanocomposites, and (5) microorganism–biochar composites (<ce:cross-ref id="crf18" refid="bib36">Wang et al., 2021</ce:cross-ref>). For example, iron–biochar composites, such as nano-zero valent iron–biochar, iron oxide–biochar, and iron sulfide–biochar composite, are favorable for the adsorption and immobilization of trace elements as well as organic contaminants via enhanced precipitation, complexation, and electrostatic interactions (<ce:cross-refs id="crfs3" refid="bib1 bib36">Alam et al., 2020; Wang et al., 2021</ce:cross-refs>). Magnetic modification could improve diverse biochar characteristics as well as increase metal-sorption efficiency of biochar. In general, such magnetically modified biochars are ferromagnetic, which render facile recovery from contaminated solutions by means of filtration process via a magnet (<ce:cross-ref id="crf19" refid="bib45">Zhou et al., 2014</ce:cross-ref>). Therefore this method is highly favorable to efficiently recycle contaminant-laden magnetic biochar adsorbents after their application of environmental remediation.<ce:anchor id="p18"/>
+                  </ce:para>
+               </ce:section>
+            </ce:section>
+            <ce:section id="s0035" view="all">
+               <ce:label>2.3</ce:label>
+               <ce:section-title id="st0045">Sustainable soil management by biochar</ce:section-title>
+               <ce:section id="s0040" view="all">
+                  <ce:label>2.3.1</ce:label>
+                  <ce:section-title id="st0050">Soil quality improvement</ce:section-title>
+                  <ce:para id="p0045" view="all">Biochar is a critical by-product from thermochemical conversion of waste biomass residues and brings about numerous environmental benefits for soil improvement (<ce:cross-ref id="crf20" refid="bib32">Sohi et al., 2010</ce:cross-ref>). Biochar addition can improve soil chemical properties such as cation-exchange capacity, nutrient retention, adjusting soil pH, and increasing soil water content, as well as soil physical properties such as pore size distribution, bulk texture, structure, and soil density. Sustainable agriculture aims to grow crops in a socially, environmentally, and economically beneficial manner, which could be sustained in the long term. Application of biochar amendment in agricultural soil can enrich the soil sustainability. Moreover, biochar addition into the agricultural soil can result in the increase of crop yields over several cropping cycles in different soil types (<ce:cross-ref id="crf21" refid="bib2">Awad et al., 2018</ce:cross-ref>). Due to the above favorable properties, biochar compost is extensively be applied as soil amendment to tailor soil physicochemical properties and mediate soil microbial community, thus enhancing soil health and crop yield. Biochar as compost could greatly contribute to nutrient retention in soil. Biochar can serve as a reservoir of macro- and micronutrients and accelerate nutrient cycling processes in the long term (<ce:cross-ref id="crf22" refid="bib6">Deluca et al., 2015</ce:cross-ref>). The mineral-rich biochar can be applied as a slow-release fertilizer and provide nutrient supply to the soil. During the biomass pyrolysis at high temperatures, the carbon content is gradually lost, remaining a high proportion of thermally stable nutrients on the material. Natural minerals present in the biochar can promote soil fertility and increase crop yield. For example, the nutrient-rich biochar composites can be synthesized and applied as slow-release fertilizers, improving crop productivity and reaching for SDG 2 – zero hunger (<ce:cross-ref id="crf23" refid="bib36">Wang et al., 2021</ce:cross-ref>). Biochar-derived dissolved organic matter (DOM) is able to provide extra bioavailable DOM, thus promoting the plant growth in regards of yield and quality. Besides, it was reported that bioavailable DOM released from biochar can be a major carbon source for soil microbial community, thus promoting microorganism activities and microbial respiration and influencing compositions of soil carbon (<ce:cross-ref id="crf24" refid="bib24">Sun et al., 2021</ce:cross-ref>). Biochar application into soil can significantly contribute to crop productivity, as the stable carbon source from biochar can increase the soil cation-exchange capacity, leading to the retention of numerous micro- and macronutrients. The macropores of biochar particles can also benefit the soil water infiltration, water holding capacity, as well as soil aeration.</ce:para>
+                  <ce:para id="p0050" view="all">Biochar addition also has a positive effect on the soil biological properties, thus improving soil fertility (<ce:cross-ref id="crf25" refid="bib20">Sherene, 2017</ce:cross-ref>). The enzymatic activity that is surrounding the plant rhizosphere plays a crucial role on the bioavailability of the nutrients to the crop. Biochar with enriched pore structure could offer a proper habitat for soil microorganisms and boost soil microbial activity, improving microbial biomass, activity, and growth rates, as well as adjusting the composition of the microbial communities (<ce:cross-ref id="crf26" refid="bib8">Fischer and Glaser, 2012</ce:cross-ref>). It was reported that the toxicity and bioavailability of soil contaminants to microbes could be reduced due to the biochar-mediated immobilization of trace elements as well as other organic contaminants (<ce:cross-ref id="crf27" refid="bib47">Zhu et al., 2017</ce:cross-ref>). Therefore the soil enzyme activity enhances the decomposition of organic matter as well as nutrient cycling.</ce:para>
+               </ce:section>
+               <ce:section id="s0045" view="all">
+                  <ce:label>2.3.2</ce:label>
+                  <ce:section-title id="st0055">Contaminants immobilization</ce:section-title>
+                  <ce:para id="p0055" view="all">In recent decades, researchers have been extensively developing numerous remediation technologies to eliminate or mitigate soil contamination. Bioremediation and phytoremediation are practical examples of soil management; however, the field effectiveness of bioremediation suffers from inconsistency, which is probably due to heterogeneity of soil conditions in the soil as well as the artifacts resulted from assessing treatments on a spot-by-spot basis instead of applying field-wide evaluation (<ce:cross-ref id="crf28" refid="bib14">Hou et al., 2020b</ce:cross-ref>). The emerging application of cost-efficient and renewable carbonaceous materials has shown great environmental benefits. For instance, stabilization agents like biochar could achieve in situ stabilization of agricultural soil (<ce:cross-ref id="crf29" refid="bib12">Hou et al., 2018</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0060" view="all">Biochar application in soil can achieve the immobilization of various potentially toxic elements and organic contaminants for healthy crop production. Soil pollution comes from a diverse range of sources, including geogenic and anthropogenic processes. Domestic, industrial, and agricultural activities can be the possible means of transportation of contaminants into the soil, for example, atmospheric deposition, transportation, and usage of impure mineral fertilizers or manures (<ce:cross-ref id="crf30" refid="bib14">Hou et al., 2020b</ce:cross-ref>). Besides, it was reported that geogenic source from natural geological processes can also be a critical cause of heavy metal(oid) contamination. For instance, some heavy metal(loid)s originating from the soil parent material (such as Cr and Mn) and natural minerals (e.g., Cd, Pb, Cu, and Zn) might transform and exist in the agricultural soil (<ce:cross-ref id="crf31" refid="bib14">Hou et al., 2020b</ce:cross-ref>). Various metal(loid)s (e.g., selenium, chromium, mercury, arsenic, lead, and cadmium) that are widely existing in different industries would pose a significant threat to solid waste management, <ce:anchor id="p19"/>regarding to their acute and chronic risks to the environment and ecosystems (<ce:cross-ref id="crf32" refid="bib21">Song and Li, 2014</ce:cross-ref>). In addition, radioactive elements generated from nuclear applications are also of highly risk and suggested to be also cautiously treated to prevent leaching and subsequent threats to the soil environment (<ce:cross-ref id="crf33" refid="bib41">Xiong et al., 2019</ce:cross-ref>). The efficiency of immobilizing different potentially toxic elements and organic contaminants varies from different biochar materials. It is found that biochars with well-developed structures (such as high BET surface) tend to be less effective for absorbing metal pollutants (e.g., Cd, Cu, Pb), while they would be more active for removing organic pollutants (e.g., phenol), compared with poorly developed structures (<ce:cross-ref id="crf34" refid="bib9">Han et al., 2013</ce:cross-ref>). Biochars with high surface area possess more sufficient space and are more favorable for post modifications such as metal impregnations, thus producing more sorbents both for removing organic and inorganic contaminants from soil ecosystem (<ce:cross-ref id="crf35" refid="bib33">Trakal et al., 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0065" view="all">Nevertheless, the long-term effect of biochar amendment that leads to unintended effects on the soil and ecosystem requires further investigations. For example, it was reported that biochar amendment can result in the time-dependent release of soil contaminants, including potentially toxic elements, persistent free radicals, benzene, phenols, polycyclic aromatic hydrocarbons, and carboxylic acids. Biochar aging process also affects the performance of biochar soil application, due to the variation of biochar physicochemical characteristics like oxygen-containing functional groups on the surface and specific surface area (<ce:cross-ref id="crf36" refid="bib10">He et al., 2021</ce:cross-ref>). It should be noted that biochars cannot always lead to desired outcomes, due to the complicated interaction between biochar and soil as well as the distinguish properties of inherent contaminants in biochar. It was reported in the previous literature that organic pollutants (e.g., volatile organic carbons and dioxins), poetically toxic elements, and some nanoparticles could be formed along with the production of biochar, depending on the feedstock and pyrolysis parameters. These compositions would pose severe threat to the plant and microorganism during the soil application of biochar. Research gaps should be investigated further in the future studies to explore the inherent mechanisms and avoid environmental risks, such as bioavailability. It is imperative to improve efficient methods for extracting and detecting those contaminants in biochar. The biological tests with diverse species of organisms should allow for identifying the potential toxicity on microorganisms induced by the contaminants, for example, by means of germination test and earthworm avoidance test. Therefore biochar modification with enhanced long-term stability and time-dependent monitoring the C- and N-cycling of soil is expected to improve the biochar performances in agroecosystems.</ce:para>
+               </ce:section>
+               <ce:section id="s0050" view="all">
+                  <ce:label>2.3.3</ce:label>
+                  <ce:section-title id="st0060">Carbon sequestration</ce:section-title>
+                  <ce:para id="p0070" view="all">The production processes generally render biochar with a high surface area in a stable fixed carbon structure and alkaline characteristics, which makes biochar desirable in increasing soil moisture content, sorb soil contaminants, and soil pH (<ce:cross-ref id="crf37" refid="bib13">Hou et al., 2020a</ce:cross-ref>). Besides, the formation of biomass is regarded as an approach to capture the carbon from the atmosphere into recalcitrant carbon in the environment. Biochar can adsorb the dissolved organic carbon in soil, reducing the available carbon substrate for CH<ce:inf loc="post">4</ce:inf> production and mitigating soilborne CH<ce:inf loc="post">4</ce:inf> emission (<ce:cross-ref id="crf38" refid="bib5">Cai et al., 2018</ce:cross-ref>). Therefore biochar technology is crucial in mitigating GHG emission and relieving climate change (<ce:cross-ref id="crf39" refid="bib39">Woolf et al., 2010</ce:cross-ref>). Evaluations should be made by means of assessment tools. Life cycle assessment is an extensively adopted framework that facilitates the understanding of the environmental performance and to quantify the overall impacts of biochar product and interaction processes in soil. The environmental sustainability of process systems has attracted more attention other than the economic cost as well as technical performance.</ce:para>
+                  <ce:para id="p0075" view="all">Soil organic carbon (SOC) represents the level of soil functionality that relates to soil hydraulic properties, soil structure, and microbial activity (<ce:cross-refs id="crfs4" refid="bib13 bib35">Hou et al., 2020a; Vogel et al., 2018</ce:cross-refs>). SOC is a crucial component of carbon cycle on the globe, playing an active role in the SDG 13: climate action. Soil management might cause great effect on carbon cycling. On the other hand, applications of fertilizer can contribute to soil functionality and greatly enhance SOC levels. Therefore application of soil amendments, such as biochar compost, into agricultural land plays an active role in improving carbon storage and mitigating GHG emissions. For example, it was reported that biochar applications could lead to improved effect on carbon sequestration than other conventional management strategies such as soil amendment application and conservation tillage, due to microbial biomass, and metal oxides–induced immobilization of carbon (<ce:cross-ref id="crf40" refid="bib4">Bolan et al., 2013</ce:cross-ref>). The impact of soil application on climate change can be indicated by SOC and emissions of soilborne GHG such as carbon dioxide and methane. Soil CO<ce:inf loc="post">2</ce:inf> flux and microbial respiration can be monitored to evaluate the carbon balance in soil after application of biochar fertilizer (<ce:cross-ref id="crf41" refid="bib10">He et al., 2021</ce:cross-ref>). Besides, the cumulative methane emission of soil that releases into the atmosphere in anaerobic conditions is also an essential indicator.</ce:para>
+                  <ce:para id="p0080" view="all">Moreover, CO<ce:inf loc="post">2</ce:inf> adsorption by biochar materials that serve as absorbent has also attracted much attention from the scientific community. The distinguished compositions of biomass waste render the biochar as solid adsorbents with various physicochemical properties applied for capture of carbon dioxide. For example, biochars derived from feedstock <ce:anchor id="p20"/>with high carbon content (e.g., coal by-products) is able to capture CO<ce:inf loc="post">2</ce:inf> at low temperatures ranges (25–75°C), while those with low-carbon content (such as plastic waste) tend to achieve this goal at high temperatures (75–150°C). The sorption process includes both physical and chemical adsorption involving the interaction between adsorbate and adsorbent. The physisorption depends on the van der Waals and electrostatic forces between carbon dioxide molecules and the adsorbent surface. The practical application of biochar absorbents for CO<ce:inf loc="post">2</ce:inf> capture shows a promising prospect due to the limited cost on the production and operation process. Besides, emerging technologies, known as direct air capture of atmospheric carbon dioxide, have been developed in recent years. This innovative technology aims to control the CO<ce:inf loc="post">2</ce:inf> concentration and achieve carbon sequestration at the points of emission. Aqueous solvents (e.g., NaOH) are usually employed to dissolve ambient CO<ce:inf loc="post">2</ce:inf> and form NaCO<ce:inf loc="post">3</ce:inf> in the process.</ce:para>
+               </ce:section>
+            </ce:section>
+            <ce:section id="s0055" view="all">
+               <ce:label>2.4</ce:label>
+               <ce:section-title id="st0065">Prospect and future recommendations</ce:section-title>
+               <ce:para id="p0085" view="all">In the future, more and more NBSs (e.g., green stabilization via sustainable materials) should exploit to explore economic and ecological-friendly approaches for soil management to fulfill the requirements of SDGs. Facile and economic synthesis method of biochar composites is expected. Currently, most synthesis methods require complicated multiple steps that consume extensive energy and chemicals; however, they are not practical for large-scale manufacture. In the future, research studies are recommended to focus on the development of simple synthesis methods with significantly enhanced functionalities and efficiencies, for example, by means of copyrolysis, one-step impregnation in aqueous solution, and ball milling (<ce:cross-refs id="crfs5" refid="bib16 bib31">Kumar et al., 2020b; Shen et al., 2020</ce:cross-refs>). Ball milling as a pretreatment method could assure a more efficient conversion of lignocellulosic biomass than conventional approaches, which possesses the advantageous properties such as facile operation and solvent-free conditions. Utilization of dilute acid, liquid nitrogen, and microwave can further save the energy consumption of the above process. Exploration of more efficient and nature-inspired doping agents is suggested to improve the efficiency of biochar for soil management. For instance, microorganism doping is proven to improve biochar with enhanced effect on organic contaminant biodegradation (<ce:cross-ref id="crf42" refid="bib36">Wang et al., 2021</ce:cross-ref>). On the other hand, the correlation between thermal conversion of biomass and the subsequent produced biochar should be investigated. The characteristics on the contaminant content and distribution in biochar should be assessed and evaluated in detail before soil application. In particular, the leaching potential of the metal-doped biochars such as magnetic biochar and biochar-based nanocomposite should be paid more attention. Large-scale field demonstrations should be evaluated on the applicability of novel biochar composites other than the experimental tests in the laboratory. In addition to biochar, treatments of biomass residues by means of fractionation, extraction, thermochemical, and biological upgrading are promising ways to generate a diverse range of value-added chemicals, including organic compounds (e.g., succinic acid as pesticide) as well as nutrients (e.g., phosphorous). These bio-derived chemicals as soil additives show large potential in the tremendous market for sustainable agriculture, according to the latest research (<ce:cross-ref id="crf43" refid="bib43">Yu et al., 2020</ce:cross-ref>). An innovative research model on bio-based chemical products for agricultural application in soil as well as smart farming should be promising to boost sustainable soil management and meet SDGs.</ce:para>
+               <ce:para id="p0090" view="all">In terms of soil improvement, it is imperative to improve the monitoring instrumentation to evaluate the trend of microbial dynamics, metal speciation, and fractions, as well as other soil environmental conditions (e.g., temperature, pH, and redox potential) to assure the long-term stability of biochar soil application. For example, numerous artificial aging techniques, including chemical oxidation, mineral modification, and wet−dry cycling, are employed to mimic natural aging mechanisms (<ce:cross-refs id="crfs6" refid="bib37 bib38">Wang et al., 2020a; Wang et al., 2020b</ce:cross-refs>). Moreover, alternative innovative techniques on data analysis like machine learning are also recommended to suggest the engineering design of biochar material and predict the efficiency of biochar amendment in the long term (<ce:cross-ref id="crf44" refid="bib10">He et al., 2021</ce:cross-ref>). For example, more and more countries have adopted green and sustainable remediation procedures, evaluating the environmental impacts as well as social and economic appraisals (<ce:cross-ref id="crf45" refid="bib23">Song et al., 2018</ce:cross-ref>). Policymakers should also address the agricultural land contamination in view of fertilizer and pesticide usage that may impact the livelihood of farmers (<ce:cross-ref id="crf46" refid="bib11">Hou and Li, 2017</ce:cross-ref>). Interdisciplinary studies on information technology as well as environmental science would pose tremendous potential in promoting the capability in sustainable application and utilization of soil resources in the future.</ce:para>
+            </ce:section>
+            <ce:section id="s0060" role="conclusion" view="all">
+               <ce:label>2.5</ce:label>
+               <ce:section-title id="st0070">Conclusion</ce:section-title>
+               <ce:para id="p0095" view="all">Great efforts on improving soil health should be made to reach the SDGs and realize sustainable agriculture. It is suggested that researchers from wider disciplines, including soil, climate, and material science, should collaborate to achieve the SDGs in a manner more effective. Biochar as a renewable and sustainable material provides an NBS in soil improvement. Enhancement fertility, immobilization of soil contaminants, and carbon sequestration can be achieved by <ce:anchor id="p21"/>means of biochar and/or biochar composite materials. Further research studies on facile production and modification of biochar materials to achieve larger-scale application with broader environmental benefits are promising for sustainable agriculture. Interdisciplinary components are expected to make significant contributions to food safety, biodiversity, public health, and climate change mitigation, as well as build efficient strategies to realize the SDGs for our future.</ce:para>
+            </ce:section>
+            <ce:section id="s0065" role="acknowledgement" view="all">
+               <ce:section-title id="st0075">Acknowledgment</ce:section-title>
+               <ce:para id="p0100" view="all">The authors appreciate the financial support from Hong Kong Environment and Conservation Fund (Project 101/2020).</ce:para>
+            </ce:section>
+         </ce:sections>
+         <ce:bibliography id="bibliog0010" view="all">
+            <ce:section-title id="st0080">Reference</ce:section-title>
+            <ce:bibliography-sec id="bb0010" view="all">
+               <ce:bib-reference id="bib1">
+                  <ce:label>Alam et al., 2020</ce:label>
+                  <sb:reference id="sbref1">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>M.S.</ce:given-name>
+                              <ce:surname>Alam</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Bishop</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>N.</ce:given-name>
+                              <ce:surname>Chen</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Safari</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>V.</ce:given-name>
+                              <ce:surname>Warter</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.M.</ce:given-name>
+                              <ce:surname>Byrne</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Reusable magnetite nanoparticles–biochar composites for the efficient removal of chromate from water</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Sci. Rep.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>10</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>19007</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct2">Alam, M.S., Bishop, B., Chen, N., Safari, S., Warter, V., Byrne, J.M., et al., 2020. Reusable magnetite nanoparticles–biochar composites for the efficient removal of chromate from water. Sci. Rep., 10, 19007.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib2">
+                  <ce:label>Awad et al., 2018</ce:label>
+                  <sb:reference id="sbref2">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.M.</ce:given-name>
+                              <ce:surname>Awad</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.D.</ce:given-name>
+                              <ce:surname>Igalavithana</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.-H.</ce:given-name>
+                              <ce:surname>Kim</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.S.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Biochar effects on rice paddy: meta-analysis</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Adv. Agron.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>148</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2018</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>132</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct3">Awad, Y.M., Wang, J., Igalavithana, A.D., Tsang, D.C.W., Kim, K.-H., Lee, S.S., et al., 2018. Biochar effects on rice paddy: meta-analysis. Adv. Agron., 148, 132.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib4">
+                  <ce:label>Bolan et al., 2013</ce:label>
+                  <sb:reference id="sbref3">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>N.S.</ce:given-name>
+                              <ce:surname>Bolan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Kunhikrishnan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>R.</ce:given-name>
+                              <ce:surname>Naidu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Carbon storage in a heavy clay soil landfill site after biosolid application</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>465</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2013</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>216</sb:first-page>
+                           <sb:last-page>225</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct4">Bolan, N.S., Kunhikrishnan, A., Naidu, R., 2013. Carbon storage in a heavy clay soil landfill site after biosolid application. Sci. Total Environ., 465, 216–225.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib3">
+                  <ce:label>Bolan et al., 2021</ce:label>
+                  <sb:reference id="sbref4">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>N.S.</ce:given-name>
+                              <ce:surname>Bolan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.A.</ce:given-name>
+                              <ce:surname>Hoang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Beiyuan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Gupta</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Karakoti</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Multifunctional applications of biochar beyond carbon storage</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Int. Mater. Rev</sb:maintitle>
+                              </sb:title>
+                           </sb:series>
+                           <sb:date>2021</sb:date>
+                        </sb:issue>
+                     </sb:host>
+                     <sb:host>
+                        <sb:e-host>
+                           <ce:inter-ref id="interref781" xlink:href="https://doi.org/10.1080/09506608.2021.1922047" xlink:type="simple">https://doi.org/10.1080/09506608.2021.1922047</ce:inter-ref>
+                        </sb:e-host>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct5">Bolan, N.S., Hoang, S.A., Beiyuan, J., Gupta, S., Hou, D., Karakoti, A., et al., 2021. Multifunctional applications of biochar beyond carbon storage. Int. Mater. Rev..</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib5">
+                  <ce:label>Cai et al., 2018</ce:label>
+                  <sb:reference id="sbref5">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>F.</ce:given-name>
+                              <ce:surname>Cai</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Z.</ce:given-name>
+                              <ce:surname>Feng</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Zhu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Effects of biochar on CH<ce:inf loc="post">4</ce:inf> emission with straw application on paddy soil</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J. Soils Sediments</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>18</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2018</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>599</sb:first-page>
+                           <sb:last-page>609</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct6">Cai, F., Feng, Z., Zhu, L., 2018. Effects of biochar on CH4 emission with straw application on paddy soil. J. Soils Sediments 18, 599–609.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib6">
+                  <ce:label>Deluca et al., 2015</ce:label>
+                  <sb:reference id="sbref6">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>T.H.</ce:given-name>
+                              <ce:surname>Deluca</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.J.</ce:given-name>
+                              <ce:surname>Gundale</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.D.</ce:given-name>
+                              <ce:surname>Mackenzie</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.L.</ce:given-name>
+                              <ce:surname>Jones</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Biochar effects on soil nutrient transformations</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:title>
+                              <sb:maintitle>Biochar for Environmental Management: Science, Technology and Implementation, vol. 2</sb:maintitle>
+                           </sb:title>
+                           <sb:date>2015</sb:date>
+                           <sb:publisher>
+                              <sb:name>Taylor &amp; Francis Group</sb:name>
+                              <sb:location>Routledge, New York</sb:location>
+                           </sb:publisher>
+                        </sb:book>
+                        <sb:pages>
+                           <sb:first-page>421</sb:first-page>
+                           <sb:last-page>454</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct7">Deluca, T.H., Gundale, M.J., Mackenzie, M.D., Jones, D.L., 2015. Biochar effects on soil nutrient transformations. In: Biochar for Environmental Management: Science, Technology and Implementation, vol. 2. Taylor &amp; Francis Group, Routledge, New York, pp. 421-454.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib7">
+                  <ce:label>Fang et al., 2016</ce:label>
+                  <sb:reference id="sbref7">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Fang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>F.</ce:given-name>
+                              <ce:surname>Zhou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>W.</ce:given-name>
+                              <ce:surname>Zhang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>R.</ce:given-name>
+                              <ce:surname>Qiu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Stabilization of cationic and anionic metal species in contaminated soils using sludge-derived biochar</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Chemosphere</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>149</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2016</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>263</sb:first-page>
+                           <sb:last-page>271</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct8">Fang, S., Tsang, D.C.W., Zhou, F., Zhang, W., Qiu, R., 2016. Stabilization of cationic and anionic metal species in contaminated soils using sludge-derived biochar. Chemosphere, 149, 263-271.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib8">
+                  <ce:label>Fischer and Glaser, 2012</ce:label>
+                  <sb:reference id="sbref8">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Fischer</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Glaser</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Synergisms between compost and biochar for sustainable soil amelioration</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:title>
+                              <sb:maintitle>Management of Organic Waste</sb:maintitle>
+                           </sb:title>
+                           <sb:date>2012</sb:date>
+                           <sb:publisher>
+                              <sb:name>InTech</sb:name>
+                              <sb:location>London</sb:location>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct9">Fischer, D., Glaser, B., 2012. Synergisms between compost and biochar for sustainable soil amelioration. Management of Organic Waste. InTech, London.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib9">
+                  <ce:label>Han et al., 2013</ce:label>
+                  <sb:reference id="sbref9">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Han</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.A.</ce:given-name>
+                              <ce:surname>Boateng</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>P.X.</ce:given-name>
+                              <ce:surname>Qi</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>I.M.</ce:given-name>
+                              <ce:surname>Lima</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Chang</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Heavy metal and phenol adsorptive properties of biochars from pyrolyzed switchgrass and woody biomass in correlation with surface properties</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J. Environ. Manage.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>118</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2013</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>196</sb:first-page>
+                           <sb:last-page>204</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct10">Han, Y., Boateng, A.A., Qi, P.X., Lima, I.M., Chang, J., 2013. Heavy metal and phenol adsorptive properties of biochars from pyrolyzed switchgrass and woody biomass in correlation with surface properties. J. Environ. Manage., 118, 196-204.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib10">
+                  <ce:label>He et al., 2021</ce:label>
+                  <sb:reference id="sbref10">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>He</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Xiong</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>N.S.</ce:given-name>
+                              <ce:surname>Bolan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.S.</ce:given-name>
+                              <ce:surname>Ok</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>A critical review on performance indicators for evaluating soil biota and soil health of biochar-amended soils</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>414</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2021</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>125378</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct11">He, M., Xiong, X., Wang, L., Hou, D., Bolan, N.S., Ok, Y.S., et al. 2021. A critical review on performance indicators for evaluating soil biota and soil health of biochar-amended soils. J. Hazard. Mater., 414, 125378.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib11">
+                  <ce:label>Hou and Li, 2017</ce:label>
+                  <sb:reference id="sbref11">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>F.</ce:given-name>
+                              <ce:surname>Li</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Complexities surrounding China’s soil action plan</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Land. Degrad. Dev.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>28</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2017</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>2315</sb:first-page>
+                           <sb:last-page>2320</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct12">Hou, D., Li, F., 2017. Complexities surrounding China’s soil action plan. Land. Degrad. Dev., 28, 2315-2320.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib12">
+                  <ce:label>Hou et al., 2018</ce:label>
+                  <sb:reference id="sbref12">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Z.</ce:given-name>
+                              <ce:surname>Ding</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>G.</ce:given-name>
+                              <ce:surname>Li</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Wu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>P.</ce:given-name>
+                              <ce:surname>Hu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>G.</ce:given-name>
+                              <ce:surname>Guo</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>A sustainability assessment framework for agricultural land remediation in China</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Land. Degrad. Dev.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>29</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2018</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>1005</sb:first-page>
+                           <sb:last-page>1018</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct13">Hou, D., Ding, Z., Li, G., Wu, L., Hu, P., Guo, G., et al., 2018. A sustainability assessment framework for agricultural land remediation in China. Land. Degrad. Dev., 29, 1005-1018.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib13">
+                  <ce:label>Hou et al., 2020a</ce:label>
+                  <sb:reference id="sbref13">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>N.S.</ce:given-name>
+                              <ce:surname>Bolan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.B.</ce:given-name>
+                              <ce:surname>Kirkham</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>O’Connor</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Sustainable soil use and management: an interdisciplinary and systematic approach</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>729</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>138961</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct14">Hou, D., Bolan, N.S., Tsang, D.C.W., Kirkham, M.B., O’Connor, D. 2020a. Sustainable soil use and management: an interdisciplinary and systematic approach. Sci. Total Environ., 729, 138961.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib14">
+                  <ce:label>Hou et al., 2020b</ce:label>
+                  <sb:reference id="sbref14">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>O’Connor</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.D.</ce:given-name>
+                              <ce:surname>Igalavithana</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.S.</ce:given-name>
+                              <ce:surname>Alessi</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Luo</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Metal contamination and bioremediation of agricultural soils for food safety and sustainability</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Nat. Rev. Earth Environ.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>1</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>366</sb:first-page>
+                           <sb:last-page>381</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct15">Hou, D., O’Connor, D., Igalavithana, A.D., Alessi, D.S., Luo, J., Tsang, D.C.W., et al. 2020b. Metal contamination and bioremediation of agricultural soils for food safety and sustainability. Nat. Rev. Earth Environ., 1, 366-381.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib15">
+                  <ce:label>Kumar et al., 2020a</ce:label>
+                  <sb:reference id="sbref15">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Kumar</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Xiong</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Sun</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>I.K.M.</ce:given-name>
+                              <ce:surname>Yu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Critical review on biochar-supported catalysts for pollutant degradation and sustainable biorefinery</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Adv. Sustain. Syst.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>4</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>1900149</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct16">Kumar, M., Xiong, X., Sun, Y., Yu, I.K.M., Tsang, D.C.W., Hou, D., et al. 2020a, Critical review on biochar-supported catalysts for pollutant degradation and sustainable biorefinery. Adv. Sustain. Syst., 4, 1900149.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib16">
+                  <ce:label>Kumar et al., 2020b</ce:label>
+                  <sb:reference id="sbref16">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Kumar</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Xiong</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Z.</ce:given-name>
+                              <ce:surname>Wan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Sun</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Gupta</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Ball milling as a mechanochemical technology for fabrication of novel biochar nanomaterials</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>312</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>123613</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct17">Kumar, M., Xiong, X., Wan, Z., Sun, Y., Tsang, D.C.W., Gupta, J., et al., 2020b. Ball milling as a mechanochemical technology for fabrication of novel biochar nanomaterials. Bioresour. Technol., 312, 123613.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib48">
+                  <ce:label>Libra et al., 2011</ce:label>
+                  <sb:reference id="sbref166">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>J.A.</ce:given-name>
+                              <ce:surname>Libra</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.S.</ce:given-name>
+                              <ce:surname>Ro</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>C.</ce:given-name>
+                              <ce:surname>Kammann</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Funke</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>N.D.</ce:given-name>
+                              <ce:surname>Berge</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Neubauer</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.H.</ce:given-name>
+                              <ce:surname>Emmerich</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Hydrothermal carbonization of biomass residuals: a comparative review of the chemistry, processes and applications of wet and dry pyrolysis</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Biofuels</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>2</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2011</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>71</sb:first-page>
+                           <sb:last-page>106</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srctbib48">Libra, J.A., Ro, K.S., Kammann, C., Funke, A., Berge, N.D., Neubauer, Y., Emmerich, K.H., 2011. Hydrothermal carbonization of biomass residuals: a comparative review of the chemistry, processes and applications of wet and dry pyrolysis. Biofuels 2, 71–106.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib17">
+                  <ce:label>Liu et al., 2015</ce:label>
+                  <sb:reference id="sbref17">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>W.J.</ce:given-name>
+                              <ce:surname>Liu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>H.</ce:given-name>
+                              <ce:surname>Jiang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>H.Q.</ce:given-name>
+                              <ce:surname>Yu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Development of biochar-based functional materials: toward a sustainable platform carbon material</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Chem. Rev.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>115</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2015</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>12251</sb:first-page>
+                           <sb:last-page>12285</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct18">Liu, W.J., Jiang, H., Yu, H.Q., 2015. Development of biochar-based functional materials: toward a sustainable platform carbon material. Chem. Rev., 115, 12251–12285.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib26">
+                  <ce:label>Mohanty et al., 2018</ce:label>
+                  <sb:reference id="sbref18">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.K.</ce:given-name>
+                              <ce:surname>Mohanty</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>R.</ce:given-name>
+                              <ce:surname>Valenca</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Berger</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>I.K.M.</ce:given-name>
+                              <ce:surname>Yu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Xiong</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>T.</ce:given-name>
+                              <ce:surname>Saunders</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Plenty of room for carbon on the ground: Potential applications of biochar for stormwater treatment</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>625</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2018</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>1644</sb:first-page>
+                           <sb:last-page>1658</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct19">Mohanty, S.K., Valenca, R., Berger, A., Yu, I.K.M., Xiong, X., Saunders, T., et al., 2018. Plenty of room for carbon on the ground: Potential applications of biochar for stormwater treatment. Sci. Total Environ. 625, 1644-1658.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib28">
+                  <ce:label>Ok et al., 2015</ce:label>
+                  <sb:reference id="sbref19">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.S.</ce:given-name>
+                              <ce:surname>Ok</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.X.</ce:given-name>
+                              <ce:surname>Chang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Gao</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>H.J.</ce:given-name>
+                              <ce:surname>Chung</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>SMART biochar technology—a shifting paradigm towards advanced materials and healthcare research</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Environ. Technol. Innov.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>4</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2015</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>206</sb:first-page>
+                           <sb:last-page>209</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct20">Ok, Y.S., Chang, S.X., Gao, B., Chung, H.J., 2015. SMART biochar technology—a shifting paradigm towards advanced materials and healthcare research, Environ. Technol. Innov. 4, 206–209.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib18">
+                  <ce:label>Qian et al., 2015</ce:label>
+                  <sb:reference id="sbref20">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>K.</ce:given-name>
+                              <ce:surname>Qian</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Kumar</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>H.</ce:given-name>
+                              <ce:surname>Zhang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Bellmer</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>R.</ce:given-name>
+                              <ce:surname>Huhnke</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Recent advances in utilization of biochar</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Renew. Sustain. Energy Rev.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>42</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2015</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>1055</sb:first-page>
+                           <sb:last-page>1064</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct21">Qian, K., Kumar, A., Zhang, H., Bellmer, D., Huhnke, R., 2015. Recent advances in utilization of biochar. Renew. Sustain. Energy Rev., 42, 1055–1064.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib29">
+                  <ce:label>Quan et al., 2010</ce:label>
+                  <sb:reference id="sbref21">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>C.</ce:given-name>
+                              <ce:surname>Quan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Li</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>N.</ce:given-name>
+                              <ce:surname>Gao</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Characterization of products recycling from PCB waste pyrolysis</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J. Anal. Appl. Pyrolysis</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>89</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2010</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>102</sb:first-page>
+                           <sb:last-page>106</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct22">Quan, C., Li, A., Gao, N., 2010. Characterization of products recycling from PCB waste pyrolysis. J. Anal. Appl. Pyrolysis, 89, 102-106.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib30">
+                  <ce:label>Rajapaksha et al., 2018</ce:label>
+                  <sb:reference id="sbref22">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>A.U.</ce:given-name>
+                              <ce:surname>Rajapaksha</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.S.</ce:given-name>
+                              <ce:surname>Alam</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>N.</ce:given-name>
+                              <ce:surname>Chen</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.S.</ce:given-name>
+                              <ce:surname>Alessi</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.D.</ce:given-name>
+                              <ce:surname>Igalavithana</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Removal of hexavalent chromium in aqueous solutions using biochars: chemical and spectroscopic investigations</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>625</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2018</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>1567</sb:first-page>
+                           <sb:last-page>1573</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct23">Rajapaksha, A.U., Alam, M.S., Chen, N., Alessi, D.S., Igalavithana, A.D., Tsang, D.C.W., et al., 2018. Removal of hexavalent chromium in aqueous solutions using biochars: chemical and spectroscopic investigations. Sci. Total Environ. 625, 1567-1573.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib19">
+                  <ce:label>Sevilla et al., 2016</ce:label>
+                  <sb:reference id="sbref23">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Sevilla</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.B.</ce:given-name>
+                              <ce:surname>Fuertes</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Green</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Approach to high-performance supercapacitor electrodes: the chemical activation of hydrochar with potassium bicarbonate</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>ChemSusChem</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>9</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2016</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>1880</sb:first-page>
+                           <sb:last-page>1888</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct24">Sevilla, M., Fuertes, A.B., Green, A., 2016. Approach to high-performance supercapacitor electrodes: the chemical activation of hydrochar with potassium bicarbonate. ChemSusChem, 9, 1880-1888.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib31">
+                  <ce:label>Shen et al., 2020</ce:label>
+                  <sb:reference id="sbref24">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>F.</ce:given-name>
+                              <ce:surname>Shen</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Xiong</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Fu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Yang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Qiu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Qi</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Recent advances in mechanochemical production of chemicals and carbon materials from sustainable biomass resources</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Renew. Sustain. Energy Rev.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>130</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>109944</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct25">Shen, F., Xiong, X., Fu, J., Yang, J., Qiu, M., Qi, X., et al., 2020. Recent advances in mechanochemical production of chemicals and carbon materials from sustainable biomass resources. Renew. Sustain. Energy Rev., 130, 109944.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib20">
+                  <ce:label>Sherene, 2017</ce:label>
+                  <sb:reference id="sbref25">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>T.</ce:given-name>
+                              <ce:surname>Sherene</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Role of soil enzymes in nutrient transformation: a review</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Bio Bull.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>3</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2017</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>109</sb:first-page>
+                           <sb:last-page>131</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct26">Sherene, T., 2017. Role of soil enzymes in nutrient transformation: a review. Bio Bull. 3, 109-131.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib32">
+                  <ce:label>Sohi et al., 2010</ce:label>
+                  <sb:reference id="sbref26">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.P.</ce:given-name>
+                              <ce:surname>Sohi</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>E.</ce:given-name>
+                              <ce:surname>Krull</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>E.</ce:given-name>
+                              <ce:surname>Lopez-Capel</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>R.</ce:given-name>
+                              <ce:surname>Bol</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>A review of biochar and its use and function in soil</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Adv. Agron.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>105</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2010</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>4782</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct27">Sohi, S.P., Krull, E., Lopez-Capel, E., Bol, R., 2010. A review of biochar and its use and function in soil. Adv. Agron., 105, 4782.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib21">
+                  <ce:label>Song and Li, 2014</ce:label>
+                  <sb:reference id="sbref27">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Q.</ce:given-name>
+                              <ce:surname>Song</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Li</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Environmental effects of heavy metals derived from the e-waste recycling activities in China: a systematic review</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Waste Manage.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>34</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2014</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>2587</sb:first-page>
+                           <sb:last-page>2594</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct28">Song, Q., Li, J., 2014. Environmental effects of heavy metals derived from the e-waste recycling activities in China: a systematic review. Waste Manage., 34, 2587-2594.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib23">
+                  <ce:label>Song et al., 2018</ce:label>
+                  <sb:reference id="sbref28">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Song</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Zhang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>O’Connor</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>G.</ce:given-name>
+                              <ce:surname>Li</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Q.</ce:given-name>
+                              <ce:surname>Gu</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Environmental and socio-economic sustainability appraisal of contaminated land remediation strategies: a case study at a mega-site in China</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>610</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2018</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>391</sb:first-page>
+                           <sb:last-page>401</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct29">Song, Y., Hou, D., Zhang, J., O’Connor, D., Li, G., Gu, Q., et al., 2018. Environmental and socio-economic sustainability appraisal of contaminated land remediation strategies: a case study at a mega-site in China. Sci. Total Environ., 610, 391-401.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib22">
+                  <ce:label>Song et al., 2019</ce:label>
+                  <sb:reference id="sbref29">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Song</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>N.</ce:given-name>
+                              <ce:surname>Kirkwood</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Č.</ce:given-name>
+                              <ce:surname>Maksimović</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Zheng</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>O’Connor</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Jin</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Nature based solutions for contaminated land remediation and brownfield redevelopment in cities: a review</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>663</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2019</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>568</sb:first-page>
+                           <sb:last-page>579</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct30">Song, Y., Kirkwood, N., Maksimović, Č., Zheng, X., O’Connor, D., Jin, Y., et al., 2019. Nature based solutions for contaminated land remediation and brownfield redevelopment in cities: a review. Sci. Total Environ., 663, 568-579.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib24">
+                  <ce:label>Sun et al., 2021</ce:label>
+                  <sb:reference id="sbref30">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Sun</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Xiong</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>He</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Z.</ce:given-name>
+                              <ce:surname>Xu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>W.</ce:given-name>
+                              <ce:surname>Zhang</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Roles of biochar-derived dissolved organic matter in soil amendment and environmental remediation: a critical review</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>424</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2021</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>130387</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct31">Sun, Y., Xiong, X., He, M., Xu, Z., Hou, D., Zhang, W., et al., 2021. Roles of biochar-derived dissolved organic matter in soil amendment and environmental remediation: a critical review. Chem. Eng. J., 424, 130387.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib33">
+                  <ce:label>Trakal et al., 2019</ce:label>
+                  <sb:reference id="sbref31">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Trakal</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Vítkova´</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Hudcova</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Beesley</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Koma´rek</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Biochar and its composites for metal(loid) removal from aqueous solutions</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:title>
+                              <sb:maintitle>Biochar Biomass Waste. Fundamentals and Applications</sb:maintitle>
+                           </sb:title>
+                           <sb:date>2019</sb:date>
+                           <sb:publisher>
+                              <sb:name>Elsevier</sb:name>
+                           </sb:publisher>
+                        </sb:book>
+                        <sb:pages>
+                           <sb:first-page>113</sb:first-page>
+                           <sb:last-page>141</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                     <sb:host>
+                        <sb:e-host>
+                           <ce:inter-ref id="interref786" xlink:href="https://doi.org/10.1016/B978-0-12-811729-3.00007-8" xlink:type="simple">https://doi.org/10.1016/B978-0-12-811729-3.00007-8</ce:inter-ref>
+                        </sb:e-host>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct32">Trakal, L., Vıtkova, M., Hudcova, B., Beesley, L. and Komarek, M., 2019. Biochar and its composites for metal(loid) removal from aqueous solutions. Biochar Biomass Waste. Fundamentals and Applications. Pages 113-141 https://doi.org/10.1016/B978-0-12-811729-3.00007-8.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib34">
+                  <ce:label>UN, 2015</ce:label>
+                  <ce:other-ref id="otherref0005">
+                     <ce:textref>UN, 2015. Transforming our World: The 2030 Agenda for Sustainable Development A/ RES/70/1.</ce:textref>
+                  </ce:other-ref>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib35">
+                  <ce:label>Vogel et al., 2018</ce:label>
+                  <sb:reference id="sbref32">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>H.J.</ce:given-name>
+                              <ce:surname>Vogel</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Bartke</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.</ce:given-name>
+                              <ce:surname>Daedlow</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.</ce:given-name>
+                              <ce:surname>Helming</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>I.</ce:given-name>
+                              <ce:surname>Kögel-Knabner</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Lang</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>A systemic approach for modeling soil functions</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Soil</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>4</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2018</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>83</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct33">Vogel, H.J., Bartke, S., Daedlow, K., Helming, K., Kögel-Knabner, I., Lang, B., et al., 2018. A systemic approach for modeling soil functions. Soil 4, 83.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib37">
+                  <ce:label>Wang et al., 2020a</ce:label>
+                  <sb:reference id="sbref33">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.S.</ce:given-name>
+                              <ce:surname>Ok</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.S.</ce:given-name>
+                              <ce:surname>Alessi</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Rinklebe</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>H.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>New trends in biochar pyrolysis and modification strategies: feedstock, pyrolysis conditions, sustainability concerns and implications for soil amendment</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Soil Use Manage.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>36</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>358</sb:first-page>
+                           <sb:last-page>386</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct34">Wang, L., Ok, Y.S., Tsang, D.C.W., Alessi, D.S., Rinklebe, J., Wang, H., et al., 2020a. New trends in biochar pyrolysis and modification strategies: feedstock, pyrolysis conditions, sustainability concerns and implications for soil amendment. Soil Use Manage., 36, 358-386.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib38">
+                  <ce:label>Wang et al., 2020b</ce:label>
+                  <sb:reference id="sbref34">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>O’Connor</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Rinklebe</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.S.</ce:given-name>
+                              <ce:surname>Ok</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Z.</ce:given-name>
+                              <ce:surname>Shen</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Biochar aging: mechanisms, physicochemical changes, assessment, and implications for field applications</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>54</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>14797</sb:first-page>
+                           <sb:last-page>14814</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct35">Wang, L., O’Connor, D., Rinklebe, J., Ok, Y.S., Tsang, D.C.W., Shen, Z., et al., 2020b. Biochar aging: mechanisms, physicochemical changes, assessment, and implications for field applications. Environ. Sci. Technol., 54, 14797-14814.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib36">
+                  <ce:label>Wang et al., 2021</ce:label>
+                  <sb:reference id="sbref35">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.S.</ce:given-name>
+                              <ce:surname>Ok</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.S.</ce:given-name>
+                              <ce:surname>Alessi</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Rinklebe</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>O.</ce:given-name>
+                              <ce:surname>Masek</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Biochar composites: emerging trends, field successes, and sustainability implications</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Soil. Use Manag.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>00</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2021</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>1</sb:first-page>
+                           <sb:last-page>25</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct36">Wang, L., Ok, Y.S., Tsang, D.C.W., Alessi, D.S., Rinklebe, J., Masek, O., et al., 2021. Biochar composites: emerging trends, field successes, and sustainability implications. Soil. Use Manag., 00, 1-25.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib39">
+                  <ce:label>Woolf et al., 2010</ce:label>
+                  <sb:reference id="sbref36">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Woolf</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.E.</ce:given-name>
+                              <ce:surname>Amonette</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>F.A.</ce:given-name>
+                              <ce:surname>Street-Perrott</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Lehmann</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Joseph</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Sustainable biochar to mitigate global climate change</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Nat. Commun.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>1</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2010</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>56</sb:first-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct37">Woolf, D., Amonette, J.E., Street-Perrott, F.A., Lehmann, J., Joseph, S., 2010. Sustainable biochar to mitigate global climate change. Nat. Commun. 1, 56</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib41">
+                  <ce:label>Xiong et al., 2019</ce:label>
+                  <sb:reference id="sbref37">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Xiong</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Liu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>I.K.M.</ce:given-name>
+                              <ce:surname>Yu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Zhou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Sun</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Potentially toxic elements in solid waste streams: fate and management approaches</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Environ. Pollut.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>253</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2019</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>680</sb:first-page>
+                           <sb:last-page>707</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct38">Xiong, X., Liu, X., Yu, I.K.M., Wang, L., Zhou, J., Sun, X., et al., 2019. Potentially toxic elements in solid waste streams: fate and management approaches. Environ. Pollut., 253, 680-707.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib40">
+                  <ce:label>Xiong et al., 2017</ce:label>
+                  <sb:reference id="sbref38">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Xiong</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>I.K.M.</ce:given-name>
+                              <ce:surname>Yu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Cao</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Zhang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.S.</ce:given-name>
+                              <ce:surname>Ok</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>A review of biochar-based catalysts for chemical synthesis, biofuel production, and pollution control</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>246</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2017</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>254</sb:first-page>
+                           <sb:last-page>270</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct39">Xiong, X., Yu, I.K.M., Cao, L., Tsang, D.C.W., Zhang, S., Ok, Y.S. 2017. A review of biochar-based catalysts for chemical synthesis, biofuel production, and pollution control. Bioresour. Technol., 246, 254-270.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib42">
+                  <ce:label>Yoo et al., 2018</ce:label>
+                  <sb:reference id="sbref39">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>J.C.</ce:given-name>
+                              <ce:surname>Yoo</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Beiyuan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.</ce:given-name>
+                              <ce:surname>Baek</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>N.S.</ce:given-name>
+                              <ce:surname>Bolan</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>A combination of ferric nitrate/EDDS-enhanced washing and sludge-derived biochar stabilization of metal-contaminated soils</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>616-617</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2018</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>572</sb:first-page>
+                           <sb:last-page>582</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct40">Yoo, J.C., Beiyuan, J., Wang, L., Tsang, D.C.W., Baek, K., Bolan, N.S., et al., 2018. A combination of ferric nitrate/EDDS-enhanced washing and sludge-derived biochar stabilization of metal-contaminated soils. Sci. Total Environ., 616-617, 572-582.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib43">
+                  <ce:label>Yu et al., 2020</ce:label>
+                  <sb:reference id="sbref40">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>I.K.M.</ce:given-name>
+                              <ce:surname>Yu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.C.W.</ce:given-name>
+                              <ce:surname>Tsang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Hou</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Biorefinery-assisted soil management for enhancing food security</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J. Soils Sediments</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>20</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>4007</sb:first-page>
+                           <sb:last-page>4010</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct41">Yu, I.K.M., Tsang, D.C.W., Hou, D., 2020. Biorefinery-assisted soil management for enhancing food security. J. Soils Sediments, 20, 4007-4010.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib45">
+                  <ce:label>Zhou et al., 2014</ce:label>
+                  <sb:reference id="sbref42">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Zhou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Gao</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.R.</ce:given-name>
+                              <ce:surname>Zimmerman</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>H.</ce:given-name>
+                              <ce:surname>Chen</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Zhang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Cao</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Biochar-supported zerovalent iron for removal of various contaminants from aqueous solutions</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>152</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2014</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>538</sb:first-page>
+                           <sb:last-page>542</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct43">Zhou, Y., Gao, B., Zimmerman, A.R., Chen, H., Zhang, M., Cao, X., 2014. Biochar-supported zerovalent iron for removal of various contaminants from aqueous solutions. Bioresour. Technol. 152, 538-542.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib46">
+                  <ce:label>Zhou et al., 2017</ce:label>
+                  <sb:reference id="sbref43">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Zhou</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Liu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Xiang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>P.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Zhang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>F.</ce:given-name>
+                              <ce:surname>Zhang</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Modification of biochar derived from sawdust and its application in removal of tetracycline and copper from aqueous solution: adsorption mechanism and modelling</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>245</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2017</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>266</sb:first-page>
+                           <sb:last-page>273</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct44">Zhou, Y., Liu, X., Xiang, Y., Wang, P., Zhang, J., Zhang, F., et al., 2017, Modification of biochar derived from sawdust and its application in removal of tetracycline and copper from aqueous solution: adsorption mechanism and modelling. Bioresour. Technol., 245, 266-273.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib47">
+                  <ce:label>Zhu et al., 2017</ce:label>
+                  <sb:reference id="sbref44">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Zhu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Chen</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Zhu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Xing</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Effects and mechanisms of biochar-microbe interactions in soil improvement and pollution remediation: a review</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Environ. Pollut.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>227</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2017</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>98</sb:first-page>
+                           <sb:last-page>115</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="srct45">Zhu, X., Chen, B., Zhu, L., Xing, B., 2017. Effects and mechanisms of biochar-microbe interactions in soil improvement and pollution remediation: a review. Environ. Pollut. 227, 98-115.</ce:source-text>
+               </ce:bib-reference>
+            </ce:bibliography-sec>
+         </ce:bibliography>
+      </chapter>
+   </xocs:nonserial-item></xocs:doc></originalText></full-text-retrieval-response>

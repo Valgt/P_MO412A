@@ -1,0 +1,611 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S002074891930077X</prism:url><dc:identifier>doi:10.1016/j.ijnurstu.2019.03.009</dc:identifier><eid>1-s2.0-S002074891930077X</eid><prism:doi>10.1016/j.ijnurstu.2019.03.009</prism:doi><pii>S0020-7489(19)30077-X</pii><dc:title>Nursing, midwifery, and the sustainable development goals: An editorial series leading up to the World Health Organization’s “Year of the Nurse &amp; Midwife” </dc:title><prism:publicationName>International Journal of Nursing Studies</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>00207489</prism:issn><prism:volume>94</prism:volume><prism:startingPage>A1</prism:startingPage><prism:endingPage>A2</prism:endingPage><prism:pageRange>A1-A2</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-06-30</prism:coverDate><prism:coverDisplayDate>June 2019</prism:coverDisplayDate><prism:copyright>© 2019 Published by Elsevier Ltd.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><dc:creator>Griffiths, Peter</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S002074891930077X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S002074891930077X" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="107" size="10676">https://api.elsevier.com/content/object/eid/1-s2.0-S002074891930077X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="715" height="350" size="70332">https://api.elsevier.com/content/object/eid/1-s2.0-S002074891930077X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3167" height="1551" size="566289">https://api.elsevier.com/content/object/eid/1-s2.0-S002074891930077X-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85063759757</scopus-id><scopus-eid>2-s2.0-85063759757</scopus-eid><pubmed-id>30955839</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85063759757" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271253</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291823</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="subj">291918</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Nursing Studies</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALNURSINGSTUDIES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190316">2019-03-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190316">2019-03-16</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190610">2019-06-10</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190610">2019-06-10</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-06-10T16:45:56</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S002074891930077X</xocs:eid>
+      <xocs:pii-formatted>S0020-7489(19)30077-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S002074891930077X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijnurstu.2019.03.009</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0020748919X0005X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20201012">2020-10-12T05:38:12.995133Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190601</xocs:date-search-begin>
+      <xocs:date-search-end>20190630</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1552752555">2019-03-16T16:09:15.040288Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0020-7489</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00207489</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>94</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>94</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 94</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>A1</xocs:first-fp>
+      <xocs:last-lp>A2</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>A1</xocs:first-page>
+         <xocs:last-page>A2</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201906</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Editorial</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>NURSINGMIDWIFERYSUSTAINABLEDEVELOPMENTGOALSEDITORIALSERIESLEADINGUPWORLDHEALTHORGANIZATIONSYEARNURSEMIDWIFE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GRIFFITHS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>CRISP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A4</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>GRIFFITHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A2</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>HARRELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A4</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>MUENCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>125</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>PUNSHON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>29</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>RIDGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-last-lp>161</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>SQUIRES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A4</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GRIFFITHSX2019XA1</xocs:refkey3>
+         <xocs:refkey4lp>GRIFFITHSX2019XA1XA2</xocs:refkey4lp>
+         <xocs:refkey4ai>GRIFFITHSX2019XA1XP</xocs:refkey4ai>
+         <xocs:refkey5>GRIFFITHSX2019XA1XA2XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-10-01T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-10-01T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0020-7489(19)30077-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S002074891930077X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S002074891930077X</xocs:eid>
+         <xocs:doi>10.1016/j.ijnurstu.2019.03.009</xocs:doi>
+         <xocs:cid>271253</xocs:cid>
+         <xocs:timestamp>2020-10-12T05:38:12.995133Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-06-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S002074891930077X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S002074891930077X/MAIN/application/pdf/e864097a211f8e52db3d0455b7662414/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>503176</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S002074891930077X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S002074891930077X/PREVIEW/image/png/ababdfd15bad21cc2ee12d5f0b0144a6/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61461</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S002074891930077X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S002074891930077X/gr1/THUMBNAIL/image/gif/5ed39d435cccb1904438a193734369c0/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10676</xocs:filesize>
+               <xocs:pixel-height>107</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S002074891930077X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S002074891930077X/gr1/DOWNSAMPLED/image/jpeg/b2d4b5ddc38ac88e212516c717e9dcc1/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>70332</xocs:filesize>
+               <xocs:pixel-height>350</xocs:pixel-height>
+               <xocs:pixel-width>715</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S002074891930077X-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S002074891930077X/gr1/HIGHRES/image/jpeg/78dbc31b5c18a894c52fc92cdd3cf637/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>566289</xocs:filesize>
+               <xocs:pixel-height>1551</xocs:pixel-height>
+               <xocs:pixel-width>3167</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="edi">
+         <item-info>
+            <jid>NS</jid>
+            <aid>3319</aid>
+            <ce:pii>S0020-7489(19)30077-X</ce:pii>
+            <ce:doi>10.1016/j.ijnurstu.2019.03.009</ce:doi>
+            <ce:copyright type="unknown" year="2019"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0005" view="all">The United Nations Sustainable Development Goals (used with permission).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0380" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S002074891930077X/gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="doh0005">
+               <ce:textfn>Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Nursing, midwifery, and the sustainable development goals: An editorial series leading up to the World Health Organization’s “Year of the Nurse &amp; Midwife”</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S002074891930077X-b201054873ad9b011a7f13d04b5cf49c">
+                  <ce:given-name>Peter</ce:given-name>
+                  <ce:surname>Griffiths</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S002074891930077X-72b7413f6cdc31acd1da2347b124b87a">
+                  <ce:textfn>Executive Editor, International Journal of Nursing Studies, University of Southampton, Southampton, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Executive Editor</sa:organization>
+                     <sa:organization>International Journal of Nursing Studies</sa:organization>
+                     <sa:organization>University of Southampton</sa:organization>
+                     <sa:city>Southampton</sa:city>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="par0005" view="all">In 2015, as part of the 70th session of the United Nations General Assembly, 193 nations agreed to 17 Sustainable Development Goals (‘SDGs’). A collection of 17 global goals (<ce:cross-ref id="crf0005" refid="fig0005">Fig. 1</ce:cross-ref>
+                  <ce:float-anchor refid="fig0005"/>), the Sustainable Development Goals are the first time the countries of the world have come together to agree on key areas for promoting a better quality of life for all people. Health is crucial to many aspects of sustainable development and nurses and midwives have a key role in achieving these goals.</ce:para>
+               <ce:para id="par0010" view="all">It is worth restating the goals here:</ce:para>
+               <ce:para id="par0015" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 1:</ce:bold> End poverty in all its forms everywhere</ce:para>
+               <ce:para id="par0020" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 2:</ce:bold> End hunger, achieve food security and improved nutrition and promote sustainable agriculture</ce:para>
+               <ce:para id="par0025" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 3:</ce:bold> Ensure healthy lives and promote well-being for all at all ages</ce:para>
+               <ce:para id="par0030" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 4:</ce:bold> Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all</ce:para>
+               <ce:para id="par0035" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 5:</ce:bold> Achieve gender equality and empower all women and girls</ce:para>
+               <ce:para id="par0040" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 6:</ce:bold> Ensure availability and sustainable management of water and sanitation for all</ce:para>
+               <ce:para id="par0045" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 7:</ce:bold> Ensure access to affordable, reliable, sustainable and modern energy for all</ce:para>
+               <ce:para id="par0050" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 8:</ce:bold> Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all</ce:para>
+               <ce:para id="par0055" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 9:</ce:bold> Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation</ce:para>
+               <ce:para id="par0060" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 10:</ce:bold> Reduce inequality within and among countries</ce:para>
+               <ce:para id="par0065" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 11:</ce:bold> Make cities and human settlements inclusive, safe, resilient and sustainable</ce:para>
+               <ce:para id="par0070" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 12:</ce:bold> Ensure sustainable consumption and production patterns</ce:para>
+               <ce:para id="par0075" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 13:</ce:bold> Take urgent action to combat climate change and its impacts*</ce:para>
+               <ce:para id="par0080" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 14:</ce:bold> Conserve and sustainably use the oceans, seas and marine resources for sustainable development</ce:para>
+               <ce:para id="par0085" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 15:</ce:bold> Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss</ce:para>
+               <ce:para id="par0090" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 16:</ce:bold> Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels</ce:para>
+               <ce:para id="par0095" view="all">
+                  <ce:bold>
+                     <ce:hsp sp="1.0"/>Goal 17:</ce:bold> Strengthen the means of implementation and revitalize the global partnership for sustainable development</ce:para>
+               <ce:para id="par0100" view="all">It is easy to focus simply on the direct contribution of nurse and midwives to health. Publishing research that demonstrates and supports such a contribution is a core aspect of what we do as a journal and in early 2018 we published a special issue on the impact of nursing (<ce:cross-ref id="crf0010" refid="bib0010">Griffiths and Norman, 2018</ce:cross-ref>). While the Sustainable Development Goals are not just relevant to the least developed or other developing countries, such countries do face many of the biggest challenges and experience the consequences of a lack of sustainable development most keenly. We noted in our 2018 editorial that there was a relative lack of research about or for nursing and midwifery in developing countries, where health needs are often greatest and the potential contribution of nurses and midwives is huge (<ce:cross-ref id="crf0015" refid="bib0005">Crisp and Watkins, 2018</ce:cross-ref>). Building workforce capacity in the least developed countries, where need is greatest, is complex and remains a significant challenge (<ce:cross-ref id="crf0020" refid="bib0030">Ridge et al., 2018</ce:cross-ref>). Nursing and midwifery as professions also have significant potential to support gender equality, as female dominated professions in most countries. With that in mind, it is somewhat disheartening that two papers we have recently published highlight the continued gender pay gap in nursing (<ce:cross-ref id="crf0025" refid="bib0020">Muench and Dietrich, 2019</ce:cross-ref>; <ce:cross-ref id="crf0030" refid="bib0025">Punshon et al., 2019</ce:cross-ref>), with men seeming to be advantaged over women, while the profession has also been subject to criticism for not fully embracing the challenge of gender diversity (<ce:cross-ref id="crf0035" refid="bib0015">Harrell and Sasser, 2018</ce:cross-ref>).</ce:para>
+               <ce:para id="par0105" view="all">While it is important to recognise that nurses and midwives are not always able to deliver to their full potential for a variety of reasons (<ce:cross-ref id="crf0040" refid="bib0005">Crisp and Watkins, 2018</ce:cross-ref>), to achieve the sustainable development goals requires ambitious actions across the globe and nursing and midwifery can and, we trust will, make a major contribution. In support of that endeavour, we have assembled a collection of global voices of nurses, midwives, and their interdisciplinary partners for an editorial series highlighting nurses and midwives contribution to achieving United Nations Sustainable Development Goals in the run up to 2020, declared by the United Nations ‘the year of the Nurse and Midwife’. We begin the series in this issue (<ce:cross-ref id="crf0045" refid="bib0035">Squires et al., 2019</ce:cross-ref>).</ce:para>
+               <ce:para id="par0110" view="all">As we publish these editorials over the coming months, we hope that we will see more submissions that focus on nurses’ and midwives’ contributions to sustainable development, whether directly, through contributing to health and well-being, or indirectly because of the role of nurses in society or by addressing nurses’ and midwives’ contribution to wider societal challenges that affect health, such as inequality, discrimination, pollution and poverty.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0005">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Crisp and Watkins, 2018</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Crisp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Watkins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The triple impact of nursing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nurs. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A3</sb:first-page>
+                              <sb:last-page>A4</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Griffiths and Norman, 2018</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Griffiths</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Norman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impact of nursing—a self-evident truth?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nurs. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A1</sb:first-page>
+                              <sb:last-page>A2</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Harrell and Sasser, 2018</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.R.</ce:given-name>
+                                 <ce:surname>Harrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Sasser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sexual and gender minority health: nursing’s overdue coming out</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nurs. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A1</sb:first-page>
+                              <sb:last-page>A4</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Muench and Dietrich, 2019</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Muench</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Dietrich</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The male-female earnings gap for nurses in Germany: a pooled cross-sectional study of the years 2006 and 2012</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nurs. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>125</sb:first-page>
+                              <sb:last-page>131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Punshon et al., 2019</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Punshon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Maclaine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Trevatt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Radford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Shanley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Leary</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nursing pay by gender distribution in the UK—does the Glass Escalator still exist?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nurs. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>29</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>Ridge et al., 2018</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Ridge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>Klar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Stimpfel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Squires</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The meaning of “capacity building” for the nurse workforce in sub-Saharan Africa: an integrative review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nurs. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                              <sb:last-page>161</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>Squires et al., 2019</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Squires</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Chavez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.H.</ce:given-name>
+                                 <ce:surname>Messias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Narsavage</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Oerther</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Premji</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable development &amp; the Year of the Nurse &amp; Midwife – 2020</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nurs. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A3</sb:first-page>
+                              <sb:last-page>A4</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,455 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2214109X21000358</prism:url><dc:identifier>doi:10.1016/S2214-109X(21)00035-8</dc:identifier><eid>1-s2.0-S2214109X21000358</eid><prism:doi>10.1016/S2214-109X(21)00035-8</prism:doi><pii>S2214-109X(21)00035-8</pii><dc:title>Eye health and the Decade of Action for the Sustainable Development Goals </dc:title><prism:publicationName>The Lancet Global Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>2214109X</prism:issn><prism:volume>9</prism:volume><prism:issueIdentifier>4</prism:issueIdentifier><prism:startingPage>e383</prism:startingPage><prism:endingPage>e384</prism:endingPage><prism:pageRange>e383-e384</prism:pageRange><prism:number>4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2021-04-30</prism:coverDate><prism:coverDisplayDate>April 2021</prism:coverDisplayDate><prism:copyright>© 2021 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Webson, Aubrey</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2214109X21000358" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2214109X21000358" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="107839">https://api.elsevier.com/content/object/eid/1-s2.0-S2214109X21000358-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85102491098</scopus-id><scopus-eid>2-s2.0-85102491098</scopus-eid><pubmed-id>33607014</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85102491098" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>286970</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291904</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Global Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETGLOBALHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210216">2021-02-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210216">2021-02-16</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210316">2021-03-16</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210316">2021-03-16</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-03-31T12:53:56</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2214109X21000358</xocs:eid>
+      <xocs:pii-formatted>S2214-109X(21)00035-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2214109X21000358</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2214-109X(21)00035-8</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2214109X21X00058</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210506">2021-05-06T01:19:09.86393Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210401</xocs:date-search-begin>
+      <xocs:date-search-end>20210430</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1613521670">2021-02-17T00:27:50.612358Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2214-109X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>2214109X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>9</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>9</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 9, Issue 4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>e383</xocs:first-fp>
+      <xocs:last-lp>e384</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>e383</xocs:first-page>
+         <xocs:last-page>e384</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202104</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>EYEHEALTHDECADEACTIONFORSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WEBSON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S2214-109X(20)30488-5</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S2214109X20304885</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>BURTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e130</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e143</xocs:ref-last-lp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>MAHARANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-article-number>e0204833</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>QUIGLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>355</xocs:ref-first-fp>
+            <xocs:ref-last-lp>363</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50"/>
+         <xocs:ref-info refid="sbref60"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WEBSONX2021Xe383</xocs:refkey3>
+         <xocs:refkey4lp>WEBSONX2021Xe383Xe384</xocs:refkey4lp>
+         <xocs:refkey4ai>WEBSONX2021Xe383XA</xocs:refkey4ai>
+         <xocs:refkey5>WEBSONX2021Xe383Xe384XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2021-01-26T16:51:29Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2214-109X(21)00035-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2214109X21000358</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2214109X21000358</xocs:eid>
+         <xocs:doi>10.1016/S2214-109X(21)00035-8</xocs:doi>
+         <xocs:cid>286970</xocs:cid>
+         <xocs:timestamp>2021-05-06T01:19:09.86393Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-04-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2214109X21000358-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X21000358/MAIN/application/pdf/a30e8f607a662f93d8270f5a4d1ab192/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>44084</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2214109X21000358-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X21000358/PREVIEW/image/png/849aead72cbfbdab0a6c343053828bac/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>79098</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2214109X21000358-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>107839</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:108LMTB44XW/MAIN/application/pdf/e1012147deebcbdf29789835ad077247/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>LANGLO</jid>
+            <aid>1942</aid>
+            <ce:pii>S2214-109X(21)00035-8</ce:pii>
+            <ce:doi>10.1016/S2214-109X(21)00035-8</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S2214-109X(20)30488-5</ce:pii>
+                  <ce:doi>10.1016/S2214-109X(20)30488-5</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="other" year="2021">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY-NC-ND 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Eye health and the Decade of Action for the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S2214109X21000358-caf1f07c3e9e8d53be86acc08f9a3d0f">
+                  <ce:given-name>Aubrey</ce:given-name>
+                  <ce:surname>Webson</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2214109X21000358-a20425b6aebce123c8a3dcfeda99d294">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Ambassador Extraordinary and Plenipotentiary, Permanent Mission of Antigua and Barbuda to the United Nations, New York, NY 10017, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Ambassador Extraordinary and Plenipotentiary</sa:organization>
+                     <sa:organization>Permanent Mission of Antigua and Barbuda to the United Nations</sa:organization>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:postal-code>10017</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext10">Ambassador Extraordinary and Plenipotentiary, Permanent Mission of Antigua and Barbuda to the United Nations, New York, NY 10017, USA</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">Being blind in a pandemic creates all kinds of problems. Social distancing, and the 6 feet (2 metre) rule, is not so easy if you cannot see. Those of us who are blind rely on other senses, like our hearing or touch, to compensate. That's not so easy either if we are isolated from each other. Disruption to health services caused by the COVID-19 pandemic is also threatening the gains made in rehabilitation services for those who are blind and visually impaired. Additionally, lockdown measures have the potential to exacerbate poor eye health: sustained near focusing on screens and reduced exposure to natural daylight are known risk factors for progressive myopia, and reduced physical activity could affect the progression of diabetes and the onset of diabetic retinopathy.</ce:para>
+               <ce:para id="para20" view="all">
+                  <ce:italic>The Lancet Global Health</ce:italic> Commission on Global Eye Health<ce:cross-ref id="cecref20" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> reminds us that, in 2020, an estimated 43·3 million people were blind, 553 million people had vision impairment, and 510 million had uncorrected presbyopia.<ce:cross-ref id="cecref30" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> If those numbers are not shocking in themselves, we must note that these are not simply statistics, these are real people grappling with common issues of daily living, mobility, mental health, and social interaction unless intervention arrives. Impaired vision and eye health have a broad impact on general health and wellbeing—eg, through reduced access to health care, increased cardiovascular disease through limitations on physical activity, and exacerbating depression and dementia.<ce:cross-ref id="cecref40" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> Encouragingly, preliminary evidence indicates that cataract surgery might slow rates of cognitive decline.<ce:cross-ref id="cecref50" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> Indeed the Commission notes that there are many efficient and effective low-cost interventions that save sight, and efficient and effective rehabilitation services to meet the challenges of those who are irrevocably blind or visually impaired.</ce:para>
+               <ce:para id="para30" view="all">The need is even greater now for a collaborative care approach between health providers, especially as it pertains to silent health challenges such as open-angle glaucoma. Early-stage open-angle glaucoma is asymptomatic, often remaining undetected until considerable optic nerve damage has occurred.<ce:cross-ref id="cecref60" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> WHO's World Report on Vision<ce:cross-ref id="cecref70" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> called for the advancing of eye health as an integral part of universal health coverage, through the implementation of “integrated people-centred eye care”. The Commission endorses this approach and goes further by outlining the challenges and opportunities involved in mainstreaming eye health as an integral tool of community and social development.</ce:para>
+               <ce:para id="para40" view="all">In UN Resolution 70/1 of Sept 25, 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”<ce:cross-ref id="cecref80" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref> Member States adopted a comprehensive, far-reaching, and people-centred set of universal and transformative Sustainable Development Goals and their aspirational and global targets, which include achieving universal health coverage by 2030, and stressing the need to leave no one behind. This wide-ranging Commission will help us to make the case for including universal health coverage as one of the pillars of social development and vision as a foundation stone of that development agenda.</ce:para>
+               <ce:para id="para50" view="all">Equity must be at the heart of all we do if we are to achieve the ambition of leaving no one behind. It must be the light by which we walk as we turn the stone of equality to fulfil the promise of the SDGs. No one should have to live with avoidable blindness or visual impairment in the 21st century when we have proven low-cost solutions to address and arrest the problems.</ce:para>
+               <ce:para id="para60" view="all">If this decade is truly to be the Decade of Action for the SDGs, eye health services must be fully mainstreamed into universal health coverage, and community-based eye health services manned by well-trained multi-disciplinary teams. The legacy of eye health services as a stand-alone discipline cannot continue if we are to resist the increased pressures for eye health services brought on by the challenges of population growth, ageing, and modern life (including pandemics). The SDGs are the highest ambition of the global community. Leaving no one behind is our greatest aspiration. Eye health is an issue whose time has come in the fulfilment of our global promise.</ce:para>
+               <ce:para id="para70" role="acknowledgement" view="all">I declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>MJ</ce:given-name>
+                                 <ce:surname>Burton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Ramke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AP</ce:given-name>
+                                 <ce:surname>Marques</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The <ce:italic>Lancet Global Health</ce:italic> Commission on Global Eye Health: vision beyond 2020</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online Feb 16.</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="https://doi.org/10.1016/S2214-109X(20)30488-5" xlink:type="simple">https://doi.org/10.1016/S2214-109X(20)30488-5</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext20">Burton MJ, Ramke J, Marques AP, et al. The Lancet Global Health Commission on Global Eye Health: vision beyond 2020. Lancet Glob Health 2021; published online Feb 16. https://doi.org/10.1016/S2214-109X(20)30488-5.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>GBD 2019 Blindness and Vision Impairment Collaborators</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Trends in prevalence of blindness and distance and near vision impairment over 30 years: an analysis for the Global Burden of Disease Study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e130</sb:first-page>
+                              <sb:last-page>e143</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext30">GBD 2019 Blindness and Vision Impairment Collaborators. Trends in prevalence of blindness and distance and near vision impairment over 30 years: an analysis for the Global Burden of Disease Study. Lancet Glob Health 2021; 9: e130–43.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Maharani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Dawes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Nazroo</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cataract surgery and age-related cognitive decline: a 13-year follow-up of the English Longitudinal Study of Ageing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS One</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e0204833</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext40">Maharani A, Dawes P, Nazroo J, et al. Cataract surgery and age-related cognitive decline: a 13-year follow-up of the English Longitudinal Study of Ageing. PLoS One 2018; 13: e0204833.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>HA</ce:given-name>
+                                 <ce:surname>Quigley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JM</ce:given-name>
+                                 <ce:surname>Thiersch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Katz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Sommer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rate of progression in open-angle glaucoma estimated from cross-sectional prevalence of visual field damage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Am J Ophthalmol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>355</sb:first-page>
+                              <sb:last-page>363</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext50">Quigley HA, Thiersch JM, Katz J, Sommer A. Rate of progression in open-angle glaucoma estimated from cross-sectional prevalence of visual field damage. Am J Ophthalmol 1996; 122: 355–63.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World report on vision</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="https://www.who.int/publications/i/item/world-report-on-vision" xlink:type="simple">https://www.who.int/publications/i/item/world-report-on-vision</ce:inter-ref>
+                              <sb:date-accessed day="26" month="1" year="2021"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext60">WHO. World report on vision. https://www.who.int/publications/i/item/world-report-on-vision (accessed Jan 26, 2021).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations General Assembly</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resolution A/RES/70/1. Transforming our world: the 2030 Agenda for Sustainable Development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf" xlink:type="simple">https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf</ce:inter-ref>
+                              <sb:date-accessed day="26" month="1" year="2021"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext70">United Nations General Assembly. Resolution A/RES/70/1. Transforming our world: the 2030 Agenda for Sustainable Development. https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf (accessed Jan 26, 2021).</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

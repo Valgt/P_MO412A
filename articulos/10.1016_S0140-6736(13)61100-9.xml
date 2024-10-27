@@ -1,0 +1,625 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673613611009</prism:url><dc:identifier>doi:10.1016/S0140-6736(13)61100-9</dc:identifier><eid>1-s2.0-S0140673613611009</eid><prism:doi>10.1016/S0140-6736(13)61100-9</prism:doi><pii>S0140-6736(13)61100-9</pii><dc:title>Nutrition: a quintessential sustainable development goal </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>01406736</prism:issn><prism:volume>382</prism:volume><prism:issueIdentifier>9890</prism:issueIdentifier><prism:startingPage>371</prism:startingPage><prism:endingPage>372</prism:endingPage><prism:pageRange>371-372</prism:pageRange><prism:number>9890</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2013-08-09</prism:coverDate><prism:coverDisplayDate>3–9 August 2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Horton, Richard</dc:creator><dc:creator>Lo, Selina</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673613611009" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673613611009" rel="scidir"/></coredata><objects><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="670" height="437" size="86292">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673613611009-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="143" size="23448">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673613611009-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1781" height="1162" size="434408">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673613611009-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84881177644</scopus-id><scopus-eid>2-s2.0-84881177644</scopus-eid><pubmed-id>23746782</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84881177644" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130606">2013-06-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130606">2013-06-06</xocs:available-online-date>
+      <xocs:ew-transaction-id>2021-09-16T04:53:33</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673613611009</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(13)61100-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673613611009</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(13)61100-9</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.5</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673613X60374</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210916">2021-09-16T03:59:49.65224Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130803</xocs:date-search-begin>
+      <xocs:date-search-end>20130809</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1370476800">2013-06-06T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>382</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>382</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9890</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9890</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 382, Issue 9890</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>6</xocs:sort-order>
+      <xocs:first-fp>371</xocs:first-fp>
+      <xocs:last-lp>372</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>371</xocs:first-page>
+         <xocs:last-page>372</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20130803</xocs:start-date>
+         <xocs:end-date>20130809</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>3–9 August 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-08-03</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-08-09</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>NUTRITIONAQUINTESSENTIALSUSTAINABLEDEVELOPMENTGOAL</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HORTON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(13)60937-X</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S014067361360937X</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(13)60996-4</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673613609964</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(13)60843-0</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673613608430</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(13)60842-9</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673613608429</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(13)60993-9</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673613609939</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(13)60103-8</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673613601038</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>MORRIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>608</xocs:ref-first-fp>
+            <xocs:ref-last-lp>621</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>BLACK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>BHUTTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>RUEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>GILLESPIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>KATZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HORTONX2013X371</xocs:refkey3>
+         <xocs:refkey4lp>HORTONX2013X371X372</xocs:refkey4lp>
+         <xocs:refkey4ai>HORTONX2013X371XR</xocs:refkey4ai>
+         <xocs:refkey5>HORTONX2013X371X372XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-05-26T09:08:40.357Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Bill &amp; Melinda Gates Foundation</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>BMGF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Bill and Melinda Gates Foundation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000865</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>We thank the Maternal and Child Nutrition Study Group, led by Robert E Black, for leading the conception and design of this Series. We also acknowledge the generosity of the Bill &amp; Melinda Gates Foundation for providing financial support.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(13)61100-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673613611009</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673613611009</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(13)61100-9</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2021-09-16T03:59:49.65224Z</xocs:timestamp>
+         <xocs:cover-date-start>2013-08-03</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-08-09</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673613611009-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673613611009/MAIN/application/pdf/24cd1f07c143be306f2333da120d9c41/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>632334</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673613611009-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673613611009/PREVIEW/image/png/af17eab86698bb2aa453eb60c5d98aa3/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>78162</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673613611009-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673613611009/fx1/DOWNSAMPLED/image/jpeg/65e978e9523516db6cacd4542756f21e/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>86292</xocs:filesize>
+               <xocs:pixel-height>437</xocs:pixel-height>
+               <xocs:pixel-width>670</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673613611009-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673613611009/fx1/THUMBNAIL/image/gif/c387370b54a7caba6108956499bf62ee/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23448</xocs:filesize>
+               <xocs:pixel-height>143</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673613611009-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673613611009/fx1/HIGHRES/image/jpeg/8e32b5947a712bb787adb2c6618206bc/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>434408</xocs:filesize>
+               <xocs:pixel-height>1162</xocs:pixel-height>
+               <xocs:pixel-width>1781</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.2" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>61100</aid>
+            <ce:pii>S0140-6736(13)61100-9</ce:pii>
+            <ce:doi>10.1016/S0140-6736(13)61100-9</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S0140-6736(13)60937-X</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(13)60937-X</ce:doi>
+               </ce:refers-to-document>
+               <ce:refers-to-document id="cereftodoc20">
+                  <ce:pii>S0140-6736(13)60996-4</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(13)60996-4</ce:doi>
+               </ce:refers-to-document>
+               <ce:refers-to-document id="cereftodoc30">
+                  <ce:pii>S0140-6736(13)60843-0</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(13)60843-0</ce:doi>
+               </ce:refers-to-document>
+               <ce:refers-to-document id="cereftodoc40">
+                  <ce:pii>S0140-6736(13)60842-9</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(13)60842-9</ce:doi>
+               </ce:refers-to-document>
+               <ce:refers-to-document id="cereftodoc50">
+                  <ce:pii>S0140-6736(13)60993-9</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(13)60993-9</ce:doi>
+               </ce:refers-to-document>
+               <ce:refers-to-document id="cereftodoc60">
+                  <ce:pii>S0140-6736(13)60103-8</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(13)60103-8</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="full-transfer" year="2013">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Nutrition: a quintessential sustainable development goal</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S0140673613611009-b5e78d30c402d672b2a8090018ab7bc7">
+                  <ce:given-name>Richard</ce:given-name>
+                  <ce:surname>Horton</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au20" author-id="S0140673613611009-6bda993d5bb174fcb95a9a7f1ec64118">
+                  <ce:given-name>Selina</ce:given-name>
+                  <ce:surname>Lo</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>
+                     <ce:italic>The Lancet</ce:italic>, London NW1 7BY, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>The Lancet</sa:organization>
+                     <sa:city>London</sa:city>
+                     <sa:postal-code>NW1 7BY</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">In the final paper of our 2008 <ce:italic>Lancet</ce:italic> Series on maternal and child undernutrition, Saul Morris and colleagues wrote that, “The international nutrition system—made up of international and donor organisations, academia, civil society, and the private sector—is fragmented and dysfunctional”.<ce:cross-ref id="cecref30" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> They concluded that, incredibly, no evidence base existed to prioritise actions to improve nutrition. And they argued that the voice of countries must be better heard, felt, and reflected in global decision making. Too often country priorities to strengthen nutrition were ignored by donors and agencies alike. 5 years on, thanks to the work of a consortium of scientists led by Robert E Black from Johns Hopkins Bloomberg School of Public Health (the Maternal and Child Nutrition Study Group), we review the progress made against these findings and recommendations.<ce:cross-refs id="cecrefs10" refid="bib2 bib3 bib4 bib5 bib6">
+                     <ce:sup loc="post">2–6</ce:sup>
+                  </ce:cross-refs> Although some news is better than 5 years ago, there is still a deeply worrying gulf between country needs and global actions. But what is most different—an extraordinary opportunity as well as a severe challenge—is the political urgency of nutrition.</ce:para>
+               <ce:para id="para20" view="all">This latest <ce:italic>Lancet</ce:italic> Series updates, with extensive new data, the contribution undernutrition in its various forms makes to child mortality and morbidity. Compared with 2008, the result is a radically different picture of the relation between nutritional deficiencies and child health. The overall finding is that 3·1 million children younger than 5 years die every year from undernutrition; that is a staggering 45% of total child deaths in 2011.</ce:para>
+               <ce:para id="para30" view="all">To address this enormous and too often hidden cause of child mortality, the Maternal and Child Nutrition Study Group propose a new framework to optimise the delivery of priority evidence-based interventions to prevent and treat undernutrition across the whole life course. Unique to this Series is the systematic approach to both the timing of the interventions and to creating an enabling environment for nutrition. The Maternal and Child Nutrition Study Group emphasises ten interventions targeted to women of reproductive age, during pregnancy, and to infants and children. They calculate the effects of these interventions in 34 countries across Africa, Asia, and the Middle East, where 90% of the global burden of undernutrition resides. In doing so, they reinforce the importance of the first 1000 days from conception to 2 years. What goes right and what goes wrong for fetal and child nutrition during this period has lasting and irreversible consequences for later life.</ce:para>
+               <ce:para id="para40" view="all">There are several entirely new findings in this Series. First, the adolescent girl is identified as especially vulnerable to the effects of undernutrition. But that very predicament also makes adolescent girls a group with a special opportunity too.</ce:para>
+               <ce:para id="para50" view="all">Second, the importance of fetal growth restriction or being born small for gestational age is highlighted. According to new estimates, fetal growth restriction causes more than 800?000 neonatal deaths and 20% of stunting in children younger than 5 years worldwide. These findings are presented by Robert E Black and colleagues,<ce:cross-ref id="cecref40" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> and Joanne Katz and colleagues<ce:cross-ref id="cecref50" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> in the companion Article. Third, the Series is not only concerned with interventions. It also identifies delivery platforms for the implementation of those interventions, most promisingly in the community and in schools. Fourth, the Series costs these interventions and explains why those costs—an additional Int$9·6 billion annually for the 34 countries identified—are much less prohibitive than they might at first seem. And finally, the Series identifies a further threat to maternal and child nutritional status: overweight and obesity.</ce:para>
+               <ce:para id="para60" view="all">On June 8, 2013, the Governments of Brazil and the UK will co-host a Nutrition for Growth event. There is therefore an immediate opportunity to foster political support for the interventions that can be quickly scaled up or linked to nutrition programmes—such as early child development initiatives. It is equally important to take note of the message of Marie Ruel and colleagues<ce:cross-ref id="cecref60" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>—that in certain sectors, such as agriculture, the evidence of the effect of targeted programmes on maternal and child nutrition is largely inconclusive and requires new approaches to field evaluation.</ce:para>
+               <ce:para id="para70" view="all">
+                  <ce:display>
+                     <ce:figure id="f10">
+                        <ce:copyright type="other" year="2013">Corbis</ce:copyright>
+                        <ce:link locator="fx1"/>
+                     </ce:figure>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="para80" view="all">Since 2008, there have been only limited increases in donor aid for nutrition. It is true that nutrition is not so readily attractive to politicians as an international development priority. Undernutrition has a complex set of political, social, and economic causes, none of which are amenable to easy solutions that fit within the timeframe of a single political cycle. For this reason, the outlook today for nutrition is not wholly good. The target endorsed only a year ago at the World Health Assembly—to reduce by 40% the number of children stunted by 2025—is already on course to be missed.</ce:para>
+               <ce:para id="para90" view="all">As the endpoint of the Millennium Development Goals approaches, countries and the international community may agree that nutrition was one of the great missed opportunities of the past 15 years. But this neglect can be turned around quickly. As sustainable development becomes the dominant idea post-2015, nutrition emerges as the quintessential example of a sustainable development objective. If maternal and child nutrition is optimised, the benefits will accrue and extend over several generations. This remarkable opportunity is why Stuart Gillespie and colleagues<ce:cross-ref id="cecref70" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> take a very different approach to implementation than in any previous <ce:italic>Lancet</ce:italic> Series. Instead of exhorting politicians and policy makers to do something—or worse, simply hoping that political commitment will appear like a rabbit out of a hat—they set out a practical guide about how to seize the agenda for nutrition, how to create political momentum, and how to turn that momentum into results. This is the prize we have to grasp in the next 18 months.</ce:para>
+               <ce:para id="para100" role="acknowledgement" view="all">We thank the Maternal and Child Nutrition Study Group, led by Robert E Black, for leading the conception and design of this Series. We also acknowledge the generosity of the Bill &amp; Melinda Gates Foundation for providing financial support.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Morris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B</ce:given-name>
+                                 <ce:surname>Cogill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Uauy</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effective international action against undernutrition: why has it proven so difficult and what can be done to accelerate progress?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>371</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>608</sb:first-page>
+                              <sb:last-page>621</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>RE</ce:given-name>
+                                 <ce:surname>Black</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>CG</ce:given-name>
+                                 <ce:surname>Victora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SP</ce:given-name>
+                                 <ce:surname>Walker</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>the Maternal and Child Nutrition Study Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Maternal and child undernutrition and overweight in low-income and middle-income countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online June 6.</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="http://dx.doi.org/10.1016/S0140-6736(13)60937-X" xlink:type="simple">http://dx.doi.org/10.1016/S0140-6736(13)60937-X</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>ZA</ce:given-name>
+                                 <ce:surname>Bhutta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JK</ce:given-name>
+                                 <ce:surname>Das</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Rizvi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>
+                                 <ce:italic>The Lancet</ce:italic> Nutrition Interventions Review Group</sb:collaboration>
+                              <sb:collaboration>the Maternal and Child Nutrition Study Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evidence-based interventions for improvement of maternal and child nutrition: what can be done and at what cost?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online June 6.</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="http://dx.doi.org/10.1016/S0140-6736(13)60996-4" xlink:type="simple">http://dx.doi.org/10.1016/S0140-6736(13)60996-4</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>MT</ce:given-name>
+                                 <ce:surname>Ruel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Alderman</ce:surname>
+                              </sb:author>
+                              <sb:collaboration>the Maternal and Child Nutrition Study Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nutrition-sensitive interventions and programmes: how can they help to accelerate progress in improving maternal and child nutrition?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online June 6.</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="http://dx.doi.org/10.1016/S0140-6736(13)60843-0" xlink:type="simple">http://dx.doi.org/10.1016/S0140-6736(13)60843-0</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Gillespie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Haddad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V</ce:given-name>
+                                 <ce:surname>Mannar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Menon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Nisbett</ce:surname>
+                              </sb:author>
+                              <sb:collaboration>the Maternal and Child Nutrition Study Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The politics of reducing malnutrition: building commitment and accelerating progress</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online June 6.</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:href="http://dx.doi.org/10.1016/S0140-6736(13)60842-9" xlink:type="simple">http://dx.doi.org/10.1016/S0140-6736(13)60842-9</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Maternal and Child Nutrition Study Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Maternal and child nutrition: building momentum for impact</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online June 6.</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs50" xlink:href="http://dx.doi.org/10.1016/S0140-6736(13)60988-5" xlink:type="simple">http://dx.doi.org/10.1016/S0140-6736(13)60988-5</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Katz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>ACC</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Kozuki</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>the CHERG Small-for-Gestational-Age-Preterm Birth Working Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mortality risk in preterm and small-for-gestational-age infants in low-income and middle-income countries: a pooled country analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online June 6.</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs60" xlink:href="http://dx.doi.org/10.1016/S0140-6736(13)60993-9" xlink:type="simple">http://dx.doi.org/10.1016/S0140-6736(13)60993-9</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

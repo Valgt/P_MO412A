@@ -1,0 +1,1536 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0264275120312191</prism:url><dc:identifier>doi:10.1016/j.cities.2020.102871</dc:identifier><eid>1-s2.0-S0264275120312191</eid><prism:doi>10.1016/j.cities.2020.102871</prism:doi><pii>S0264-2751(20)31219-1</pii><dc:title>COVID-19 challenges and WASH in informal settlements: Integrated action supported by the sustainable development goals </dc:title><prism:publicationName>Cities</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02642751</prism:issn><prism:volume>107</prism:volume><prism:startingPage>102871</prism:startingPage><prism:pageRange>102871</prism:pageRange><articleNumber>102871</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2020-12-31</prism:coverDate><prism:coverDisplayDate>December 2020</prism:coverDisplayDate><prism:copyright>© 2020 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Parikh, Priti</dc:creator><dc:creator>Diep, Loan</dc:creator><dc:creator>Gupte, Jaideep</dc:creator><dc:creator>Lakhanpaul, Monica</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0264275120312191" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0264275120312191" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="755" height="391" size="124187">https://api.elsevier.com/content/object/eid/1-s2.0-S0264275120312191-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="114" size="12942">https://api.elsevier.com/content/object/eid/1-s2.0-S0264275120312191-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3345" height="1734" size="995110">https://api.elsevier.com/content/object/eid/1-s2.0-S0264275120312191-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1217749">https://api.elsevier.com/content/object/eid/1-s2.0-S0264275120312191-mmc1.pdf?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="645081">https://api.elsevier.com/content/object/eid/1-s2.0-S0264275120312191-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85090285531</scopus-id><scopus-eid>2-s2.0-85090285531</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85090285531" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271784</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291704</xocs:ssid>
+         <xocs:ssid type="subj">291705</xocs:ssid>
+         <xocs:ssid type="subj">291706</xocs:ssid>
+         <xocs:ssid type="subj">291932</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Cities</xocs:srctitle>
+      <xocs:normalized-srctitle>CITIES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200908">2020-09-08</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200908">2020-09-08</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200908">2020-09-08</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200908">2020-09-08</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-01-07T16:26:07</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0264275120312191</xocs:eid>
+      <xocs:pii-formatted>S0264-2751(20)31219-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0264275120312191</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cities.2020.102871</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0264275120X00102</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210107">2021-01-07T16:43:42.653973Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20201201</xocs:date-search-begin>
+      <xocs:date-search-end>20201231</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1599544873">2020-09-08T06:01:13.781Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body affil articletitle auth authfirstini authfull authlast highlightsabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0264-2751</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02642751</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>107</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>107</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 107</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>102871</xocs:first-fp>
+      <xocs:article-number>102871</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>102871</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202012</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>COVID19CHALLENGESWASHININFORMALSETTLEMENTSINTEGRATEDACTIONSUPPORTEDBYSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PARIKH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Transparency document</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Transparency document</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Author statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>BRENNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14</xocs:ref-first-fp>
+            <xocs:ref-last-lp>30</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>IMPLOSIONSEXPLOSIONSTOWARDSASTUDYPLANETARYURBANIZATION</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>INTRODUCTIONURBANTHEORYWITHOUTOUTSIDE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>CAETANO</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>COOPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>K4DHELPDESK</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>WATERFORURBANPOORCOVID19</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>CORBURN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>DEMENDONCA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>162</xocs:ref-first-fp>
+            <xocs:ref-last-lp>168</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>DEPADUACAVALCANTIBASTOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-last-lp>129</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>GUPTE</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>HARDOY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ENVIRONMENTALPROBLEMSINURBANIZINGWORLD</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>KLOH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3647</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3673</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>MITLIN</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>NADDEO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1213</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1216</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>PANDEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>AMACHINELEARNINGAPPLICATIONFORRAISINGWASHAWARENESSINTIMESCOVID19PANDEMIC</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>PARIKH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>468</xocs:ref-first-fp>
+            <xocs:ref-last-lp>486</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf9060">
+            <xocs:ref-normalized-surname>PARIKH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MAPPINGSYNERGIESTRADEOFFSBETWEENSANITATIONSUSTAINABLEDEVELOPMENTGOALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>PARIKH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COVID19INFORMALSETTLEMENTSIMPLICATIONSFORWATERSANITATIONHEALTHININDIAINDONESIA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>PATRANABIS</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>QUILLIAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>105790</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>ROLNIK</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1534</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1541</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>SNOWDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>UNDESA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDURBANIZATIONPROSPECTS2018REVISIONSTESASERA420</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>UNITEDNATIONS</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>WASDANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>414</xocs:ref-first-fp>
+            <xocs:ref-last-lp>418</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>WILKINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>KEYCONSIDERATIONSCOVID19ININFORMALURBANSETTLEMENTS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>WILKINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PARIKHX2020X102871</xocs:refkey3>
+         <xocs:refkey4ai>PARIKHX2020X102871XP</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-agreements>
+            <xocs:or-agreement>
+               <xocs:or-agreement-name>HEFCE</xocs:or-agreement-name>
+               <xocs:or-agreement-terms>none</xocs:or-agreement-terms>
+            </xocs:or-agreement>
+         </xocs:or-agreements>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-03-08T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0264-2751(20)31219-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0264275120312191</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0264275120312191</xocs:eid>
+         <xocs:doi>10.1016/j.cities.2020.102871</xocs:doi>
+         <xocs:cid>271784</xocs:cid>
+         <xocs:timestamp>2021-01-07T16:43:42.653973Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0264275120312191-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0264275120312191/MAIN/application/pdf/9fb40cb760516d1c461b812d8a8adf58/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>706969</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0264275120312191-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0264275120312191/PREVIEW/image/png/a3ace595aefb9d9b0f23a74b1c2497ce/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64134</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0264275120312191-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0264275120312191/gr1/DOWNSAMPLED/image/jpeg/2ab9cf307223d4a4686da2358ee2d8ed/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>124187</xocs:filesize>
+               <xocs:pixel-height>391</xocs:pixel-height>
+               <xocs:pixel-width>755</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0264275120312191-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0264275120312191/gr1/THUMBNAIL/image/gif/82310592eb1514e93b3699e6cd21a843/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12942</xocs:filesize>
+               <xocs:pixel-height>114</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0264275120312191-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0264275120312191/gr1/HIGHRES/image/jpeg/6429f2a6646f1bf1971359067510039c/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>995110</xocs:filesize>
+               <xocs:pixel-height>1734</xocs:pixel-height>
+               <xocs:pixel-width>3345</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0264275120312191-mmc1.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0264275120312191/mmc1/MAIN/application/pdf/cfc5402464d0fd03d46cfbd6391729c2/mmc1.pdf</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>1217749</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0264275120312191-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10HVL3B5LTT/MAIN/application/pdf/1c400e9194eba098e3d35f408b1ce440/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>645081</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>JCIT</jid>
+            <aid>102871</aid>
+            <ce:article-number>102871</ce:article-number>
+            <ce:pii>S0264-2751(20)31219-1</ce:pii>
+            <ce:doi>10.1016/j.cities.2020.102871</ce:doi>
+            <ce:copyright type="full-transfer" year="2020">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">Examples of interlinked Sustainable Development Goals illustrating how WASH action can support other goals during the COVID-19 pandemic affecting informal settlements in cities.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0005" role="short">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:href="pii:S0264275120312191/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">COVID-19 challenges and WASH in informal settlements: Integrated action supported by the sustainable development goals</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author author-id="S0264275120312191-d73b3deaee96219c9f561b54ea6656c0" id="au0005">
+                  <ce:given-name>Priti</ce:given-name>
+                  <ce:surname>Parikh</ce:surname>
+                  <ce:cross-ref id="cf0005" refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cf0010" refid="cr0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S0264275120312191-0290d9985790877396e82e4e3990e3f5" id="au0010">
+                  <ce:given-name>Loan</ce:given-name>
+                  <ce:surname>Diep</ce:surname>
+                  <ce:cross-ref id="cf0015" refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S0264275120312191-4471fd7038b2f101e07f782b1426db42" id="au0015">
+                  <ce:given-name>Jaideep</ce:given-name>
+                  <ce:surname>Gupte</ce:surname>
+                  <ce:cross-ref id="cf0020" refid="af0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S0264275120312191-988f20c3da4e80b77bbc1e095b8076a9" id="au0020">
+                  <ce:given-name>Monica</ce:given-name>
+                  <ce:surname>Lakhanpaul</ce:surname>
+                  <ce:cross-ref id="cf0025" refid="af0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cf0030" refid="af0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation affiliation-id="S0264275120312191-70015cf1a20f1093dd9d93af83bb2761" id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">International Development Centre, Civil, Environmental and Geomatic Engineering, University College London, Chadwick Building. London WC1E6BT, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>International Development Centre</sa:organization>
+                     <sa:organization>Civil, Environmental and Geomatic Engineering</sa:organization>
+                     <sa:organization>University College London</sa:organization>
+                     <sa:address-line>Chadwick Building</sa:address-line>
+                     <sa:city>London</sa:city>
+                     <sa:postal-code>WC1E6BT</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">International Development Centre, Civil, Environmental and Geomatic Engineering, University College London, Chadwick Building. London, WC1E6BT</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0264275120312191-4a60cc05d9464da9f45c84afc0ef7062" id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">The Institute of Development Studies, Cities and Sustainable Infrastructure Portfolio, Global Challenges Research Fund, UK Research and Innovation, University of Sussex, Library Road, Brighton BN19RE, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>The Institute of Development Studies</sa:organization>
+                     <sa:organization>Cities and Sustainable Infrastructure Portfolio</sa:organization>
+                     <sa:organization>Global Challenges Research Fund</sa:organization>
+                     <sa:organization>UK Research and Innovation</sa:organization>
+                     <sa:organization>University of Sussex</sa:organization>
+                     <sa:address-line>Library Road</sa:address-line>
+                     <sa:city>Brighton</sa:city>
+                     <sa:postal-code>BN19RE</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0010">Fellow of The Institute of Development Studies, UK, and Challenge Leader, Cities and Sustainable Infrastructure Portfolio, Global Challenges Research Fund, UK Research and Innovation, University of Sussex, Library Road, Brighton, BN19RE</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0264275120312191-d06e70c847c816e060afa758b5c1c485" id="af0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0015">Community Child Health, Population, Policy &amp; Practice Department, UCL Great Ormond Street Institute of Child Health, University College London, 30 Guilford Street, London WC1N 1EH, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Community Child Health, Population, Policy &amp; Practice Department</sa:organization>
+                     <sa:organization>UCL Great Ormond Street Institute of Child Health</sa:organization>
+                     <sa:organization>University College London</sa:organization>
+                     <sa:address-line>30 Guilford Street</sa:address-line>
+                     <sa:city>London</sa:city>
+                     <sa:postal-code>WC1N 1EH</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0015">Community Child Health, Population, Policy &amp; Practice Department, UCL Great Ormond Street Institute of Child Health, University College London, 30 Guilford Street, London, WC1N 1EH, UK, Whittington NHS Trust, London</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0264275120312191-c3bb7ae073b9a3a47984a5759eef7e08" id="af0020">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="tn0020">Whittington NHS Trust, London, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Whittington NHS Trust</sa:organization>
+                     <sa:city>London</sa:city>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0020">Community Child Health, Population, Policy &amp; Practice Department, UCL Great Ormond Street Institute of Child Health, University College London, 30 Guilford Street, London, WC1N 1EH, UK, Whittington NHS Trust, London</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="16" month="4" year="2020"/>
+            <ce:date-revised day="6" month="7" year="2020"/>
+            <ce:date-accepted day="21" month="7" year="2020"/>
+            
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0030" view="all">The spread and impacts of COVID-19 have exposed multiple and cascading vulnerabilities, which particularly affect urban informal settlements. In light of such threats, it is vital to understand how interventions in the Water, Sanitation and Hygiene (WASH) sector are required and how these can positively affect cities in multiple ways. The 2030 Sustainable Development Goals (SDGs) global agenda calls for integrated approaches to development in order to revisit the way societies are built and to more effectively include marginalised populations. Parikh et al. have identified positive linkages between sanitation and 130 of the SDG Targets of the 17 Goals (<ce:cross-ref id="cf0035" refid="bb0065">Parikh et al., 2020a</ce:cross-ref>). Their work demonstrates how investments in WASH (SDG6) “to ensure availability and sustainable management of water and sanitation for all” can lead to further achievement of multiple goals, including health (SDG3), gender (SDG5), education (SDG4) and cities (SDG11), and the value of such integrated interventions to tackle challenges facing humanity.</ce:para>
+               <ce:para id="p0035" view="all">The COVID-19 pandemic has exposed long-lasting issues in WASH. An estimated 60% of people in the world, and only 38% in least developed countries have a basic handwashing facility with soap and water at home, leaving out about 3 billion people (<ce:cross-ref id="cf0040" refid="bb0110">United Nations, 2019</ce:cross-ref>). Between 2000 and 2014, the number of people living in informal settlements has increased from 807 million to 883 million where these facilities are commonly lacking (<ce:cross-ref id="cf0045" refid="bb0105">UNDESA, 2019</ce:cross-ref>). Urban settlements are often characterised by high population densities and narrow pathways reducing mobility. In addition, sub-optimal housing and infrastructural conditions do not allow for physical distancing, nor do WASH services enable people to follow hygiene rules. As such, maintaining positive health practices, alongside sustaining livelihoods represent considerable challenges specific to informal settlements.</ce:para>
+               <ce:para id="p0040" view="all">The COVID-19 crisis must be approached as an opportunity to re-place evidence of WASH service gaps into contexts of policies and practices to better build urban resilience for the future. In settlements worldwide, people frequently have to leave their homes to enable them to access handwashing facilities and for water collection leading to an increase in potential contact points for further transmission of COVID-19. The use of shared sanitation facilities also increases risks of transmission of the virus. This is an important consideration since it is common for people in informal settlements worldwide to rely on communal toilets where it is difficult to apply physical distancing and to follow strict hygiene procedures (<ce:cross-ref id="cf0050" refid="bb0070">Parikh et al., 2020b</ce:cross-ref>; <ce:cross-ref id="cf0055" refid="bb0115">Wasdani &amp; Prasad, 2020</ce:cross-ref>). Self-isolation is nearly impossible for individuals carrying the virus who cannot access separate toilets and hygiene facilities. As the spread of the virus exacerbates these issues, it contributes to and worsens existing health conditions. These include respiratory infections, tuberculosis, typhoid and malaria, commonly diagnosed among low-income populations living in homes with poor infrastructure and limited access to basic services (<ce:cross-ref id="cf0060" refid="bb0020">Corburn et al., 2020</ce:cross-ref>; <ce:cross-ref id="cf0065" refid="bb0040">Hardoy, Mitlin, &amp; Satterthwaite, 2001</ce:cross-ref>). Besides, with increasing evidence of traces of the virus in sewage, informal settlements with poor environmental sanitation conditions where wastewater is poorly contained could be highly exposed (<ce:cross-ref id="cf0070" refid="bb0055">Naddeo &amp; Liu, 2020</ce:cross-ref>; <ce:cross-ref id="cf0075" refid="bb0085">Quilliam et al., 2020</ce:cross-ref>).</ce:para>
+               <ce:para id="p0045" view="all">While mortality rates from COVID-19 are higher in men, women may be more likely to be affected in other ways, especially as gaps in WASH mirrors such pre-existing social inequalities. For example, where there is no running water at home, women often bear the burden of water collection, transport and disposal (<ce:cross-ref id="cf0080" refid="bb0075">Parikh, Fu, Parikh, McRobie, &amp; George, 2015</ce:cross-ref>). They are required to organise their time to carry out such tasks while they juggle with multiple household chores. This contributes to an increase in mental stress and anxiety, and may expose them to violence, whether this being domestic or encountered during water collection. Trips to collect water and food also leaves them more exposed to infection pathways. Since SDG5 calls for ending all forms of discrimination against women and girls, periods of crises expose ways in which access to water and sanitation services can both be a causal agent and a perpetuator of vulnerabilities that need to be addressed for everyone.</ce:para>
+               <ce:para id="p0050" view="all">COVID-19 has also exposed the multiple linkages between WASH and inclusive education as promoted by SDG4. Published evidence shows how handwashing with soap correlates to levels of education and literacy (<ce:cross-ref id="cf0085" refid="bb0095">Schmidt et al., 2009</ce:cross-ref>), thereby demonstrating the importance of and the need for reliable means of information-sharing in relation to hygiene behaviour to prevent virus transmission (<ce:cross-ref id="cf0090" refid="bb0060">Pandey et al., 2020</ce:cross-ref>). Access to accurate information in a format that is accessible by all, and in multiple languages has been a key challenge since the beginning of the outbreak. Contradictory messages regarding ‘social distancing’ and isolation coming from authorities and health experts have caused confusion in relation to what measures to take. Local myths and non-evidence based practices have also caused misunderstandings and affected the most vulnerable. In low-income areas where illiteracy rates are high, access to reliable information provided through a diverse array of communication tools, both visual and written, is crucial if there is to be an impact on hygiene behaviour and healthcare.</ce:para>
+               <ce:para id="p0055" view="all">While the pandemic has disproportionally affected populations in informal settlements and exposed underlying conditions, the COVID-19 response has also largely overlooked the reality lived by slum dwellers. In many cities around the world, governments have called for rapid lockdown, leaving little time for residents to prepare their households with sufficient food stocks, water, medicine, health equipment and other priority items including cash. Due to the quarantine, 70% of families living in favelas in Brazil have experienced a fall in income since the beginning of the pandemic (<ce:cross-ref id="cf0095" refid="bb0010">Caetano, 2020</ce:cross-ref>). This would correspond to about 9.5 million people in the country affected by the interruption of work activities, thereby adding to the struggle of buying food and contributing to the risk of malnutrition and to the inability of paying pay for rent and essential services including that of water and hygiene equipment.</ce:para>
+               <ce:para id="p0060" view="all">We argue that the current vulnerability of societies and even more that of informal settlements to the virus is not accidental, but a logical result of the type of cities that we have built. Snowden reported in the context of cholera that settlements of cities like Lima, Mexico City and Rio de Janeiro where millions live without sewers, drains, secured supplies of drinking water or appropriate waste management are places that were ready-made for diseases to expand (<ce:cross-ref id="cf0100" refid="bb0100">Snowden, 2008</ce:cross-ref>). As demonstrated for Mumbai, overcrowded conditions in settlements provide hotbeds for infectious agents to rapidly spread, thereby showing how COVID-19 disproportionately affects the urban poor (<ce:cross-ref id="cf0105" refid="bb0080">Patranabis, Gandhi, &amp; Tandel, 2020</ce:cross-ref>). Similar trends have been noted in Brazil where favelas are becoming the hotbed of COVID-19 (<ce:cross-ref id="cf0110" refid="bb0030">De Pádua Cavalcanti Bastos et al., 2020</ce:cross-ref>; <ce:cross-ref id="cf0115" refid="bb0045">Klôh et al., 2020</ce:cross-ref>). This shows the importance of addressing SDG11, which requires adequate, safe, and affordable housing and basic services in cities and therefore calls for action in informal settlements.</ce:para>
+               <ce:para id="p0065" view="all">The spread of the virus reflects human networks and societal interactions with their environment at different scales, including at city and community scales, with further impacts at national and international scales. The implementation of interventions must therefore consider scalar dynamics with different responses taken at different governance levels. As illustrated in <ce:cross-ref id="cf0120" refid="f0005">Fig. 1</ce:cross-ref>
+                  <ce:float-anchor refid="f0005"/>, the identification of links across the SDGs will help create frameworks to develop an integrated COVID-19 response. This requires harmonised responses between different governance levels together with the civil society, and between sectors for approaches that generate knowledge that is transferable into governmental policy <ce:italic>and</ce:italic> social practice.</ce:para>
+               <ce:para id="p0070" view="all">While the transmission pathways of COVID-19 bring a particular focus on water and sanitation infrastructure, and ways by which we distribute access to these services, integrated actions are needed for urban centres. The situation faced by informal settlements is a call for action that integrates WASH interventions with interventions in housing, health, livelihood, and education. Only partnerships that involve government stakeholders and different sectors working together with people living in informal settlements will enable such types of actions to achieve viable results. Partnerships are necessary to unlock synergies between WASH and health, gender and education, but also to help meet goals on cities and communities, as well as decent work (SDG8) and partnerships (SDG17). In the face of COVID-19, national and international funding agencies and utilities providing essential services need to work together with organised citizens, using community leaders as primary points of contact where possible (<ce:cross-ref id="cf0125" refid="bb0050">Mitlin, 2020</ce:cross-ref>; <ce:cross-ref id="cf0130" refid="bb0120">Wilkinson, 2020</ce:cross-ref>).</ce:para>
+               <ce:para id="p0075" view="all">Short-and mid-term measures include efforts to support WASH utilities, including infrastructure repairs and implementation of handwashing points in accessible locations with access to soap. Furthermore, as earning instability and tenure are growing threats during crises, urban planners have called for evictions procedure to be reconsidered, or at least suspended (<ce:cross-ref id="cf0135" refid="bb0090">Rolnik, 2020</ce:cross-ref>). Immediate coordination between health authorities and sectors dealing with land, environment, water and sanitation will also provide both short and longer-term response to the epidemic (<ce:cross-ref id="cf0140" refid="bb0120">Wilkinson, 2020</ce:cross-ref>).</ce:para>
+               <ce:para id="p0080" view="all">Investing in data management is crucial for developing a timely response. Besides the rapid changing dynamics that characterise them, data management on informal settlements is challenging due to informal service provision networks and the lack of records. Evidence from humanitarian crises worldwide have shown how utilities performance were impacted by lack of data in marginalised communities and demonstrated the need for closer collaboration with local actors (<ce:cross-ref id="cf0145" refid="bb0015">Cooper, 2020</ce:cross-ref>). Partnerships for better coherence of actions will therefore involve supporting the production of reliable local data collaboratively with communities to inform decision-making (SDG17). The data currently reported in the context of COVID-19 overlooks the way the virus spreads in informal settlements, and thereby impede adequate response from governments and the range of supporting actors (<ce:cross-ref id="cf0150" refid="bb0125">Wilkinson et al., 2020</ce:cross-ref>). Yet, community health workers can play an important bridging role given their position on the front line. In favelas of cities across Brazil, they have participated in preventing the risks of COVID-19, in providing essential caring services and in monitoring infected cases (<ce:cross-ref id="cf0155" refid="bb0025">de Mendonça, da Silva Junior, Cunha, &amp; Latgé, 2020</ce:cross-ref>). Improving data for response in settlements requires efforts to operate across smaller, relational scales, and link these to larger governance scales.</ce:para>
+               <ce:para id="p0085" view="all">Cities represent a strategic scale to build local community resilience against future crises to come. There is a clear opportunity to adopt a systems approach to tackle interlinked challenges at a city-level (<ce:cross-ref id="cf0160" refid="bb0035">Gupte, 2020</ce:cross-ref>). The present requirement is on understanding how the built environment and social dynamics of people moving into, out of, and within cities are shaped by governance systems. Times of crises highlight the way these intersect and the need for stronger understanding of complex patterns of mobility and fixity. Integrated approaches supported by partnerships will improve our understanding of and responses to the relationships between ecosystems, land, labour and property, and what this implies for urban governance (<ce:cross-ref id="cf0165" refid="bb0005">Brenner, 2014</ce:cross-ref>). Partnerships that break down traditional silos and integrate knowledge from a multitude of disciplines will be required in the production of locally grounded research that connects concerns at the site level with multiple other scales, in order to join up decision making at the municipal and national levels.</ce:para>
+               <ce:para id="p0090" view="all">As the COVID-19 pandemic is exposing inequalities, it reminds us that the cure will reside in the political will to ameliorate the underlying conditions that have made societies vulnerable to pandemics and other disasters. This will fundamentally depend on socio-economic factors that influence the way we shape our cities with long-term strategies for which the 2030 Agenda and the SDGs provide guidance. Policy-makers need to consider that public health interventions should not emerge only because of crises, but should be tools for inclusive long-term planning and effective, integrated implementation. The key path to prepare for future pandemics require water, sanitation and hygiene gaps to be adequately addressed for populations living in informal settlements, and be actively tackled together with other development goals to build more resilient cities.</ce:para>
+               <ce:section id="s0505" view="extended">
+                  <ce:section-title id="st5005">Transparency document</ce:section-title>
+                  <ce:para id="p0505" view="all">
+                     <ce:display>
+                        <ce:e-component id="ec0010">
+                           <ce:caption id="ca0505">
+                              <ce:simple-para id="sp0505" view="all">Transparency document.</ce:simple-para>
+                           </ce:caption>
+                           <ce:alt-text id="al0505" role="short">Image 1</ce:alt-text>
+                           <ce:link id="lk0505" locator="mmc1" xlink:href="pii:S0264275120312191/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="s1510" view="compact-standard">
+                  <ce:section-title id="st5410">Transparency document</ce:section-title>
+                  <ce:para id="p1510" view="all">The <ce:inter-ref id="ir1505" xlink:href="https://doi.org/10.1016/j.cities.2020.102871" xlink:type="simple">Transparency document</ce:inter-ref> associated with this article can be found, in online version.</ce:para>
+               </ce:section>
+               <ce:section id="s0005" view="all">
+                  <ce:section-title id="st0010">Author statement</ce:section-title>
+                  <ce:para id="p0095" view="all">*Dr. Priti Parikh - Conceptualization, Methodology, Validation, Resources, Data Curation, Writing – Review and Editing, Supervision, Project Administration.</ce:para>
+                  <ce:para id="p0100" view="all">Loan Diep - Conceptualization, Methodology, Validation, Resources, Writing - Original Draft.</ce:para>
+                  <ce:para id="p0105" view="all">Dr. Jaideep Gupte - Validation, Resource, Writing - Review &amp; Editing.</ce:para>
+                  <ce:para id="p0110" view="all">Professor Monica Lakhanpaul - Validation, Resources, Writing – Review and Editing.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0015">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>Brenner, 2014</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Brenner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Introduction: Urban theory without an outside</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>N.</ce:given-name>
+                                    <ce:surname>Brenner</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Implosions/explosions: Towards a study of planetary urbanization</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Deutsche Nationalbibliothek</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>14</sb:first-page>
+                              <sb:last-page>30</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0025">Brenner, N. (2014). Introduction: Urban theory without an outside. In N. Brenner (Ed.), Implosions/Explosions: Towards A Study Of Planetary Urbanization (pp. 14–30). Berlin: Deutsche Nationalbibliothek.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>Caetano, 2020</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Caetano</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coronavirus: income falls for 7 in 10 families in Brazil's favelas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>(Retrieved March 31, 2020, from)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0005" xlink:href="https://www.rioonwatch.org/?p=58474#.Xn8mrX-wiss.twitter" xlink:type="simple">https://www.rioonwatch.org/?p=58474#.Xn8mrX-wiss.twitter</ce:inter-ref>
+                              <sb:date>2020</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0030">Caetano, R. (2020). Coronavirus: income falls for 7 in 10 families in Brazil'’s favelas. Retrieved March 31, 2020, from https://www.rioonwatch.org/?p=58474#.Xn8mrX-wiss.twitter</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>Cooper, 2020</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Cooper</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Water for the urban poor and Covid-19</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>K4D helpdesk</sb:maintitle>
+                              </sb:title>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:volume-nr>Vol. Report 826</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2020</sb:date>
+                           </sb:edited-book>
+                           <ce:doi>10.3362/0262-8104.1990.022</ce:doi>
+                        </sb:host>
+                        <sb:comment>(Brighton)</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="se0035">Cooper, R. (2020). Water for the urban poor and Covid-19. K4D Helpdesk (Vol. Report 826). Brighton. doi:10.3362/0262-8104.1990.022</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>Corburn et al., 2020</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Corburn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Vlahov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Mberu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Riley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Caiaffa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Rashid</ce:surname>
+                              </sb:author>
+                              <sb:ellipsis/>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ayad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Slum health: Arresting COVID-19 and improving well-being in urban informal settlements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Urban Health.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1007/s11524-020-00438-6</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">Corburn, J., Vlahov, D., Mberu, B., Riley, L., Caiaffa, W. T., Rashid, S. F., … Ayad, H. (2020). Slum Health: Arresting COVID-19 and Improving Well-Being in Urban Informal Settlements. Journal of Urban Health. doi:10.1007/s11524-020-00438-6</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>de Mendonça et al., 2020</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.M.</ce:given-name>
+                                 <ce:surname>de Mendonça</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>da Silva Junior</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.F.</ce:given-name>
+                                 <ce:surname>Cunha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Latgé</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A pandemia COVID-19 no Brasil: ecos e reflexos nas comunidades periféricas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>APS EM REVISTA</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>162</sb:first-page>
+                              <sb:last-page>168</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.14295/aps.v2i2.124</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0045">Mendonça, M. H. M. de, Silva Junior, A. G. da, Cunha, C. L. F., &amp; Latgé, P. K. (2020). A pandemia COVID-19 no Brasil: ecos e reflexos nas comunidades periféricas. APS EM REVISTA, 2(2), 162–168. doi:10.14295/aps.v2i2.124</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>De Pádua Cavalcanti Bastos et al., 2020</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>De Pádua Cavalcanti Bastos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.F.</ce:given-name>
+                                 <ce:surname>Da Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Da Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.D.C.C.</ce:given-name>
+                                 <ce:surname>Bastos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.T.</ce:given-name>
+                                 <ce:surname>Cavalcanti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.T.</ce:given-name>
+                                 <ce:surname>Cavalcanti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>O ESTADO DE EXCEÇÃO NAS FAVELAS: Perspectivas biopoliticas a partir da pandemia do covid-19</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Revista Augustus</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>51</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                              <sb:last-page>129</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.15202/1981896.2020v25n51p113</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0050">De Pádua Cavalcanti Bastos, M. A., Da Silva, R. F., Da Silva, E. A., Bastos, N. D. C. C., Cavalcanti, A. C. T., &amp; Cavalcanti, E. C. T. (2020). O ESTADO DE EXCEÇÃO NAS FAVELAS: perspectivas biopoliticas a partir da pandemia do covid-19. Revista Augustus, 25(51), 113–129. doi:10.15202/1981896.2020v25n51p113</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>Gupte, 2020</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Gupte</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>COVID-19: a course-correction for safer cities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>(Retrieved April 2, 2020, from)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0010" xlink:href="https://www.ukcdr.org.uk/covid-19-a-course-correction-for-safer-cities/" xlink:type="simple">https://www.ukcdr.org.uk/covid-19-a-course-correction-for-safer-cities/</ce:inter-ref>
+                              <sb:date>2020</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0055">Gupte, J. (2020). COVID-19: a course-correction for safer cities. Retrieved April 2, 2020, from https://www.ukcdr.org.uk/covid-19-a-course-correction-for-safer-cities/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>Hardoy et al., 2001</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Hardoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mitlin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Satterthwaite</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Environmental problems in an urbanizing world</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2001</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Earthscan</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0060">Hardoy, J. E., Mitlin, D., &amp; Satterthwaite, D. (2001). Environmental Problems in an Urbanizing World. London: Earthscan.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>Klôh et al., 2020</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.P.</ce:given-name>
+                                 <ce:surname>Klôh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ferro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Araújo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Melo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.P.d.A.</ce:given-name>
+                                 <ce:surname>Lima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Martins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The virus and socioeconomic inequality: An agent-based model to simulate and assess the impact of interventions to reduce the spread of COVID-19 in Rio de Janeiro, Brazil</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brazilian Journal of Health Review</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3647</sb:first-page>
+                              <sb:last-page>3673</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.34119/bjhrv3n2-192</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0065">Klôh, V. P., Silva, G. D., Ferro, M., Araújo, E., Melo, C. B., Lima, J. R. P. de A., &amp; Martins, E. R. (2020). The virus and socioeconomic inequality: An agent-based model to simulate and assess the impact of interventions to reduce the spread of COVID-19 in Rio de Janeiro, Brazil. Brazilian Journal of Health Review, 3(2), 3647–3673. doi:10.34119/bjhrv3n2-192</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>Mitlin, 2020</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mitlin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dealing with COVID-19 in the towns and cities of the global South</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>(Retrieved March 31, 2020, from)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0015" xlink:href="https://www.iied.org/dealing-covid-19-towns-cities-global-south" xlink:type="simple">https://www.iied.org/dealing-covid-19-towns-cities-global-south</ce:inter-ref>
+                              <sb:date>2020</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0070">Mitlin, D. (2020). Dealing with COVID-19 in the towns and cities of the global South. Retrieved March 31, 2020, from https://www.iied.org/dealing-covid-19-towns-cities-global-south</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>Naddeo and Liu, 2020</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Naddeo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Editorial perspectives: 2019 novel coronavirus (SARS-CoV-2): What is its fate in urban water cycle and how can the water research community respond?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environmental Science: Water Research and Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1213</sb:first-page>
+                              <sb:last-page>1216</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/d0ew90015j</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0075">Naddeo, V., &amp; Liu, H. (2020). Editorial Perspectives: 2019 novel coronavirus (SARS-CoV-2): What is its fate in urban water cycle and how can the water research community respond? Environmental Science: Water Research and Technology, 6(5), 1213–1216. doi:10.1039/d0ew90015j</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>Pandey et al., 2020</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pandey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Gautam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Syal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bhagat</ce:surname>
+                              </sb:author>
+                              <sb:ellipsis/>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sethi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A machine learning application for raising WASH awareness in the times of COVID-19 pandemic</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>7</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>(Retrieved from)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0020" xlink:href="http://arxiv.org/abs/2003.07074" xlink:type="simple">http://arxiv.org/abs/2003.07074</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0080">Pandey, R., Gautam, V., Jain, C., Syal, P., Sharma, H., Bhagat, K., … Sethi, T. (2020). A Machine Learning Application for Raising WASH Awareness in the Times of COVID-19 Pandemic, 1–7. Retrieved from http://arxiv.org/abs/2003.07074</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>Parikh et al., 2015</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Parikh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Parikh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>McRobie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>George</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Infrastructure provision, gender, and poverty in Indian slums</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>World Development</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>468</sb:first-page>
+                              <sb:last-page>486</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.worlddev.2014.09.014</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0090">Parikh, P., Fu, K., Parikh, H., McRobie, A., &amp; George, G. (2015). Infrastructure Provision, Gender, and Poverty in Indian Slums. World Development, 66, 468–486. doi:10.1016/j.worlddev.2014.09.014</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>Parikh et al., 2020a</ce:label>
+                     <sb:reference id="rf9060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Parikh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Diep</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hofmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tomei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Campos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Teh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mulugetta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Milligan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lakhanpaul</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping Synergies and Trade-Offs between Sanitation and the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>UCL Open Environment</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>preprint accessed at <ce:inter-ref id="ir8820" xlink:href="https://ucl.scienceopen.com/document?vid=5a9f0d87-e125-4781-b4ff-1c7da21acc88" xlink:type="simple">https://ucl.scienceopen.com/document?vid=5a9f0d87-e125-4781-b4ff-1c7da21acc88</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="se6080">Parikh, P., Diep, L., Hofmann, P., Tomei, J., Campos, L.C., Teh, T.H., Mulugetta, Y., Milligan, B. and Lakhanpaul, M., 2020. Mapping Synergies and Trade-Offs between Sanitation and the Sustainable Development Goals. UCL Open Environment, preprint accessed at https://ucl.scienceopen.com/document?vid=5a9f0d87-e125-4781-b4ff-1c7da21acc88</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>Parikh et al., 2020b</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Parikh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Bou Karim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Paulose</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Factor-Litvak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Nix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Nur Aisyah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chaturvedi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Manikam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Lakhanpaul</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>COVID-19 and Informal Settlements-Implications for Water, Sanitation and Health in India and Indonesia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>UCL Open: Environment Preprint</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Accessed <ce:inter-ref id="ir8020" xlink:href="https://ucl.scienceopen.com/document?vid=7ee663b6-916d-4884-a70f-5ec153a54136" xlink:type="simple">https://ucl.scienceopen.com/document?vid=7ee663b6-916d-4884-a70f-5ec153a54136</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="se0085">Parikh, P., Diep, L., Hofmann, P., Tomei, J., Campos, L. C., Teh, T.-H., … Lakhanpaul, M. (2020). Mapping Synergies and Trade-offs between Sanitation and the Sustainable Development Goals. Forthcoming Publication.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>Patranabis et al., 2020</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Patranabis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gandhi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Tandel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Are slums more vulnerable to the COVID-19 pandemic? Evidence from Mumbai</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>(Retrieved May 20, 2020, from)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0025" xlink:href="https://www.brookings.edu/blog/up-front/2020/04/16/are-slums-more-vulnerable-to-the-covid-19-pandemic-evidence-from-mumbai/" xlink:type="simple">https://www.brookings.edu/blog/up-front/2020/04/16/are-slums-more-vulnerable-to-the-covid-19-pandemic-evidence-from-mumbai/</ce:inter-ref>
+                              <sb:date>2020</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0095">Patranabis, S., Gandhi, S., &amp; Tandel, V. (2020). Are slums more vulnerable to the COVID-19 pandemic? Evidence from Mumbai. Retrieved May 20, 2020, from https://www.brookings.edu/blog/up-front/2020/04/16/are-slums-more-vulnerable-to-the-covid-19-pandemic-evidence-from-mumbai/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>Quilliam et al., 2020</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Quilliam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Weidmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Moresco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Purshouse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>O’Hara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>COVID-19: The environmental implications of shedding SARS-CoV-2 in human faeces</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environment International</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>105790</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.envint.2020.105790</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0100">Quilliam, R. S., Weidmann, M., Moresco, V., Purshouse, H., O'’Hara, Z., &amp; Oliver, D. M. (2020). COVID-19: The environmental implications of shedding SARS-CoV-2 in human faeces. Environment International, 140, 105790. doi:10.1016/j.envint.2020.105790</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>Rolnik, 2020</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Rolnik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>E quem não pode fazer home office?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>(Retrieved March 24, 2020, from)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0030" xlink:href="https://raquelrolnik.wordpress.com/category/coronavirus/" xlink:type="simple">https://raquelrolnik.wordpress.com/category/coronavirus/</ce:inter-ref>
+                              <sb:date>2020</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0105">Rolnik, R. (2020). E quem não pode fazer home office? Retrieved March 24, 2020, from https://raquelrolnik.wordpress.com/category/coronavirus/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>Schmidt et al., 2009</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.P.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Aunger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Coombes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Maina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.N.</ce:given-name>
+                                 <ce:surname>Matiko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Biran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Curtis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determinants of handwashing practices in Kenya: The role of media exposure, poverty and infrastructure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tropical Medicine and International Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1534</sb:first-page>
+                              <sb:last-page>1541</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1365-3156.2009.02404.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0110">Schmidt, W. P., Aunger, R., Coombes, Y., Maina, P. M., Matiko, C. N., Biran, A., &amp; Curtis, V. (2009). Determinants of handwashing practices in Kenya: The role of media exposure, poverty and infrastructure. Tropical Medicine and International Health, 14(12), 1534–1541. doi:10.1111/j.1365-3156.2009.02404.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>Snowden, 2008</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Snowden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Emerging and reemerging diseases: A historical perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Immunological Reviews</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>225</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9</sb:first-page>
+                              <sb:last-page>26</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1600-065X.2008.00677.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0115">Snowden, F. M. (2008). Emerging and reemerging diseases: a historical perspective. Immunological Reviews, 225(1), 9–26. doi:10.1111/j.1600-065X.2008.00677.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>UNDESA, 2019</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UNDESA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World urbanization prospects: The 2018 revision (ST/ESA/SER.A/420)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>(New York)</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="se0120">UNDESA. (2019). World Urbanization Prospects: The 2018 Revision (ST/ESA/SER.A/420). New York.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>United Nations, 2019</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Special edition: Progress towards the sustainable development goals. E/2019/68</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0035" xlink:href="https://undocs.org/E/2019/68" xlink:type="simple">https://undocs.org/E/2019/68</ce:inter-ref>
+                              <sb:date>2019</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0125">United Nations. (2019). Special edition: progress towards the Sustainable Development Goals. E/2019/68. Retrieved from https://undocs.org/E/2019/68</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>Wasdani and Prasad, 2020</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.P.</ce:given-name>
+                                 <ce:surname>Wasdani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Prasad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impossibility of social distancing among the urban poor: The case of an Indian slum in the times of COVID-19</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Local Environment</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>414</sb:first-page>
+                              <sb:last-page>418</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1080/13549839.2020.1754375</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0130">Wasdani, K. P., &amp; Prasad, A. (2020). The impossibility of social distancing among the urban poor: the case of an Indian slum in the times of COVID-19. Local Environment, 25(5), 414–418. doi:10.1080/13549839.2020.1754375</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>Wilkinson, 2020</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Wilkinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Key considerations: COVID-19 in informal urban settlements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0135">Wilkinson, A. (2020). Key considerations: COVID-19 in informal urban settlements.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>Wilkinson et al., 2020</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Wilkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bedford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Boonyabancha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Connolly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Conteh</ce:surname>
+                              </sb:author>
+                              <sb:ellipsis/>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Whittaker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Local response in health emergencies: Key considerations for addressing the COVID-19 pandemic in informal urban settlements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environment and Urbanization</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>20</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1177/0956247820922843</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0140">Wilkinson, A., Ali, H., Bedford, J., Boonyabancha, S., Connolly, C., Conteh, A., … Whittaker, L. (2020). Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements. Environment and Urbanization, 1–20. doi:10.1177/0956247820922843</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,726 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673616308273</prism:url><dc:identifier>doi:10.1016/S0140-6736(16)30827-3</dc:identifier><eid>1-s2.0-S0140673616308273</eid><prism:doi>10.1016/S0140-6736(16)30827-3</prism:doi><pii>S0140-6736(16)30827-3</pii><dc:title>Alcohol and the Sustainable Development Goals </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>01406736</prism:issn><prism:volume>387</prism:volume><prism:issueIdentifier>10038</prism:issueIdentifier><prism:startingPage>2582</prism:startingPage><prism:endingPage>2583</prism:endingPage><prism:pageRange>2582-2583</prism:pageRange><prism:number>10038</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2016-07-01</prism:coverDate><prism:coverDisplayDate>25 June–1 July 2016</prism:coverDisplayDate><prism:copyright>© 2016 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Collin, Jeff</dc:creator><dc:creator>Casswell, Sally</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673616308273" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673616308273" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="143" size="29071">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673616308273-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="670" height="437" size="115387">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673616308273-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1781" height="1161" size="497875">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673616308273-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84978791422</scopus-id><scopus-eid>2-s2.0-84978791422</scopus-eid><pubmed-id>27353807</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84978791422" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160623">2016-06-23</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160623">2016-06-23</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160623">2016-06-23</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160623">2016-06-23</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-06-13T04:53:57</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673616308273</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(16)30827-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673616308273</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(16)30827-3</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673616X0027X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190613">2019-06-13T03:58:05.412882Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160625</xocs:date-search-begin>
+      <xocs:date-search-end>20160701</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1466727856">2016-06-24T00:24:16.259387Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>387</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>387</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10038</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10038</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 387, Issue 10038</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>8</xocs:sort-order>
+      <xocs:first-fp>2582</xocs:first-fp>
+      <xocs:last-lp>2583</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>2582</xocs:first-page>
+         <xocs:last-page>2583</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20160625</xocs:start-date>
+         <xocs:end-date>20160701</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>25 June–1 July 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-06-25</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-07-01</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ALCOHOLSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>COLLIN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10"/>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALSTATUSREPORTALCOHOLHEALTH2014</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>HAWKES</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40"/>
+         <xocs:ref-info refid="sbref50"/>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>BUSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>MOODIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>670</xocs:ref-first-fp>
+            <xocs:ref-last-lp>679</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>COLLIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>h6087</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALSTRATEGYREDUCEHARMFULUSEALCOHOL</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>FRAMEWORKCONVENTIONTOBACCOCONTROL</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref110">
+            <xocs:ref-normalized-surname>COLLIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>274</xocs:ref-first-fp>
+            <xocs:ref-last-lp>280</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref120">
+            <xocs:ref-normalized-surname>COLLIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>g3648</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref130">
+            <xocs:ref-normalized-surname>FRIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>46</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>COLLINX2016X2582</xocs:refkey3>
+         <xocs:refkey4lp>COLLINX2016X2582X2583</xocs:refkey4lp>
+         <xocs:refkey4ai>COLLINX2016X2582XJ</xocs:refkey4ai>
+         <xocs:refkey5>COLLINX2016X2582X2583XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2016-12-23T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(16)30827-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673616308273</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673616308273</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(16)30827-3</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2019-06-13T03:58:05.412882Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-06-25</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-07-01</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673616308273-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673616308273/MAIN/application/pdf/c6f043520da119ff255a60fbe19a1565/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>386398</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673616308273-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673616308273/PREVIEW/image/png/121c1e8eb64c73b95a6d56b6c37bb8a2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73230</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673616308273-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673616308273/fx1/THUMBNAIL/image/gif/0fc7a7d8efb1d3356789aeac7d8abcdd/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>29071</xocs:filesize>
+               <xocs:pixel-height>143</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673616308273-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673616308273/fx1/DOWNSAMPLED/image/jpeg/d90d9145dfcce10a324ecee5ca1c99a9/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>115387</xocs:filesize>
+               <xocs:pixel-height>437</xocs:pixel-height>
+               <xocs:pixel-width>670</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673616308273-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673616308273/fx1/HIGHRES/image/jpeg/4bfe5bcf7eedfa4816dd0a119e11c7fa/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>497875</xocs:filesize>
+               <xocs:pixel-height>1161</xocs:pixel-height>
+               <xocs:pixel-width>1781</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>1946</aid>
+            <ce:pii>S0140-6736(16)30827-3</ce:pii>
+            <ce:doi>10.1016/S0140-6736(16)30827-3</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Alcohol and the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S0140673616308273-3a911ac435c393a6ccc374a8d6dfd1d3">
+                  <ce:given-name>Jeff</ce:given-name>
+                  <ce:surname>Collin</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S0140673616308273-57ddbb443f34e2da0ab632dd13e6d310">
+                  <ce:given-name>Sally</ce:given-name>
+                  <ce:surname>Casswell</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Global Public Health Unit, Social Policy, School of Social and Political Science, University of Edinburgh, Edinburgh EH8 9LD, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Global Public Health Unit</sa:organization>
+                     <sa:organization>Social Policy</sa:organization>
+                     <sa:organization>School of Social and Political Science</sa:organization>
+                     <sa:organization>University of Edinburgh</sa:organization>
+                     <sa:city>Edinburgh</sa:city>
+                     <sa:postal-code>EH8 9LD</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>SHORE and Whāriki Research Centre, College of Health, Massey University, Auckland, New Zealand</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>SHORE and Whāriki Research Centre</sa:organization>
+                     <sa:organization>College of Health</sa:organization>
+                     <sa:organization>Massey University</sa:organization>
+                     <sa:city>Auckland</sa:city>
+                     <sa:country>New Zealand</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">The inclusion of a focus on alcohol consumption within the Sustainable Development Goals (SDGs)<ce:cross-ref id="cecref40" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> illustrates the increased diversity of the new global development agenda. Recognition of alcohol as a development issue reflects its multiple social and economic impacts as well as the 3·3 million annual deaths, or 5·9% of all global deaths, that result from its consumption.<ce:cross-ref id="cecref50" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> SDG 3.5 aims to “strengthen prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol”. Considerable advances in alcohol policy will be necessary to achieve this and other SDG targets, including the reduction of premature mortality from non-communicable diseases by a third by 2030.<ce:cross-ref id="cecref60" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para20" view="all">However, core elements of the SDGs could threaten such necessary policy advances. These elements include the SDGs' commitments to further trade liberalisation<ce:cross-ref id="cecref70" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> and emphasis on partnerships with the private sector.<ce:cross-ref id="cecref80" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> The commitment to such partnerships is being used by leading alcohol producers, keen to project themselves as partners in progress rather than as vectors of an industrial epidemic. The International Alliance for Responsible Drinking—a collaboration of the world's leading beer, wine, and spirits producers—is disseminating a toolkit to its members for building partnerships between the alcohol industry and key stakeholders such as governments, international organisations, and civil society groups.<ce:cross-ref id="cecref90" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> Similarly, the world's second largest brewer, SABMiller, depicts sustainable development as being aligned with their business imperative to make beer “the natural choice for the moderate and responsible drinker”.<ce:cross-ref id="cecref100" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para30" view="all">
+                  <ce:display>
+                     <ce:figure id="f10">
+                        <ce:copyright type="other" year="2016">Bjoern Steinz/Panos</ce:copyright>
+                        <ce:link locator="fx1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0140673616308273/fx1"/>
+                     </ce:figure>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="para40" view="all">This strategic use of the SDGs could amplify concerns that the goals fail to adequately address producers of alcohol and other unhealthy commodities as commercial determinants of ill health.<ce:cross-refs id="cecrefs10" refid="bib6 bib7">
+                     <ce:sup loc="post">6,7</ce:sup>
+                  </ce:cross-refs> While acknowledging such concerns, we also want to highlight the potential of the SDGs to transform the development of alcohol policy across many national contexts and within global health governance.</ce:para>
+               <ce:para id="para50" view="all">SDG 3, the main health goal, concludes with a wide-ranging commitment to strengthen the capacity for “risk reduction and management of national and global health risks”.<ce:cross-ref id="cecref110" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> When applied to the global burden of alcohol-related harm, effective policy responses for reducing and managing risk require explicit recognition that the structure of the alcohol industry itself could constitute a key health risk. This risk is particularly evident in the remarkable expansion of transnational alcohol producers beyond traditional markets in Europe and North America. SABMiller is being acquired by AB InBev, the world's leading beer manufacturer with brands including Budweiser and Stella Artois, and this new merged company will dominate the global beer market.<ce:cross-ref id="cecref120" refid="bib8">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref> The company's creation is based on the prospect of accelerating business growth in developing countries, particularly across Africa,<ce:cross-ref id="cecref130" refid="bib8">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref> which will undoubtedly increase health burdens. Yet a focus on tackling inequities by regulating the global expansion of transnational producers is noticeably absent from WHO's current alcohol strategy,<ce:cross-ref id="cecref140" refid="bib9">
+                     <ce:sup loc="post">9</ce:sup>
+                  </ce:cross-ref> by stark contrast with the WHO Framework Convention on Tobacco Control.<ce:cross-ref id="cecref150" refid="bib10">
+                     <ce:sup loc="post">10</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para60" view="all">Two broad issues included in SDG 17 on building partnerships for SDG implementation are also relevant for alcohol policy development. Targets 171.4 and 17.15 aim first to “enhance policy coherence for sustainable development” and, second, to “respect each country's policy space and leadership”.<ce:cross-ref id="cecref160" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> In this context, policy coherence refers to maximising the extent of fit across diverse policy spheres, so that commitments in agriculture or trade, for example, should be developed in ways that protect and promote health.<ce:cross-refs id="cecrefs20" refid="bib3 bib11">
+                     <ce:sup loc="post">3,11</ce:sup>
+                  </ce:cross-refs> Increased coherence could bring important benefits for effective alcohol policy, such as halting the perverse practice of development agencies providing support for initiatives that reduce the price of beer in sub-Saharan Africa, encouraging the World Bank to end investment in alcohol projects, or precluding the Global Fund to Fight AIDS, Tuberculosis and Malaria's partnership with a transnational alcohol producer using a corporate social responsibility initiative.<ce:cross-ref id="cecref170" refid="bib12">
+                     <ce:sup loc="post">12</ce:sup>
+                  </ce:cross-ref> Such developments would bring alcohol policy practice in line with tobacco control. Increased coherence across relevant policy areas could include the wider transfer of effective strategies for regulating conflicts of interest with unhealthy commodity producers.<ce:cross-ref id="cecref180" refid="bib11">
+                     <ce:sup loc="post">11</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para70" view="all">The SDGs' commitment to protecting policy space highlights the importance of maximising the autonomy available to an individual state to adopt the measures deemed necessary to advance sustainable development.<ce:cross-ref id="cecref190" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> Such protection is particularly important to global health in view of the threats posed by new trade and investment agreements. Australia's extensive legal battles to implement plain packaging for tobacco products illustrate the substantial barriers posed by existing trade agreements. Few countries have the resources or political will to introduce innovative public health policies given the potential for costly disputes claiming breaches of intellectual property or trade discrimination. This deterrent will probably be heightened by increased scope for corporations to litigate against governments in the new Trans-Pacific Partnership agreement or the proposed Transatlantic Trade and Investment Partnership.<ce:cross-ref id="cecref200" refid="bib13">
+                     <ce:sup loc="post">13</ce:sup>
+                  </ce:cross-ref> Future agreements therefore need to incorporate extensive flexibilities for new health policies. For alcohol policy, for example, health objectives conflict with the trade priorities of the Scotch Whisky Association, which strongly supports the completion of an EU–India trade agreement to enable its further expansion into what is already the world's largest whisky market.<ce:cross-ref id="cecref210" refid="bib12">
+                     <ce:sup loc="post">12</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para80" view="all">The political barriers to effectively regulate the alcohol industry are considerable, as are the pressures for public health advocates, researchers, and civil society organisations to engage with alcohol producers as potential partners. The recognition of alcohol as a key development issue provides a major opportunity to reject ineffective approaches in favour of effectively tackling the commercial drivers of alcohol's harmful use, availability, pricing, and marketing. The SDGs provide more tools to do so than has previously been recognised, and policy makers, health advocates, and researchers now urgently need to explore how best to use them.</ce:para>
+               <ce:para id="para90" role="acknowledgement" view="all">JC and SC are co-investigators in the UK Centre for Tobacco and Alcohol Studies. JC is an expert adviser to the Institute of Alcohol Studies.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="http://www.un.org/sustainabledevelopment/sustainable-development-goals/" xlink:type="simple">http://www.un.org/sustainabledevelopment/sustainable-development-goals/</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed May 6, 2016).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Global status report on alcohol and health 2014</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Hawkes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancing coherence between trade policy and nutrition action. Discussion paper 1. UN Standing Committee on Nutrition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="http://www.unscn.org/files/ICN2_TPM/UNSCN_Discussion_Paper_1_Trade_and_Nutrition_2015rev_en.pdf" xlink:type="simple">http://www.unscn.org/files/ICN2_TPM/UNSCN_Discussion_Paper_1_Trade_and_Nutrition_2015rev_en.pdf</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed May 6, 2016).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>International Alliance for Responsible Drinking</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Building partnerships. Toolkit</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="http://www.iard.org/wp-content/uploads/2016/01/TK-Building-Partnerships.pdf" xlink:type="simple">http://www.iard.org/wp-content/uploads/2016/01/TK-Building-Partnerships.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed May 6, 2016).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>SABMiller</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Prosper and the UN Global Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:href="http://www.sabmiller.com/sustainability/prosper-and-the-un-global-goals" xlink:type="simple">http://www.sabmiller.com/sustainability/prosper-and-the-un-global-goals</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed May 6, 2016).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Buse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Hawkes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Health in the sustainable development goals: ready for a paradigm shift?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Global Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Moodie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Stuckler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Monteiro</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>for the <ce:italic>Lancet</ce:italic> NCD Action Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Profits and pandemics: prevention of harmful effects of tobacco, alcohol, and ultra-processed food and drink industries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>381</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>670</sb:first-page>
+                              <sb:last-page>679</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Collin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SE</ce:given-name>
+                                 <ce:surname>Hill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>KE</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Merging alcohol giants threaten global health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>351</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>h6087</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Global strategy to reduce the harmful use of alcohol</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Framework Convention on Tobacco Control</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2003</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sbref110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Collin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tobacco control, global health policy and development: towards policy coherence in global governance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tob Control</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>274</sb:first-page>
+                              <sb:last-page>280</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Collin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SE</ce:given-name>
+                                 <ce:surname>Hill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Government support for alcohol industry: promoting exports, jeopardising global health?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>348</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>g3648</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sbref130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Friel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Gleeson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AM</ce:given-name>
+                                 <ce:surname>Thow</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new generation of trade policy: potential risks to diet-related health from the Trans-Pacific Partnership agreement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Global Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>46</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

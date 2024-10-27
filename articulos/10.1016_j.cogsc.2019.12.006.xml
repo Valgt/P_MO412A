@@ -1,0 +1,596 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2452223619300677</prism:url><dc:identifier>doi:10.1016/j.cogsc.2019.12.006</dc:identifier><eid>1-s2.0-S2452223619300677</eid><prism:doi>10.1016/j.cogsc.2019.12.006</prism:doi><pii>S2452-2236(19)30067-7</pii><dc:title>Editorial Overview: Editorial: Toward new sustainable development goals </dc:title><prism:publicationName>Current Opinion in Green and Sustainable Chemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>24522236</prism:issn><prism:volume>21</prism:volume><prism:startingPage>A1</prism:startingPage><prism:endingPage>A3</prism:endingPage><prism:pageRange>A1-A3</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2020-02-29</prism:coverDate><prism:coverDisplayDate>February 2020</prism:coverDisplayDate><prism:copyright>© 2020 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>New Synthetic methods ● Selected papers from the 4th Green and Sustainable Chemistry Conference</prism:issueName><dc:creator>Aricò, Fabio</dc:creator><dc:creator>Moreno-Tost, Ramón</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S2452223619300677" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2452223619300677" rel="scidir"/></coredata><scopus-id>85078468351</scopus-id><scopus-eid>2-s2.0-85078468351</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85078468351" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>314642</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291792</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291809</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Current Opinion in Green and Sustainable Chemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>CURRENTOPINIONINGREENSUSTAINABLECHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20191227">2019-12-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20191227">2019-12-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200325">2020-03-25</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200325">2020-03-25</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-02-06T07:57:21</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2452223619300677</xocs:eid>
+      <xocs:pii-formatted>S2452-2236(19)30067-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2452223619300677</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cogsc.2019.12.006</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2452223619X0005X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230206">2023-02-06T08:12:45.564636Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200201</xocs:date-search-begin>
+      <xocs:date-search-end>20200229</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1577464348">2019-12-27T16:32:28.972541Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast footnotes misctext ref vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2452-2236</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24522236</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>21</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>21</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 21</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>A1</xocs:first-fp>
+      <xocs:last-lp>A3</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>A1</xocs:first-page>
+         <xocs:last-page>A3</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202002</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-02-29</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>New Synthetic methods ● Selected papers from the 4th Green and Sustainable Chemistry Conference</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author id="au1" author-id="S2452223619X0005X-bfa878a0fe4e59f496a8f6ec6837b26b">
+                     <ce:given-name>Fabio</ce:given-name>
+                     <ce:surname>Aricò</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author id="au2" author-id="S2452223619X0005X-56a54ad38dbc8cd700efd1898d65ff37">
+                     <ce:given-name>Ramón</ce:given-name>
+                     <ce:surname>Moreno-Tost</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author id="au3" author-id="S2452223619X0005X-22cf6b921e0931a5b02dacfb7e059eea">
+                     <ce:given-name>Klaus</ce:given-name>
+                     <ce:surname>Kȕmmerer</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author id="au4" author-id="S2452223619X0005X-7db27cc81ac6706532e1f83c1813dd0d">
+                     <ce:given-name>Zhimin</ce:given-name>
+                     <ce:surname>Liu</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>New Synthetic Methods, edited by Fabio Aricò and Ramón Moreno-Tost</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EDITORIALOVERVIEWEDITORIALTOWARDNEWSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ARICO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>TUNDO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1210</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1228</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>DELLAPINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2077</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2095</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>HUGHES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3868</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3902</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5197</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5211</xocs:ref-last-lp>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ARICOX2020XA1</xocs:refkey3>
+         <xocs:refkey4lp>ARICOX2020XA1XA3</xocs:refkey4lp>
+         <xocs:refkey4ai>ARICOX2020XA1XF</xocs:refkey4ai>
+         <xocs:refkey5>ARICOX2020XA1XA3XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2022-03-25T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-03-25T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-05-30T13:18:46.542Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2452-2236(19)30067-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2452223619300677</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2452223619300677</xocs:eid>
+         <xocs:doi>10.1016/j.cogsc.2019.12.006</xocs:doi>
+         <xocs:cid>314642</xocs:cid>
+         <xocs:timestamp>2023-02-06T08:12:45.564636Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-02-29</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2452223619300677-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2452223619300677/MAIN/application/pdf/f921c7ae2fb8e07d821ddd389707c414/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>222961</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2452223619300677-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2452223619300677/PREVIEW/image/png/49527044cbdaa4c221376a83ff868aef/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>71240</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>COGSC</jid>
+            <aid>314</aid>
+            <ce:pii>S2452-2236(19)30067-7</ce:pii>
+            <ce:doi>10.1016/j.cogsc.2019.12.006</ce:doi>
+            <ce:copyright type="full-transfer" year="2020">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:title id="title0010">Editorial Overview: Editorial: Toward new sustainable development goals</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" biographyid="vt1" author-id="S2452223619300677-8d62e37dc25a86be6d07ee85aecf0c8d">
+                  <ce:given-name>Fabio</ce:given-name>
+                  <ce:surname>Aricò</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010a">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2452223619300677-d4da4fb4368cccf3311aa7f3d251ed3a">
+                  <ce:textfn>Department of Environmental Science, Informatics and Statistics, Ca’ Foscari University, Via Torino 155, 30172, Venezia, Italy</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Environmental Science</sa:organization>
+                     <sa:organization>Informatics and Statistics</sa:organization>
+                     <sa:organization>Ca’ Foscari University</sa:organization>
+                     <sa:address-line>Via Torino 155</sa:address-line>
+                     <sa:city>Venezia</sa:city>
+                     <sa:postal-code>30172</sa:postal-code>
+                     <sa:country>Italy</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Department of Environmental Science, Informatics and Statistics, Ca’ Foscari University, Via Torino 155, 30172 Venezia, Italy</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author: Aricò, Fabio</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="ntpara0010" view="all">Both authors have equally contributed to this editorial.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:author-group id="augrp0015">
+               <ce:author id="au2" biographyid="vt2" author-id="S2452223619300677-6d1b362dc1ae4ae35656abaa57dd90b2">
+                  <ce:given-name>Ramón</ce:given-name>
+                  <ce:surname>Moreno-Tost</ce:surname>
+                  <ce:cross-ref refid="cor2" id="crosref0ta010">
+                     <ce:sup loc="post">∗∗</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1" id="crosreaf001t0">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff2" affiliation-id="S2452223619300677-610932e57c0126b7a2d6377138f6224b">
+                  <ce:textfn>Department of Inorganic Chemistry, Crystallography and Mineralogy, Faculty of Sciences, Campus de Teatinos s/n, 29071, Málaga, Spain</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Inorganic Chemistry</sa:organization>
+                     <sa:organization>Crystallography and Mineralogy</sa:organization>
+                     <sa:organization>Faculty of Sciences</sa:organization>
+                     <sa:address-line>Campus de Teatinos s/n</sa:address-line>
+                     <sa:city>Málaga</sa:city>
+                     <sa:postal-code>29071</sa:postal-code>
+                     <sa:country>Spain</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">Department of Inorganic Chemistry, Crystallography and Mineralogy, Faculty of Sciences, Campus de Teatinos s/n, 29071 Malaga, Spain</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor2">
+                  <ce:label>∗∗</ce:label>
+                  <ce:text>Corresponding author: Moreno-Tost, Ramón</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:miscellaneous id="misc0010">This review comes from a themed issue on <ce:bold>New Synthetic Methods</ce:bold>
+            </ce:miscellaneous>
+            <ce:miscellaneous id="misc0015">Edited by <ce:bold>Fabrico Aricò</ce:bold> and <ce:bold>Ramón Moreno-Tost</ce:bold>
+            </ce:miscellaneous>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0010" view="all">In accordance with the International Union of Pure and Applied Chemistry, Green Chemistry includes the invention, design and application of chemical products and processes to reduce or to eliminate the use and generation of hazardous substances [<ce:cross-ref refid="bib1" id="crosref0015">1</ce:cross-ref>].<ce:vsp sp="0.5"/>
+               </ce:para>
+               <ce:para id="p0015" view="all">More than twenty years ago, Paul Anastas, John C. Warner and Joseph Breen introduced the concept of Green Chemistry: publishing a set of principles to guide the practice of Sustainable Chemistry. Yes, plenty of time has passed by, however the twelve principles are still valid and so actual that we might refer to them as timeless. This is partially due to the fact that many Green Chemistry concepts and related research fields were already investigated before the term Green Chemistry came into use. Furthermore, chemists have always conducted their research embracing an atom economy vision that was only limited by the knowledge and by the means available.<ce:vsp sp="0.5"/>
+               </ce:para>
+               <ce:para id="p0020" view="all">We are now in 2020, knowledge and mean have been increasing exponentially due to new and more efficient technology and almost instantaneous information speed rate, however developing New Synthetic Methods is still a priority for chemists.<ce:vsp sp="0.5"/>
+               </ce:para>
+               <ce:para id="p0025" view="all">In 2015, all UN Member States adopted 17 goals as part of the 2030 Agenda for Sustainable Development which set out a 15-year plan to address global challenges including poverty, inequality, climate change, environmental degradation, peace and justice. These 17 goals are all interconnected and they have been set aiming at promoting prosperity while protecting the planet and preventing global change.<ce:vsp sp="0.5"/>
+               </ce:para>
+               <ce:para id="p0030" view="all">As a consequence, the role of chemists is now more important than ever, we have to envision and develop new and more sustainable synthetic methods and contribute to reach these goals starting from fundamental research. In this thematic issue, we have selected ten topics that we believe give the best up to date idea of the recent development in Green Chemistry research paving the way towards a greener future for the generation to come.<ce:list id="olist0010">
+                     <ce:list-item id="o0010">
+                        <ce:label>1.</ce:label>
+                        <ce:para id="p0035" view="all">
+                           <ce:bold>Atmospheric CO</ce:bold>
+                           <ce:inf loc="post">
+                              <ce:bold>2</ce:bold>
+                           </ce:inf> 
+                           <ce:bold>mitigation technologies: Carbon capture, utilization and torage</ce:bold>: The integrated carbon capture, utilization and storage is an important mitigation technology that encompasses CO<ce:inf loc="post">2</ce:inf> sequestration from fuel combustion or industrial processes, its transport and storage or conversion into valuable products. Carbon capture, utilization and storage is a poignant example of a circular economy and its strategic role will most probably grow in future. The review of Dibenedetto and Nocito (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S2452223619300501" id="intref0010" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S2452223619300501</ce:inter-ref>) reports on the current state of the art in the field of capture (materials and technologies), transport, disposal and reuse of CO<ce:inf loc="post">2</ce:inf>. CO<ce:inf loc="post">2</ce:inf> use has been also addressed in this review focussing on formation of C–N, C–O, C–C bonds, photocatalytic reduction, hydrogenation, coupling catalysis and biotechnology.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0015">
+                        <ce:label>2.</ce:label>
+                        <ce:para id="p0040" view="all">
+                           <ce:bold>Recent developments in key biorefinery areas</ce:bold>: Nowadays chemical production and energy generation is still based on fossil-based resources. A great change in industry is mandatory in consideration of the fact that traditional, fossil-based resources are becoming scarcer and more expensive, besides the disposal of large amount of waste affecting both the environmental and the humankind. The concept of linear economic model is not any more sustainable and must be replaced with a circular economy model, where resources and products are used for as long a time as possible to reduce waste. In this view, it is important to embrace the so-called bioeconomy aiming to provide energy and products based, at least partly, on renewable feedstocks. The mini review of Attard, Clark and McElroy (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S245222361930063X" id="intref0015" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S245222361930063X</ce:inter-ref>) provides a critical overview on the biorefinery concept, highlighting key research that has been recently conducted on feedstock selection (lignocellulosic feedstock, microalgae, food waste, municipal solid waste) green processing technologies (extraction, hydrothermal pretreatment, thermochemical treatment, pyrolysis, liquefaction, gasification, anaerobic digestion, biocatalysis and chemocatalysis) and future outlook.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0020">
+                        <ce:label>3.</ce:label>
+                        <ce:para id="p0045" view="all">
+                           <ce:bold>Recent advances in selective oxidation of biomass-derived platform chemicals over gold catalysts</ce:bold>: Gold nanoparticles with unique physicochemical properties have received a great deal of attention in the field of biological, chemical and biomedical implementations. Gold catalysts show a great improvement in selectivity and stability for alcohol and carbohydrate oxidation and thus represent challenging substitutes for platinum group metals [<ce:cross-ref refid="bib2" id="crosref0020">2</ce:cross-ref>]. In this context, Megías-Sagayo et al. (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S2452223619300628" id="intref0020" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S2452223619300628</ce:inter-ref>) overview the selective oxidation of plant-biomass glucose and its derivative 5-(Hydroxymethyl)furfural (HMF) to the corresponding carboxylic acids focussing on as the activity of gold catalysts is affected by the nanoparticle size and the interaction with the support.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0025">
+                        <ce:label>4.</ce:label>
+                        <ce:para id="p0050" view="all">
+                           <ce:bold>New synthetic approaches to biofuels from lignocellulosic biomass</ce:bold>: Biomass, in particular lignocellulose residues, is considered as the only alternative to fossil fuels for the synthesis of chemicals and materials. The article by Riisager et al (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S2452223619300392" id="intref0025" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S2452223619300392</ce:inter-ref>) surveys the recent trends in lignocellulosic biomass conversion into fuels and highlight innovative synthetic approaches based on novel chemocatalyst and biocatalyst systems and process strategies using both biomass-derived carbohydrates and technical lignin as feedstock.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0030">
+                        <ce:label>5.</ce:label>
+                        <ce:para id="p0055" view="all">
+                           <ce:bold>Biobased and biodegradable polymers</ce:bold>: Within biorefinery, biobased and biodegradable plastics are one of focal research area to overcome resource depletion and plastic pollution. The review of Babu et al. (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S2452223619300665" id="intref0030" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S2452223619300665</ce:inter-ref>) reports on state-of-the-art technologies in commercial bioplastics (biodegradable and nonbiodegradable) manufacturing including challenges underlying their production, application and postconsumer waste management. Feedstock available, production capacity, company involved in the bioplastic commercialization and sustainable end-of-life options are discussed in detail.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0035">
+                        <ce:label>6.</ce:label>
+                        <ce:para id="p0060" view="all">
+                           <ce:bold>New frontiers in biocatalysis for sustainable synthesis</ce:bold>: Biocatalysis can be defined as the use of enzymes to convert a molecular substrate into a product [<ce:cross-ref refid="bib3" id="crosref0025">3</ce:cross-ref>]. John Woodley (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S2452223619300409" id="intref0035" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S2452223619300409</ce:inter-ref>) approaches the biocatalytic processes focussing on cost-effective and scalable processes, ready for implementation in industry. The review also highlights other developments at the frontiers of this field including flow chemistry and multistep enzymatic reactions.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0040">
+                        <ce:label>7.</ce:label>
+                        <ce:para id="p0065" view="all">
+                           <ce:bold>Alternative reaction conditions: enabling technologies in solvent-free protocols</ce:bold>: To minimize waste and energy costs, one of the most investigated area of Green chemistry is process intensification via solventless and solid-state reaction protocols. In their review, Cravotto and coworkers (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S2452223619300604" id="intref0040" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S2452223619300604</ce:inter-ref>) have reported an overview on strategies and protocols that have been developed as alternative reaction conditions such as ball milling, dielectric heating, and reactive extrusion. Specific examples for each technology (cyclodextrins functionalisation, nucleophilic substitution of the tosyl group, oxiranes reactivity, formation of enantiopure truxillic acid, and so on), as well as their advantages and limitations have been discussed.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0045">
+                        <ce:label>8.</ce:label>
+                        <ce:para id="p0070" view="all">
+                           <ce:bold>Deep eutectic solvents and their applications as green solvents</ce:bold>: When avoiding solvents is not possible, it is advisable to use green solvents. Recently deep eutectic solvents (DESs) have been extensively investigated. DESs are binary or ternary mixtures constituted by at least one hydrogen bond donor and at least one hydrogen bond acceptor that are strongly associated with each other (via hydrogen bond interactions). In this review, Perna, Vitale and Capriate (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S2452223619300458" id="intref0045" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S2452223619300458</ce:inter-ref>) reported on several synthetic approaches where DESs are used as efficient green reaction media. Specific examples include polar organometallic chemistry and metal- and bio-catalysed processes. Advantages respect to the use of VOCs and an in-depth reaction mechanisms were discussed for specific cases.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0050">
+                        <ce:label>9.</ce:label>
+                        <ce:para id="p0075" view="all">
+                           <ce:bold>Recent advances in photo-assisted preferential CO oxidation in H</ce:bold>
+                           <ce:inf loc="post">
+                              <ce:bold>2</ce:bold>
+                           </ce:inf>
+                           <ce:bold>-rich stream</ce:bold>: Photocatalysis is a green technology which converts abundantly available solar energy into useful chemical energy [<ce:cross-ref refid="bib4" id="crosref0030">4</ce:cross-ref>]. The advantages of photocatalysis over conventional catalytic processes implies a lower number of tedious steps, mild working conditions of temperature and pressure and using transition metal catalysts. In their mini review, Elisa Moretti et al. (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S2452223619300379" id="intref0050" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S2452223619300379</ce:inter-ref>) reported on the role of photocatalysis in preferential CO oxidation in H<ce:inf loc="post">2</ce:inf>-rich streams because of the great performance this reaction can achieve at mild conditions, with negligible hydrogen loss. This overview also summarizes the most recent advances on the most outstanding strategies to improve TiO<ce:inf loc="post">2</ce:inf> photocatalytic activity, as well as on the active phases used, paying special attention to the synthesis and deposition of noble metal nanoparticles because of their exceptional properties.</ce:para>
+                     </ce:list-item>
+                     <ce:list-item id="o0055">
+                        <ce:label>10.</ce:label>
+                        <ce:para id="p0080" view="all">
+                           <ce:bold>Progress and perspectives on pillared clays applied in energetic and environmental remediation processes</ce:bold>: Pillared interlayered clays are group of microporous inorganic solids with great potential applications in catalytic processes and adsorption of hazardous compounds. The modification of natural clay minerals by pillaring has emerged as a promising technique because it allows synthesizing solids with high resistance and thermal stability, increased porosity and surface area among other physicochemical properties [<ce:cross-ref refid="bib5" id="crosref0035">5</ce:cross-ref>]. In this short review, Gil et al. (<ce:inter-ref xlink:href="https://www.sciencedirect.com/science/article/pii/S2452223619300653" id="intref0055" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/S2452223619300653</ce:inter-ref>) summarize the synthesis and applications of these materials in both adsorption and heterogeneous catalysis, highlighting the uses in the remediation of pollutants.</ce:para>
+                     </ce:list-item>
+                  </ce:list>
+               </ce:para>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi00t10" view="all">
+               <ce:section-title id="sectitle0t170">Conflict of interest statement</ce:section-title>
+               <ce:para id="p01a95" view="all">Nothing declared.</ce:para>
+            </ce:conflict-of-interest>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0010">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Tundo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Anastas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Black</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Breen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Collins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Memoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Miyamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Polyakoff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Tumas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthetic pathways and processes in green chemistry. Introductory overview</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Pure Appl Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1210</sb:first-page>
+                              <sb:last-page>1228</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">P. Tundo, P. Anastas, D. Black, J. Breen, T. Collins, S. Memoli, J. Miyamoto, M. Polyakoff, W. Tumas Synthetic pathways and processes in green chemistry. Introductory overview, Pure Appl. Chem. 72 (7) (2000) 1210-1228.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Della Pina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Falletta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Prati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rossi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Selective oxidation using gold</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Soc Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2077</sb:first-page>
+                              <sb:last-page>2095</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">C. Della Pina, E. Falletta, L. Prati, M. Rossi, Selective oxidation using gold, Chem. Soc. Rev., 37 (2008) 2077-2095</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Hughes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Lewis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Introduction: Biocatalysis in industry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>3</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">G. Hughes, J. C. Lewis, Introduction: Biocatalysis in industry, Chem. Rev. 118 (2018) 1-3</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Anusuyadevi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Aymonier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Luque</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marre</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanostructured materials for photocatalysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Soc Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3868</sb:first-page>
+                              <sb:last-page>3902</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">C. Xu, P. R. Anusuyadevi, C. Aymonier, R. Luque, S. Marre, Nanostructured materials for photocatalysis, Chem. Soc. Rev., 48 (2019) 3868-3902</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Synthesis and application of pillared clay heterogeneous catalysts for wastewater treatment: a review, Jeffrey Baloyi, Thabang Ntho and John Moma</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5197</sb:first-page>
+                              <sb:last-page>5211</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Synthesis and application of pillared clay heterogeneous catalysts for wastewater treatment: a review, Jeffrey Baloyi, Thabang Ntho and John Moma, RSC Adv., 8 (2018) 5197-5211</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="vt1" view="all">
+               <ce:simple-para id="biospara0010" view="all">
+                  <ce:bold>Fabio Aricò:</ce:bold> Fabio Aricò obtained his master's degree in chemistry from the University of Messina. He was awarded a Ph.D. at Reading University (UK) and then spent 2 years as postdoctoral fellow in Stoddart group at the UCLA (USA). In 2005, he moved back to Italy at the University Ca’ Foscari where he is associate Professor since 2015. He published more than 60 articles; main research interests are Green Chemistry, Chlorine-free chemistry, dialkyl carbonates and biobased platform chemicals.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="vt2" view="all">
+               <ce:simple-para id="biospara0015" view="all">
+                  <ce:bold>Ramón Moreno Tost:</ce:bold> Ramón Moreno Tost is a professor at the Inorganic, Crystallography and Mineralogy Department, University of Málaga, Spain. He received his degree in chemistry (1994) and Ph.D. (2002) from the University of Málaga. His research interest is focused on the catalysts synthesis with different functionalities applied to the conversion of biomass to fuels and bioproducts. He is authored of more than 70 articles in high impact factor journal, 3 book chapters and 2 patents with an h-index of 27.</ce:simple-para>
+            </ce:biography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

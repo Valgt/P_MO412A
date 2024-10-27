@@ -1,0 +1,2418 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0264275116303122</prism:url><dc:identifier>doi:10.1016/j.cities.2016.12.019</dc:identifier><eid>1-s2.0-S0264275116303122</eid><prism:doi>10.1016/j.cities.2016.12.019</prism:doi><pii>S0264-2751(16)30312-2</pii><dc:title>The urban sustainable development goal: Indicators, complexity and the politics of measuring cities </dc:title><prism:publicationName>Cities</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02642751</prism:issn><prism:volume>63</prism:volume><prism:startingPage>92</prism:startingPage><prism:endingPage>97</prism:endingPage><prism:pageRange>92-97</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-03-31</prism:coverDate><prism:coverDisplayDate>March 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Klopp, Jacqueline M</dc:creator><dc:creator>Petretta, Danielle L</dc:creator><dc:description>
+                  As part of the post-2015 United Nations sustainable development agenda, the world has its first urban sustainable development goal (USDG) “to make cities and human settlements inclusive, safe, resilient and sustainable”. This paper provides an overview of the USDG and explores some of the difficulties around using this goal as a tool for improving cities. We argue that challenges emerge around selecting the indicators in the first place and also around the practical use of these indicators once selected. Three main practical problems of indicator use include 1) the poor availability of standardized, open and comparable data 2) the lack of strong data collection institutions at the city scale to support monitoring for the USDG and 3) “localization” - the uptake and context specific application of the goal by diverse actors in widely different cities. Adding to the complexity, the USDG conversation is taking place at the same time as the proliferation of a bewildering array of indicator systems at different scales. Prompted by technological change, debates on the “data revolution” and “smart city” also have direct bearing on the USDG. We argue that despite these many complexities and challenges, the USDG framework has the potential to encourage and guide needed reforms in our cities but only if anchored in local institutions and initiatives informed by open, inclusive and contextually sensitive data collection and monitoring.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0264275116303122" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0264275116303122" rel="scidir"/></coredata><scopus-id>85010382773</scopus-id><scopus-eid>2-s2.0-85010382773</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85010382773" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271784</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291704</xocs:ssid>
+         <xocs:ssid type="subj">291705</xocs:ssid>
+         <xocs:ssid type="subj">291706</xocs:ssid>
+         <xocs:ssid type="subj">291932</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Cities</xocs:srctitle>
+      <xocs:normalized-srctitle>CITIES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170125">2017-01-25</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170125">2017-01-25</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170125">2017-01-25</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170125">2017-01-25</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-02-26T17:32:38</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0264275116303122</xocs:eid>
+      <xocs:pii-formatted>S0264-2751(16)30312-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0264275116303122</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cities.2016.12.019</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0264275117X00024</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170227">2017-02-27T05:31:55.939973-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170301</xocs:date-search-begin>
+      <xocs:date-search-end>20170331</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1485373254">2017-01-25T19:40:54.087093Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav table body acknowledge affil articletitle auth authfirstini authfull authlast grantsponsor grantsponsorid highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0264-2751</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02642751</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>63</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>63</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 63</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>10</xocs:sort-order>
+      <xocs:first-fp>92</xocs:first-fp>
+      <xocs:last-lp>97</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>92</xocs:first-page>
+         <xocs:last-page>97</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201703</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>March 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-03-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-03-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>URBANSUSTAINABLEDEVELOPMENTGOALINDICATORSCOMPLEXITYPOLITICSMEASURINGCITIES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KLOPP</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>From the Millennium Development Goals to an Urban Sustainable Development Goal</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Challenges facing the USDG</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Indicator selection</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Localization</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Missing good, comparable data for cities</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>7</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Data collection capabilities and the “data revolution”/smart city conversation</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>8</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>BOYER</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="or9178"/>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>DESHERBININ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INDICATORSINPRACTICEHOWENVIRONMENTALINDICATORSBEINGUSEDINPOLICYMANAGEMENTCONTEXTS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>EASTERLY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>TYRANNYEXPERTSECONOMISTSDICTATORSFORGOTTENRIGHTSPOOR</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>EASTERLY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>322</xocs:ref-first-fp>
+            <xocs:ref-last-lp>324</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>FEHLING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1122</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>FERRAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEURBANMETABOLISM</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>FITZGERALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>EMERALDCITIESURBANSUSTAINABILITYECONOMICDEVELOPMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>FLOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1635</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1665</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>FUKUDAPARR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>118</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>GARAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>AHOMEINCITYUNMILLENNIUMPROJECTREPORTIMPROVINGLIVESSLUMDWELLERS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>GOODSPEED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79</xocs:ref-first-fp>
+            <xocs:ref-last-lp>92</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf201701241734028991">
+            <xocs:ref-normalized-surname>GREENFIELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>AGAINSTSMARTCITYCITYFORUSEBOOK1</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>HABITATIII</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>HAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>565</xocs:ref-first-fp>
+            <xocs:ref-last-lp>573</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>HASAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>HERZI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>287</xocs:ref-first-fp>
+            <xocs:ref-last-lp>304</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf201701241738376221">
+            <xocs:ref-normalized-surname>HICKEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>749</xocs:ref-first-fp>
+            <xocs:ref-last-lp>767</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>HOLDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-last-lp>183</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>HOLDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>96</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>HOLLANDS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>303</xocs:ref-first-fp>
+            <xocs:ref-last-lp>320</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>HOORNWEG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>227</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1175</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>GOODIDEASCOMENATURALHISTORYINNOVATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>KLOPP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PLANNINGSUPPORTSYSTEMSSMARTCITIES</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>LEVERAGINGCELLPHONESFORWAYFINDINGJOURNEYPLANNINGINSEMIFORMALBUSSYSTEMSLESSONSDIGITALMATATUSINNAIROBI</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>LUCCI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>URBANDIMENSIONINNEWSETDEVELOPMENTGOALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>MORENOPIRES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MEASURINGCOMPARINGLOCALSUSTAINABLEDEVELOPMENTTHROUGHCOMMONINDICATORSCONSTRAINTSACHIEVEMENTSINPRACTICE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>NYCMAYORSOFFICEOFSUSTAINABILITY</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>PARIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>AROADMAPFORACOUNTRYLEDDATAREVOLUTION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>PARNELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>540</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0165">
+            <xocs:ref-normalized-surname>ROGERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CITIESFORASMALLPLANET</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0170">
+            <xocs:ref-normalized-surname>SATTERTHWAITE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-last-lp>190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0175">
+            <xocs:ref-normalized-surname>SDSNSUSTAINABLEDEVELOPMENTSOLUTIONSNETWORK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>THEMATICGROUPSUSTAINABLECITIESURBANOPPORTUNITYENABLINGTRANSFORMATIVESUSTAINABLEDEVELOPMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0180">
+            <xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-last-lp>29</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0185">
+            <xocs:ref-normalized-surname>SIMON</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0195">
+            <xocs:ref-normalized-surname>TOWNSEND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SMARTCITIESBIGDATACIVICHACKERSQUESTFORANEWUTOPIA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0200">
+            <xocs:ref-normalized-surname>TOWNSEND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>201</xocs:ref-first-fp>
+            <xocs:ref-last-lp>212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0205">
+            <xocs:ref-normalized-surname>TROY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HUNGRYCITYURBANENERGYEFFICIENCYECONOMICFATECITIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0210">
+            <xocs:ref-normalized-surname>UNHABITATUNESCOWORLDHEALTHORGANISATIONUNISDRUNWOMENUNEPANDUNDP</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0215">
+            <xocs:ref-normalized-surname>UNITEDNATIONS</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0220">
+            <xocs:ref-normalized-surname>UNITEDNATIONS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDURBANIZATIONPROSPECTS2014REVISION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0225">
+            <xocs:ref-normalized-surname>UNITEDNATIONS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0230">
+            <xocs:ref-normalized-surname>UNITEDNATIONS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>REPORTINTERAGENCYEXPERTGROUPSUSTAINABLEDEVELOPMENTGOALINDICATORS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0240">
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>URBANINDICATORSFORMANAGINGCITIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0245">
+            <xocs:ref-normalized-surname>WIIG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>485</xocs:ref-first-fp>
+            <xocs:ref-last-lp>493</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0250">
+            <xocs:ref-normalized-surname>WILLIAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>114</xocs:ref-first-fp>
+            <xocs:ref-last-lp>130</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0255">
+            <xocs:ref-normalized-surname>WILLIAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>39</xocs:ref-first-fp>
+            <xocs:ref-last-lp>51</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0260">
+            <xocs:ref-normalized-surname>WONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INDICATORSFORURBANREGIONALPLANNING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0265">
+            <xocs:ref-normalized-surname>YOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KLOPPX2017X92</xocs:refkey3>
+         <xocs:refkey4lp>KLOPPX2017X92X97</xocs:refkey4lp>
+         <xocs:refkey4ai>KLOPPX2017X92XJ</xocs:refkey4ai>
+         <xocs:refkey5>KLOPPX2017X92X97XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-01-25T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0264-2751(16)30312-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0264275116303122</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0264275116303122</xocs:eid>
+         <xocs:doi>10.1016/j.cities.2016.12.019</xocs:doi>
+         <xocs:cid>271784</xocs:cid>
+         <xocs:timestamp>2017-02-27T05:31:55.939973-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-03-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-03-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0264275116303122-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0264275116303122/MAIN/application/pdf/e56fc8593beea7f696f30a1a70a8ebf8/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0264275116303122/MAIN/application/pdf/e56fc8593beea7f696f30a1a70a8ebf8/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>279321</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0264275116303122-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0264275116303122/PREVIEW/image/png/211b7c335ff0f17cbd9e658b948f83a7/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0264275116303122/PREVIEW/image/png/211b7c335ff0f17cbd9e658b948f83a7/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55271</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>JCIT</jid>
+            <aid>1764</aid>
+            <ce:pii>S0264-2751(16)30312-2</ce:pii>
+            <ce:doi>10.1016/j.cities.2016.12.019</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">MDGs and SDGs compared.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Table 1</ce:alt-text>
+               <tgroup cols="2" rowsep="1" colsep="1">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">MDGs</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">SDGs</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">2000–2015</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2015–2030</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">8 goals, 18 targets, 48 indicators<cross-ref refid="tf0005" id="cf0005">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">17 goals, 169 targets, 230 indicators</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Focused on “poor” nations</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Universal, global</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Data lagging and spotty. Mostly surveys, census.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Data still lagging but exploration of new sources - “data revolution” incl. open data, geospatial data, citizen scientists, etc.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Voluntary, non-binding</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Voluntary, non-binding</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">No comprehensive monitoring or analysis of MDG spending (mostly government budgets and Official Development Assistance)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Linked to global financing framework from the beginning (Addis Ababa Action Agenda) although funding mechanisms and monitoring system still vague.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Primary focus was eradicating poverty</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Explicit focus on holistic sustainable development including environmental goals</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">MDG 7 Target 11 refers to improving the lives of at least 100 million slum dwellers</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Stand – alone UrbanSDG Goal 11 –cities recognized as “pathways to sustainable development”, more expansive role for urban planning, design and architecture</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Local governments absent from formal process</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Local governments still absent with no formal role but more involved in advocacy</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Excluded people, top-down</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Calls for inclusion, participatory processes</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tf0005">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="np0005" view="all">Changed over the period and eventually reached 60 indicators.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">Targets and sample urban SDG campaign current indicators for the USDG.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Table 2</ce:alt-text>
+               <tgroup cols="1" rowsep="1" colsep="1">
+                  <colspec colname="col1"/>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0005">
+                              <list-item id="li0005">
+                                 <label>11.1</label>
+                                 <para id="p0005" view="all">By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.1.1 Proportion of urban population living in slums, informal settlements or inadequate housing</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0010">
+                              <list-item id="li0010">
+                                 <label>11.2</label>
+                                 <para id="p0010" view="all">By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.2.1 Proportion of the population that has convenient access to public transport, disaggregated by age group, sex and persons with disabilities</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0015">
+                              <list-item id="li0015">
+                                 <label>11.3</label>
+                                 <para id="p0015" view="all">By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.3.1 Ratio of land consumption rate to population growth rate<br/>
+                           <br/>Indicator 11.3.2 * Proportion of cities with direct participation structure of civil society in urban planning and management which operate regularly and democratically</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0020">
+                              <list-item id="li0020">
+                                 <label>11.4</label>
+                                 <para id="p0020" view="all">Strengthen efforts to protect and safeguard the world's cultural and natural heritage</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.4.1 Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0025">
+                              <list-item id="li0025">
+                                 <label>11.5</label>
+                                 <para id="p0025" view="all">By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.5.1 Number of deaths, missing persons and persons affected by disaster per 100,000 people.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0030">
+                              <list-item id="li0030">
+                                 <label>11.6</label>
+                                 <para id="p0030" view="all">By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.6.1 Percentage of urban solid waste regularly collected and with adequate final discharge with regard to total waste generated by the city<br/>
+                           <br/>Indicator 11.6.2 Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (populated weighted)<br/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0035">
+                              <list-item id="li0035">
+                                 <label>11.7</label>
+                                 <para id="p0035" view="all">By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.7.1 The average share of the built up area of cities that is open public space for public use for all, disaggregated by age group, sex, and persons with disabilities.<br/>
+                           <br/>Indicator 11.7.2 Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12<hsp sp="0.25"/>months<br/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0040">
+                              <list-item id="li0040">
+                                 <label>11.a</label>
+                                 <para id="p0040" view="all">Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.a.1 Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0045">
+                              <list-item id="li0045">
+                                 <label>11.b</label>
+                                 <para id="p0045" view="all">By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans toward inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, holistic disaster risk management at all levels</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.b.1 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030.<br/>
+                           <br/>Indicator 11.b.2. Number of countries with national and local disaster risk reduction strategies.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0050">
+                              <list-item id="li0050">
+                                 <label>11.c</label>
+                                 <para id="p0050" view="all">Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials</para>
+                              </list-item>
+                           </list>
+                           <br/>Indicator 11.c.1. Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0015" view="all">Sources: UN Adopted Targets set in global agreement “Transforming Our World” (2015). UN Statistical Commission Report of the Inter-Agency and Expert Group on Sustainable Development Goal Indicators (March 2016). Indicators with a * are still under consideration.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0020" view="all">Indicator categories.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Table 3</ce:alt-text>
+               <tgroup cols="2" rowsep="1" colsep="1">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Tier 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Methodology and data available</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Tier 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Methodology exists but data not widely available</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Tier 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Methodology in development</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0020" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0025" view="all">Samples of some existing indicators.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Table 4</ce:alt-text>
+               <tgroup cols="1" rowsep="1" colsep="1">
+                  <colspec colname="col1"/>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <list id="l0055">
+                              <list-item id="li0055">
+                                 <label>•</label>
+                                 <para id="p0055" view="all">Global Cities Index, AT Kearney</para>
+                              </list-item>
+                              <list-item id="li0060">
+                                 <label>•</label>
+                                 <para id="p0060" view="all">Green City Index, Siemens</para>
+                              </list-item>
+                              <list-item id="li0065">
+                                 <label>•</label>
+                                 <para id="p0065" view="all">Cities of Opportunity, Price Waterhouse Coopers</para>
+                              </list-item>
+                              <list-item id="li0070">
+                                 <label>•</label>
+                                 <para id="p0070" view="all">World's Most Global Cities, Bloomberg</para>
+                              </list-item>
+                              <list-item id="li0075">
+                                 <label>•</label>
+                                 <para id="p0075" view="all">Sustainability Index, McKinsey</para>
+                              </list-item>
+                              <list-item id="li0080">
+                                 <label>•</label>
+                                 <para id="p0080" view="all">World's Most Livable Cities, Economist Intelligence Unit</para>
+                              </list-item>
+                              <list-item id="li0085">
+                                 <label>•</label>
+                                 <para id="p0085" view="all">City Prosperity Index. State of the World's Cities. UN Habitat.</para>
+                              </list-item>
+                              <list-item id="li0090">
+                                 <label>•</label>
+                                 <para id="p0090" view="all">Climate Action in MegaCities, C40</para>
+                              </list-item>
+                              <list-item id="li0095">
+                                 <label>•</label>
+                                 <para id="p0095" view="all">Ecological Footprint, Global Footprint Network</para>
+                              </list-item>
+                              <list-item id="li0100">
+                                 <label>•</label>
+                                 <para id="p0100" view="all">Sprawl Index, SustainLane, Most Creative Cities, Infrastructure Report Card,</para>
+                              </list-item>
+                              <list-item id="li0105">
+                                 <label>•</label>
+                                 <para id="p0105" view="all">Canadian Sustainability Index</para>
+                              </list-item>
+                              <list-item id="li0110">
+                                 <label>•</label>
+                                 <para id="p0110" view="all">Singapore City Biodiversity Index</para>
+                              </list-item>
+                           </list>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0025" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 5</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0030" view="all">Comparing the USDG and OneNYC.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Table 5</ce:alt-text>
+               <tgroup cols="3" rowsep="1" colsep="1">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">USDG 11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">OneNYC Goal 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">OneNYC Initiative</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">SDG 11: Make cities inclusive, safe, resilient and sustainable.<br/>
+                           <br/>Target 11.1 By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums<br/>
+                           <br/>Indicator 11.1.1 Proportion of urban population living in slums, informal settlements or inadequate housing</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">New Yorkers will have access to affordable, high-quality housing coupled with robust infrastructure and neighborhood services.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Create and preserve 200,000 affordable housing units over ten years to alleviate New Yorkers' rent burden… Support efforts by the private market to produce 160,000 additional new units of housing over ten years to accommodate a growing population.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">The urban sustainable development goal: Indicators, complexity and the politics of measuring cities</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0264275116303122-fbe7967de5b474cbe6a9c63fb45c53bd">
+                  <ce:given-name>Jacqueline M</ce:given-name>
+                  <ce:surname>Klopp</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0015">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S0264275116303122-43f6ab2813f23fa6380e5e046bc5865a">
+                  <ce:given-name>Danielle L</ce:given-name>
+                  <ce:surname>Petretta</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">Center for Sustainable Urban Development, Earth institute, Columbia University, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Center for Sustainable Urban Development</sa:organization>
+                     <sa:organization>Earth institute</sa:organization>
+                     <sa:organization>Columbia University</sa:organization>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">Graduate School of Architecture, Planning, and Preservation, Columbia University, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Graduate School of Architecture Planning, and Preservation</sa:organization>
+                     <sa:organization>Columbia University</sa:organization>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="8" month="7" year="2016"/>
+            <ce:date-revised day="15" month="11" year="2016"/>
+            <ce:date-accepted day="29" month="12" year="2016"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0035" view="all">As part of the post-2015 United Nations sustainable development agenda, the world has its first urban sustainable development goal (USDG) “to make cities and human settlements inclusive, safe, resilient and sustainable”. This paper provides an overview of the USDG and explores some of the difficulties around using this goal as a tool for improving cities. We argue that challenges emerge around selecting the indicators in the first place and also around the practical use of these indicators once selected. Three main practical problems of indicator use include 1) the poor availability of standardized, open and comparable data 2) the lack of strong data collection institutions at the city scale to support monitoring for the USDG and 3) “localization” - the uptake and context specific application of the goal by diverse actors in widely different cities. Adding to the complexity, the USDG conversation is taking place at the same time as the proliferation of a bewildering array of indicator systems at different scales. Prompted by technological change, debates on the “data revolution” and “smart city” also have direct bearing on the USDG. We argue that despite these many complexities and challenges, the USDG framework has the potential to encourage and guide needed reforms in our cities but only if anchored in local institutions and initiatives informed by open, inclusive and contextually sensitive data collection and monitoring.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0015">Introduction</ce:section-title>
+                  <ce:para id="p0145" view="all">More than two thirds of the world's population is likely to reside in urban areas by 2050, adding another 2.5 billion people to today's 4 billion urban residents (<ce:cross-ref id="cf0025" refid="bb0220">United Nations, 2014a</ce:cross-ref>). Meeting the basic needs of swelling urban populations while ensuring the integrity of critical ecosystems, addressing climate change and promoting economic productivity and social inclusion is one of the major challenges of our time. Cities, as voracious consumers of energy and producers of waste, including the bulk of the world's greenhouse gas emissions, are seen as critically important loci of numerous, complex inter-linked sustainability, development, and planning problems.</ce:para>
+                  <ce:para id="p0150" view="all">Increasingly, cities are also being conceptualized less as problems and more as “drivers of sustainable development” and global environmental change (<ce:cross-refs id="cf0030" refid="bb0040 bb0105 bb0160">Fitzgerald, 2010, Hoornweg, Sugar, &amp; Trejos Gomez, 2011; Parnell, 2016</ce:cross-refs>). Urban areas can sustain densities that support efficient service provision, energy and land-use (<ce:cross-ref id="cf0035" refid="bb0040">Fitzgerald, 2010</ce:cross-ref>) and through recycling, green technologies and smart land-use and transportation planning, can alter their “urban metabolisms” to become leaner and greener, radically reducing waste (<ce:cross-refs id="cf0040" refid="bb0035 bb0205">Ferrao &amp; Fernandez, 2013; Troy, 2012</ce:cross-refs>). Cities with lean circular metabolisms can minimize inputs, maximize renewables and recycling and hence reduce ecological footprints (<ce:cross-ref id="cf0045" refid="bb0165">Rogers, 1997</ce:cross-ref>). Cities with diverse populations, subcultures and networks of interactions are also recognized as incubators for innovations that can help address our current challenges (<ce:cross-refs id="cf0050" refid="bb0115 bb0105">Johnson, 2010; Hoornweg et al., 2011</ce:cross-refs>). Overall, a new global recognition exists that cities are where critical battles for sustainable human development are to be waged, battles with impacts far beyond cities themselves.</ce:para>
+                  <ce:para id="p0155" view="all">To a large extent, this growing recognition of the importance of cities is a product of a successful global campaign by a network of civil society, cities and the United Nations, a campaign that recently culminated in a New Urban Agenda (<ce:cross-ref id="cf0055" refid="bb0070">Habitat III, 2016</ce:cross-ref>) and a specifically Urban Sustainable Development Goal (USDG) as part of the United Nations 2030 Agenda for Sustainable Development. The goal is to “make cities and human settlements inclusive, safe, resilient and sustainable” and includes a series of 11 targets, each with politically negotiated indicators. This USDG conversation is taking place at the same time as the “data revolution” and ever expanding conversations and debates about leveraging technology, big data and citizen science for “smart” cities and improved urban planning (<ce:cross-refs id="cf0060" refid="bb0065 bb9615 bb0195 bb0200">Goodspeed, 2015; Greenfield, 2013; Townsend, 2013, 2015</ce:cross-refs>). The discussion about USDG indicators most directly raises critical questions around data and data collection systems at the city scale, linking directly into this technology and data or “smart city” conversation. In addition, a plethora of actors with varied agendas has already developed many different urban indicators focused on different aspects and categories of cities (<ce:cross-refs id="cf0070" refid="bb0130 bb0110 bb0180">Moreno Pires, Fidélis, &amp; Ramos, 2014; Huang, Wu, &amp; Yan, 2015; Shen, Jorge Ochoa, Shah, &amp; Zhang, 2011</ce:cross-refs>). USDG proponents must thus navigate a complex environment where an “urban indicator industry” and the related “smart city” and data industry are already in place (<ce:cross-refs id="cf0075" refid="bb0085 bb0100">Herzi &amp; Hasan, 2004; Hollands, 2008</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0160" view="all">In this paper, we provide a brief background and overview of the history of the USDG and explore some of the emerging debates around urban indicators. We contextualize current concerns around the USDG within a wider historical and political conversation around the “data revolution”, complexity and indicators for measuring the city. From this perspective, we argue the USDG as a tool for improving cities and their broader impacts faces a number of challenges. These include 1) dilemmas around defining the indicators in the first place and 2) dilemmas around the practice of using indicators. Three main practical problems around indicator use include 1) the poor availability of standardized, open and comparable data 2) the lack of strong data collection institutions at the city scale to support monitoring for the USDG and 3) “localization” -the uptake and application of the goal by diverse actors in widely different cities with specific local contexts.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0020">From the Millennium Development Goals to an Urban Sustainable Development Goal</ce:section-title>
+                  <ce:para id="p0165" view="all">At the turn of the century, UN Member States fashioned a development agenda around eight Millennium Development Goals (MDGs). These included 1) eradicating extreme poverty and hunger, 2) achieving universal primary education, 3) promoting gender equality and empowering women, 4) reducing maternal and child mortality, 5) improving maternal health, 6) combating HIV/AIDS, malaria and other diseases and 7) ensuring environmental sustainability all within a context of 8) a ‘global partnership for development”. While the MDGs had urban dimensions, cities were by and large neglected. Only target 11 of MDG 7 to “ensure environmental sustainability” had a specifically urban dimension: “achieving by 2020 a significant improvement in the lives of at least 100 million slum dwellers”. A task force on improving the lives of slum dwellers argued for recognizing the poor as active agents, improving urban governance, promoting local pro-poor policies, investing resources to make this happen and empowering local action, all as means to achieving target 11 (<ce:cross-ref id="cf0080" refid="bb0055">Garau, Sclar, &amp; Carolini, 2005</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0170" view="all">The MDGs were used as tools to advocate for improved services for the urban poor. However, problems emerged with both the framework and implementation (<ce:cross-ref id="cf0085" refid="bb0030">Fehling, Nelson, &amp; Venkatapuram, 2013</ce:cross-ref>). First, despite the task force recommendations, the urban poor were rarely involved in the interventions designed to assist them, and their voices were often absent at local government levels where action was needed the most (<ce:cross-ref id="cf0090" refid="bb0080">Hasan, Patel, &amp; Satterthwaite, 2005</ce:cross-ref>). Local governments themselves were seen to be missing from the MDG process and, regardless, often did not have the resources or capacity to implement changes on the ground needed to achieve the MDGs. The overall idea of a global partnership for development was also seen as too top down, patronizing (<ce:cross-ref id="cf0095" refid="bb0080">Hasan et al., 2005</ce:cross-ref>) even a “tyranny of experts” (<ce:cross-refs id="cf0100" refid="bb0020 bb0025">Easterly, 2013, 2015</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0175" view="all">Secondly, the indicators for urban poverty were highly problematic, systematically underestimating the scale and depth of poverty in higher cost cities (<ce:cross-ref id="cf0105" refid="bb0170">Satterthwaite, 2003</ce:cross-ref>). Problems existed with the typical tools for social, spatial and statistical analysis when measuring cities with high levels of informality, poverty and slum formation (<ce:cross-ref id="cf0110" refid="bb0265">You, 2007</ce:cross-ref>, 216). Thirdly, economic, social and environmental aspects were not integrated into the MDGs (<ce:cross-ref id="cf0115" refid="bb0215">United Nations, 2013</ce:cross-ref>). Fourthly, MDG monitoring and review did not even begin until five years after the goals were adopted and even then, data often lagged by three or more years (<ce:cross-refs id="cf0120" refid="bb0220 bb0225">UN, 2014a, 2014b</ce:cross-refs>). In addition, measurements were tracked at a national level and further aggregated to regional scales, making city-level comparisons difficult. Overall, available data sources and MDG monitoring were of poor quality (<ce:cross-ref id="cf0125" refid="bb0045">Flood, 1997</ce:cross-ref>), little disaggregation was done, and problematic assumptions were often made.</ce:para>
+                  <ce:para id="p0180" view="all">Some MDG targets may have been reached, although not necessarily through MDG targeted interventions (<ce:cross-ref id="cf0130" refid="bb0050">Fukuda-Parr, 2014</ce:cross-ref>). The UN claims that “the proportion of urban population living in slums in the developing regions fell from approximately 39.4 per cent in 2000 to 29.7 per cent in 2014” and more than 320 million people gained access to either improved water, improved sanitation, durable housing or less crowded housing conditions (<ce:cross-ref id="cf0135" refid="bb0230">United Nations, 2015</ce:cross-ref>). However, the kinds of indicators used for the MDGs as well as the lack of monitoring mechanisms around their measurement and analysis has led to concerns, and without safeguards, statistical manipulation may have in fact created a false image of success (<ce:cross-refs id="cf0140" refid="bb9620 bb0050">Hickel, 2016; Fukuda-Parr, 2014</ce:cross-refs>). Currently, absolute numbers of urban residents living in slums continue to grow, partly due to accelerating urbanization, population growth and the lack of appropriate land and housing policies. Over 880 million urban residents are estimated to live in slum conditions today, compared to 792 million reported in 2000 and 689 million in 1990 (<ce:cross-ref id="cf0145" refid="bb0230">United Nations, 2015</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0185" view="all">After more than two years of intergovernmental negotiations with extensive civil society input, those constructing the post-2015 development agenda sought to directly address the failures and correct shortcomings of the MDGs. Further, urbanization became a key focus of concern in the reflections on the next round of goals, often as a crosscutting element of almost every sustainable development concern (<ce:cross-ref id="cf0150" refid="bb0215">United Nations, 2013</ce:cross-ref>). However, a global urban campaign advocated strongly for a stand-alone goal for urban areas and human settlements. The argument was that such a goal would help increase policy attention and awareness of urban challenges, giving cities more visibility for advocacy and funding purposes (<ce:cross-ref id="cf0155" refid="bb0125">Lucci, 2014</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0190" view="all">Recognizing the critical role of governance challenges that characterize urban areas including high levels of informality, proponents of a stand alone urban goal argued it could also help coordinate and focus different actors' efforts (<ce:cross-refs id="cf0160" refid="bb0125 bb0175">Lucci, 2014; Sustainable Development Solutions Network, 2013</ce:cross-refs>). Global organizations including UN-Habitat, Cities Alliance, the Sustainable Development Solutions Network, the Communitas Coalition, ICLEI, UCLG and 400<ce:hsp sp="0.10"/>+ partners and local and regional government supporters, mobilized and launched a massive and ultimately successful Campaign for the USDG. In September 2015 when the 2030 Agenda for Sustainable Development was adopted, the initial part of the campaign was won, and the USDG became one of seventeen Sustainable Development Goals (SDGs).</ce:para>
+                  <ce:para id="p0195" view="all">In an insightful analysis <ce:cross-ref id="cf0165" refid="bb0160">Parnell (2016)</ce:cross-ref> points to five major ways in which the SDGs are different from the MDGs. First, the goals are universal- applying to every place not just “poor” countries. Second, the economic, social and environmental dimensions of sustainable development are explicit, and more integrated together with a strong recognition- driven in part by concerns with climate change- about ecological limits and planetary boundaries. Third, recognition exists of the need to leverage innovation in technology to create better sources and monitoring of data at different scales. Fourth, global development is explicitly linked to global finance. Finally, the USDG itself is new and “path breaking”, because it “concedes that, in an urban world, cities can be pathways to sustainable development” (<ce:cross-ref id="cf0170" refid="bb0160">Parnell, 2016</ce:cross-ref> citing <ce:cross-refs id="cf0175" refid="bb9625 bb0175">Citiscope, 2014; SDSN, 2013</ce:cross-refs>). These differences are summarized in <ce:cross-ref refid="t0005" id="cf9820">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/>.</ce:para>
+                  <ce:para id="p0200" view="all">The new global development focus on cities also comes with a new set of targets that reach far beyond the typical focus on housing and slum upgrading to include safe, affordable, accessible and sustainable transport, participatory and integrated planning, green and public spaces, improved air quality and waste management, climate resiliency and natural disaster risk reduction (See <ce:cross-ref refid="t0010" id="cf9815">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="t0010"/>). These targets draw urban planning, design and architecture into the heart of the development enterprise in an unprecedented way, raising the question of how the USDG and its targets and indicators will integrate into and help improve existing urban process, policy and planning in very diverse cities across the globe.</ce:para>
+                  <ce:para id="p0205" view="all">For each target there is also an evolving indicator framework led by the UN Statistical Commission. Indicators are placed into three categories depending on how available data seems to be (<ce:cross-ref id="cf0185" refid="t0015">Table 3</ce:cross-ref>
+                     <ce:float-anchor refid="t0015"/>). Overall, the process of developing a “robust and high quality indicator framework” is often portrayed as an ongoing and ever evolving “technical process that will require time and refinements over this time” (<ce:cross-ref id="cf0190" refid="bb0230">United Nations, 2015</ce:cross-ref>). However, this indicator selection process is more than just a technical process. Indicators emerge from negotiations over what will be measured, by whom and how, making it a political process as well.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0025">Challenges facing the USDG</ce:section-title>
+                  <ce:para id="p0210" view="all">The USDG framework is a new tool for mobilization. It can help to access resources and influence for improving cities in ways embodied by the goal and its targets. By leveraging these targets along with measurements and data to show the state of progress, diverse urban networks can argue for different kinds of investments and actions at a local level such as better transport or public green spaces. Urban planners, policymakers or civil society activists who wish to use this new tool within their advocacy efforts, however, are likely to face a number of inter-related challenges.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0030">Indicator selection</ce:section-title>
+                  <ce:para id="p0215" view="all">To begin, cities are complex, with their own metabolisms- patterns of activities, consumption and waste and ecological footprints beyond their boundaries. Social, political, economic and cultural elements of cities interact and react with a city's spatiality and built environment. Any set of indicators will thus necessarily seem rigid and unable to fully reflect urban complexity, and the many scales on which city impacts are felt (<ce:cross-ref id="cf0200" refid="bb0095">Holden, 2013</ce:cross-ref>). Despite this constraint, indicator systems have proliferated, because they serve multiple purposes.</ce:para>
+                  <ce:para id="p0220" view="all">Indicators can play a scientific role in furthering our understanding of cities, a conceptual role by shaping debates and dialogue and political roles by legitimizing or delegitimizing policy options within tactical struggles, often by inserting new kinds of data into policy (<ce:cross-ref id="cf0205" refid="bb0015">De Sherbinin, Reuben, Levy, &amp; Johnson, 2013</ce:cross-ref>). Indicators are multi-use; they can become part of “assessing and benchmarking conditions and trends across space and time, monitoring progress toward goals and targets, informing planning and decision-making, raising awareness, encouraging political and behavioral changes, promoting public participation, and improving communication (<ce:cross-refs id="cf0210" refid="bb0090 bb0130">Holden, 2006; Moreno Pires et al., 2014</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0225" view="all">The USDG framework thus enters a complex world where many indicators and indicator frameworks already exist and serve different purposes and agendas (<ce:cross-ref id="cf0215" refid="t0020">Table 4</ce:cross-ref>
+                     <ce:float-anchor refid="t0020"/>). No clear consensus exists on methodology or standards for these various systems of indicators in part because they are embedded in politics and serve different purposes besides a scientific one (<ce:cross-ref id="cf0220" refid="bb0130">Moreno Pires et al., 2014</ce:cross-ref>). Within this context of competing indicator systems, the USDG has the advantage of emerging from a consensus of member states to the UN but will still be one system among many. In an attempt to address this overlap issue, UN-Habitat is promoting its City Prosperity Index as a kind of consensus tool within the SDG Monitoring Framework noting that all targets and indicators of the USDG are integrated into it (<ce:cross-ref id="cf0225" refid="bb0210">UN-Habitat et al., 2016</ce:cross-ref>). Whether the City Prosperity Index will be adopted in this way remains to be seen.</ce:para>
+                  <ce:para id="p0230" view="all">Within the global urban campaign, recognition exists that whatever the indicator system adopted at a city scale, it needs to be “relevant, acceptable and practicable” for “generally overstretched and under-resourced local authorities in most parts of the world” (<ce:cross-ref id="cf0230" refid="bb0185">Simon &amp; Arfvidsson, 2015</ce:cross-ref>). Indeed, even in places like the United Kingdom, the use of indicators at a subnational level faces many challenges (<ce:cross-ref id="cf0235" refid="bb0260">Wong, 2006</ce:cross-ref>). The rule of thumb being used for the SDG network is that indicators must follow the “SMART” criteria that is be specific, measurable, ambitious, realistic, and time bound (<ce:cross-ref id="cf0240" refid="bb0075">Hak, Janouskova, &amp; Moldan, 2016</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0235" view="all">With this in mind, a team led by David Simon set out to test a set of proposed indicators for the USDG in five very diverse cities (Bangalore, Cape Town, Gothenburg, Greater Manchester and Kisumu) in order to provide feedback for the USDG framework (<ce:cross-ref id="cf0245" refid="bb0185">Simon &amp; Arfvidsson, 2015</ce:cross-ref>). They discovered that all cities struggled to access adequate data, and all proposed changes to make the USDG indicators more locally relevant (<ce:cross-ref id="cf0250" refid="bb0185">Simon &amp; Arfvidsson, 2015</ce:cross-ref>). Another study conducted by Yale University using Delhi and Atlanta as test cases found unsurprisingly “data variability and lack of comparable methods hinders implementation of the Urban SDG on a global scale” (<ce:cross-ref id="cf0255" refid="bb0010">Boyer, Brodie, Sperling, Stokes, &amp; Zomer, 2015</ce:cross-ref>). However, this study also notes that, “ultimately, the SDGs are a political process and the current push to select 100 indicators to measure and monitor sustainable development arbitrarily confines the integration of science” (<ce:cross-ref id="cf0260" refid="bb0010">Boyer et al., 2015</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0240" view="all">Overall, an incompatibility exists between what is useful at the practical level of city politics and administration, and what is useful for the scientific goal of better characterization and understanding of the complexity of cities. In the end, it will be the process of city politics that will determine whether any indicators or broader science get integrated into planning and urban action. This, of course, does not preclude using indicators for more scientific study of the city and other purposes. However, it is clear that we cannot expect the indicators that are ultimately selected for the USDG to necessarily do everything. Hence, selecting and modifying indicators to make the most practical, political progress is critical, and this raises a set of questions around localization and data (<ce:cross-ref id="cf0265" refid="bb0185">Simon &amp; Arfvidsson, 2015</ce:cross-ref>).</ce:para>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="st0035">Localization</ce:section-title>
+                  <ce:para id="p0245" view="all">While national governments of UN member states have set the USDG, the goal and its targets will need to be realized at the urban/city scale. The USDG thus raises the question of the relationship-and coordination- between cities and other subnational as well as national governments in relation to implementation of the goals and monitoring. As cities are often in complex and often contentious relationships with higher levels of government, how the USDG will filter through these layers of politics to be adopted in some locally appropriate form is a key issue.</ce:para>
+                  <ce:para id="p0250" view="all">The uptake of the goal and the indicators at any level will depend on how powerfully the urban campaign and local advocates can communicate, collaborate and gain allies who find the new framework useful enough within their city struggles to use it. Thus, the campaign would need to stretch its networks further into cities globally to communicate the goal and its targets without displacing or disrupting local movements for change which have their own framings and strategies. The interpretation of these targets and indicators as guidance and “proxies” for wider and more complex concerns helps to make local adaptation and adoption more likely (<ce:cross-ref id="cf0270" refid="bb0185">Simon &amp; Arfvidsson, 2015</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0255" view="all">Overall, these indicators should not crowd out other local measures of change but compliment and strengthen them, especially because each indicator is extremely limited. For example, the proposed indicator for target 2 “to provide access to safe, affordable, accessible and sustainable transport systems…” is “proportion of people within convenient distance of public transport” disaggregated by vulnerable group. This gives you an idea of proximity but not affordability, service quality, safety or even physical access for vulnerable groups such as the disabled. In other words proximity is not access (<ce:cross-ref id="cf0275" refid="bb0265">You, 2007</ce:cross-ref>). The indicators will need to be understood as guides for evaluation not definitive measures of progress on complex issues such as access in the city. Thus, we need to continue to refine contextually sensitive approaches and analysis to address the specific conditions of the urban poor and other vulnerable groups in varied cities (<ce:cross-refs id="cf0280" refid="bb0050 bb0170 bb0265">Fukuda-Parr, 2014; Satterthwaite, 2003; You, 2007</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0260" view="all">For those cities that have pre-existing plans with local goals and targets, localization becomes an issue of reconciliation and integration or simple validation. For example, the current plan OneNYC details New York City's long-term sustainable development strategy centered on its own visions, goals, initiatives and indicators. The plan was negotiated through a multi-stakeholder process within more than 70 public agencies all of which occurred prior to the urban SDG. Even so, many of NYC's goals and targets mesh well with the UrbanSDG and even surpass the new global goal and targets (See <ce:cross-ref id="cf0295" refid="t0025">Table 5</ce:cross-ref>
+                     <ce:float-anchor refid="t0025"/>). For example, OneNYC not only pledges that some share of its population will have convenient access to public transit but that a full 90% of all New Yorkers will have access to at least 200,000 jobs within a 45 minute transit trip (<ce:cross-ref refid="bb0135" id="cf9830">NYC Mayor's Office of Sustainability, 2015</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0265" view="all">The mayor of New York along with many others pledged support to the Urban Sustainable Development Goal. The goal is useful in raising the profile of cities in the global arena and mobilizing resources. In cities more dependent on global development flows that are likely to realign with the goal, we can imagine a similar reconciliation and adoption of the USDG within planning. Indeed, policymakers tend to pay attention to indicators that are linked to budget allocations (<ce:cross-ref id="cf0285" refid="bb0260">Wong, 2006</ce:cross-ref>), and this can also create openings for local advocacy (<ce:cross-ref id="cf0290" refid="bb0050">Fukuda-Parr, 2014</ce:cross-ref>).</ce:para>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title id="st0040">Missing good, comparable data for cities</ce:section-title>
+                  <ce:para id="p0270" view="all">Poor urban data availability in many cities, especially in Africa and Asia where 90% of urban growth is expected to happen by 2050 (<ce:cross-refs id="cf0300" refid="bb0220 bb0225">United Nations, 2014a, 2014b</ce:cross-refs>) is another challenge. For example, in many cities high levels of informality mean that many processes and dynamics are missing from household surveys that form the basis of national statistics. A danger also exists that indicators valorize formality and exclude the informality that dominates in many cities, generating skewed data. For example, in many cities in Africa or Asia part or most of the transport system is somewhat informal and unmapped (<ce:cross-refs refid="bb0120 bb0255" id="cf9835">Klopp, Williams, Waiganjo, Orwa, &amp; White, 2015; Williams, Waiganjo, White, Orwa, &amp; Klopp, 2015</ce:cross-refs>). This means even directly measuring whether populations are within a convenient distance of public transit would be a challenge. In addition, if access to only what is considered formal transport is measured, existing access to public transport and how it could be improved might be missed altogether or marginalized. Finally, in some cases, data does in fact exist but is inaccessible because scarce data are a valuable resource and often informally commoditized and embedded in a power dynamics that mitigates against open data and sharing (<ce:cross-refs id="cf0310" refid="bb0250 bb0240 bb0185">Williams, Marcello, &amp; Klopp, 2014; Westfall &amp; de Villa, 2001; Simon &amp; Arfvidsson, 2015</ce:cross-refs>). Like for the MDGs, adequate data is likely to be an ongoing problem for the SDGs.</ce:para>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>7</ce:label>
+                  <ce:section-title id="st0045">Data collection capabilities and the “data revolution”/smart city conversation</ce:section-title>
+                  <ce:para id="p0275" view="all">Much of traditional data collection has been located at the national level within statistical agencies. The focus is on household surveys which are often costly of uneven quality, and often exclude the vulnerable and hardest to reach. This means that much of the capacity for data gathering is in these national Statistical Commissions or Bureaus, which have varying capacities (<ce:cross-ref refid="bb0155" id="cf9840">Paris21, 2015</ce:cross-ref>). Further, such national statistics are prone to political manipulation as well (<ce:cross-ref id="cf0315" refid="bb0260">Wong, 2006</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0280" view="all">To address this issue of missing or poor data and data collection capacities, a focus has emerged on the “data revolution” linked to the spread of new technologies and the rise of new forms of data including “big data” (<ce:cross-ref id="cf0320" refid="bb0215">United Nations, 2013</ce:cross-ref>). Some argue for harnessing this revolution to support improved national statistical capabilities (<ce:cross-ref id="cf0325" refid="bb0155">Paris21, 2015</ce:cross-ref>) and others suggest that to get uniformity of data, we need to add in improved remote sensing techniques, but this too has limitations as to what can be measured (<ce:cross-ref id="cf0330" refid="bb0010">Boyer et al., 2015</ce:cross-ref>). However, none of these more top down, technical approaches address the concerns around monitoring and accountability that emerged with the MDGS (<ce:cross-refs id="cf0335" refid="bb9620 bb0050">Hickel, 2016; Fukuda-Parr, 2014</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0285" view="all">As a counter-balance, a focus is emerging on opening up and encouraging more decentralized, local data collection at the city level in part through the rapid expansion of the smartphone and various kinds of sensors and computing capabilities. However, this focus on the “smart city” is highly contentious. Key questions arise around privacy, who will use and control data and technology and how (<ce:cross-ref id="cf0340" refid="bb0245">Wiig and Wylly, 2016</ce:cross-ref>). As Townsend writes whether this data and technology will be used to improve urban life “depends on “who controls the new systems and determines what knowledge they produce, who has access to the data, who interprets them, and of course, what they are used to achieve” (<ce:cross-refs id="cf0345" refid="bb0195 bb0200">Townsend, 2013, 2015</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0290" view="all">To the extent that efforts to collect data for the USDG supports innovative data collection with citizen participation as well as open data as part of an inclusive and transparent public discussion about planning and policy, this will be a step forward. The Digital Matatus project in Nairobi which helps gather open transport data useful for the target on transportation is one such positive example (<ce:cross-refs id="cf0350" refid="bb0120 bb0255">Klopp et al., 2015; Williams et al., 2015</ce:cross-refs>) However, urban data collection by consulting firms and large corporations tend to be less transparent and open and also do not build local capacity but rather often create dependency (<ce:cross-ref id="cf0355" refid="bb0195">Townsend, 2013</ce:cross-ref>). Thus, the data revolution and the smart city movement offer the potential to produce data for the USDG in new ways, but whether it will do so in a manner that enhances citizen engagement, accountability and monitoring will depend on the ongoing struggle around who will get measure the city and how (<ce:cross-ref id="cf0360" refid="bb0245">Wiig and Wyly, 2016</ce:cross-ref>).</ce:para>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>8</ce:label>
+                  <ce:section-title id="st0050">Conclusion</ce:section-title>
+                  <ce:para id="p0295" view="all">Despite the challenges, the USDG is an achievement in terms of bringing global attention to the critical importance of cities for humanity and its future. Questions of planning and urban policy, including the smart city debate over measuring the city, are now at the center of a complex global development enterprise and dialogue. One way that the complexity of this endeavor has been addressed so far appears to be via deliberate vagueness in the indicator framework. Another related approach is to develop caveats around the simplification and reductionism of the framework, characterizing the framework as a “proxy” and policy tool, a way to simplify critical issues for the purposes of clarity and activism.</ce:para>
+                  <ce:para id="p0300" view="all">This may not make for very scientific accounting of our cities' progress. As Boyer et al. note “target vagueness and data constraints leave performance indicators open for interpretation exacerbating existing tensions between universal and appropriate local implementation” (<ce:cross-ref id="cf0365" refid="bb0010">Boyer et al., 2015</ce:cross-ref>). However, an intrinsic tradeoff exists between universal goals and adapting and interpreting the framework to make it useful at city, regional and national levels in actual politically driven planning and policy processes. In the end, it will be in local urban spaces where meaning and interpretations of the framework will be created and used in critical local struggles and politics around improving cities.</ce:para>
+                  <ce:para id="p0305" view="all">Overall, then, we might pragmatically embrace and highlight the conceptual and policy elements of the USDG, its targets and indicators while striving to make them work as best they can for cities in locally appropriate ways. If this framework helps spur on action, finance, and valuable, open and inclusive data collection in support of improved cities, then it will have an important, positive, albeit not always perfectly quantifiable, impact on cities, regions and our planetary future.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0060">Acknowledgements</ce:section-title>
+               <ce:para id="p0350" view="all">We gratefully acknowledge funding for this article, which was provided under a research grant from The Advanced Consortium on Cooperation, Conflict, and Complexity (AC4) at the Earth Institute, <ce:grant-sponsor id="gts0005" sponsor-id="http://dx.doi.org/10.13039/100006474" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Columbia University</ce:grant-sponsor> as part of the Sustainable Human Development research program. Special thanks go to Peter Coleman and Joshua Fischer who provided valuable support and intellectual impetus for this work. We also thank Jessica Espey of the Sustainable Development Solutions Network, who has led open and very rich conversations that helped us think about this work.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0065">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>Boyer et al., 2015</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Boyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Brodie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sperling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Stokes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zomer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>UGEC viewpoints. “Implementing the urban sustainable development goal in Atlanta and Delhi”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>accessed 8 July 2016 at</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://ugecviewpoints.wordpress.com/2015/06/18/implementing-the-urban-sustainable-development-goal-in-atlanta-and-delhi/" id="ir0005" xlink:type="simple">https://ugecviewpoints.wordpress.com/2015/06/18/implementing-the-urban-sustainable-development-goal-in-atlanta-and-delhi/</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb9625">
+                     <ce:label>Citiscope, 2014</ce:label>
+                     <ce:other-ref id="or9178">
+                        <ce:textref>Citiscope. 2014. The “urban SDG”: An explainer. Accessed September 20th 2014 from &lt;<ce:inter-ref xlink:href="http://www.citiscope.org/story2014/urban-sdg-explainer" id="ir5040" xlink:type="simple">http://www.citiscope.org/story2014/urban-sdg-explainer</ce:inter-ref>&gt;.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>De Sherbinin et al., 2013</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>De Sherbinin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Reuben</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Levy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Indicators in practice: How environmental indicators are being used in policy and management contexts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Center for International Earth Science Information Network and Yale Center for Environmental Law and Policy</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>Easterly, 2013</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Easterly</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The tyranny of experts: Economists, dictators, and the forgotten rights of the poor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Basic Books</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>Easterly, 2015</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Easterly</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The trouble with the sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Current History</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:issue-nr>November</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>322</sb:first-page>
+                              <sb:last-page>324</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>Fehling et al., 2013</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fehling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Nelson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Venkatapuram</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Limitations of the millennium development goals: A literature review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Global Public Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1109</sb:first-page>
+                              <sb:last-page>1122</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>Ferrao and Fernandez, 2013</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ferrao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fernandez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable urban metabolism</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>MIT Press</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>Fitzgerald, 2010</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fitzgerald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Emerald Cities: Urban Sustainability and Economic Development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oxford University Press</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>Flood, 1997</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Flood</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Urban and housing indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Urban Studies</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1635</sb:first-page>
+                              <sb:last-page>1665</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>Fukuda-Parr, 2014</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fukuda-Parr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global goals as a policy tool: Intended and unintended consequences</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Human Development and Capabilities.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2–3</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>118</sb:first-page>
+                              <sb:last-page>131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>Garau et al., 2005</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Garau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Sclar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Carolini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A home in the city: UN millennium project report on improving the lives of slum dwellers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Earthscan</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>Goodspeed, 2015</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Goodspeed</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Smart cities: Moving beyond urban cybernetics to tackle wicked problems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cambridge Journal of Regions, Economy and Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>79</sb:first-page>
+                              <sb:last-page>92</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb9615">
+                     <ce:label>Greenfield, 2013</ce:label>
+                     <sb:reference id="rf201701241734028991">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Greenfield</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Against the smart city (The city is here for you to use Book 1)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Accessed at <ce:inter-ref xlink:href="https://www.amazon.com/Against-smart-city-here-ebook/dp/B00FHQ5DBS/" id="ir5045" xlink:type="simple">https://www.amazon.com/Against-smart-city-here-ebook/dp/B00FHQ5DBS/</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>Habitat III, 2016</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Habitat III</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New Urban Agenda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Accessed 2 November 2016 at</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://habitat3.org/the-new-urban-agenda/" id="ir0015" xlink:type="simple">https://habitat3.org/the-new-urban-agenda/</ce:inter-ref>
+                              <sb:date>2016</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>Hak et al., 2016</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Janouskova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Moldan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable development goals: A need for relevant indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecological Indicators</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>565</sb:first-page>
+                              <sb:last-page>573</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>Hasan et al., 2005</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hasan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Patel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Satterthwaite</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How to meet the millennium development goals in urban areas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environment and Urbanization</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>19</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>Herzi and Hasan, 2004</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Herzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Hasan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Management Framework for sustainable development indicators in the State of Sengalor, Malaysia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecological Indicators</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>287</sb:first-page>
+                              <sb:last-page>304</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb9620">
+                     <ce:label>Hickel, 2016</ce:label>
+                     <sb:reference id="rf201701241738376221">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hickel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The true extent of global poverty and hunger: questioning the good news narrative of the Millennium Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Third World Quarterly</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>749</sb:first-page>
+                              <sb:last-page>767</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1080/01436597.2015.1109439</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>Holden, 2006</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Holden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Urban indicators and the integrative ideals of cities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cities</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                              <sb:last-page>183</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>Holden, 2013</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Holden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainability indicator systems within urban governance: Usability analysis of sustainability indicator systems as boundary objects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecological Indicators</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>96</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>Hollands, 2008</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Hollands</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Will the real smart city please stand up?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>City</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>303</sb:first-page>
+                              <sb:last-page>320</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1080/13604810802479126</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>Hoornweg et al., 2011</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hoornweg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Sugar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Trejos Gomez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cities and greenhouse gases moving forward</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Urbanization and Environment.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                              <sb:last-page>227</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>Huang et al., 2015</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Defining and measuring urban sustainability: A review of indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Landscape Ecology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1175</sb:first-page>
+                              <sb:last-page>1193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>Johnson, 2010</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Where good ideas come from: The natural history of innovation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Riverhead Books</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>Klopp et al., 2015</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Klopp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Waiganjo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Orwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Leveraging cellphones for wayfinding and journey planning in semi-formal bus systems: Lessons from Digital Matatus in Nairobi</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Planning support systems and smart cities</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>Lucci, 2014</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lucci</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An urban dimension in the new set of development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Overseas Development Institute Working Paper</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>Moreno Pires et al., 2014</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Moreno Pires</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Fidélis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.B.</ce:given-name>
+                                 <ce:surname>Ramos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring and comparing local sustainable development through common indicators: Constraints and achievements in practice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:volume-nr>39</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2014</sb:date>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>NYC Mayor’s Office of Sustainability, 2015</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>NYC Mayor’s Office of Sustainability</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>One New York: The Plan for a Strong and Just City (OneNYC)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.nyc.gov/html/onenyc/downloads/pdf/publications/OneNYC.pdf" id="ir0020" xlink:type="simple">http://www.nyc.gov/html/onenyc/downloads/pdf/publications/OneNYC.pdf</ce:inter-ref>
+                              <sb:date>April 2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>Paris21, 2015</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Paris21</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A road map for a country-Led data revolution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>OECD</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir7855" xlink:href="http://datarevolution.paris21.org/sites/default/files/Road_map_for_a_Country_led_Data_Revolution_web.pdf" xlink:type="simple">http://datarevolution.paris21.org/sites/default/files/Road_map_for_a_Country_led_Data_Revolution_web.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>Parnell, 2016</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Parnell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Defining a global urban development agenda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>World Development</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>529</sb:first-page>
+                              <sb:last-page>540</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0165">
+                     <ce:label>Rogers, 1997</ce:label>
+                     <sb:reference id="rf0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Rogers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cities for a small planet</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1997</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Westview press</sb:name>
+                                 <sb:location>Boulder Co</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0170">
+                     <ce:label>Satterthwaite, 2003</ce:label>
+                     <sb:reference id="rf0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Satterthwaite</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Millennium Development Goals and urban poverty reduction: great expectations and nonsense statistics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environment and Urbanization</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                              <sb:last-page>190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0175">
+                     <ce:label>SDSN Sustainable Development Solutions Network, 2013</ce:label>
+                     <sb:reference id="rf0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>SDSN Sustainable Development Solutions Network</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thematic Group on Sustainable Cities. “The urban opportunity: Enabling transformative and sustainable development.”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0180">
+                     <ce:label>Shen et al., 2011</ce:label>
+                     <sb:reference id="rf0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jorge Ochoa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Shah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The application of urban sustainability indicators–a comparison between various practices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Habitat International</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                              <sb:last-page>29</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0185">
+                     <ce:label>Simon and Arfvidsson, 2015</ce:label>
+                     <sb:reference id="rf0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Simon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Arfvidsson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pilot project to test potential targets and indicators for the urban sustainable development goal 11: Final report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>accessed July 8, 2017</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.mistraurbanfutures.org/en/pilot-project-test-potential-targets-and-indicators-urban-sustainable-development-goal" id="ir0040" xlink:type="simple">http://www.mistraurbanfutures.org/en/pilot-project-test-potential-targets-and-indicators-urban-sustainable-development-goal</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0195">
+                     <ce:label>Townsend, 2013</ce:label>
+                     <sb:reference id="rf0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Townsend</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Smart cities: Big data, civic hackers, and the quest for a new utopia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>W W Norton</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0200">
+                     <ce:label>Townsend, 2015</ce:label>
+                     <sb:reference id="rf0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Townsend</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cities of data: Examining the new urban science</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Public Culture</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>201</sb:first-page>
+                              <sb:last-page>212</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0205">
+                     <ce:label>Troy, 2012</ce:label>
+                     <sb:reference id="rf0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Troy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The very hungry city: Urban energy efficiency and the economic fate of cities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Yale University Press</sb:name>
+                                 <sb:location>New Haven and London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0210">
+                     <ce:label>UN-Habitat, UNESCO, World Health Organisation, UNISDR, UN Women, UNEP and UNDP, 2016</ce:label>
+                     <sb:reference id="rf0210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UN-Habitat, UNESCO, World Health Organisation, UNISDR, UN Women, UNEP and UNDP</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG Goal 11 Monitoring Framework</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Accessed 8 July 2017 at</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://unhabitat.org/sdg-goal-11-monitoring-framework/" id="ir0045" xlink:type="simple">http://unhabitat.org/sdg-goal-11-monitoring-framework/</ce:inter-ref>
+                              <sb:date>2016</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0215">
+                     <ce:label>United Nations, 2013</ce:label>
+                     <sb:reference id="rf0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new global partnership: Eradicate poverty and transform economies through sustainable development. The Report of the high-level panel of eminent persons on the post-2015 development agenda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Accessed 8 July 2016 at</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.un.org/sg/management/pdf/HLP_P2015_Report.pdf" id="ir0050" xlink:type="simple">http://www.un.org/sg/management/pdf/HLP_P2015_Report.pdf</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0220">
+                     <ce:label>United Nations, 2014a</ce:label>
+                     <sb:reference id="rf0220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World urbanization prospects: The 2014 revision</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Department of Economic and Social Affairs. Population Division</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Accessed at</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.un.org/en/development/desa/publications/2014-revision-world-urbanization-prospects.html" id="ir0055" xlink:type="simple">http://www.un.org/en/development/desa/publications/2014-revision-world-urbanization-prospects.html</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0225">
+                     <ce:label>United Nations, 2014b</ce:label>
+                     <sb:reference id="rf0225">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The millennium development goals report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:volume-nr>2014</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.un.org/en/development/desa/publications/mdg-report-2014.html" id="ir0060" xlink:type="simple">http://www.un.org/en/development/desa/publications/mdg-report-2014.html</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0230">
+                     <ce:label>United Nations, 2015</ce:label>
+                     <sb:reference id="rf0230">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Report of the inter-agency and expert group on sustainable development goal indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Economic and Social Council</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>17 December 2015. Accessed 8 July 2016 at</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://unstats.un.org/unsd/statcom/47th-session/documents/2016-2-IAEG-SDGs-E.pdf" id="ir0065" xlink:type="simple">http://unstats.un.org/unsd/statcom/47th-session/documents/2016-2-IAEG-SDGs-E.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0240">
+                     <ce:label>Westfall and de Villa, 2001</ce:label>
+                     <sb:reference id="rf0240">
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Westfall</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>V.</ce:given-name>
+                                    <ce:surname>de Villa</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Urban indicators for managing cities</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2001</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Asian Development Bank</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0245">
+                     <ce:label>Wiig and Wylly, 2016</ce:label>
+                     <sb:reference id="rf0245">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Wiig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Wyly</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Introduction: Thinking through the politics of the smart city</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Urban Geography</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>485</sb:first-page>
+                              <sb:last-page>493</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0250">
+                     <ce:label>Williams et al., 2014</ce:label>
+                     <sb:reference id="rf0250">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Marcello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Klopp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Open source Nairobi: Creating a GIS database for the city of Nairobi to provide equal access to information</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the Association of American Geographers</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>114</sb:first-page>
+                              <sb:last-page>130</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0255">
+                     <ce:label>Williams et al., 2015</ce:label>
+                     <sb:reference id="rf0255">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Waiganjo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Orwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Klopp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Digital Matatu project: Using cellphones to create open source data for Nairobi's semi-formal bus system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal for Transport Geography</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>39</sb:first-page>
+                              <sb:last-page>51</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0260">
+                     <ce:label>Wong, 2006</ce:label>
+                     <sb:reference id="rf0260">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Indicators for urban and regional planning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2006</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Routledge</sb:name>
+                                 <sb:location>London and New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0265">
+                     <ce:label>You, 2007</ce:label>
+                     <sb:reference id="rf0265">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>You</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable for whom? The urban millennium and challenges for redefining the global development planning agenda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>City</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>214</sb:first-page>
+                              <sb:last-page>220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

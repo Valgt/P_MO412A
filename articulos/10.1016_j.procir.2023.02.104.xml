@@ -1,0 +1,1272 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2212827123000999</prism:url><dc:identifier>doi:10.1016/j.procir.2023.02.104</dc:identifier><eid>1-s2.0-S2212827123000999</eid><prism:doi>10.1016/j.procir.2023.02.104</prism:doi><pii>S2212-8271(23)00099-9</pii><dc:title>Linking life cycle sustainability assessment and the sustainable development goals – Calculation of goal achievement </dc:title><prism:publicationName>Procedia CIRP</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>22128271</prism:issn><prism:volume>116</prism:volume><prism:startingPage>618</prism:startingPage><prism:endingPage>623</prism:endingPage><prism:pageRange>618-623</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2023-12-31</prism:coverDate><prism:coverDisplayDate>2023</prism:coverDisplayDate><prism:copyright>© 2023 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><prism:issueName>30th CIRP Life Cycle Engineering Conference</prism:issueName><dc:creator>Barke, Alexander</dc:creator><dc:creator>Sodhi, Manbir S.</dc:creator><dc:creator>Thies, Christian</dc:creator><dc:creator>Spengler, Thomas S.</dc:creator><dc:description>
+                  In 2015, the United Nations General Assembly proposed seventeen Sustainable Development Goals (SDGs) intended to ensure sustainable development worldwide at the economic, environmental, and social levels. SDGs are now being used by some corporations in formulating and expressing business strategies. However, assessing the effects of corporate activities and products regarding their contribution to SDGs is difficult. In this paper, we have developed a method for linking life cycle sustainability assessment (LCSA) with the SDGs and calculating the contribution to SDG achievement. An essential part of this approach is the weighting of LCSA impact categories, which is typically done using equal weighting. This weighting method enables compensation of negative contributions by positive contributions in different impact categories but results in ambiguity in the results. This article identifies alternative weighting methods, integrates them into a computational approach, and determines their influence on the SDG contribution scores. The analysis shows that the use of alternative weights changes SDG contribution scores. However, the same product always has the highest SDG contribution score, regardless of the weighting method used. Nonetheless, the recommendations for action with regard to the total product alternatives would change depending on the weighting method.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Sustainable development goals (SDGs)</dcterms:subject><dcterms:subject>SDG quantification</dcterms:subject><dcterms:subject>Sustainable development</dcterms:subject><dcterms:subject>Life cycle sustainability assessment</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2212827123000999" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2212827123000999" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="396451">https://api.elsevier.com/content/object/eid/1-s2.0-S2212827123000999-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85164297506</scopus-id><scopus-eid>2-s2.0-85164297506</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85164297506" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>282173</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia CIRP</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIACIRP</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20230418">2023-04-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20230418">2023-04-18</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20230418">2023-04-18</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20230418">2023-04-18</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-06-28T12:02:22</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2212827123000999</xocs:eid>
+      <xocs:pii-formatted>S2212-8271(23)00099-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2212827123000999</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.procir.2023.02.104</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2212827123X0002X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230716">2023-07-16T03:10:16.647302Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20230101</xocs:date-search-begin>
+      <xocs:date-search-end>20231231</xocs:date-search-end>
+      <xocs:year-nav>2023</xocs:year-nav>
+      <xocs:indexeddate epoch="1681792284">2023-04-18T04:31:24.71245Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2212-8271</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>22128271</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>116</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>116</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 116</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>105</xocs:sort-order>
+      <xocs:first-fp>618</xocs:first-fp>
+      <xocs:last-lp>623</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>618</xocs:first-page>
+         <xocs:last-page>623</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2023</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2023</xocs:cover-date-text>
+      <xocs:cover-date-start>2023-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2023-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2023</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title id="tt001">30th CIRP Life Cycle Engineering Conference</ce:title>
+            <ce:editors>
+               <ce:author-group id="aa001">
+                  <ce:author author-id="S2212827123X0002X-7e401d267e5b8c7c8c5b8a34dc96e23d" id="aa002">
+                     <ce:given-name>Yuebin</ce:given-name>
+                     <ce:surname>Guo</ce:surname>
+                  </ce:author>
+                  <ce:author author-id="S2212827123X0002X-9b04082558ac3aebb3911c1725ebbb98" id="aa003">
+                     <ce:given-name>Moneer</ce:given-name>
+                     <ce:surname>Helu</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2023 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>LINKINGLIFECYCLESUSTAINABILITYASSESSMENTSUSTAINABLEDEVELOPMENTGOALSCALCULATIONGOALACHIEVEMENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BARKE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001"/>
+         <xocs:ref-info refid="sbref0002"/>
+         <xocs:ref-info refid="sbref0003"/>
+         <xocs:ref-info refid="sbref0004"/>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>FINKBEINER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3309</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3322</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>ZIMMERMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>NESS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>498</xocs:ref-first-fp>
+            <xocs:ref-last-lp>508</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>REDDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>831</xocs:ref-first-fp>
+            <xocs:ref-last-lp>841</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC2014INTCONFSUSTAININFRASTRUCT</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>SOCIALSUSTAINABILITYEVALUATIONMATRIXSSEMQUANTIFYSOCIALASPECTSSUSTAINABLEREMEDIATION</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TOWARDSALIFECYCLESUSTAINABILITYASSESSMENTMAKINGINFORMEDCHOICESPRODUCTS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>KLOPFFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>95</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>CASTOR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>101556</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>HENZLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4466</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013">
+            <xocs:ref-normalized-surname>MAIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1006</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0014">
+            <xocs:ref-normalized-surname>HARYATI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>331</xocs:ref-first-fp>
+            <xocs:ref-last-lp>336</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>MARIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1833</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1845</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016">
+            <xocs:ref-normalized-surname>WULF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>59</xocs:ref-first-fp>
+            <xocs:ref-last-lp>65</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0017">
+            <xocs:ref-normalized-surname>BARKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0018">
+            <xocs:ref-normalized-surname>DANIELSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>677</xocs:ref-first-fp>
+            <xocs:ref-last-lp>691</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-normalized-surname>ECKENRODE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>180</xocs:ref-first-fp>
+            <xocs:ref-last-lp>192</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>ROSZKOWSKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14</xocs:ref-first-fp>
+            <xocs:ref-last-lp>33</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0021">
+            <xocs:ref-normalized-surname>STILLWELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>62</xocs:ref-first-fp>
+            <xocs:ref-last-lp>77</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0022">
+            <xocs:ref-normalized-surname>BARRON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0023">
+            <xocs:ref-normalized-surname>GOEDKOOP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>RECIPE2008ALIFECYCLEIMPACTASSESSMENTMETHODCOMPRISESHARMONISEDCATEGORYINDICATORSMIDPOINTENDPOINTLEVEL</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0024"/>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>BARKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>597</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BARKEX2023X618</xocs:refkey3>
+         <xocs:refkey4lp>BARKEX2023X618X623</xocs:refkey4lp>
+         <xocs:refkey4ai>BARKEX2023X618XA</xocs:refkey4ai>
+         <xocs:refkey5>BARKEX2023X618X623XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2023-02-16T01:02:23Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2023 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2023-07-16T03:08:59.642Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>German Research Foundation</xocs:funding-agency-matched-string>
+            <xocs:funding-id>EXC 2163/1</xocs:funding-id>
+            <xocs:funding-agency-acronym>DFG</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Deutsche Forschungsgemeinschaft</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001659</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2921044/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>We would like to acknowledge the funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany&amp;apos;s Excellence Strategy - EXC 2163/1- Sustainable and Energy Efficient Aviation - Project-ID 390881007.</xocs:funding-text>
+         <xocs:funding-text>We would like to acknowledge the funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany&amp;apos;s Excellence Strategy – EXC 2163/1-Sustainable and Energy Efficient Aviation – Project-ID 390881007.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2212-8271(23)00099-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2212827123000999</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2212827123000999</xocs:eid>
+         <xocs:doi>10.1016/j.procir.2023.02.104</xocs:doi>
+         <xocs:cid>282173</xocs:cid>
+         <xocs:timestamp>2023-06-28T11:26:32.757135Z</xocs:timestamp>
+         <xocs:cover-date-start>2023-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2023-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2212827123000999-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2212827123000999/MAIN/application/pdf/625dd1014bbf84c7923c28608e857cf3/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>520318</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2212827123000999-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2212827123000999/PREVIEW/image/png/5314328c7c0c09b4762017fb3054feb0/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>54960</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2212827123000999-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1040MFL4Q3S/MAIN/application/pdf/f436323555d9261cd27c0d0b1af6a043/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>396451</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">ScienceDirect Available online at www.sciencedirect.com Procedia CIRP 116 (2023) 618â€“623 2212-8271 Â© 2023 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 30th CIRP Life Cycle Engineering Conference 10.1016/j.procir.2023.02.104 Â© 2023 The Authors. Published by Elsevier B.V.  This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 30th CIRP Life Cycle Engineering Conference Keywords: Sustainable development goals (SDGs); SDG quantification; Sustainable development; Life cycle sustainability assessment 1. Introduction In 2015, the United Nations General Assembly adopted the seventeen Sustainable Development Goals (SDGs) and 169 targets to replace the earlier set of eight Millennium  Development Goals [1]. These global goals are associated with  the UN 2030 Agenda and are intended to ensure sustainable  development worldwide at the economic, environmental, and  social levels [2]. The main objectives of the SDGs are to highlight progress toward reducing disparities in living  standards, creating equal opportunities, advancing economic  growth, and the sustainable management of natural resources  that ensure the preservation of ecosystems and strengthen their  resilience [1]. The SDGs should provide guidance for  sustainability efforts on the global and national levels and have  been widely incorporated to highlight efforts regarding  sustainable development. Corporations have also taken  advantage of this in formulating and expressing business  strategies. The aircraft manufacturer Airbus, for example, has adopted the SDGs to highlight their contribution to sustainable  development. In doing so, they demonstrate how its corporate  activities and products contribute to sustainable development in  line with the SDGs [3]. However, there is a misalignment in the spatial, temporal,  and demographic resolutions of corporate activities and SDGs,  30th CIRP Life Cycle Engineering Conference. Linking life cycle sustainability assessment and the sustainable  development goals â€“ Calculation of goal achievement Alexander Barke a,d,*, Manbir S. Sodhi b, Christian Thies c, Thomas S. Spengler a,d aInstitute of Automotive Management and Industrial Production, Technische UniversitÃ¤t Braunschweig, Braunschweig 38106, Germany bDepartment of Mechanical, Industrial, and Systems Engineering, University of Rhode Island, Kingston, RI 02881, USA cHamburg University of Technology, Resilient and Sustainable Operations and Supply Chain Management Group, Hamburg 21073, Germany dCluster of Excellence â€œSEÂ²A â€“ Sustainable and Energy-Efficient Aviationâ€�, Technische UniversitÃ¤t Braunschweig, Braunschweig 38108, Germany * Corresponding author. Tel.: +49 531 391 2214; fax: +49 531 391 2203. E-mail address: a.barke@tu-braunschweig.de Abstract In 2015, the United Nations General Assembly proposed seventeen Sustainable Development Goals (SDGs) intended to ensure sustainable  development worldwide at the economic, environmental, and social levels. SDGs are now being used by some corporations in formulating and  expressing business strategies. However, assessing the effects of corporate activities and products regarding their contribution to SDGs is difficult. In this paper, we have developed a method for linking life cycle sustainability assessment (LCSA) with the SDGs and calculating the contribution  to SDG achievement. An essential part of this approach is the weighting of LCSA impact categories, which is typically done using equal  weighting. This weighting method enables compensation of negative contributions by positive contributions in different impact categories but  results in ambiguity in the results. This article identifies alternative weighting methods, integrates them into a computational approach, and  determines their influence on the SDG contribution scores. The analysis shows that the use of alternative weights changes SDG contribution  scores. However, the same product always has the highest SDG contribution score, regardless of the weighting method used. Nonetheless, the  recommendations for action with regard to the total product alternatives would change depending on the weighting method.  Alexander Barke  et al. / Procedia CIRP 116 (2023) 618â€“623 619 2 Author name / Procedia CIRP 00 (2019) 000â€“000    resulting in difficulties in assessing the effects of corporate  activities and products regarding their contribution to SDGs.   Sustainability assessments of products and systems, in  general, are common practice in academia and industry, and a  variety of methods for environmental, economic, and social  assessment are used. Environmental assessment methods  include, for example, life cycle assessment, material flow  analysis, and cumulative energy demand [4,5]. Examples of  economic assessment include life cycle costing, discounted  cash flow analysis, and techno-economic assessment [6,7]. The  social impact assessment has become increasingly important,  especially in recent years. In this context, methods such as  social sustainability evaluation and social life cycle assessment  are used to assess social aspects or products and processes [7,8].  Besides these sustainability dimension-specific assessment  methods, integrated assessment methods such as the life cycle  sustainability assessment (LCSA) enable an evaluation of all  three sustainability dimensions [5,9,10]. The LCSA method for  quantitative sustainability assessment is well established and  widely used. However, all these methods were developed  primarily to identify environmental and socio-economic  impacts at the product or process level. Their correspondence  to higher-level development goals, such as the SDGs, is  unclear.  First scientific studies try to address this ambiguity by  linking LCSA impact categories and SDGs. By doing so, SDG- based indicators for sustainability assessment have been  developed, and potential contributions to specific SDGs have  been determined (e.g., [11â€“16]). However, the existing studies  leave uncertainties regarding the linkage procedure of LCSA  impact categories and SDGs. Furthermore, the proposed  approaches for quantifying the contribution to SDG  achievement are highly simplified and result in a loss of  information.  To close these gaps, we have developed a novel approach for  quantifying the contribution of products and technologies to  achieving the SDGs [17]. Our approach can be divided into two  parts: 1.) The linking of LCSA impact categories and the SDGs,  and 2.) the calculation of so-called SDG contribution scores,  which represent the contribution of a product to the  achievement of an SDG. We demonstrate the applicability of  this approach for product and technology assessment and open  a new perspective on sustainability assessment in general.  However, there is still a need for research regarding the  methodology for calculating SDG contribution scores. An equal  weighting of the LCSA impact categories is commonly used to  determine the SDG contribution score. However, this type of  weighting allows for compensation of negative contributions by  positive contributions in different impact categories, leading to  ambiguity in the interpretation of the results. A more  differentiated weighting method is needed to avoid this. For this  purpose, three objective rank-based weighting methods are  introduced, which can be used instead of equal weighting for  calculating SDG contribution scores. An illustrative example is  used to examine their impact on the contribution scores. In  addition, the influence of the applied weighting methods is  analyzed for different technologies to identify the extent to  which technology-specific weighting methods are required.   The intended contribution to the scientific literature is  twofold: First, we seek to determine the impact of alternative  weighting methods on the calculation of the SDG contribution  scores. For this purpose, we introduce and apply three rank- based weighting methods instead of equal weighting in the  calculation procedure of the SDG contribution score. Second,  we seek to derive insights regarding the impact of weighting  methods on the SDG contribution scores of different  technologies. Therefore, we calculate the SDG contribution  scores for several technologies and investigate whether a  technology-based weighting method is required.  The remainder of this article is structured as follows: The  general approach for calculating the SDG contribution scores  and the alternative weighting methods are introduced in Section  2. The SDG contribution scores resulting from using the  alternative weighting factors for different technologies are  analyzed in Section 3. In Section 4, the main findings of this  article are discussed, and a conclusion and outlook are provided  in Section 5.  2. Methods and materials  2.1. Approach for calculating the SDG contribution scores.  Our developed approach for calculating SDG contribution  scores is based on the LCSA procedure according to ISO  14040/14044 standards [17]. The most important extension is  the integration of a new phase, "Evaluation of contribution to  SDGs", which follows the impact assessment. Furthermore,  smaller extensions are needed in the upstream phases of the  LCSA. In this context, a benchmark product is defined in the  goal and scope definition phase, which relates to a state-of-the- art product. This benchmark product is analyzed and assessed  in the same system boundaries, and inventory data is collected.  In the new evaluation of the contribution to SDGs phase, the  impact scores of each product alternative are compared to the  impact scores of the benchmark in the first step, and the relative  performance in the impact categories related to the same SDG  are aggregated in the second step. In the following, the focus is  exclusively on calculating the SDG contribution scores. Further  information on the method can be found in our article [17].   We use the following notation in our calculation approach:  The investigated product alternatives are described using the  index ð�‘�ð�‘� = 1,â€¦ , ð�‘ƒð�‘ƒ with ð�‘�ð�‘� = 0 being defined as the benchmark.  The index ð�‘–ð�‘– = 1,â€¦ , ð��¼ð��¼ represents the investigated SDG, and the  index â„Ž = 1,â€¦ ,ð��»ð��»  is used to describe the LCSA impact  categories. A set ð��¿ð��¿ð�‘–ð�‘–  of LCSA impact categories is used to  characterize each SDG ð�‘–ð�‘– , and ð�‘¦ð�‘¦ð�‘�ð�‘�,â„Ž  represents the calculated  impact scores for product ð�‘�ð�‘� and impact category â„Ž.  The SDG contribution score ð�‘ ð�‘ ð�‘�ð�‘�,ð�‘–ð�‘–  of product ð�‘�ð�‘� to SDG ð�‘–ð�‘–  is  calculated via the weighted sum of the relative performance of  the product compared to the benchmark (see Eq. (1)). The sum  is taken over all impact categories â„Ž  that are used to  characterize the SDG ð�‘–ð�‘– with the weighting factor ð�‘¤ð�‘¤â„Ž,ð�‘–ð�‘–:    620 Alexander Barke  et al. / Procedia CIRP 116 (2023) 618â€“623 Author name / Procedia CIRP 00 (2019) 000â€“000  3     ð�‘ ð�‘ ð�‘�ð�‘�,ð�‘–ð�‘– = âˆ‘ ð�‘¤ð�‘¤â„Ž,ð�‘–ð�‘– â‹… ð�‘�ð�‘�ð�‘�ð�‘�,â„Ž(ð�‘¦ð�‘¦ð�‘�ð�‘�,â„Ž) â„Žâˆˆð��¿ð��¿ð�‘–ð�‘–  (1)    ð�‘�ð�‘�ð�‘�ð�‘�,â„Ž(ð�‘¦ð�‘¦ð�‘�ð�‘�,â„Ž) is the performance function, which describes the  relative performance of a product ð�‘�ð�‘� compared to the benchmark  (ð�‘�ð�‘� = 0)  in terms of the impact score ð�‘¦ð�‘¦ð�‘�ð�‘�,â„Ž . If the relative  performance of the product equals the benchmark, it is defined  as zero. If the relative performance deviates from zero, a case  distinction must be made (see Eq. (2)): It is positive if the  product's performance is better than the benchmark and  negative if the performance is worse than the benchmark.      ð�‘�ð�‘�ð�‘�ð�‘�,â„Ž(ð�‘¦ð�‘¦ð�‘�ð�‘�,â„Ž) = {     ð�‘¦ð�‘¦0,â„Ž âˆ’ ð�‘¦ð�‘¦ð�‘�ð�‘�,â„Ž ð�‘¦ð�‘¦0,â„Ž , if smaller yp, h  are preferable ð�‘¦ð�‘¦ð�‘�ð�‘�,â„Ž âˆ’ ð�‘¦ð�‘¦0,â„Ž ð�‘¦ð�‘¦0,â„Ž , if larger yp,h are preferable  (2)    The initial approach used equal weighting factors ð�‘¤ð�‘¤â„Ž,ð�‘–ð�‘– in Eq.  (1). They are defined as ð�‘¤ð�‘¤â„Ž,ð�‘–ð�‘– = 1 |ð��¿ð��¿ð�‘–ð�‘–| .  While equal weighting is one of the simplest weighting  approaches, it allows for undesirable compensation of positive  and negative contributions in different impact categories.  Therefore, more differentiated weighting methods are required.  2.2. Alternative weighting methods  In the scientific literature, there are various approaches to  determining weights in the presence of multiple criteria (e.g.,  [18,19]). However, these approaches are highly subjective and  can usually be implemented with decision-makers interaction.  More objective approaches to determining weights are rank- based methods. These are well-suited if there is missing or  incomplete information about preferences [20]. This is also true  for the described situation, where no information on  preferences regarding the impact categories used to  characterize the SDGs is available. For this purpose, three rank- based weighting methods that could be used instead of equal  weighting are presented below: 1.) Rank sum weight method,  2.) Reciprocal weight method, and 3.) Rank-order centroid  weight method. The notation for formulating the weighting  methods follows the original model notation [17], presented in  Section 2.1.  The first weighting method is the rank sum weight method  (RS). This method is based on the initial idea that the weights  are determined based on the individual ranks normalized by  dividing them by the sum of all the ranks [20,21]:    ð�‘¤ð�‘¤â„Ž,ð�‘–ð�‘– = |ð��¿ð��¿ð�‘–ð�‘–| âˆ’ ð�‘Ÿð�‘Ÿâ„Ž,ð�‘–ð�‘– + 1 âˆ‘ (|ð��¿ð��¿ð�‘–ð�‘–| âˆ’ ð�‘Ÿð�‘Ÿð�‘˜ð�‘˜,ð�‘–ð�‘– + 1)|ð��¿ð��¿ð�‘–ð�‘–| ð�‘˜ð�‘˜=1 (3)    ð�‘Ÿð�‘Ÿ describes the rank of the impact category, where ð�‘Ÿð�‘Ÿâ„Ž,ð�‘–ð�‘– is the  rank of the addressed impact category with regard to SDG ð�‘–ð�‘–.  Another weighting method is the reciprocal weight method  (RP). Here, the reciprocal of the rank is normalized by dividing  it by the sum of all reciprocals [20,21]:   ð�‘¤ð�‘¤â„Ž,ð�‘–ð�‘– = 1 ð�‘Ÿð�‘Ÿâ„Ž,ð�‘–ð�‘– âˆ‘ ( 1ð�‘Ÿð�‘Ÿð�‘˜ð�‘˜,ð�‘–ð�‘–) |ð��¿ð��¿ð�‘–ð�‘–| ð�‘˜ð�‘˜=1 (4)    The third weighting method is the rank-order centroid  weight method (ROC). The weight is calculated based on the  idea of identifying the centroid of all possible weights  maintaining the rank order of objective importance, which  minimizes the maximum error of each weight [20,22]:    ð�‘¤ð�‘¤â„Ž,ð�‘–ð�‘– = 1 |ð��¿ð��¿ð�‘–ð�‘–| âˆ‘(1ð�‘Ÿð�‘Ÿð�‘˜ð�‘˜ ) |ð��¿ð��¿ð�‘–ð�‘–| ð�‘˜ð�‘˜=â„Ž (5)    In addition, three aspects are relevant for determining the  weights and linking them with our initial approach. First of all,  the calculation of the weighting factors is carried out based on  the benchmark product and the impact category in which the  worst relative expression and, thus, the highest reduction  potential exists, is assigned the highest rank, i.e., the highest  importance. Second, since the impact categories are not  comparable in principle, a normalization within each impact  category based on the maximum must be carried out  beforehand. Third, suppose the normalization based on the  maximum results in indifference, and the same rank is assigned  twice. In this case, to allow the calculation of weighting factors  whose sum is not greater than one, a higher rank must be  assigned to one product alternative and a lower rank to the  other. The higher rank is assigned to the impact category for  which the difference between the maximum and minimum, and  thus the reduction potential, is the greatest.  2.3. Fundamentals of the case study  To examine the influence of different weighting factors on  the SDG contribution scores, these are calculated for SDG 12  ("Climate action") as an example. SDG 12 can be characterized  by three LCSA impact categories [17], which are presented in  Table 1. The impact categories are based on the ReCiPe  Midpoint (H) V1.13 method [23] and the Social Hotspots  Database [24]. These are the environmental impact category,  climate change (CC), and the two social impact categories, risk  of non-communicable diseases (RNCD) and risk of  occupational injuries and deaths (RCID).  Table 1. Environmental and economic impact categories  Dimension Impact category Unit  Environmental Climate change kg CO2-equivalents  Social Risk of non-communicable disease Medium risk hour  equivalents   Risk of occupational injuries and  deaths  Medium risk hour  equivalents    Data from our previous study are used to calculate the SDG  contribution scores and to allow for a comparison with the   Alexander Barke  et al. / Procedia CIRP 116 (2023) 618â€“623 6214 Author name / Procedia CIRP 00 (2019) 000â€“000    initial results [17]. The subjects of the study were different  lithium-sulfur all-solid-state batteries (LiS-ASSBs). The LiS- ASSBs differ in terms of the solid electrolyte, which is based  on germanium (Ge), silicon (Si), zinc (Sn), and chlorine (Cl).  The choice of solid electrolytes leads to different specific  energies. A state-of-the-art lithium-sulfur battery is used as the  benchmark product.  In order to investigate whether the weighting factors lead to  different results for different technologies and whether  technology-specific weighting factors are required, data from  another previous study are used, in which different types of fuel  for aircraft were investigated [25]. These are bio-kerosene as  well as three different types of synthetic kerosene. The  feedstock of the synthetic kerosene is hydrogen which is  produced using three different pathways: proton-exchange  membrane electrolysis (PEM), steam methane reforming  (SMR), and solid oxide electrolysis (SOE). Conventional fossil  kerosene is used as the benchmark.  For the impact assessment, the previously mentioned  methods of the ReCiPe Midpoint (H) V1.13 method [23] for  the environmental impact assessment and a risk-oriented  method related to the Social Hotspots Database for the social  assessment [24] were used. The calculation model for the  inventory analysis and impact assessment is implemented in  Python using the Brightway2 framework [26]. The results of  the sustainability assessment can be obtained from Table 2.  They are scaled to 1 kWh pack capacity for the batteries, and  100 passenger kilometers traveled for the fuels.  Based on the sustainability assessment results, the weights  for CC and the two social impact categories, RNCD and RCID,  can be determined using the four weighting methods. The  weights for the batteries and fuels are shown in Table 3.   Table 3. Sustainability assessment results   Equal  weighting  Rank sum  weighting  Reciprocal  weighting   Rank-order  centroid  weighting  Impact  category  Ba tte ry   Fu el   Ba tte ry   Fu el   Ba tte ry   Fu el   Ba tte ry   Fu el   CC 0,33 0,33 0,16 0,5 0,18 0,54 0,11 0,61  RNCD 0,33 0,33 0,50 0,33 0,54 0,27 0,61 0,27  RCID 0,33 0,33 0,33 0,16 0,27 0,18 0,27 0,11  3. Results  The SDG contribution scores are calculated based on the  sustainability assessment results (see Table 2), and the  weighting factors are calculated using different weighting  methods (see Table 3). The resulting SDG contribution scores  are shown in Figure 1.  In terms of batteries, it can be seen that the SDG  contribution score of SDG 12 increases by using rank sum  weighting, reciprocal weighting, and rank-order centroid  weighting instead of equal weighting. While the contribution  score for LiS-ASSB[Sn] is 65% when equal weighting is used,  it increases to 76% for rank sum weighting, 75% for reciprocal  weighting, and 80% for rank-order centroid weighting. This is  mainly due to three aspects: 1.) The relative impact of risk of  non-communicable disease is the highest, and thus reduction  has the highest priority. Accordingly, this impact category is  weighted the highest. 2.) As seen in Table 2, the highest weight  of the alternative weighting methods is always higher than that  of the equal weighting. Accordingly, the impact category with  the highest reduction potential is always weighted more heavily  than with equal weighting. 3.) The deviation of the impact  scores between the batteries and the benchmark within the  impact categories is very high, resulting in a very high relative  performance of the battery alternatives. A high weighting  multiplied by a high relative performance ultimately results in  a higher SDG contribution score. This is also shown in Figure  1, where the relative contribution of risk of non-communicable  disease to the overall SDG contribution score increases by  using the alternative weighting methods compared to equal  weighting. Regardless of the weighting method used, LiS- ASSB[Sn] has the highest SDG contribution score, and the  order of the batteries in terms of the highest SDG contribution  score does not change.  Concerning fuels, the situation is different. While the SDG  contribution score changes positively with respect to two fuel  alternatives due to the weights resulting from the alternative  weighting methods, it decreases for the other two fuel  alternatives. For biokerosene, it is still 49% using equal  weighting but then decreases to 46%, 45%, and 44% using rank  sum weighting, reciprocal weighting, and rank-order centroid  weighting, respectively. Similar results can be observed for  synthetic kerosene (SMR). In contrast, the SDG contribution  score for synthetic kerosene (PEM) is -2% when using equal  weighting but then increases to 22%, 28%, and 37% when  using the alternative weighting methods. A similar increase  also occurs to synthetic kerosene (SOE). The main driver, in  this case, is the impact category of climate change, which has  the highest weighting factor. The relative share of climate  change in the overall SDG contribution score increases  accordingly by using the alternative weighting methods  compared to the equal weighting. In contrast to the batteries,  Table 2. Environmental and social assessment results of the four LiS-ASSBs and four fuel alternatives, as well as their benchmarks  Impact  category Unit  Per 1 kWh pack capacity Per 100 passenger kilometer traveled  Benchmark LiS- ASSB[Ge]  LiS- ASSB[Si]  LiS- ASSB[Sn]  LiS- ASSB[Cl] Benchmark Biokerosene Syn. kero- sene(PEM)  Syn. kero- sene(SMR)  Syn. kero- sene(SOE)  CC kg CO2-eq. 64.27 65.29 56.63 51.84 56.57 15.79 10.12 1.53 14.06 6.17  RNCD Medium risk  hour eq. 1329.64 1175.83 176.89 154.17 145.57 7.86 3.39 11.39 2.54 8.58  RCID Medium Risk  hour eq. 163.19 140.42 26.14 23.19 22.76 1.68 0.76 2.53 0.54 1.90    622 Alexander Barke  et al. / Procedia CIRP 116 (2023) 618â€“623  Author name / Procedia CIRP 00 (2019) 000â€“000  5    the deviation of the impact scores between the fuel alternatives  and the benchmark is highly variable within the impact  categories, which means that the relative performance is  sometimes very high and sometimes very low or even negative.  In this case, this can lead to a negative SDG contribution score  becoming positive. Regardless of the weighting method used,  however, biokerosene continues to have the highest SDG  contribution score, but the order of the highest SDG  contribution score changes behind it. Using alternative  weighting methods could thus lead to different  recommendations for action being derived.  4. Discussion  Overall, the analysis shows that using alternative weighting  methods instead of equal weighting influences SDG  contribution scores, and the SDG contribution score increases  or decreases. In the example considered, the same product  alternative always has the highest SDG contribution score,  regardless of the selected weighting method. However, the  order of the product alternatives behind it changes concerning  the highest SDG contribution score. Accordingly, different  recommendations for action would be given, depending on the  weighting method applied. However, determining the most  suitable weighting method in each case requires further  research.  Integrating these more sophisticated weighting methods  extends our original approach and helps mitigate compensation  of positive and negative contributions in different impact  categories.  However, this analysis results in some uncertainties.  Alternative objective weighting factors were used instead of  equal weighting to calculate the SDG contribution scores for  multiple impact categories. This was done to prevent subjective  perceptions of the importance of individual impact categories  from influencing the determination of weights. However, it  may make sense at this point to involve experts for the  particular SDGs and determine the weights in cooperation with  them. The experts could better assess the importance of  individual LCSA impact categories for achieving SDGs and  thus enable a more well-founded determination of the weights.  At the same time, transparent disclosure of these aspects can  strengthen trust in the methodology and the resulting  recommendations for action.  Another key aspect is the integration of multi-criteria  decision-making (MCDM) models. The LCSA impact  categories used to characterize the SDGs are multiple criteria  that are not, or only to a limited extent, comparable and, in  some cases, conflict with each other. The integration of MCDM  models lends itself to this case and can further improve the  method.   A final aspect is applying the method for calculating SDG  contribution scores to further products and technologies as well  as other SDGs. The insights gained in this article are based on  the analysis of two product groups and one SDG. In order to be  able to derive generally valid statements and recommendations  for action, it is necessary to calculate the SDG contribution  scores for other product groups and SDGs as well. This will  show whether a product alternative always has the highest SDG  contribution score, regardless of the weighting method used, or  whether product-specific weighting factors are required.   5. Conclusions and Outlook  The study provides insights into the calculation of the  contribution to SDGs achievement when using different  weighting methods and extends our initial calculation  approach. Here, the analysis shows that the use of alternative  weights changes SDG contribution scores. However, the same  product always has the highest SDG contribution score,  Figure 1. SDG contribution scores for different battery and fuel technologies using alternative weighting methods  Climate change                    Risk of non-communicable disease                    Risk of occupational injuries and deaths 8% 61% 65% 62% Ge Si Sn Cl Equal weighting 11% 78% 80% 80% Ge Si Sn Cl Rank-order centroid weighting 10% 72% 75% 74% Ge Si Sn Cl Reciprocal weighting 10% 73% 76% 75% Ge Si Sn Cl Rank sum weighting B at te ry  te ch no lo gi es 49% 49% 13% Bio PEM SMR SOE Equal weighting 44% 37% 33% 33% Bio PEM SMR SOE Rank-order centroid weighting 45% 28% 37% 28% Bio PEM SMR SOE Reciprocal weighting 46% 22% 39% 25% Bio PEM SMR SOE Rank sum weighting Fu el  te ch no lo gi es -2% Ge = LiS-ASSB[Ge]          Si = LiS-ASSB[Si]           Sn = LiS-ASSB[Sn]           Ge = LiS-ASSB[Cl]   Bio = Biokerosene   PEM = Synthetic kerosene (PEM)   SMR = Synthetic kerosene (SMR)   SOE = Synthetic kerosene (SOE)  Alexander Barke  et al. / Procedia CIRP 116 (2023) 618â€“623 623 6 Author name / Procedia CIRP 00 (2019) 000â€“000    regardless of the weighting method chosen. Nonetheless, the  recommendations for action with regard to the total product  alternatives would change depending on the weighting method.  The findings obtained in this study extend the literature on  determining the contribution of products and technologies to  achieving SDGs and represent an extension of our original  approach.  In future research, five aspects should be focused on: 1.) the  integration of experts in the process of determining the weights  in the SDG contribution score calculation, 2.) the incorporation  of MDCM models in the calculation approach, 3.) the  determination of the best suitable weighting method in each  case, 4.) the analysis of further product groups and  technologies, and 5.) the integration of more SDGs.    Acknowledgements  We would like to acknowledge the funding by the Deutsche  Forschungsgemeinschaft (DFG, German Research  Foundation) under Germany's Excellence Strategy â€“ EXC  2163/1- Sustainable and Energy Efficient Aviation â€“ Project- ID 390881007.  References  [1] United Nations General Assembly. Resolution 70/1. Transforming  our world: the 2030 Agenda for Sustainable Development. New  York City, New York, USA: 2015.  https://doi.org/10.1163/157180910X12665776638740.  [2] United Nations General Assembly. Work of the Statistical  Commission pertaining to the 2030 Agenda for Sustainable  Development 2017:1â€“25.  [3] Airbus S.A.S. Non-Financial Information - Annual Report 2021.  Blagnac Cedex, France: 2021.  [4] Andes L, LÃ¼tzkendorf T, KopfmÃ¼ller J, RÃ¶sch C.  Methodensammlung zur Nachhaltigkeitsbewertung: Grundlagen,  Indikatoren, Hilfsmittel. 2019.  [5] Finkbeiner M, Schau EM, Lehmann A, Traverso M. Towards Life  Cycle Sustainability Assessment. Sustainability 2010;2:3309â€“22.  https://doi.org/10.3390/su2103309.  [6] Zimmermann AW, Wunderlich J, MÃ¼ller L, Buchner GA, Marxen  A, Michailos S, et al. Techno-Economic Assessment Guidelines for  CO2 Utilization. Front Energy Res 2020;8:31.  https://doi.org/10.3389/fenrg.2020.00005.  [7] Ness B, Urbel-Piirsalu E, Anderberg S, Olsson L. Categorising  tools for sustainability assessment. Ecol Econ 2007:498â€“508.  https://doi.org/10.1016/j.ecolecon.2006.07.023.  [8] Reddy KR, Sadasivam BY, Adams JA. Social Sustainability  Evaluation Matrix (SSEM) to Quantify Social Aspects of  Sustainable Remediation. Proc. 2014 Int. Conf. Sustain. Infrastruct.,  Long Beach, CA, USA: 2014, p. 831â€“41.  [9] UNEP/SETAC. Towards a Life Cycle Sustainability Assessment:  Making informed choices on products. Paris, France: 2011.  [10] KlÃ¶pffer W. Life cycle sustainability assessment of products. Int J  Life Cycle Assess 2008;13:89â€“95.  https://doi.org/10.1065/lca2008.02.376.  [11] Castor J, Bacha K, Fuso Nerini F. SDGs in action: A novel  framework for assessing energy projects against the sustainable  development goals. Energy Res Soc Sci 2020;68:101556.  https://doi.org/10.1016/j.erss.2020.101556.  [12] Henzler K, Maier SD, JÃ¤ger M, Horn R. SDG-Based Sustainability  Assessment Methodology for Innovations in the Field of Urban  Surfaces. Sustainability 2020;12:4466.  https://doi.org/10.3390/su12114466.  [13] Maier SD, Beck T, Vallejo JF, Horn R, SÃ¶hlemann JH, Nguyen TT.  Methodological approach for the sustainability assessment of  development cooperation projects for built innovations based on the  SDGs and life cycle thinking. Sustainability 2016;8:1006.  https://doi.org/10.3390/su8101006.  [14] Haryati Z, Subramaniam V, Zainon Noor Z, Kheang Loh S, Abd  Aziz A. Complementing Social Life Cycle Assessment to Reach  Sustainable Development Goals-A Case Study from the Malaysian  Oil Palm Industry. Chem Eng Trans 2021;83:331â€“6.  https://doi.org/10.3303/CET2183056.  [15] MarÃ­a A, Almanza H, Corona B. Using Social Life Cycle  Assessment to analyze the contribution of products to the  Sustainable Development Goals: a case study in the textile sector.  Int J Life Cycle Assess 2020;25:1833â€“45.  https://doi.org/10.1007/s11367-020-01789-7.  [16] Wulf C, Werker J, Zapp P, Schreiber A, SchlÃ¶r H, Kuckshinrichs  W. Sustainable Development Goals as a Guideline for Indicator  Selection in Life Cycle Sustainability Assessment. Procedia CIRP,  vol. 69, Elsevier B.V.; 2018, p. 59â€“65.  https://doi.org/10.1016/j.procir.2017.11.144.  [17] Barke A, Cistjakov W, Steckermeier D, Thies C, Popien J-L,  Michalowski P, et al. Green batteries for clean skies: Sustainability  assessment of lithiumâ€�sulfur allâ€�solidâ€�state batteries for electric  aircraft. J Ind Ecol 2022:in press.  https://doi.org/10.1111/jiec.13345.  [18] Danielson M, Ekenberg L. A Robustness Study of State-of-the-Art  Surrogate Weights for MCDM. Gr Decis Negot 2017;26:677â€“91.  https://doi.org/10.1007/s10726-016-9494-6.  [19] Eckenrode RT. Weighting Multiple Criteria. Manage Sci  1965;12:180â€“92. https://doi.org/10.1287/mnsc.12.3.180.  [20] Roszkowska E. Rank Ordering Criteria Weighting Methods â€“ A  Comparative Overview. Optimum Econ Stud 2013;5:14â€“33.  https://doi.org/10.15290/ose.2013.05.65.02.  [21] Stillwell WG, Seaver DA, Edwards W. A comparison of weight  approximation techniques in multiattribute utility decision making.  Organ Behav Hum Perform 1981;28:62â€“77.  https://doi.org/10.1016/0030-5073(81)90015-5.  [22] Barron FH, Barrett BE. The efficacy of SMARTER - Simple Multi- Attribute Rating Technique Extended to Ranking. Acta Psychol  (Amst) 1996;93:23â€“36. https://doi.org/10.1016/0001- 6918(96)00010-8.  [23] Goedkoop M, Heijungs R, Huijbregts M, Schryver, Struijs J, van  Zelm R. ReCiPe 2008: A life cycle impact assessment method  which comprises harmonised category indicators at the midpoint  and the endpoint level. First edit. Den Haag, Netherlands: 2013.  [24] BenoÃ®t-Norris C, Norris GA. Chapter 8: The Social Hotspots  Database Context of the SHDB. In: Murray J, McBain D,  Wiedmann T, editors. Sustain. Pract. Guid. to Soc. Anal. Assess.,  Champaign, IL, USA: Common Ground Publishing LLC; 2015, p.  52â€“73.  [25] Barke A, Bley T, Thies C, Weckenborg C, Spengler TS. Are  Sustainable Aviation Fuels a Viable Option for Decarbonizing Air  Transport in Europe? An Environmental and Economic  Sustainability Assessment. Appl Sci 2022;12:597.  https://doi.org/10.3390/APP12020597.      https://doi.org/10.1016/j.ecolecon.2006.07.023.  [8] Reddy KR, Sadasivam BY, Adams JA. Social Sustainability  Evaluation Matrix (SSEM) to Quantify Social Aspects of  Sustainable Remediation. Proc. 2014 Int. Conf. Sustain. Infrastruct.,  Long Beach, CA, USA: 2014, p. 831â€“41.  [9] UNEP/SETAC. Towards a Life Cycle Sustainability Assessment:  Making informed choices on products. Paris, France: 2011.  [10] KlÃ¶pffer W. Life cycle sustainability assessment of products. Int J  Life Cycle Assess 2008;13:89â€“95.  https://doi.org/10.1065/lca2008.02.376.  [11] Castor J, Bacha K, Fuso Nerini F. SDGs in action: A novel  framework for assessing energy projects against the sustainable  development goals. Energy Res Soc Sci 2020;68:101556.  https://doi.org/10.1016/j.erss.2020.101556.  [12] Henzler K, Maier SD, JÃ¤ger M, Horn R. SDG-Based Sustainability  Assessment Methodology for Innovations in the Field of Urban  Surfaces. Sustainability 2020;12:4466.  https://doi.org/10.3390/su12114466.  [13] Maier SD, Beck T, Vallejo JF, Horn R, SÃ¶hlemann JH, Nguyen TT.  Methodological approach for the sustainability assessment of  development cooperation projects for built innovations based on the  SDGs and life cycle thinking. Sustainability 2016;8:1006.  https://doi.org/10.3390/su8101006.  [14] Haryati Z, Subramaniam V, Zainon Noor Z, Kheang Loh S, Abd  Aziz A. Complementing Social Life Cycle Assessment to Reach  Sustainable Development Goals-A Case Study from the Malaysian  Oil Palm Industry. Chem Eng Trans 2021;83:331â€“6.  https://doi.org/10.3303/CET2183056.  [15] MarÃ­a A, Almanza H, Corona B. Using Social Life Cycle  Assessment to analyze the contribution of products to the  Sustainable Development Goals: a case study in the textile sector.  Int J Life Cycle Assess 2020;25:1833â€“45.  https://doi.org/10.1007/s11367-020-01789-7.  [16] Wulf C, Werker J, Zapp P, Schreiber A, SchlÃ¶r H, Kuckshinrichs  W. Sustainable Development Goals as a Guideline for Indicator  Selection in Life Cycle Sustainability Assessment. Procedia CIRP,  vol. 69, Elsevier B.V.; 2018, p. 59â€“65.  https://doi.org/10.1016/j.procir.2017.11.144.  [17] Barke A, Cistjakov W, Steckermeier D, Thies C, Popien J-L,  Michalowski P, et al. Green batteries for clean skies: Sustainability  assessment of lithiumâ€�sulfur allâ€�solidâ€�state batteries for electric  aircraft. J Ind Ecol 2022:in press.  https://doi.org/10.1111/jiec.13345.  [18] Danielson M, Ekenberg L. A Robustness Study of State-of-the-Art  Surrogate Weights for MCDM. Gr Decis Negot 2017;26:677â€“91.  https://doi.org/10.1007/s10726-016-9494-6.  [19] Eckenrode RT. Weighting Multiple Criteria. Manage Sci  1965;12:180â€“92. https://doi.org/10.1287/mnsc.12.3.180.  [20] Roszkowska E. Rank Ordering Criteria Weighting Methods â€“ A  Comparative Overview. Optimum Econ Stud 2013;5:14â€“33.  https://doi.org/10.15290/ose.2013.05</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>PROCIR</jid>
+            <aid>400049</aid>
+            <ce:pii>S2212-8271(23)00099-9</ce:pii>
+            <ce:doi>10.1016/j.procir.2023.02.104</ce:doi>
+            <ce:copyright type="unknown" year="2023"/>
+         </item-info>
+         <head>
+            <ce:title id="tte0002">Linking life cycle sustainability assessment and the sustainable development goals – Calculation of goal achievement</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S2212827123000999-d495614878a216ab1732301af739aa73">
+                  <ce:given-name>Alexander</ce:given-name>
+                  <ce:surname>Barke</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0002" refid="aff0004">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0002" author-id="S2212827123000999-0c586e833aa74e838b6a7354d43dc13a">
+                  <ce:given-name>Manbir S.</ce:given-name>
+                  <ce:surname>Sodhi</ce:surname>
+                  <ce:cross-ref id="crf0003" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0003" author-id="S2212827123000999-9ab62c9fdfe3d56f2051f93b7beae8f8">
+                  <ce:given-name>Christian</ce:given-name>
+                  <ce:surname>Thies</ce:surname>
+                  <ce:cross-ref id="crf0004" refid="aff0003">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0004" author-id="S2212827123000999-97ca6403102ee1e5435f05238e478d36">
+                  <ce:given-name>Thomas S.</ce:given-name>
+                  <ce:surname>Spengler</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0006" refid="aff0004">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S2212827123000999-9e07f99771b324f1778b99735e23f331">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">Institute of Automotive Management and Industrial Production, Technische Universität Braunschweig, Braunschweig 38106, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Automotive Management and Industrial Production, Technische Universität Braunschweig</sa:organization>
+                     <sa:city>Braunschweig</sa:city>
+                     <sa:postal-code>38106</sa:postal-code>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S2212827123000999-a926e9d28187bbee8bf4dd056b504785">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">Department of Mechanical, Industrial, and Systems Engineering, University of Rhode Island, Kingston, RI 02881, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Mechanical, Industrial, and Systems Engineering</sa:organization>
+                     <sa:organization>University of Rhode Island</sa:organization>
+                     <sa:city>Kingston</sa:city>
+                     <sa:state>RI</sa:state>
+                     <sa:postal-code>02881</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0003" affiliation-id="S2212827123000999-852ce1dbee9f6ce1720ca792363102da">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="cetextfn0003">Hamburg University of Technology, Resilient and Sustainable Operations and Supply Chain Management Group, Hamburg 21073, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Hamburg University of Technology</sa:organization>
+                     <sa:organization>Resilient and Sustainable Operations and Supply Chain Management Group</sa:organization>
+                     <sa:city>Hamburg</sa:city>
+                     <sa:postal-code>21073</sa:postal-code>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0004" affiliation-id="S2212827123000999-929724a958063abb5b19fb1294b19925">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="cetextfn0004">Cluster of Excellence “SE²A – Sustainable and Energy-Efficient Aviation”, Technische Universität Braunschweig, Braunschweig 38108, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Cluster of Excellence “SE²A – Sustainable and Energy-Efficient Aviation”, Technische Universität Braunschweig</sa:organization>
+                     <sa:city>Braunschweig</sa:city>
+                     <sa:postal-code>38108</sa:postal-code>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara001" view="all">In 2015, the United Nations General Assembly proposed seventeen Sustainable Development Goals (SDGs) intended to ensure sustainable development worldwide at the economic, environmental, and social levels. SDGs are now being used by some corporations in formulating and expressing business strategies. However, assessing the effects of corporate activities and products regarding their contribution to SDGs is difficult. In this paper, we have developed a method for linking life cycle sustainability assessment (LCSA) with the SDGs and calculating the contribution to SDG achievement. An essential part of this approach is the weighting of LCSA impact categories, which is typically done using equal weighting. This weighting method enables compensation of negative contributions by positive contributions in different impact categories but results in ambiguity in the results. This article identifies alternative weighting methods, integrates them into a computational approach, and determines their influence on the SDG contribution scores. The analysis shows that the use of alternative weights changes SDG contribution scores. However, the same product always has the highest SDG contribution score, regardless of the weighting method used. Nonetheless, the recommendations for action with regard to the total product alternatives would change depending on the weighting method.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0001">Sustainable development goals (SDGs)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0002">SDG quantification</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0003">Sustainable development</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0004">Life cycle sustainability assessment</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0003">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="sbref0001">
+                        <ce:textref>United Nations General Assembly. Resolution 70/1. Transforming our world: the 2030 Agenda for Sustainable Development. New York City, New York, USA: 2015. https://doi.org/10.1163/157180910X12665776638740.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="sbref0002">
+                        <ce:textref>United Nations General Assembly. Work of the Statistical Commission pertaining to the 2030 Agenda for Sustainable Development 2017:1–25.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="sbref0003">
+                        <ce:textref>Airbus S.A.S. Non-Financial Information - Annual Report 2021. Blagnac Cedex, France: 2021.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="sbref0004">
+                        <ce:textref>Andes L, Lützkendorf T, Kopfmüller J, Rösch C. Methodensammlung zur Nachhaltigkeitsbewertung: Grundlagen, Indikatoren, Hilfsmittel. 2019.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Finkbeiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>EM</ce:given-name>
+                                 <ce:surname>Schau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Lehmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Traverso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Towards Life Cycle Sustainability Assessment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3309</sb:first-page>
+                              <sb:last-page>3322</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/su2103309</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>AW</ce:given-name>
+                                 <ce:surname>Zimmermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Wunderlich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>GA</ce:given-name>
+                                 <ce:surname>Buchner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Marxen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Michailos</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Techno-Economic Assessment Guidelines for CO2 Utilization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front Energy Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3389/fenrg.2020.00005</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B</ce:given-name>
+                                 <ce:surname>Ness</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Urbel-Piirsalu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Anderberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Olsson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Categorising tools for sustainability assessment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecol Econ</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>498</sb:first-page>
+                              <sb:last-page>508</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ecolecon.2006.07.023</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>KR</ce:given-name>
+                                 <ce:surname>Reddy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>BY</ce:given-name>
+                                 <ce:surname>Sadasivam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JA.</ce:given-name>
+                                 <ce:surname>Adams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Social Sustainability Evaluation Matrix (SSEM) to Quantify Social Aspects of Sustainable Remediation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 2014 Int. Conf. Sustain. Infrastruct</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name> </sb:name>
+                                 <sb:location>Long Beach, CA, USA</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>831</sb:first-page>
+                              <sb:last-page>841</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UNEP/SETAC</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Towards a Life Cycle Sustainability Assessment: Making informed choices on products</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2011</sb:date>
+                              <sb:publisher>
+                                 <sb:name> </sb:name>
+                                 <sb:location>Paris, France</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Klöpffer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Life cycle sustainability assessment of products</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Life Cycle Assess</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>95</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1065/lca2008.02.376</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Castor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Bacha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F</ce:given-name>
+                                 <ce:surname>Fuso Nerini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDGs in action: A novel framework for assessing energy projects against the sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Res Soc Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>101556</sb:article-number>
+                           <ce:doi>10.1016/j.erss.2020.101556</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Henzler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SD</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Jäger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Horn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG-Based Sustainability Assessment Methodology for Innovations in the Field of Urban Surfaces</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4466</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/su12114466</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>SD</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Beck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JF</ce:given-name>
+                                 <ce:surname>Vallejo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Horn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JH</ce:given-name>
+                                 <ce:surname>Söhlemann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>TT.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methodological approach for the sustainability assessment of development cooperation projects for built innovations based on the SDGs and life cycle thinking</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1006</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/su8101006</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z</ce:given-name>
+                                 <ce:surname>Haryati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V</ce:given-name>
+                                 <ce:surname>Subramaniam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z</ce:given-name>
+                                 <ce:surname>Zainon Noor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Kheang Loh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Abd Aziz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Complementing Social Life Cycle Assessment to Reach Sustainable Development Goals-A Case Study from the Malaysian Oil Palm Industry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Eng Trans</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>331</sb:first-page>
+                              <sb:last-page>336</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.3303/CET2183056</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>María</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Almanza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Corona</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Using Social Life Cycle Assessment to analyze the contribution of products to the Sustainable Development Goals: a case study in the textile sector</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Life Cycle Assess</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1833</sb:first-page>
+                              <sb:last-page>1845</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s11367-020-01789-7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0016">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Wulf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Werker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Zapp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Schreiber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Schlör</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kuckshinrichs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development Goals as a Guideline for Indicator Selection in Life Cycle Sustainability Assessment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Procedia CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>59</sb:first-page>
+                              <sb:last-page>65</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.procir.2017.11.144</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Barke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W</ce:given-name>
+                                 <ce:surname>Cistjakov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Steckermeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Thies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J-L</ce:given-name>
+                                 <ce:surname>Popien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Michalowski</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Green batteries for clean skies: Sustainability assessment of lithium-sulfur all-solid-state batteries for electric aircraft</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Ind Ecol</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1111/jiec.13345</ce:doi>
+                        </sb:host>
+                        <sb:comment>press</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Danielson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ekenberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Robustness Study of State-of-the-Art Surrogate Weights for MCDM</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Gr Decis Negot</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>677</sb:first-page>
+                              <sb:last-page>691</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10726-016-9494-6</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>RT.</ce:given-name>
+                                 <ce:surname>Eckenrode</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Weighting Multiple Criteria</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Manage Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>180</sb:first-page>
+                              <sb:last-page>192</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1287/mnsc.12.3.180</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Roszkowska</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rank Ordering Criteria Weighting Methods – A Comparative Overview</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Optimum Econ Stud</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14</sb:first-page>
+                              <sb:last-page>33</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.15290/ose.2013.05.65.02</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0021">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>WG</ce:given-name>
+                                 <ce:surname>Stillwell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DA</ce:given-name>
+                                 <ce:surname>Seaver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Edwards</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A comparison of weight approximation techniques in multiattribute utility decision making</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Organ Behav Hum Perform</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>62</sb:first-page>
+                              <sb:last-page>77</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0030-5073(81)90015-5</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0022">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0022">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>FH</ce:given-name>
+                                 <ce:surname>Barron</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>BE.</ce:given-name>
+                                 <ce:surname>Barrett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The efficacy of SMARTER - Simple Multi-Attribute Rating Technique Extended to Ranking</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Psychol (Amst)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                              <sb:last-page>36</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0001-6918(96)00010-8</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0023">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0023">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Goedkoop</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Heijungs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Huijbregts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Struijs J</ce:given-name>
+                                 <ce:surname>Schryver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>van Zelm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>ReCiPe 2008: A life cycle impact assessment method which comprises harmonised category indicators at the midpoint and the endpoint level</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name> </sb:name>
+                                 <sb:location>Netherlands</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>First edit. Den Haag</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0024">
+                     <ce:label>[24]</ce:label>
+                     <ce:other-ref id="sbref0024">
+                        <ce:textref>Benoît-Norris C, Norris GA. Chapter 8: The Social Hotspots Database Context of the SHDB. In: Murray J, McBain D, Wiedmann T, editors. Sustain. Pract. Guid. to Soc. Anal. Assess., Champaign, IL, USA: Common Ground Publishing LLC; 2015, p. 52-73.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Barke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Bley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Thies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Weckenborg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>TS.</ce:given-name>
+                                 <ce:surname>Spengler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Are Sustainable Aviation Fuels a Viable Option for Decarbonizing Air Transport in Europe?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>An Environmental and Economic Sustainability Assessment. Appl Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>597</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/APP12020597</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

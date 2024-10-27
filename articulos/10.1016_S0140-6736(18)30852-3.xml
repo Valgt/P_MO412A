@@ -1,0 +1,156 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673618308523</prism:url><dc:identifier>doi:10.1016/S0140-6736(18)30852-3</dc:identifier><eid>1-s2.0-S0140673618308523</eid><prism:doi>10.1016/S0140-6736(18)30852-3</prism:doi><pii>S0140-6736(18)30852-3</pii><dc:title>Department of Error </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>err</pubType><prism:issn>01406736</prism:issn><prism:volume>391</prism:volume><prism:issueIdentifier>10134</prism:issueIdentifier><prism:startingPage>1996</prism:startingPage><prism:pageRange>1996</prism:pageRange><prism:number>10134</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2018-05-25</prism:coverDate><prism:coverDisplayDate>19–25 May 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673618308523" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673618308523" rel="scidir"/></coredata><scopus-id>85047210967</scopus-id><scopus-eid>2-s2.0-85047210967</scopus-eid><pubmed-id>29650247</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85047210967" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180409">2018-04-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180409">2018-04-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180517">2018-05-17</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180517">2018-05-17</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-06-24T21:07:54</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673618308523</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(18)30852-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673618308523</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(18)30852-3</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.4</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673618X00221</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190624">2019-06-24T20:15:26.768652Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180519</xocs:date-search-begin>
+      <xocs:date-search-end>20180525</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1523316697">2018-04-09T23:31:37.408606Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body articletitle doctopic pubtype</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>391</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>391</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10134</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10134</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 391, Issue 10134</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>24</xocs:sort-order>
+      <xocs:first-fp>1996</xocs:first-fp>
+      <xocs:pages>
+         <xocs:first-page>1996</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20180519</xocs:start-date>
+         <xocs:end-date>20180525</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>19–25 May 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-05-19</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-05-25</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>err</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>DEPARTMENTERROR</xocs:normalized-article-title>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(18)30667-6</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673618306676</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refkeys/>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2018-11-17T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-11-17T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(18)30852-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673618308523</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673618308523</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(18)30852-3</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2019-06-24T20:15:26.768652Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-05-19</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-05-25</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673618308523-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673618308523/MAIN/application/pdf/a41a4f54b2494100d0e292f3eaab8257/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>47242</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673618308523-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673618308523/PREVIEW/image/png/a1a6ddb1efbbce6f14f944ccfadcfd79/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>86820</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="err" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>5070</aid>
+            <ce:pii>S0140-6736(18)30852-3</ce:pii>
+            <ce:doi>10.1016/S0140-6736(18)30852-3</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S0140-6736(18)30667-6</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(18)30667-6</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="full-transfer" year="2018">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Department of Error</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Department of Error</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Department of Error</ce:title>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">
+                  <ce:italic>Nugent R, Bertram MY, Jan S, et al. Investing in non-communicable disease prevention and management to advance the Sustainable Development Goals.</ce:italic> Lancet <ce:italic>2018; <ce:bold>391:</ce:bold> 2029–35</ce:italic>—Figure 2 of this Series paper (published online first on April 4, 2018) has been corrected to include Sustainable Development Goal 3 (health), and the figure title has been corrected to say “Links between nine SDGs and NCD target 3·4”. These corrections have been made to the online version as of April 9, 2018, and the printed Series paper is correct.</ce:para>
+            </ce:sections>
+         </body>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

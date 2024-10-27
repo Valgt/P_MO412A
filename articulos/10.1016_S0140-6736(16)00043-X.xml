@@ -1,0 +1,378 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S014067361600043X</prism:url><dc:identifier>doi:10.1016/S0140-6736(16)00043-X</dc:identifier><eid>1-s2.0-S014067361600043X</eid><prism:doi>10.1016/S0140-6736(16)00043-X</prism:doi><pii>S0140-6736(16)00043-X</pii><dc:title>Neglected tropical diseases in the Sustainable Development Goals </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>cor</pubType><prism:issn>01406736</prism:issn><prism:volume>387</prism:volume><prism:issueIdentifier>10015</prism:issueIdentifier><prism:startingPage>223</prism:startingPage><prism:endingPage>224</prism:endingPage><prism:pageRange>223-224</prism:pageRange><prism:number>10015</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2016-01-22</prism:coverDate><prism:coverDisplayDate>16–22 January 2016</prism:coverDisplayDate><prism:copyright>Copyright © 2016 World Health Organization. Published by Elsevier Ltd/Inc/BV. All rights reserved. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>World Health Organization. Published by Elsevier Ltd/Inc/BV.</prism:publisher><dc:creator>Engels, Dirk</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S014067361600043X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S014067361600043X" rel="scidir"/></coredata><scopus-id>84954270858</scopus-id><scopus-eid>2-s2.0-84954270858</scopus-eid><pubmed-id>26842291</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84954270858" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160115">2016-01-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160115">2016-01-15</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160115">2016-01-15</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160115">2016-01-15</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-07-13T10:26:32</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S014067361600043X</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(16)00043-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S014067361600043X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(16)00043-X</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673616X00037</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180713">2018-07-13T10:23:05.201883Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160116</xocs:date-search-begin>
+      <xocs:date-search-end>20160122</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1452819919">2016-01-15T01:05:19.708891Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>387</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>387</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10015</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10015</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 387, Issue 10015</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>22</xocs:sort-order>
+      <xocs:first-fp>223</xocs:first-fp>
+      <xocs:last-lp>224</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>223</xocs:first-page>
+         <xocs:last-page>224</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20160116</xocs:start-date>
+         <xocs:end-date>20160122</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>16–22 January 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-01-16</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-01-22</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>cor</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2016 World Health Organization. Published by Elsevier Ltd/Inc/BV. All rights reserved. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>NEGLECTEDTROPICALDISEASESINSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ENGELS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TRANSFORMINGWORLD2030AGENDAFORSUSTAINABLEDEVELOPMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20"/>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>KIMOON</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40"/>
+         <xocs:ref-info refid="sbref50"/>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WATERSANITATIONHYGIENEFORACCELERATINGSUSTAININGPROGRESSNEGLECTEDTROPICALDISEASESAGLOBALSTRATEGY20152020</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>HORTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>758</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ENGELSX2016X223</xocs:refkey3>
+         <xocs:refkey4lp>ENGELSX2016X223X224</xocs:refkey4lp>
+         <xocs:refkey4ai>ENGELSX2016X223XD</xocs:refkey4ai>
+         <xocs:refkey5>ENGELSX2016X223X224XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2016-07-15T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>Open</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(16)00043-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S014067361600043X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S014067361600043X</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(16)00043-X</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2018-07-13T10:23:05.201883Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-01-16</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-01-22</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S014067361600043X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S014067361600043X/MAIN/application/pdf/a71b880980285556f5e909e2e12e79d2/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S014067361600043X/MAIN/application/pdf/a71b880980285556f5e909e2e12e79d2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>109059</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S014067361600043X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S014067361600043X/PREVIEW/image/png/e8793795a1e9c54d3ef43f742af06c3b/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S014067361600043X/PREVIEW/image/png/e8793795a1e9c54d3ef43f742af06c3b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68657</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="cor" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>1082</aid>
+            <ce:pii>S0140-6736(16)00043-X</ce:pii>
+            <ce:doi>10.1016/S0140-6736(16)00043-X</ce:doi>
+            <ce:copyright type="other" year="2016">World Health Organization. Published by Elsevier Ltd/Inc/BV. All rights reserved.</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Correspondence</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Correspondence</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Neglected tropical diseases in the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10">
+                  <ce:given-name>Dirk</ce:given-name>
+                  <ce:surname>Engels</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Control of Neglected Tropical Diseases, World Health Organization, 1211 Geneva 27, Switzerland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Control of Neglected Tropical Diseases</sa:organization>
+                     <sa:organization>World Health Organization</sa:organization>
+                     <sa:address-line>1211 Geneva 27</sa:address-line>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">Neglected tropical diseases (NTDs) have been formally recognised as a target for global action towards the Sustainable Development Goals. So can we now get rid of the word neglected? Not yet. Strangely, the NTDs were only a late addition by the Inter-Agency and Expert Group on Sustainable Development Goal Indicators to target 3.3—to “end the epidemics of HIV, tuberculosis, malaria and neglected tropical diseases” by 2030.<ce:cross-ref id="cecref20" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para20" view="all">WHO's proposed NTD indicator—the number of people needing interventions against NTDs—captures a broad set of existing targets with political endorsement by the World Health Assembly, including 11 goals to eradicate or eliminate diseases.<ce:cross-ref id="cecref30" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> This indicator counts more than a billion people in low-income, middle-income, and even high-income countries. The proposal of this global NTD indicator shows an aspiration to deliver a package of interventions centred on the poorest and most marginalised populations.</ce:para>
+               <ce:para id="para30" view="all">I am of course pleased that the Inter-Agency and Expert Group has given a permission to go ahead with our indicator at its second meeting on Oct 26–28, in Bangkok.<ce:cross-ref id="cecref40" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> The exclusion of NTDs from the list of indicators for target 3.3 would have been an early setback to the pledge to “leave no one behind”.<ce:cross-ref id="cecref50" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> But the inclusion of NTDs is no guarantee of success. The NTD community needs to continue to think outside of the box—the box numbered 3.3.</ce:para>
+               <ce:para id="para40" view="all">WHO's Department of Control of Neglected Tropical Diseases has been promoting not only the NTD indicators but also NTD tracers of equity relevant to other Sustainable Development Goal targets.</ce:para>
+               <ce:para id="para50" view="all">These tracers of equity were proposed as a contribution of the NTD community to monitor equity and fairness in progress toward other Sustainable Development Goals and targets, including universal health coverage (target 3.8), universal access to safe water (target 6.1), and sanitation (target 6.2).<ce:cross-ref id="cecref60" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> These tracers are essential to monitor equity precisely because NTD endemic populations are the least likely to have access to these services at present.<ce:cross-ref id="cecref70" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para60" view="all">I do not share the opinion that the main outcome for the inclusion of NTDs within the Sustainable Development Goals would be more money for NTDs.<ce:cross-ref id="cecref80" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> Inclusion of NTD indicators and tracers will, on the contrary, help to maximise returns on investment in a broad portfolio of Sustainable Development Goal targets. Inclusion will help to identify the communities that have the greatest need for attainment of these goals: the populations that are the furthest behind in terms of development.</ce:para>
+               <ce:para id="para70" role="acknowledgement" view="all">I declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Transforming our world: the 2030 agenda for Sustainable Development</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="http://www.un.org/ga/search/view_doc.asp?symbol=A/70/L.1&amp;Lang=E" xlink:type="simple">http://www.un.org/ga/search/view_doc.asp?symbol=A/70/L.1&amp;Lang=E</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Nov 19, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Second meeting of the Inter-Agency and Expert Group–Sustainable Development Goal</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bangkok: Oct 26–28, 2015</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-02" xlink:type="simple">http://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-02</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Nov 18, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Ban</ce:given-name>
+                                 <ce:surname>Ki-moon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Opening remarks to the media following the Summit for the Adoption of the Post-2015 Development Agenda. UN Headquarters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="http://www.un.org/apps/news/infocus/sgspeeches/statments_full.asp?statID=2751#.Vkx2fXYvfIU" xlink:type="simple">http://www.un.org/apps/news/infocus/sgspeeches/statments_full.asp?statID=2751#.Vkx2fXYvfIU</ce:inter-ref>
+                              <sb:date>Sept 25, 2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Nov 18, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World Health Assembly (WHA) Resolutions on Neglected Tropical Diseases: 1948–2013</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:href="http://www.who.int/neglected_diseases/mediacentre/resolutions/en" xlink:type="simple">http://www.who.int/neglected_diseases/mediacentre/resolutions/en</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Oct 20, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Methodological note: proposed indicator framework for monitoring SDG targets on drinking water, sanitation, hygiene and wastewater. Geneva: World Health Organization and United Nations Children's Fund</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs50" xlink:href="http://www.wssinfo.org/fileadmin/user_upload/resources/Statistical-note-on-SDG-targets-for-WASH-and-wastewater_WHO-UNICEF_21September2015_Final.pdf" xlink:type="simple">http://www.wssinfo.org/fileadmin/user_upload/resources/Statistical-note-on-SDG-targets-for-WASH-and-wastewater_WHO-UNICEF_21September2015_Final.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Oct 6, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Water, sanitation, and hygiene for accelerating and sustaining progress on neglected tropical diseases: a global strategy 2015–2020</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs60" xlink:href="http://apps.who.int/iris/bitstream/10665/182735/1/WHO_FWC_WSH_15.12_eng.pdf?ua=1" xlink:type="simple">http://apps.who.int/iris/bitstream/10665/182735/1/WHO_FWC_WSH_15.12_eng.pdf?ua=1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Oct 6, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Horton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Offline: The “chronic pandemic” that just won't go away</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>385</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>758</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

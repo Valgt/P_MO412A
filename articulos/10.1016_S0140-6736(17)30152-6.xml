@@ -1,0 +1,349 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673617301526</prism:url><dc:identifier>doi:10.1016/S0140-6736(17)30152-6</dc:identifier><eid>1-s2.0-S0140673617301526</eid><prism:doi>10.1016/S0140-6736(17)30152-6</prism:doi><pii>S0140-6736(17)30152-6</pii><dc:title>The Sustainable Development Goals: ambiguities of accountability </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>cor</pubType><prism:issn>01406736</prism:issn><prism:volume>389</prism:volume><prism:issueIdentifier>10067</prism:issueIdentifier><prism:startingPage>365</prism:startingPage><prism:pageRange>365</prism:pageRange><prism:number>10067</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2017-02-03</prism:coverDate><prism:coverDisplayDate>28 January–3 February 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Engebretsen, Eivind</dc:creator><dc:creator>Heggen, Kristin</dc:creator><dc:creator>Ottersen, Ole P</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673617301526" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673617301526" rel="scidir"/></coredata><scopus-id>85010780375</scopus-id><scopus-eid>2-s2.0-85010780375</scopus-eid><pubmed-id>28137691</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85010780375" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170127">2017-01-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170127">2017-01-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170127">2017-01-27</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170127">2017-01-27</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-01-26T04:56:38</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673617301526</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(17)30152-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673617301526</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(17)30152-6</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673617X00044</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170126">2017-01-26T20:07:34.703323-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170128</xocs:date-search-begin>
+      <xocs:date-search-end>20170203</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1485479274">2017-01-27T01:07:54.738589Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>389</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>389</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10067</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10067</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 389, Issue 10067</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>27</xocs:sort-order>
+      <xocs:first-fp>365</xocs:first-fp>
+      <xocs:pages>
+         <xocs:first-page>365</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20170128</xocs:start-date>
+         <xocs:end-date>20170203</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>28 January–3 February 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-01-28</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-02-03</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>cor</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>SUSTAINABLEDEVELOPMENTGOALSAMBIGUITIESACCOUNTABILITY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ENGEBRETSEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(16)31467-2</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0140673616314672</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TRANSFORMINGWORLD2030AGENDAFORSUSTAINABLEDEVELOPMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>OTTERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>630</xocs:ref-first-fp>
+            <xocs:ref-last-lp>667</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1813</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1850</xocs:ref-last-lp>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ENGEBRETSENX2017X365</xocs:refkey3>
+         <xocs:refkey4ai>ENGEBRETSENX2017X365XE</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2017-07-27T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(17)30152-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673617301526</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673617301526</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(17)30152-6</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2017-01-26T19:07:54.738589-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-01-28</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-02-03</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673617301526-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673617301526/MAIN/application/pdf/28e2da385aacdd696ab4f42aeeb1b944/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673617301526/MAIN/application/pdf/28e2da385aacdd696ab4f42aeeb1b944/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>86594</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673617301526-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673617301526/PREVIEW/image/png/0a48b180753d73200767f985df76e8ad/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673617301526/PREVIEW/image/png/0a48b180753d73200767f985df76e8ad/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60422</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="cor" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>3002</aid>
+            <ce:pii>S0140-6736(17)30152-6</ce:pii>
+            <ce:doi>10.1016/S0140-6736(17)30152-6</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S0140-6736(16)31467-2</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(16)31467-2</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="full-transfer" year="2017">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Correspondence</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Correspondence</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">The Sustainable Development Goals: ambiguities of accountability</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S0140673617301526-d74478538c7bd9ed480522b8dbcb1995">
+                  <ce:given-name>Eivind</ce:given-name>
+                  <ce:surname>Engebretsen</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S0140673617301526-c8d2b277301f0ce7251648730ba61eb5">
+                  <ce:given-name>Kristin</ce:given-name>
+                  <ce:surname>Heggen</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30" author-id="S0140673617301526-0826c5cd52e59286ad995ed83bdc4c6c">
+                  <ce:given-name>Ole P</ce:given-name>
+                  <ce:surname>Ottersen</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Faculty of Medicine, University of Oslo, 0316 Oslo, Norway</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Faculty of Medicine</sa:organization>
+                     <sa:organization>University of Oslo</sa:organization>
+                     <sa:city>Oslo</sa:city>
+                     <sa:postal-code>0316</sa:postal-code>
+                     <sa:country>Norway</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>University President's Office, University of Oslo, 0316 Oslo, Norway</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>University President's Office</sa:organization>
+                     <sa:organization>University of Oslo</sa:organization>
+                     <sa:city>Oslo</sa:city>
+                     <sa:postal-code>0316</sa:postal-code>
+                     <sa:country>Norway</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">In 2015, the UN General Assembly committed to 17 ambitious Sustainable Development Goals (SDGs) as part of the 2030 Agenda.<ce:cross-ref id="cecref40" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> The Agenda is a plan of action for people, the planet, and for prosperity. The implementation of the Agenda requires strong commitment and accountability. However, as stated in <ce:italic>The Lancet</ce:italic> by the University of Oslo Commission on Global Governance for Health,<ce:cross-ref id="cecref50" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> mechanisms to hold states accountable for their obligations under international conventions are generally weak.</ce:para>
+               <ce:para id="para20" view="all">In a recent issue of <ce:italic>The Lancet</ce:italic> (Oct 8, p 1813),<ce:cross-ref id="cecref60" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> a new monitoring system was introduced for measuring progress towards implementation of the 17 SDGs. Although monitoring the SDGs is undoubtedly important, we believe that the indicators for monitoring the achievement of the goals must be accompanied by critical attention to ambiguities of accountability inherent in the Agenda itself.</ce:para>
+               <ce:para id="para30" view="all">The Agenda is making big promises, such as “we are determined to end poverty and hunger, in all their forms”.<ce:cross-ref id="cecref70" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> At the same time, the Agenda distinguishes between the “we” making the promise and the “we” that is responsible for keeping it: “we have mapped the road to sustainable development; it will be for all of us to ensure that the journey is successful”.<ce:cross-ref id="cecref80" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> By mapping the road, the first “we” has done its deed. It is now up to a new and broader “we” to “ensure that the journey is successful”.<ce:cross-ref id="cecref90" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> This journey will “involve Governments as well as parliaments, the United Nations system and other international institutions, local authorities, indigenous peoples, civil society, business and the private sector, the scientific and academic community—and all people”.</ce:para>
+               <ce:para id="para40" view="all">The UN 2030 Agenda for Sustainable Development declaration (Oct 25, 2015) launches a double-duty paradox: sustainable development is about both committing oneself to a promise and committing others to an obligation. Responsibility becomes both all-encompassing and non-existent. The SDGs become everyone's business but no-one's major responsibility. Indeed, should we even come close to achieving the SDGs, we must be able to hold specific agents to account. The responsibility for achieving the goals cannot be entrusted to an unidentifiable and all-encompassing “we”. If everyone is accountable in theory, no one is accountable in practice.</ce:para>
+               <ce:para id="para50" view="all">In addition to adequate measurements and indicators, we believe that there is a need for a robust formative evaluation system that scrutinises accountability mechanisms and possible double-duty paradoxes embedded in the operationalisation and implementation of the SDGs.</ce:para>
+               <ce:para id="para60" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Transforming our world: the 2030 Agenda for Sustainable Development</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="https://sustainabledevel%20opment.un.org/post2015transformingour%20world" xlink:type="simple">https://sustainabledevel%20opment.un.org/post2015transformingour%20world</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Sept 18, 2016).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>OP</ce:given-name>
+                                 <ce:surname>Ottersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Dasgupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Blouin</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The political origins of health inequality:prospects for change</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>383</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>630</sb:first-page>
+                              <sb:last-page>667</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>GBD 2015 SDG Collaborators</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease Study 2015</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>388</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1813</sb:first-page>
+                              <sb:last-page>1850</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

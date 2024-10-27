@@ -1,0 +1,615 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1642359318301691</prism:url><dc:identifier>doi:10.1016/j.ecohyd.2018.08.001</dc:identifier><eid>1-s2.0-S1642359318301691</eid><prism:doi>10.1016/j.ecohyd.2018.08.001</prism:doi><pii>S1642-3593(18)30169-1</pii><dc:title>Advancement in Ecohydrology, Biotechnology and Engineering for Sustainable Development Goals – EcoSummit2016 </dc:title><prism:publicationName>Ecohydrology &amp; Hydrobiology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>16423593</prism:issn><prism:volume>18</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>245</prism:startingPage><prism:endingPage>246</prism:endingPage><prism:pageRange>245-246</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2018-07-31</prism:coverDate><prism:coverDisplayDate>July 2018</prism:coverDisplayDate><prism:copyright>© 2018 Published by Elsevier B.V. on behalf of European Regional Centre for Ecohydrology of the Polish Academy of Sciences.</prism:copyright><prism:publisher>Published by Elsevier B.V. on behalf of European Regional Centre for Ecohydrology of the Polish Academy of Sciences.</prism:publisher><prism:issueName>Advancements in Ecohydrology, Biotechnology and Engineering for Sustainable Development Goals</prism:issueName><dc:creator>Okruszko, Tomasz</dc:creator><dc:creator>Zalewski, Maciej</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S1642359318301691" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1642359318301691" rel="scidir"/></coredata><scopus-id>85054810533</scopus-id><scopus-eid>2-s2.0-85054810533</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85054810533" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>286270</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291707</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291780</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="subj">291830</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ecohydrology &amp; Hydrobiology</xocs:srctitle>
+      <xocs:normalized-srctitle>ECOHYDROLOGYHYDROBIOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20181016">2018-10-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20181016">2018-10-16</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20181016">2018-10-16</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20181016">2018-10-16</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-10-24T12:00:13</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1642359318301691</xocs:eid>
+      <xocs:pii-formatted>S1642-3593(18)30169-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1642359318301691</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ecohyd.2018.08.001</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1642359318X00032</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20181024">2018-10-24T12:58:44.821238Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180701</xocs:date-search-begin>
+      <xocs:date-search-end>20180731</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1539720209">2018-10-16T20:03:29.584012Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1642-3593</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>16423593</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>18</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>18</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 18, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>1</xocs:sort-order>
+      <xocs:first-fp>245</xocs:first-fp>
+      <xocs:last-lp>246</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>245</xocs:first-page>
+         <xocs:last-page>246</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201807</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>July 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-07-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-07-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Advancements in Ecohydrology, Biotechnology and Engineering for Sustainable Development Goals</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S1642359318X00032-53059b2c3891566295563fb7509a2204">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Tomasz</ce:given-name>
+                     <ce:surname>Okruszko</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S1642359318X00032-48fb2a44164bc7132b34277d0357bfd9">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Maciej</ce:given-name>
+                     <ce:surname>Zalewski</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Guest Editorial</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Published by Elsevier B.V. on behalf of European Regional Centre for Ecohydrology of the Polish Academy of Sciences.</xocs:copyright-line>
+      <xocs:normalized-article-title>ADVANCEMENTINECOHYDROLOGYBIOTECHNOLOGYENGINEERINGFORSUSTAINABLEDEVELOPMENTGOALSECOSUMMIT2016</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>OKRUSZKO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>Literature</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>COLES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>262</xocs:ref-first-fp>
+            <xocs:ref-last-lp>268</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>HADDAWAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>247</xocs:ref-first-fp>
+            <xocs:ref-last-lp>261</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>KANDZIORA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>47</xocs:ref-first-fp>
+            <xocs:ref-last-lp>59</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>MALLICK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>278</xocs:ref-first-fp>
+            <xocs:ref-last-lp>299</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>NAKAYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>269</xocs:ref-first-fp>
+            <xocs:ref-last-lp>277</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>PARZYCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>300</xocs:ref-first-fp>
+            <xocs:ref-last-lp>309</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>353</xocs:ref-first-fp>
+            <xocs:ref-last-lp>356</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>ZALEWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A4014012</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>OKRUSZKOX2018X245</xocs:refkey3>
+         <xocs:refkey4lp>OKRUSZKOX2018X245X246</xocs:refkey4lp>
+         <xocs:refkey4ai>OKRUSZKOX2018X245XT</xocs:refkey4ai>
+         <xocs:refkey5>OKRUSZKOX2018X245X246XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2019-10-16T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-10-16T00:00:00.000Z</xocs:sa-start-date>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Published by Elsevier B.V. on behalf of European Regional Centre for Ecohydrology of the Polish Academy of Sciences.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1642-3593(18)30169-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1642359318301691</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1642359318301691</xocs:eid>
+         <xocs:doi>10.1016/j.ecohyd.2018.08.001</xocs:doi>
+         <xocs:cid>286270</xocs:cid>
+         <xocs:timestamp>2018-10-24T12:58:44.821238Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-07-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-07-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1642359318301691-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1642359318301691/MAIN/application/pdf/6c1cfbf401b06e5fda2b2a290c817366/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1642359318301691/MAIN/application/pdf/6c1cfbf401b06e5fda2b2a290c817366/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>182490</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1642359318301691-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1642359318301691/PREVIEW/image/png/b23a6abb4e76a39fb61388a6e842d2b0/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1642359318301691/PREVIEW/image/png/b23a6abb4e76a39fb61388a6e842d2b0/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63071</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="edi">
+         <item-info>
+            <jid>ECOHYD</jid>
+            <aid>199</aid>
+            <ce:pii>S1642-3593(18)30169-1</ce:pii>
+            <ce:doi>10.1016/j.ecohyd.2018.08.001</ce:doi>
+            <ce:copyright type="unknown" year="2018"/>
+         </item-info>
+         <simple-head>
+            <ce:title id="tit0005">Advancement in Ecohydrology, Biotechnology and Engineering for Sustainable Development Goals – EcoSummit2016</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S1642359318301691-53059b2c3891566295563fb7509a2204">
+                  <ce:given-name>Tomasz</ce:given-name>
+                  <ce:surname>Okruszko</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0010" author-id="S1642359318301691-48fb2a44164bc7132b34277d0357bfd9">
+                  <ce:given-name>Maciej</ce:given-name>
+                  <ce:surname>Zalewski</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0020" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S1642359318301691-82d480568b7e694dfcf020a788059fb3">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Faculty of Civil and Environmental Engineering, Department of Water Engineering and Environment Restoration, Warsaw University of Life Sciences – SGGW, NOWOURSYNOWSKA 166 ST. WARSAW</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Faculty of Civil and Environmental Engineering, Department of Water Engineering and Environment Restoration, Warsaw University of Life Sciences – SGGW, NOWOURSYNOWSKA 166 ST. WARSAW</sa:organization>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S1642359318301691-aaea4c10db71af51ab56f7dc0dc21e24">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>European Regional Centre for Ecohydrology of the Polish Academy of Sciences, Tylna 3, Łódź, Poland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>European Regional Centre for Ecohydrology of the Polish Academy of Sciences, Tylna 3</sa:organization>
+                     <sa:city>Łódź</sa:city>
+                     <sa:country>Poland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S1642359318301691-d2846e43792ef0ae22e4b8e73254e9dc">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Applied Ecology, Faculty of Biology and Environmental Protection, University of Łódź, Banacha 12/16, Łódź, Poland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Applied Ecology, Faculty of Biology and Environmental Protection, University of Łódź, Banacha 12/16</sa:organization>
+                     <sa:city>Łódź</sa:city>
+                     <sa:country>Poland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="par0005" view="all">The Ecosummit conference series was founded in 1996 in Copenhagen, in order to get better insight and better understanding of the emerging concepts and methods for the use of ecology in environmental management. This in the context of increasing global sustainability problem that need urgent innovative solutions based on the integrative environmental sciences. From the policy-oriented perspective it has been expressed by Ogburn in 2010 “<ce:italic>Legal system and politics in the range of non-material values, moral and believes, changes much slower than economic processes</ce:italic>”. However, from the environmental sciences perspective it was underlined in the Columbus Declaration, “<ce:italic>We are living in the Anthropocene Era when almost 80% of our usable ecosphere has been conditioned, converted, and consumed by humans, usually without understanding the full consequences of our actions</ce:italic>”.</ce:para>
+               <ce:para id="par0010" view="all">Speakers on EcoSummit2016 session: Ecohydrology, Biotechnology and Engineering for Sustainable Development Goals focused on the actual challenge of approaching the limits of global carrying capacity, induced by the parallel degradation of global environment and population growth. For years Ecohydrology, as a scientific paradigm, has emphasized that water is the common denominator and regulator of many types of ecological and geochemical processes, such as nutrient circulation and energy flow, which determines the degree of biodiversity, bioproductivity and availability of ecosystem services for the society (<ce:cross-ref id="crf0025" refid="bib0040">Zalewski, 2014</ce:cross-ref>). However unprecedented situation of endangered ecosystems on a global scale calls for a stronger mutual dialog between policy makers, environmental and engineering sciences to look for acceptable solutions towards the harmony between the biogeosphere and humanity.</ce:para>
+               <ce:para id="par0015" view="all">This special issue compiles articles, which general idea is to bring advances in new approaches and technologies ready for use to achieve the Sustainable Development Goals. First paper of <ce:cross-ref id="crf0030" refid="bib0010">Haddaway et al. (2018)</ce:cross-ref> shows that it is not an easy task, when it comes to definitions. Using thematic synthesis, authors generate a conceptual framework for definitions of the term ‘ecotechnology’ based on themes that emerge across all explicit definitions. Of the 77 carbon and nutrients focused articles providing definitions, almost half used the term ‘ecotechnology’ as a buzzword. Some 38 themes were identified across the 49 explicit definitions and these were clustered into 9 separate groups. Citing the Authors: “The danger with buzzwords is that they are applied in widely varied contexts with differing intentions, resulting in misunderstandings or a hollow term that lacks meaning. However, buzzwords often gain popularity because they trigger an emotional reaction or conceptual picture that resonate strongly with many people. In this sense, buzzwords can be very powerful tools for uniting people around common concepts.”</ce:para>
+               <ce:para id="par0020" view="all">The paper of <ce:cross-ref id="crf0035" refid="bib0025">Nakayama and Maksyutov (2018)</ce:cross-ref> brings challenge of the world large mires as sources and sinks of greenhouse gasses (<ce:cross-ref id="crf0040" refid="bib0035">Smith et al., 2004</ce:cross-ref>) and appropriate analytical tools to coupe with this problem. Authors present the improvements (new simulation system through coordinate transformation) applied to ecohydrological simulation model, tested in two different locations: Hokkaido Islands and West Siberian lowlands of the River Ob floodplains. The revised model showed clearly the connectivity between groundwater and inundated flow in the flat region of the wetlands. This result would play an important role in the improvement of understanding of the biogeochemical activity in the higher latitude regions and identifying carbon cycle along terrestrial-aquatic continuum in continental and/or global scales.</ce:para>
+               <ce:para id="par0025" view="all">The next two papers of <ce:cross-ref id="crf0045" refid="bib0005">Coles N.A. et al.,</ce:cross-ref> and <ce:cross-ref id="crf0050" refid="bib0020">Priyanka Halder M. and Chakraborty S.</ce:cross-ref> (both this issue) focuses on the use of Ecosystem Services (ES) concept for better decision making in the sustainable development context. However, they tackle the problem from two different perspectives. In the first paper, authors propose to approach building an Integrated Multifunctional ES Analytical Framework (IMESAF), which should span diverse fields of inquiry needed for appropriate delivery of environmental and productivity outcomes. Authors have proved that variable land use intensities and landscape configurations impact differentially on selected ecosystem functions and services, moreover, the ecosystem services are often interrelated in dynamic and complex ways and provide an avenue, if appropriately coupled, to a more balanced multifunctional production system. Second paper, in the case study of Gurguripal Forest in West Bengal (India) explores the role of restoration projects within forest-wetland ecosystem in conserving biodiversity and maintaining the sustained flow of ES. The study sets a benchmark for future studies enabling comparison of real-life datasets related to forest and wetland ES by coupling remote sensed data, multi-decade data sets comparison and local population surveys (see also <ce:cross-ref id="crf0055" refid="bib0015">Kandziora et al., 2013</ce:cross-ref>). By using this methodology authors were able to confirm positive effects of watershed management initiated by forest department, involving local people ultimately causing reduction in the proportion of degraded land and an increase in green coverage through retaining surface water. So formed small wetlands not only serve as a source of water, but also enrich biodiversity, multifariously benefit the local people and overall multiply the value of ES.</ce:para>
+               <ce:para id="par0030" view="all">An interesting example of nature based solution able to cope with heavy metal pollution is given in the paper of <ce:cross-ref id="crf0060" refid="bib0030">Parzych and Sobisz (2018)</ce:cross-ref>. Experiment with <ce:italic>Typha Latifollia</ce:italic> rooted in ponds of varying degrees of pollution proved high ability of this plant to translocation of Mn, Cd, Sr and Ni from rhizomes to leaves. This increases the portfolio of vegetation which can be used for phytoremediation.</ce:para>
+               <ce:para id="par0035" view="all">The variety of analytical tools, present in this special issue, which can be used to increase our chances for achieving the sustainability goals can rise the doubts if SDG does not become another “buzzword”. But again we can cite after Haddaway and co-authors:” Indeed, given the existing environmental crisis, we are keenly in need of common visions to unite common action. The strength of the Sustainable Development Goals (SDGs) is not so much the targets, as it is the uniting of people around a common goal. While we are not likely to achieve all of the targets included in the SDGs, the striving for them will surely move the world in a more sustainable direction.”</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0005">Literature</ce:section-title>
+               <ce:bibliography-sec id="bibs0015" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Coles et al., 2017</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Coles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Volk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ecoservices and multifunctional landscapes: Balancing the benefits of integrated ES-based water resources, agricultural and forestry production systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecohydrology &amp; Hydrobiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>262</sb:first-page>
+                              <sb:last-page>268</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Haddaway et al., 2018</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.R.</ce:given-name>
+                                 <ce:surname>Haddaway</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>McConville</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Piniewski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How is the term ‘ecotechnology’used in the research literature?. A systematic review with thematic synthesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecohydrology &amp; Hydrobiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>247</sb:first-page>
+                              <sb:last-page>261</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Kandziora et al., 2013</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kandziora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Burkhard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>M_ller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping provisioning ecosystem services at the local scale using data of varying spatial and temporal resolution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecosystem Services</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>47</sb:first-page>
+                              <sb:last-page>59</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Mallick and Chakraborty, 2018</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Mallick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chakraborty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Forest, wetland and biodiversity: Revealing multi-faceted ecological services from ecorestoration of a degraded tropical landscape</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecohydrology &amp; Hydrobiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>278</sb:first-page>
+                              <sb:last-page>299</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Nakayama and Maksyutov, 2018</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nakayama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Maksyutov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of process-based eco-hydrological model to broader northern Eurasia wetlands through coordinate transformation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecohydrology &amp; Hydrobiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>269</sb:first-page>
+                              <sb:last-page>277</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>Parzych and Sobisz, 2018</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Parzych</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Sobisz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The accumulation of trace elements in organs of Typha latifolia L. in rural pond ecosystems with varying degrees of pollution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ecohydrology &amp; Hydrobiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>300</sb:first-page>
+                              <sb:last-page>309</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>Smith et al., 2004</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>MacDonald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Velichko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Beilman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.K.</ce:given-name>
+                                 <ce:surname>Borisova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Frey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.V.</ce:given-name>
+                                 <ce:surname>Kremenetski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Siberian peatlands a net carbon sink and global methane source since the Early Holocene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>303</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>353</sb:first-page>
+                              <sb:last-page>356</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>Zalewski, 2014</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zalewski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ecohydrology and hydrologic engineering: regulation of hydrology-biota interactions for sustainability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Hydrologic Engineering</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A4014012</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

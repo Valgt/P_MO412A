@@ -1,0 +1,631 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673622010613</prism:url><dc:identifier>doi:10.1016/S0140-6736(22)01061-3</dc:identifier><eid>1-s2.0-S0140673622010613</eid><prism:doi>10.1016/S0140-6736(22)01061-3</prism:doi><pii>S0140-6736(22)01061-3</pii><dc:title>A compassion narrative for the sustainable development goals: conscious and connected action </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>01406736</prism:issn><prism:volume>400</prism:volume><prism:issueIdentifier>10345</prism:issueIdentifier><prism:startingPage>7</prism:startingPage><prism:endingPage>8</prism:endingPage><prism:pageRange>7-8</prism:pageRange><prism:number>10345</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2022-07-08</prism:coverDate><prism:coverDisplayDate>2–8 July 2022</prism:coverDisplayDate><prism:copyright>© 2022 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Grant, Liz</dc:creator><dc:creator>Reid, Corinne</dc:creator><dc:creator>Buesseler, Heather</dc:creator><dc:creator>Addiss, David</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673622010613" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673622010613" rel="scidir"/></coredata><scopus-id>85133241475</scopus-id><scopus-eid>2-s2.0-85133241475</scopus-eid><pubmed-id>35780795</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85133241475" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220701">2022-07-01</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220701">2022-07-01</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220701">2022-07-01</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220701">2022-07-01</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-06-15T20:54:20</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673622010613</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(22)01061-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673622010613</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(22)01061-3</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.5</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673622X00275</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230615">2023-06-15T20:02:48.080145Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220702</xocs:date-search-begin>
+      <xocs:date-search-end>20220708</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1656640830">2022-07-01T02:00:30.335261Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>400</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>400</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10345</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10345</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 400, Issue 10345</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>7</xocs:first-fp>
+      <xocs:last-lp>8</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>7</xocs:first-page>
+         <xocs:last-page>8</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20220702</xocs:start-date>
+         <xocs:end-date>20220708</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2–8 July 2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-07-02</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-07-08</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ACOMPASSIONNARRATIVEFORSUSTAINABLEDEVELOPMENTGOALSCONSCIOUSCONNECTEDACTION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GRANT</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TRANSFORMINGWORLD2030AGENDAFORSUSTAINABLEDEVELOPMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20"/>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>HORTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-article-number>2196
+							</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40"/>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>GILBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>586161
+							</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>HORTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>1764
+							</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>WORLINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>AWAKENINGCOMPASSIONWORKQUIETPOWERELEVATESPEOPLEORGANIZATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80"/>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-normalized-surname>HARREL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1450</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1452</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GRANTX2022X7</xocs:refkey3>
+         <xocs:refkey4lp>GRANTX2022X7X8</xocs:refkey4lp>
+         <xocs:refkey4ai>GRANTX2022X7XL</xocs:refkey4ai>
+         <xocs:refkey5>GRANTX2022X7X8XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2023-01-01T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2023-01-01T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(22)01061-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673622010613</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673622010613</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(22)01061-3</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2023-06-15T20:02:48.080145Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-07-02</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-07-08</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673622010613-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673622010613/MAIN/application/pdf/a3274c271279ff42e244cfb0c276d7b3/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>70828</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673622010613-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673622010613/PREVIEW/image/png/b70aaded1981012d9513d2e628411c0a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>75551</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>11971</aid>
+            <ce:pii>S0140-6736(22)01061-3</ce:pii>
+            <ce:doi>10.1016/S0140-6736(22)01061-3</ce:doi>
+            <ce:copyright type="full-transfer" year="2022">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <ce:floats>
+            <ce:textbox id="box1">
+               <ce:label>Panel</ce:label>
+               <ce:caption id="cecap10">
+                  <ce:simple-para id="spara10" role="caption" view="all">A framework to support compassion-in-action</ce:simple-para>
+               </ce:caption>
+               <ce:textbox-body>
+                  <ce:sections>
+                     <ce:para id="para10" view="all">
+                        <ce:list id="celist10">
+                           <ce:list-item id="celistitem10">
+                              <ce:label>1</ce:label>
+                              <ce:para id="para20" view="all">Urgently identify compassion as a key social determinant of human survival and flourishing, not just in an evolutionary sense but now and in the future</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem20">
+                              <ce:label>2</ce:label>
+                              <ce:para id="para30" view="all">Explicitly recognise in key policy frameworks the essential role of compassion in bringing the SDGs to fruition</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem30">
+                              <ce:label>3</ce:label>
+                              <ce:para id="para40" view="all">Incorporate a clear compassion-in-action approach to support its operationalisation—acting in compassion is a choice, not a by-product</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem40">
+                              <ce:label>4</ce:label>
+                              <ce:para id="para50" view="all">Recognise the human dynamics and complexities of the global context and the importance of strong relationships based in care of each other to make progress for the SDGs</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem50">
+                              <ce:label>5</ce:label>
+                              <ce:para id="para60" view="all">Nurture, recognise, and harness mutual respect through co-design and side-by-side action in all aspects</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem60">
+                              <ce:label>6</ce:label>
+                              <ce:para id="para70" view="all">Educate leaders and emerging leaders about compassion-in-action, emphasising human-centredness and sustained, courageous decision making that challenges inequities</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem70">
+                              <ce:label>7</ce:label>
+                              <ce:para id="para80" view="all">Triage SDG failures or stalemates through a compassion-in-action lens, both to learn from mistakes and to reset a sustainable trajectory towards success</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem80">
+                              <ce:label>8</ce:label>
+                              <ce:para id="para90" view="all">Create pathways for compassion-in-action incorporating practices that include careful listening, commitment to equality in partnerships, endurance in overcoming obstacles, and being patiently present in addressing conflict that is inherent in navigating global challenges</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem90">
+                              <ce:label>9</ce:label>
+                              <ce:para id="para100" view="all">Develop and share the narratives of successful examples of compassion-in-action</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem100">
+                              <ce:label>10</ce:label>
+                              <ce:para id="para110" view="all">Develop language for policy and practice that reflects compassionate principles</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="celistitem110">
+                              <ce:label>11</ce:label>
+                              <ce:para id="para120" view="all">Build systems that support intergenerational transmission of compassion for future generations—from early childhood throughout the lifespan</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                  </ce:sections>
+               </ce:textbox-body>
+            </ce:textbox>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">A compassion narrative for the sustainable development goals: conscious and connected action</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S0140673622010613-e8e346981dfb71e858762fd4488997bf">
+                  <ce:given-name>Liz</ce:given-name>
+                  <ce:surname>Grant</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S0140673622010613-a9db7a336aff4d31986fcae50f79e4f2">
+                  <ce:given-name>Corinne</ce:given-name>
+                  <ce:surname>Reid</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30" author-id="S0140673622010613-8588cd4b6c0ff1a15f8ec2458f5b0b42">
+                  <ce:given-name>Heather</ce:given-name>
+                  <ce:surname>Buesseler</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au40" author-id="S0140673622010613-af4d60a553c7294e9c0d05a257c2aadf">
+                  <ce:given-name>David</ce:given-name>
+                  <ce:surname>Addiss</ce:surname>
+                  <ce:cross-ref id="cecref40" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0140673622010613-57cf013c47ce4800308cf80d61f035aa">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Global Health Academy, University of Edinburgh, Edinburgh EH8 9AG, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Global Health Academy</sa:organization>
+                     <sa:organization>University of Edinburgh</sa:organization>
+                     <sa:city>Edinburgh</sa:city>
+                     <sa:postal-code>EH8 9AG</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext10">Global Health Academy, University of Edinburgh, Edinburgh EH8 9AG, UK</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0140673622010613-5115d4faf77a3ae9d29f64f3f46b0a1e">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>The Task Force for Global Health, Decatur, GA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>The Task Force for Global Health</sa:organization>
+                     <sa:city>Decatur</sa:city>
+                     <sa:state>GA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext20">The Task Force for Global Health, Decatur, GA, USA</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para130" view="all">At the midpoint of the 15-year timeline for achieving the UN Sustainable Development Goals (SDGs),<ce:cross-ref id="cecref50" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> the world is unprepared. The global community arguably has the scientific, technical, and political tools needed to achieve most, if not all, of the 169 SDG targets, yet we are far from the finish line. In 2019, UN Secretary General António Guterres warned that global efforts were insufficient and called for radical change.<ce:cross-ref id="cecref60" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> Such change never materialised. The COVID-19 pandemic shocked many of the systems needed to achieve the SDGs, revealing deep inequities and the inadequacy of siloed approaches to health and false divides between the education, health, environment, energy, and economic sectors.</ce:para>
+               <ce:para id="para140" view="all">In 2014, Richard Horton, the Editor-in-Chief of <ce:italic>The Lancet</ce:italic>, noted that the concept of sustainability embedded in the SDGs was flawed, given the failure to connect physical systems with human systems.<ce:cross-ref id="cecref70" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> The human dimensions of sustainability, such as wellbeing, capability, intergenerational equity, and socioeconomic and cultural systems, determine our capacity to adapt and thrive. How societies treat all peoples, and how we honour the past and care for the future, matter.</ce:para>
+               <ce:para id="para150" view="all">The 2022 UN Development Programme (UNDP) Special Report<ce:cross-ref id="cecref80" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> describes an existential human crisis, with fear, mistrust, and apprehension rising globally. Achieving the SDGs seems unlikely. We need to redefine what progress actually means, said Achim Steiner, Administrator of the UNDP.<ce:cross-ref id="cecref90" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> We need to radically reposition values as the drivers of the SDGs. Could compassion sit at the centre of this repositioning?</ce:para>
+               <ce:para id="para160" view="all">Compassion facilitates cooperation and protection of the vulnerable in a world that requires social connection for survival.<ce:cross-ref id="cecref100" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> Compassion is about coming together to alleviate suffering and nurture human flourishing. These two ideas—of intentional togetherness and of suffering—are at the heart of the SDGs. Under each of the SDGs lies an abyss of suffering. The economic, social, and political costs of this suffering are laid out in myriad statistics, but the faces of the people who suffer remain hidden. The crises societies face are human in origin.<ce:cross-ref id="cecref110" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref> Monica Worline and Jane Dutton<ce:cross-ref id="cecref120" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> describe compassion as a four-part process of noticing pain and suffering; interpreting suffering; feeling empathic concern; and acting to alleviate suffering. Compassion asks that the human suffering that lies beneath each SDG is recognised and that we acknowledge our part in contributing to it. The experience of a common humanity leads us to compassion and creates a space for trust and care. Most importantly, compassion demands action—not the action of “doing to” or “doing for” someone, but action that arises from “being with”—coming together to alleviate suffering and promote flourishing. Compassion leaves no one behind.</ce:para>
+               <ce:para id="para170" view="all">The actions needed to achieve the SDGs are inherently complex: they must align multiple international standards and regulatory frameworks to promote technological, economic, health, and political advances, and they must be premised in human rights, inclusion, and equity. Achieving the SDGs requires active accompaniment in relationships of trust. Compassion encourages solidarity, humility, transparency, stability, service to each other, a sense of the greater goal or good, and an investment in equity as the platform upon which humanity's survival depends. The late Archbishop Emeritus Desmond Tutu (1931–2021) spoke of compassion “not just feeling with someone, but seeking to change the situation…If you are going to be compassionate, be prepared for action!”<ce:cross-ref id="cecref130" refid="bib8">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref> Navigating challenging conversations, bridging cultural divides, empowering others (sometimes at the cost of individuals’ and organisations’ own power), and managing complexity require courageous compassion.<ce:cross-ref id="cecref140" refid="bib9">
+                     <ce:sup loc="post">9</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para180" view="all">There is a need for an understanding of how to achieve compassion-in-action in the context of intractable, complex global challenges. Such expertise exists but is rarely foregrounded in global health. We propose a compassion-in-action framework that prioritises ethical principles and is driven by values (<ce:cross-ref id="cecref150" refid="box1">panel</ce:cross-ref>
+                  <ce:float-anchor refid="box1"/>).</ce:para>
+               <ce:para id="para190" view="all">A final reason why compassion may help us regain momentum lies in the formation of the SDGs. Echoing the preamble to the UN Charter, We the Peoples of the United Nations,<ce:cross-ref id="cecref160" refid="bib10">
+                     <ce:sup loc="post">10</ce:sup>
+                  </ce:cross-ref> the 193 countries who came together to sign SDGs into action signalled partnership. Compassion is embodied in partnerships. Partnerships that are premised on compassion provide the strongest systems, services, and communities for humanity. If SDG17—the goal of partnerships—can bring the goals together, compassion can enable the relationships needed for delivery to flourish.</ce:para>
+               <ce:para id="para200" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transforming our world: the 2030 agenda for sustainable development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext30">UN. Transforming our world: the 2030 agenda for sustainable development. New York, NY: United Nations, 2015.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development Goals Report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="https://www.un.org/en/desa/sustainable-development-goals-report-2019" xlink:type="simple">https://www.un.org/en/desa/sustainable-development-goals-report-2019</ce:inter-ref>
+                              <sb:date>2019</sb:date>
+                              <sb:date-accessed day="8" month="6" year="2022"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext40">UN. Sustainable Development Goals Report 2019. https://www.un.org/en/desa/sustainable-development-goals-report-2019 (accessed June 8, 2022).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Horton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Offline: why the Sustainable Development Goals will fail</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>383</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:article-number>2196
+							</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext50">Horton R. Offline: why the Sustainable Development Goals will fail. Lancet 2015; 383: 2196.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN Development Programme</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>UNDP 2022 Special Report. New threats to human security in the Anthropocene: demanding greater solidarity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="https://hs.hdr.undp.org/" xlink:type="simple">https://hs.hdr.undp.org/</ce:inter-ref>
+                              <sb:date>2022</sb:date>
+                              <sb:date-accessed day="8" month="6" year="2022"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext60">UN Development Programme. UNDP 2022 Special Report. New threats to human security in the Anthropocene: demanding greater solidarity 2022. https://hs.hdr.undp.org/ (accessed June 8, 2022).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Gilbert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Compassion: from its evolution to a psychotherapy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front Psychol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>586161
+							</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext70">Gilbert P. Compassion: from its evolution to a psychotherapy. Front Psychol 2020; 11: 586161.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Horton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Offline: Gradually, then suddenly</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>399</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>1764
+							</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext80">Horton R. Offline: Gradually, then suddenly. Lancet 2022; 399: 1764.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Worline</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JE</ce:given-name>
+                                 <ce:surname>Dutton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Awakening compassion at work: the quiet power that elevates people and organizations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Berrett-Koehler Publishers</sb:name>
+                                 <sb:location>Oakland, CA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext90">Worline M, Dutton JE. Awakening compassion at work: the quiet power that elevates people and organizations. Oakland, CA: Berrett-Koehler Publishers, 2017.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Charter for Compassion</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Desmond Tutu on Compassion: Charter for Compassion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="https://charterforcompassion.org/index.php/becoming-compassionate/desmond-tutu-on-compassion" xlink:type="simple">https://charterforcompassion.org/index.php/becoming-compassionate/desmond-tutu-on-compassion</ce:inter-ref>
+                              <sb:date-accessed day="8" month="6" year="2022"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext100">Charter for Compassion. Desmond Tutu on Compassion: Charter for Compassion. https://charterforcompassion.org/index.php/becoming-compassionate/desmond-tutu-on-compassion (accessed June 8, 2022).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Harrel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Berland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Jacobson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DG</ce:given-name>
+                                 <ce:surname>Addiss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Compassionate leadership: essential for the future of tropical medicine and global health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Am J Trop Med Hyg</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1450</sb:first-page>
+                              <sb:last-page>1452</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext110">Harrel E, Berland L, Jacobson J, Addiss DG. Compassionate leadership: essential for the future of tropical medicine and global health. Am J Trop Med Hyg 2021; 105: 1450–52.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>United Nations Charter</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:href="https://www.un.org/en/about-us/un-charter/full-text" xlink:type="simple">https://www.un.org/en/about-us/un-charter/full-text</ce:inter-ref>
+                              <sb:date-accessed day="8" month="6" year="2022"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext120">United Nations. United Nations Charter. https://www.un.org/en/about-us/un-charter/full-text (accessed June 8, 2022).</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

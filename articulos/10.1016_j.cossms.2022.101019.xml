@@ -1,0 +1,1082 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1359028622000390</prism:url><dc:identifier>doi:10.1016/j.cossms.2022.101019</dc:identifier><eid>1-s2.0-S1359028622000390</eid><prism:doi>10.1016/j.cossms.2022.101019</prism:doi><pii>S1359-0286(22)00039-0</pii><dc:title>Conductive-synthetic diamond materials in meeting the sustainable development goals </dc:title><prism:publicationName>Current Opinion in Solid State and Materials Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>13590286</prism:issn><prism:volume>26</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>101019</prism:startingPage><prism:pageRange>101019</prism:pageRange><prism:number>5</prism:number><articleNumber>101019</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2022-10-31</prism:coverDate><prism:coverDisplayDate>October 2022</prism:coverDisplayDate><prism:copyright>© 2022 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Martínez-Huitle, Carlos A.</dc:creator><dc:creator>Einaga, Yasuaki</dc:creator><dc:creator>Oturan, Mehmet A.</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S1359028622000390" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1359028622000390" rel="scidir"/></coredata><scopus-id>85132223908</scopus-id><scopus-eid>2-s2.0-85132223908</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85132223908" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272101</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Current Opinion in Solid State and Materials Science</xocs:srctitle>
+      <xocs:normalized-srctitle>CURRENTOPINIONINSOLIDSTATEMATERIALSSCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220617">2022-06-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220617">2022-06-17</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220617">2022-06-17</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220617">2022-06-17</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-03-11T18:58:54</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1359028622000390</xocs:eid>
+      <xocs:pii-formatted>S1359-0286(22)00039-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1359028622000390</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cossms.2022.101019</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1359028622X00053</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230311">2023-03-11T19:40:29.729435Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20221001</xocs:date-search-begin>
+      <xocs:date-search-end>20221031</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1655440039">2022-06-17T04:27:19.316868Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body acknowledge affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1359-0286</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13590286</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>26</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>26</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 26, Issue 5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>101019</xocs:first-fp>
+      <xocs:article-number>101019</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>101019</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202210</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>October 2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-10-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-10-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CONDUCTIVESYNTHETICDIAMONDMATERIALSINMEETINGSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MARTINEZHUITLE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>BROUWER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>110</xocs:ref-first-fp>
+            <xocs:ref-last-lp>116</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>MISHRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>ALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1052</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1053</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-last-lp>204</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>MARTINEZHUITLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>62</xocs:ref-first-fp>
+            <xocs:ref-last-lp>71</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>LIPS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1649</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1660</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>SOUZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100890</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>BOGDANOWICZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100991</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>CAROLINAESPINOZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100963</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100922</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>OTURAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100925</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>MARTINEZHUITLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100926</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>DEOLIVEIRASILVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100962</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>ESPINOZAMONTERO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100988</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>DIVYAPRIYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100921</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>CORNEJO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100935</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MARTINEZHUITLEX2022X101019</xocs:refkey3>
+         <xocs:refkey4ai>MARTINEZHUITLEX2022X101019XC</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2024-06-17T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2024-06-17T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-06-11T01:02:26.299Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1359-0286(22)00039-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1359028622000390</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1359028622000390</xocs:eid>
+         <xocs:doi>10.1016/j.cossms.2022.101019</xocs:doi>
+         <xocs:cid>272101</xocs:cid>
+         <xocs:timestamp>2023-03-11T19:40:29.729435Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-10-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-10-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1359028622000390-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359028622000390/MAIN/application/pdf/c5ac9ac409bc31b7ec39c3726bcc48c6/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>332514</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1359028622000390-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359028622000390/PREVIEW/image/png/7fd2d76cefe02b3eff19dde125002456/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73785</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>COSSMS</jid>
+            <aid>101019</aid>
+            <ce:article-number>101019</ce:article-number>
+            <ce:pii>S1359-0286(22)00039-0</ce:pii>
+            <ce:doi>10.1016/j.cossms.2022.101019</ce:doi>
+            <ce:copyright type="full-transfer" year="2022">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="dh005">
+               <ce:textfn>Editorial overview</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tm005">Conductive-synthetic diamond materials in meeting the sustainable development goals</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S1359028622000390-3a9a425206cfebcd88f824b449ef2268">
+                  <ce:given-name>Carlos A.</ce:given-name>
+                  <ce:surname>Martínez-Huitle</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au010" author-id="S1359028622000390-753e62b5cb623556d311711c698062d4">
+                  <ce:given-name>Yasuaki</ce:given-name>
+                  <ce:surname>Einaga</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0020">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au015" author-id="S1359028622000390-fe1c5ddc1877cca6c50778a160cef20f">
+                  <ce:given-name>Mehmet A.</ce:given-name>
+                  <ce:surname>Oturan</ce:surname>
+                  <ce:cross-ref refid="af015" id="c0025">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0030">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S1359028622000390-3f956ef189da86d0934767e55b240a52">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Instituto de Química, Universidade Federal do Rio Grande do Norte, Lagoa Nova, CEP 59.072-900, RN, Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Instituto de Química</sa:organization>
+                     <sa:organization>Universidade Federal do Rio Grande do Norte</sa:organization>
+                     <sa:address-line>Lagoa Nova, CEP 59.072-900</sa:address-line>
+                     <sa:state>RN</sa:state>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">Instituto de Química, Universidade Federal do Rio Grande do Norte, Lagoa Nova, CEP 59.072-900, RN, Brazil</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S1359028622000390-c8fc284ac1d516cbb8399051a36a5b39">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Chemistry, Keio University, 3-14-1 Hiyoshi, Yokohama 223-8522, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>Keio University</sa:organization>
+                     <sa:address-line>3-14-1 Hiyoshi</sa:address-line>
+                     <sa:city>Yokohama</sa:city>
+                     <sa:postal-code>223-8522</sa:postal-code>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">Department of Chemistry, Keio University, 3-14-1 Hiyoshi, Yokohama 223-8522, Japan</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af015" affiliation-id="S1359028622000390-74f9a8c14d1eabf49b0dc0f566e2d51e">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Université Gustave Eiffel, Laboratoire Géomatériaux et Environnement EA 4508, 77454 Marne-la-Vallée, Cedex 2, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Université Gustave Eiffel</sa:organization>
+                     <sa:organization>Laboratoire Géomatériaux et Environnement EA 4508</sa:organization>
+                     <sa:address-line>77454 Marne-la-Vallée, Cedex 2</sa:address-line>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx015">Université Gustave Eiffel, Laboratoire Géomatériaux et Environnement EA 4508, 77454 Marne-la-Vallée, Cedex 2, France</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0005" view="all">Interconnections between Nexus sectors (resource’s energy, water, food, land and climate) may benefit from climate change, energy demand, among others, to sustainable development goals (SDGs) through the integrated planning and management processes <ce:cross-ref refid="b0005" id="c0035">[1]</ce:cross-ref>. In this context, the role of Nexus assessment plays a catalytic role in achieving all of them simultaneously <ce:cross-refs refid="b0005 b0010" id="r0005">[1,2]</ce:cross-refs>. Therefore, the science and technology fields have been encouraged to design and develop viable solutions for the nexus sectors, as a critical need <ce:cross-ref refid="b0015" id="c0040">[3]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0010" view="all">In this context, new technologies based on materials science could potentially address challenges of environmental and economic sustainability, meeting various SDGs <ce:cross-ref refid="b0020" id="c0045">[4]</ce:cross-ref>. For example, advanced materials may help achieving development goals in key areas that focus (i) on the reduction of carbon emissions and on the development of materials for clean energy technologies, (ii) on the potable water and food security and (iii) on antimicrobial action. These priority areas for materials research have contributed with important insights to open novel branches and landscapes for maximizing societal benefits, such as the case of conductive-synthetic diamond films <ce:cross-refs refid="b0015 b0020" id="r0010">[3,4]</ce:cross-refs>.</ce:para>
+               <ce:para id="p0015" view="all">In the last decades, these materials have been the subject of applications and fundamental research in several fields of the science and engineering, such as novel diamond synthesis approaches, surface modification, synthesis of chemicals, electroanalysis, water disinfection, photoelectrocatalysis, sensing, nanotechnology and destruction of persistent/toxic pollutants in water <ce:cross-refs refid="b0025 b0030" id="r0015">[5,6]</ce:cross-refs>. Also, analytical chemistry applications have been investigated, including pH sensors, electrochemical detectors for liquid chromatography, and multidimensional arrays for simultaneous detection of multiple analytes as well as biological micro- and nano- sensors for a wide variety of biochemicals, and in vivo detection of neurotransmitters. Reduction of CO<ce:inf loc="post">2</ce:inf>, energy storage, organic synthesis, medical, and theoretical chemistry are other examples about the extension of the key advances on diamond materials <ce:cross-refs refid="b0035 b0040" id="r0020">[7,8]</ce:cross-refs>.</ce:para>
+               <ce:para id="p0020" view="all">The present special collection comprises a selection of high-quality reviews, which provides an overview of state-of-the-art, advances and challenges in the conductive-synthetic diamond films related to the application of scientific knowledge for practical purposes. Consequently, the core of this Special Issue counts on contributions mainly focused on diamond materials preparation and their surface features <ce:cross-refs refid="b0045 b0050" id="r0025">[9,10]</ce:cross-refs>, energy and storage <ce:cross-ref refid="b0055" id="c0050">[11]</ce:cross-ref>, water treatment and disinfection <ce:cross-refs refid="b0060 b0065 b0070" id="r0030">[12–14]</ce:cross-refs>, electrosynthesis <ce:cross-refs refid="b0075 b0080" id="r0035">[15,16]</ce:cross-refs>, and engineering diamond-reactor developments <ce:cross-ref refid="b0085" id="c0055">[17]</ce:cross-ref>. In total, the nine articles of this collection, from different countries, underwent a robust peer review screening, ensuring that the quality of the final manuscripts was the highest, according to the expected standards of <ce:italic>Current Opinion in Solid State and Materials Science</ce:italic>.</ce:para>
+               <ce:para id="p0025" view="all">Several recent reviews have summarized the preparation and electrochemical properties of diamond films; however, some recent efforts have been mainly made for improving the cost-effectiveness and for finding specific applications associated to their surface properties in meeting SDGs, for example SDG2 and SDG7. In this sense, synthesis approaches and their parameters, such as the proportion of diamond (sp<ce:sup loc="post">3</ce:sup>) and graphite (sp<ce:sup loc="post">2</ce:sup>), boron doping level, crystal size, morphology roughness, substrate nature and diamond surface modifications have been significantly summarized and discussed by Salazar’s group <ce:cross-ref refid="b0050" id="c0060">[10]</ce:cross-ref>. Si, Nb, Ta, W and Ti have been used as substrates to prepare diamond films with different concentrations of boron doping, as well as in the presence of different diamond/graphite proportions via chemical vapor deposition (CVD) synthesis method and its variants. They have explained that, the modification of some of these factors, several surface features can be significantly modified, interfering with the charge transfer kinetics at the electrode–electrolyte interface and consequently, modifying the electrochemical conversions and their subsequent reactions. This behavior is mainly exemplified through the production of oxidizing species and electrochemical oxidation of organic pollutants. In view of the different types of substrates used, diamond films deposited on Ti or Nb could be a more operative solution at industrial or commercial level due to its high mechanical stability and the cost per cm<ce:sup loc="post">2</ce:sup>.</ce:para>
+               <ce:para id="p0030" view="all">On the other hand, the regulation of diamond synthesis parameters and the introduction of nanotechnology as a key functionalization strategy for constructing advanced diamond nanostructures have allowed to establish that exceptional surface properties (electrochemical, chemical, optical and electronic) can be granted for the effective enhancement in the decomposition of dissolved organic pollutants or in the electrosynthesis of chemicals. It was critically discussed by Prof. Salazar and co-workers that surface boron doping level, graphite ratio (sp<ce:sup loc="post">3</ce:sup>/sp<ce:sup loc="post">2</ce:sup>), crystal size and morphology roughness of diamond affect the performance of anodic oxidation process for degrading pollutants in water matrices <ce:cross-ref refid="b0050" id="c0065">[10]</ce:cross-ref>. Meanwhile, a comprehensive review on the advances in the use of nanodiamonds as electro-oxidation catalysts, photocatalysts, oxidation agents, or adsorbing surfaces has been elaborated by Prof. Bogdanowicz <ce:cross-ref refid="b0045" id="c0070">[9]</ce:cross-ref>. The author outlines the novel modification strategies of nanodiamonds that significantly enhance the pollutant removal efficiency as well as discusses the facilities that these nanostructures present as electrical charge transfers and their surface regeneration. Eco-technologically speaking, these nanostructures became an interesting alternative due to their wide availability, relatively low costs, specific energy structure as well as a flexible surface susceptible to various functionalization strategies and modifications.</ce:para>
+               <ce:para id="p0035" view="all">The applicability of the electrical properties of diamond surfaces has also been extended to high performance supercapacitors where the development of novel materials for clean energy technologies, in accordance with SDG7, is the main challenge. Prof. Yu, Prof. Yang and co-workers <ce:cross-ref refid="b0055" id="c0075">[11]</ce:cross-ref> have reviewed research frontiers in areas related to the design and fabrication of diamond supercapacitors and offered their perspectives on future research. Specifically, the authors emphasized the importance of the introduction of nano-features or nanostructures (e.g., wires, pores) into the flat diamond. These preparation strategies potentially enlarge the surface areas of diamond electrodes by combining them with other sp<ce:sup loc="post">2</ce:sup> carbon materials as well as with pseudocapacitive materials, bringing in integrated properties and additional capacitance. The authors also highlighted that, the investigations of varied surface terminations, and the possibility of enhancing their surface areas in combination with the selection of electrolytes and the optimal design of supercapacitor configurations offer unprecedented opportunities for building high-performance devices, with big and stable capacitances and high electrical potential and high-power densities.</ce:para>
+               <ce:para id="p0040" view="all">Recently, electrosynthetic methods attract attention in several fields, including the construction of rather complex molecules, the anodic degradation of drug-like molecules, production of high value-added products and so on. On the other hand, significant insights have been reported regarding electrodes and electrolytes, which allow for expansion of the electrochemical window and/or novel reaction pathways. This leads to new electrosynthetic concepts and further applications for technical innovations leading to a set of interactions between the nexus sectors to achieve SDG2, SDG6, and SDG7. Based on coupled nature of anodic and cathodic processes in electrochemical transformations, both reactions can be employed for synthetic purposes. Then, the investigation and application of diamond film as a novel and innovative electrode material is a bright area of research. In this special issue, recent achievements in research on the production of hydrogen peroxide and the underlying mechanisms (using the two-electron water oxidation reaction (2e<ce:sup loc="post">−</ce:sup> WOR) or two-electron oxygen reduction reaction (2e<ce:sup loc="post">−</ce:sup> ORR)) are reviewed by Prof. Espinoza-Montero, Prof. Frontana-Uribe and co-workers <ce:cross-ref refid="b0075" id="c0080">[15]</ce:cross-ref>. The authors outline the influence of the chemical and physical properties of diamond films in the electrochemical production of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, future challenges and opportunities in this field as well as discuss the sustainability and costs of diamond electrodes for H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> electrogeneration. Following in this area of research, the development of green and sustainable electrochemical processes for producing oxidants from abundant and inexpensive starting molecules, such as H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> from O<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf>O, is a key scope for many industrial, environmental, medical, and domestic applications. Therefore, the fundamental mechanisms of sulfate, persulfate and peroxymonosulfate activation with diamond anode and their environmental applications are summarized and discussed by Divyapriya and Nidheesh <ce:cross-ref refid="b0080" id="c0085">[16]</ce:cross-ref>. They summarized the influence of carbon impurities, doping agent and electrode substrate on radical species formation, reviewed the mode of reactivity at different environmental matrices and operational conditions as well as highlighted the importance of hybrid processes to expand the treatment performance as a potential direction for future research.</ce:para>
+               <ce:para id="p0045" view="all">Electrochemical advanced oxidation processes (EAOPs) generating homogeneous (<ce:sup loc="post">•</ce:sup>OH) or heterogeneous hydroxyl radicals M(<ce:sup loc="post">•</ce:sup>OH) have received great attention because they represent a real solution to fulfill SDG6 (i.e., depollution of water, sanitation, disinfection, water treatment as well as their specialized use for monitoring pollutants). Currently, innovative EAOPs have been demonstrated to be robust, safe, eco-friendly (well-fitted with the ideas of the green chemistry) and energy-cost effectiveness-competitiveness water treatment solutions as compared to existing technologies. Among them, persulfate/sulfate-radical-based EAOPs <ce:cross-ref refid="b0080" id="c0090">[16]</ce:cross-ref>, electrochemical oxidation <ce:cross-refs refid="b0065 b0070" id="r0040">[13,14]</ce:cross-refs>, electro-Fenton <ce:cross-ref refid="b0060" id="c0095">[12]</ce:cross-ref> and hybrid EAOPs <ce:cross-refs refid="b0050 b0070 b0085" id="r0045">[10,14,17]</ce:cross-refs> are considered as sustainable water solutions in meeting SDG6. Within this framework, we have invited several leading experts in this field to expose the exciting research now underway; then, five review type articles emphasized water treatment and disinfection as well as the importance of geometrical aspects of different electrochemical reactors equipped with diamond electrodes.</ce:para>
+               <ce:para id="p0050" view="all">Diamond films emerge as a novel and sustainable solution to electrogenerate powerful oxidants for successfully controlling waterborne pathogens in drinking water and for effectively eliminating several toxic and refractory organic contaminants, as alternatives to chlorination or other conventional treatments. Oturan <ce:cross-ref refid="b0060" id="c0100">[12]</ce:cross-ref> evidenced that the electro-Fenton (EF) process constitutes one of the most powerful EAOPs with several practical advantages such as oxidation efficiency and mineralization power for treating wastewaters, depending mainly on the in-situ production rate of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, which generates homogeneous <ce:sup loc="post">•</ce:sup>OH in the bulk solution via the Fenton reaction. However, the use of diamond electrodes as anodes in the EF process significantly enhanced the effectiveness of this process via the additional production of heterogeneous M(<ce:sup loc="post">•</ce:sup>OH). This review also outlines the importance of the cathodic electrosynthesis of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> and its integration with electrochemical oxidation (EO) approach with diamond anodes. In this sense, it is clear that the different practical purposes of conductive-diamond films are interconnected to achieve SDG6. On the one hand, the strategies to increase H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> performance using diamond electrodes have also been critically reviewed by Espinoza-Montero and co-workers <ce:cross-ref refid="b0075" id="c0105">[15]</ce:cross-ref>, while that, on the other hand, the state-of-the-art of EO and its applicability with different diamond materials or as sustainable water solution on wastewater treatments as well as water disinfection, was also discussed in this Special Collection by Carolina Espinoza et al. <ce:cross-ref refid="b0050" id="c0110">[10]</ce:cross-ref>, Bogdanowicz <ce:cross-ref refid="b0045" id="c0115">[9]</ce:cross-ref>, Divyapriya and Nidheesh <ce:cross-ref refid="b0080" id="c0120">[16]</ce:cross-ref>, Martínez-Huitle and Brillas <ce:cross-ref refid="b0065" id="c0125">[13]</ce:cross-ref>, de Oliveira Silva et al. <ce:cross-ref refid="b0070" id="c0130">[14]</ce:cross-ref> and Cornejo et al. <ce:cross-ref refid="b0085" id="c0135">[17]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0055" view="all">To fulfill the potential of diamond anodes as clean water and sanitation solutions, their environmental applications were mainly summarized and critically discussed by Divyapriya and Nidheesh <ce:cross-ref refid="b0080" id="c0140">[16]</ce:cross-ref>, Martínez-Huitle and Brillas <ce:cross-ref refid="b0065" id="c0145">[13]</ce:cross-ref>, de Oliveira Silva et al. <ce:cross-ref refid="b0070" id="c0150">[14]</ce:cross-ref>, and Cornejo et al. <ce:cross-ref refid="b0085" id="c0155">[17]</ce:cross-ref> to electrogenerate powerful sulfate based-oxidants and their activation, to effectively regulate waterborne pathogens in drinking water, to integrate hybrid technologies and to analyze the importance of geometrical aspects of different electrochemical reactors equipped with diamond electrodes, from fundamental studies to pilot plants, in order to accomplish their commercialization as small devices or industrial applications. In the case of the electrochemical disinfection (or electrodisinfection), the use of the conventional chemical oxidizers or reducing agents is avoided, having thus a significant technical impact because it can be easily scaled up or design small–portable devices, benefiting our society. The critical review, written by Martínez-Huitle and Brillas <ce:cross-ref refid="b0065" id="c0160">[13]</ce:cross-ref>, evidenced the importance of diamond electrochemical methods as alternative for the eradication of waterborne infectious agents from public and drinking waters. Meanwhile, ex-situ and in situ soil remediation processes can be used for removing contaminants contained in polluted soil <ce:cross-ref refid="b0070" id="c0165">[14]</ce:cross-ref>, transferring them from the soil to aqueous solution, and consequently generating high polluted effluents. However, diamond electrodes for the treatment of soil-washing wastes are considered an efficient alternative as a single approach (e.g.: EO) or combined processes (e.g.: EF, ultrasounds for sonoelectrolysis and irradiation of UV light for photoelectrolysis). These methods are more powerful than individual EO, sonolysis and photolysis because they contribute most effectively to the formation of active oxidant species.</ce:para>
+               <ce:para id="p0060" view="all">We hope that this Special Collection will provide valuable insights and raise overwhelming responses in the broad community of diamond materials, visioning the blueprint of carbon-diamond films in the coming years.</ce:para>
+               <ce:para id="p0065" view="all">Finally, we take this opportunity to thank all authors for their innovative scientific contributions and, in particular, the reviewers whose comments and suggestions were extremely important to achieve high-quality papers, as well as the Editor in Chief, Professor Izabela Szlufarska, for her great support since the initial acceptance of our proposal.</ce:para>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st005">Acknowledgements</ce:section-title>
+               <ce:para id="p0070" view="all">Financial supports from the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq–306323/2018-4, CNPq–312595/2019-0; CNPq–439344/2018-2), from Fundação de Amparo à Pesquisa do Estado de São Paulo (Brazil) (FAPESP 2014/50945-4 and 2019/13113-4) and from Fundación Carolina (Spain) and Grupo Tordesillas (Brasil) (Movilidad C.2021) are gratefully acknowledged by Carlos A. Martínez-Huitle.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st010">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Brouwer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Avgerinopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Fazekas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Laspidou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Mercure</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Pollitt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>Ramos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Howells</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Energy modelling and the Nexus concept</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Strategy Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>6</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/J.ESR.2017.10.005</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">F. Brouwer, G. Avgerinopoulos, D. Fazekas, C. Laspidou, J.F. Mercure, H. Pollitt, E.P. Ramos, M. Howells, Energy modelling and the Nexus concept, Energy Strategy Reviews. 19 (2018) 1–6. https://doi.org/10.1016/J.ESR.2017.10.005.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Opportunities and challenges of electrochemical water treatment integrated with renewable energy at the water-energy nexus</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water-Energy Nexus</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>110</sb:first-page>
+                              <sb:last-page>116</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/J.WEN.2020.03.006</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">A. Kumar, S.-Y. Pan, Opportunities and challenges of electrochemical water treatment integrated with renewable energy at the water-energy nexus, Water-Energy Nexus. 3 (2020) 110–116. https://doi.org/10.1016/J.WEN.2020.03.006.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Mishra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chakraborty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Saraswat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Solutions for Urban Water Security, Water Science and Technology Library</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Springer Nat.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1007/978-3-030-53110-2</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">B.K. Mishra, S. Chakraborty, P. Kumar, C. Saraswat, Sustainable Solutions for Urban Water Security, Water Science and Technology Library, volume 93 (2020), Springer Nature. https://doi.org/10.1007/978-3-030-53110-2.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The materials science imperative in meeting the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1052</sb:first-page>
+                              <sb:last-page>1053</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/s41563-018-0228-9</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">S.H. Ali, The materials science imperative in meeting the Sustainable Development Goals, Nature Materials. 17 (2018) 1052–1053. https://doi.org/10.1038/s41563-018-0228-9.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.V.</ce:given-name>
+                                 <ce:surname>Macpherson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Einaga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Swain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Conductive diamond: Synthesis, properties, and electrochemical applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                              <sb:last-page>204</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C7CS00757D</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">N. Yang, S. Yu, J. v. MacPherson, Y. Einaga, H. Zhao, G. Zhao, G.M. Swain, X. Jiang, Conductive diamond: Synthesis, properties, and electrochemical applications, Chemical Society Reviews. 48 (2019) 157–204. https://doi.org/10.1039/c7cs00757d.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Martínez-Huitle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Panizza</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical oxidation of organic pollutants for wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Electrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>62</sb:first-page>
+                              <sb:last-page>71</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.coelec.2018.07.010</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">C.A. Martínez-Huitle, M. Panizza, Electrochemical oxidation of organic pollutants for wastewater treatment, Current Opinion in Electrochemistry. 11 (2018) 62–71. https://doi.org/10.1016/j.coelec.2018.07.010.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lips</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Waldvogel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Use of boron-doped diamond electrodes in electro-organic synthesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemElectroChem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1649</sb:first-page>
+                              <sb:last-page>1660</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/celc.201801620</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">S. Lips, S.R. Waldvogel, Use of boron-doped diamond electrodes in electro-organic synthesis, ChemElectroChem. 6 (2019) 1649–1660. https://doi.org/10.1002/celc.201801620.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.L.</ce:given-name>
+                                 <ce:surname>Souza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.F.</ce:given-name>
+                                 <ce:surname>Lopes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>Santos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ribeiro</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Promoting CO2 electroreduction on boron-doped diamond electrodes: Challenges and trends</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Electrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100890</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.coelec.2021.100890</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">F.L. Souza, O.F. Lopes, E. v. Santos, C. Ribeiro, Promoting CO2 electroreduction on boron-doped diamond electrodes: Challenges and trends, Current Opinion in Electrochemistry. 32 (2022) 100890. https://doi.org/10.1016/J.COELEC.2021.100890.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bogdanowicz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Functionalized nanodiamonds as a perspective green carbo-catalyst for removal of emerging organic pollutants</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100991</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cossms.2022.100991</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">R. Bogdanowicz, Functionalized nanodiamonds as a perspective green carbo-catalyst for removal of emerging organic pollutants, Current Opinion in Solid State and Materials Science. 26 (2022) 100991. https://doi.org/10.1016/J.COSSMS.2022.100991.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Carolina Espinoza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Candia-Onfray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vidal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Salazar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of the chemical nature of Boron-Doped Diamond anodes on wastewater treatments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100963</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cossms.2021.100963</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">L. Carolina Espinoza, C. Candia-Onfray, J. Vidal, R. Salazar, Influence of the chemical nature of Boron‐Doped Diamond anodes on wastewater treatments, Current Opinion in Solid State and Materials Science. 25 (2021) 100963. https://doi.org/10.1016/J.COSSMS.2021.100963.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Diamond supercapacitors: Progress and perspectives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100922</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cossms.2021.100922</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">S. Yu, N. Yang, S. Liu, X. Jiang, Diamond supercapacitors: Progress and perspectives, Current Opinion in Solid State and Materials Science. 25 (2021) 100922. https://doi.org/10.1016/J.COSSMS.2021.100922.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Oturan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Outstanding performances of the BDD film anode in electro-Fenton process: Applications and comparative performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100925</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cossms.2021.100925</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">M.A. Oturan, Outstanding performances of the BDD film anode in electro-Fenton process: Applications and comparative performance, Current Opinion in Solid State and Materials Science. 25 (2021) 100925. https://doi.org/10.1016/J.COSSMS.2021.100925.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Martínez-Huitle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Brillas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A critical review over the electrochemical disinfection of bacteria in synthetic and real wastewaters using a boron-doped diamond anode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100926</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cossms.2021.100926</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">C.A. Martínez-Huitle, E. Brillas, A critical review over the electrochemical disinfection of bacteria in synthetic and real wastewaters using a boron-doped diamond anode, Current Opinion in Solid State and Materials Science. 25 (2021) 100926. https://doi.org/10.1016/j.cossms.2021.100926.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.N.</ce:given-name>
+                                 <ce:surname>de Oliveira Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Rodrigo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>dos Santos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical treatment of soil-washing effluent with boron-doped diamond electrodes: A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100962</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cossms.2021.100962</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">K.N. de Oliveira Silva, M.A. Rodrigo, E.V. dos Santos, Electrochemical treatment of soil-washing effluent with boron-doped diamond electrodes: A review, Current Opinion in Solid State and Materials Science. 25 (2021) 100962. https://doi.org/10.1016/J.COSSMS.2021.100962.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Espinoza-Montero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Alulema-Pullupaxi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Frontana-Uribe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Barrera-Diaz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical production of hydrogen peroxide on Boron-Doped diamond (BDD) electrode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100988</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cossms.2022.100988</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">P.J. Espinoza-Montero, P. Alulema-Pullupaxi, B.A. Frontana-Uribe, C.E. Barrera-Diaz, Electrochemical production of hydrogen peroxide on Boron-Doped diamond (BDD) electrode, Current Opinion in Solid State and Materials Science. 26 (2022) 100988. https://doi.org/10.1016/J.COSSMS.2022.100988.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Divyapriya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.V.</ce:given-name>
+                                 <ce:surname>Nidheesh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemically generated sulfate radicals by boron doped diamond and its environmental applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100921</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cossms.2021.100921</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">G. Divyapriya, P. v. Nidheesh, Electrochemically generated sulfate radicals by boron doped diamond and its environmental applications, Current Opinion in Solid State and Materials Science. 25 (2021) 100921. https://doi.org/10.1016/J.COSSMS.2021.100921.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.M.</ce:given-name>
+                                 <ce:surname>Cornejo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Murrieta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Castañeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Nava</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical reactors equipped with BDD electrodes: Geometrical aspects and applications in water treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100935</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cossms.2021.100935</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">O.M. Cornejo, M.F. Murrieta, L.F. Castañeda, J.L. Nava, Electrochemical reactors equipped with BDD electrodes: Geometrical aspects and applications in water treatment, Current Opinion in Solid State and Materials Science. 25 (2021) 100935. https://doi.org/10.1016/J.COSSMS.2021.100935.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

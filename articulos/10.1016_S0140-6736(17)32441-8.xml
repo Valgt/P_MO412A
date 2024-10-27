@@ -1,0 +1,170 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673617324418</prism:url><dc:identifier>doi:10.1016/S0140-6736(17)32441-8</dc:identifier><eid>1-s2.0-S0140673617324418</eid><prism:doi>10.1016/S0140-6736(17)32441-8</prism:doi><pii>S0140-6736(17)32441-8</pii><dc:title>Department of Error </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>err</pubType><prism:issn>01406736</prism:issn><prism:volume>390</prism:volume><prism:issueIdentifier>10102</prism:issueIdentifier><prism:startingPage>e23</prism:startingPage><prism:pageRange>e23</prism:pageRange><prism:number>10102</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2017-10-06</prism:coverDate><prism:coverDisplayDate>30 September–6 October 2017</prism:coverDisplayDate><prism:copyright>© 2017 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Bill &amp; Melinda Gates Foundation</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S0140673617324418" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673617324418" rel="scidir"/></coredata><scopus-id>85058846859</scopus-id><scopus-eid>2-s2.0-85058846859</scopus-eid><pubmed-id>28935159</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85058846859" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170918">2017-09-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170918">2017-09-18</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170928">2017-09-28</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170928">2017-09-28</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-10-04T04:54:21</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673617324418</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(17)32441-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673617324418</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(17)32441-8</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673617X00433</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20171004">2017-10-04T00:03:36.189357-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170930</xocs:date-search-begin>
+      <xocs:date-search-end>20171006</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1505777422">2017-09-18T23:30:22.040356Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body articletitle doctopic pubtype</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>GATES</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>390</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>390</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10102</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10102</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 390, Issue 10102</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>24</xocs:sort-order>
+      <xocs:first-fp>e23</xocs:first-fp>
+      <xocs:pages>
+         <xocs:first-page>e23</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20170930</xocs:start-date>
+         <xocs:end-date>20171006</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>30 September–6 October 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-09-30</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-10-06</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>err</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>DEPARTMENTERROR</xocs:normalized-article-title>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S0140-6736(17)32336-X</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S014067361732336X</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refkeys/>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2017-09-15T11:18:09Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Bill &amp; Melinda Gates Foundation</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-03-28T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(17)32441-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673617324418</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673617324418</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(17)32441-8</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2017-10-04T00:03:36.189357-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-09-30</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-10-06</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>GATES</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673617324418-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673617324418/MAIN/application/pdf/a329faa8f43e51f02c1dbb82681b5ed2/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673617324418/MAIN/application/pdf/a329faa8f43e51f02c1dbb82681b5ed2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>30247</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673617324418-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673617324418/PREVIEW/image/png/d4932405e4374d8d0c0c0e9116b64316/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673617324418/PREVIEW/image/png/d4932405e4374d8d0c0c0e9116b64316/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>18500</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="err" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>4240</aid>
+            <ce:pii>S0140-6736(17)32441-8</ce:pii>
+            <ce:doi>10.1016/S0140-6736(17)32441-8</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S0140-6736(17)32336-X</ce:pii>
+                  <ce:doi>10.1016/S0140-6736(17)32336-X</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="full-transfer" year="2017">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Department of Error</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Department of Error</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Department of Error</ce:title>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">
+                  <ce:italic>GBD 2016 SDG Collaborators. Measuring progress and projecting attainment on the basis of past trends of the health-related Sustainable Development Goals in 188 countries: an analysis from the Global Burden of Disease Study 2016.</ce:italic> Lancet <ce:italic>2017; <ce:bold>390</ce:bold>: 1423–59</ce:italic>—In figure 8B of this Article (published Online First on Sept 12, 2017), the number of indicator targets has been changed from 1 to 9 for Turkmenistan, from 0 to 1 for Afghanistan, and from 1 to 2 for Yemen. Ettore Beghi, Neeraj Bhala, Hélène Carabin, Raimundas Lunevicius, Donald H Silberberg, and Caitlyn Steiner have been added to the list of GBD 2016 SDG Collaborators. Their affiliations, along with the affiliation of Soumya Swaminathan, have been added to the Affiliations section. These corrections have been made to the online version as of Sept 18, 2017, and the printed Article is correct.</ce:para>
+            </ce:sections>
+         </body>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

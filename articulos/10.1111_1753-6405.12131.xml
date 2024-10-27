@@ -1,0 +1,443 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S132602002300835X</prism:url><dc:identifier>doi:10.1111/1753-6405.12131</dc:identifier><eid>1-s2.0-S132602002300835X</eid><prism:doi>10.1111/1753-6405.12131</prism:doi><pii>S1326-0200(23)00835-X</pii><dc:title>An equitable challenge: when sustainable development goals set the post‐2015 agenda </dc:title><prism:publicationName>Australian and New Zealand Journal of Public Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13260200</prism:issn><prism:volume>37</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>591</prism:startingPage><prism:endingPage>592</prism:endingPage><prism:pageRange>591-592</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2013-12-31</prism:coverDate><prism:coverDisplayDate>December 2013</prism:coverDisplayDate><prism:copyright>Copyright 2013 THE AUTHORS.</prism:copyright><dc:creator>Williams, Eloise</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>true</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://www.elsevier.com/open-access/userlicense/1.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S132602002300835X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S132602002300835X" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>783243</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Australian and New Zealand Journal of Public Health</xocs:srctitle>
+      <xocs:normalized-srctitle>AUSTRALIANNEWZEALANDJOURNALPUBLICHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20230323">2023-03-23</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20230323">2023-03-23</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20230323">2023-03-23</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20230323">2023-03-23</xocs:vor-available-online-date>
+      <xocs:original-available-online-date yyyymmdd="20131203">2013-12-03</xocs:original-available-online-date>
+      <xocs:ew-transaction-id>2023-03-23T04:33:14</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S132602002300835X</xocs:eid>
+      <xocs:pii-formatted>S1326-0200(23)00835-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S132602002300835X</xocs:pii-unformatted>
+      <xocs:doi>10.1111/1753-6405.12131</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1326020023X60397</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230530">2023-05-30T07:19:19.605243Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20131201</xocs:date-search-begin>
+      <xocs:date-search-end>20131231</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1679550260">2023-03-23T05:44:20.300706Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1326-0200</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13260200</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>37</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>37</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 37, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>19</xocs:sort-order>
+      <xocs:first-fp>591</xocs:first-fp>
+      <xocs:last-lp>592</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>591</xocs:first-page>
+         <xocs:last-page>592</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201312</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Letters</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright 2013 THE AUTHORS.</xocs:copyright-line>
+      <xocs:normalized-article-title>EQUITABLECHALLENGESUSTAINABLEDEVELOPMENTGOALSSETPOST2015AGENDA</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WILLIAMS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>UNITEDNATIONSMILLENNIUMDECLARATIONRESOLUTIONADOPTEDBYGENERALASSEMBLYARES552INTERNET</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>MILLENNIUMDEVELOPMENTGOALSREPORT2012INTERNET</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>SACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2206</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2211</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>WAAGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>991</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1023</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>REPORTUNITEDNATIONSCONFERENCESUSTAINABLEDEVELOPMENTRIODEJANEIROBRAZIL2022JUNE2012REPORTNOACONF21616INTERNET</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>COMMUNIQUEMEETINGHIGHLEVELPANELEMINENTPERSONSPOST2015DEVELOPMENTAGENDAINBALIINDONESIA27MARCH2013INTERNET</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WILLIAMSX2013X591</xocs:refkey3>
+         <xocs:refkey4lp>WILLIAMSX2013X591X592</xocs:refkey4lp>
+         <xocs:refkey4ai>WILLIAMSX2013X591XE</xocs:refkey4ai>
+         <xocs:refkey5>WILLIAMSX2013X591X592XE</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="1">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2016-01-01T00:00:00Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://www.elsevier.com/open-access/userlicense/1.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/13260200_P1Y_Author" wintype="OpenArchive">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:article-sharing-framework/>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">Copyright 2013 THE AUTHORS.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1326-0200(23)00835-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S132602002300835X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S132602002300835X</xocs:eid>
+         <xocs:doi>10.1111/1753-6405.12131</xocs:doi>
+         <xocs:cid>783243</xocs:cid>
+         <xocs:timestamp>2023-05-23T16:43:22.178768Z</xocs:timestamp>
+         <xocs:cover-date-start>2013-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S132602002300835X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S132602002300835X/MAIN/application/pdf/a6619cd123f9ef2c62f1d41ebdbb6375/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>73652</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S132602002300835X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S132602002300835X/PREVIEW/image/png/b17c2648ec95022876c904e28bfffab3/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>32630</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>ANZJPH</jid>
+            <aid>835</aid>
+            <ce:pii>S1326-0200(23)00835-X</ce:pii>
+            <ce:doi>10.1111/1753-6405.12131</ce:doi>
+            <ce:copyright type="other" year="2013">Copyright 2013 THE AUTHORS.</ce:copyright>
+         </item-info>
+         <head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Letters</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">An equitable challenge: when sustainable development goals set the post‐2015 agenda</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="azph12131-cr-0001" author-id="S132602002300835X-6a2788698ac5f510990a157ad9de6ee5">
+                  <ce:given-name>Eloise</ce:given-name>
+                  <ce:surname>Williams</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="azph12131-aff-0001">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref20" refid="cor1">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="azph12131-aff-0001" affiliation-id="S132602002300835X-373638c23647fb81dfffd97b4915436f">
+                  <ce:label>1</ce:label>
+                  <ce:textfn>General Medicine, Western Health, Victoria</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>General Medicine</sa:organization>
+                     <sa:organization>Western Health</sa:organization>
+                     <sa:city>Victoria</sa:city>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext1a">General Medicine, Western Health, Victoria</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>*</ce:label>
+                  <ce:text>
+                     <ce:bold>Correspondence to:</ce:bold> Dr Eloise Williams, General Medicine, Western Health, 224/67 Spencer St, Melbourne, VIC 3000</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>General Medicine</sa:organization>
+                     <sa:organization>Western Health</sa:organization>
+                     <sa:address-line>224/67 Spencer St</sa:address-line>
+                     <sa:city>Melbourne</sa:city>
+                     <sa:state>VIC</sa:state>
+                     <sa:postal-code>3000</sa:postal-code>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">The international approach to development is about to be transformed in a way that should reduce worldwide inequality. Since the adoption of the United Nations Millennium Declaration in September 2000, the development agenda has focused on the achievement of the Millennium Development Goals (MDGs).<ce:cross-ref id="cecref30" refid="azph12131-bib-0001">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> The MDGs were the first set of measurable social priorities accepted at a global level, and have proved to be an effective way of mobilising developing and developed nations to address poverty, hunger, disease, the environment, education and gender equality. As the 15‐year deadline since the adoption of this declaration nears, the global development community is reflecting on the achievements and shortfalls of the MDGs and the strengths and weaknesses of the MDG structure. These considerations, as well as the recognition of our increasingly globalised and interconnected globe, have stimulated discussion regarding the development paradigm appropriate for a post‐2015 world.</ce:para>
+               <ce:para id="para20" view="all">To date, the MDGs have achieved the target of cutting the extreme poverty rate to half its 1990 level in every region. There have also been promising results regarding the increase of primary education, reduction in child mortality and reduced rates of tuberculosis and malaria. Unfortunately, little progress has been made towards the targets of maternal mortality, gender equality and reducing the number of people living in hunger.<ce:cross-ref id="cecref40" refid="azph12131-bib-0002">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> Also, the seventh MDG, which focuses on ensuring global sustainability, has received little attention. Jeffrey Sachs, Special Advisor to the UN Secretary‐General for the MDGs, cites the easily definable, practical and specific measures outlined by the MDGs as strengths that aided the adoption and implementation of specific actions by governments, businesses and civil society worldwide.<ce:cross-ref id="cecref50" refid="azph12131-bib-0003">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> A number of weaknesses have been identified in external reviews of the MDGs, the most serious of which is the issue of equity.<ce:cross-ref id="cecref60" refid="azph12131-bib-0004">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> The defined economic targets of the MDGs may technically “reduce extreme poverty”, but they do not ensure adequate resources – as evidenced by the fact that although the number of people living in extreme poverty has halved since 1990, the number of people who are malnourished has remained static.<ce:cross-ref id="cecref70" refid="azph12131-bib-0002">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> It is also possible to achieve the MDG targets by implementing programs that still fail to reach the most vulnerable people, such as those in remote areas.<ce:cross-ref id="cecref80" refid="azph12131-bib-0004">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> As such, the achievement of the MDG targets may inadvertently be stimulating an increase in the gap between rich and poor within nations.</ce:para>
+               <ce:para id="para30" view="all">In creating a new paradigm for global development, it is important to recognise the novel challenges of the time. The deleterious impact of human consumption on multiple ecosystems and geophysical systems (e.g. the climate system, water flows, nitrogen cycling) around the globe has also become more apparent over the past 15 years, a trend which will only be compounded by predicted future human population growth.<ce:cross-ref id="cecref90" refid="azph12131-bib-0003">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> The international community has recognised the magnitude of this environmental challenge and formally acknowledged it at the United Nations Conference on Sustainable Development in Rio in 2012, by adopting a vision of poverty eradication that is inextricably linked with environmental, economic and social sustainable development.<ce:cross-ref id="cecref100" refid="azph12131-bib-0005">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> One of the main outcomes of Rio+20 Conference was the agreement by member States to begin the process of developing a set of Sustainable Development Goals (SDGs) to be integrated into the post‐2012 development agenda. Two of the five key areas highlighted by the recent report from the United Nations' High‐Level Panel on the Post‐2012 Development Agenda were protection of the global environment and sustainable production and consumption. These goals are to be supported by reshaped global governance and partnerships, strengthened means of implementation and improved data collection and accountability.<ce:cross-ref id="cecref110" refid="azph12131-bib-0006">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para40" view="all">The shift in focus from the more socially motivated MDGs to the holistic SDGs is a test for all nations. In comparison the MDGs, which were mainly focused on developing countries and the resources that developed nations could assist them with, the SDGs will challenge nations at all levels of economic development with the moral imperative of improving current resource consumption and production practices in order to sustain the continuing flow of benefits from the environment to humankind at global, regional and local levels for the next generation. This will certainly be a paradigm shift for hitherto outwardly focused development practices. It will require developed nations to undertake a level of introspection, consultation and review of the sustainability of their current practices, as well as helping developing nations to do so. Developing nations may be able to provide valuable insight and sustainability strategies for the achievement of these SDGs. This could create more equitable multilateral relationships between the rich and poor countries of the world, with greater global collaboration and commitment to sustainable development.</ce:para>
+               <ce:para id="para50" view="all">There are many reasons to be optimistic about the post‐2015 global development agenda. The structural and target‐based achievements of the MDG campaign have formed a strong foundation from which a new set of goals can be launched. With their holistic focus and emphasis on sustainability, the SDGs will have greater depth and interconnectivity than the MDGs – challenging developed and developing nations alike. Linking sustainability to the moral imperative of global development goals is an inspired way to persuade nations to commit to environmental targets. With the incorporation of lessons learned from the MDGs, increased scientific knowledge regarding climate change and ecological impacts of human consumption, an appropriate set of SDGs could be the powerful and sophisticated tool used to simultaneously affect social, economic and environmental change. Importantly, these goals could also be a unique equaliser, helping to bridge the increasing gap between rich and poor.</ce:para>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="azph12131-bib-0001">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations General Assembly</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>United Nations Millennium Declaration, Resolution Adopted by the General Assembly A/RES/55/2 [Internet]</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2000</sb:date>
+                              <sb:publisher>
+                                 <sb:name>U.N</sb:name>
+                                 <sb:location>New York (NY)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>September [cited 2013 Mar 29]. Available from: <ce:inter-ref id="interrefs10" xlink:href="http://www.preventionweb.net/files/13539_13539ARES552ResolutiononUNMillenniu.pdf" xlink:type="simple">http://www.preventionweb.net/files/13539_13539ARES552ResolutiononUNMillenniu.pdf</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext1">United Nations General Assembly. United Nations Millennium Declaration, Resolution Adopted by the General Assembly A/RES/55/2 [Internet]. New York (NY): U.N; 2000 September [cited 2013 Mar 29]. Available from: http://www.preventionweb.net/files/13539_13539ARES552ResolutiononUNMillenniu.pdf</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12131-bib-0002">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Millennium Development Goals Report 2012 [Internet]</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>U.N.</sb:name>
+                                 <sb:location>New York (NY)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>June [cited 2013 Mar 21]. Available from: <ce:inter-ref id="interrefs20" xlink:href="http://www.un.org/millenniumgoals/pdf/MDG%20Report%202012.pdf" xlink:type="simple">http://www.un.org/millenniumgoals/pdf/MDG%20Report%202012.pdf</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext2">United Nations. The Millennium Development Goals Report 2012 [Internet]. New York (NY): U.N. 2012 June [cited 2013 Mar 21]. Available from: http://www.un.org/millenniumgoals/pdf/MDG%20Report%202012.pdf</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12131-bib-0003">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>JD</ce:given-name>
+                                 <ce:surname>Sachs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>From millennium Development Goals to sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>379</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2206</sb:first-page>
+                              <sb:last-page>2211</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext3">Sachs JD. From millennium Development Goals to sustainable development goals. Lancet. 2012; 379: 2206–11.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12131-bib-0004">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Waage</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Banerji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Chirwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Collender</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V</ce:given-name>
+                                 <ce:surname>Dieltiens</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Millennium Development Goals: A cross‐sectoral analysis and principles for goal setting after 2015</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet [Internet]</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>376</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9745</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>991</sb:first-page>
+                              <sb:last-page>1023</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>[cited 2013 Mar 31]. Available from: <ce:inter-ref id="interrefs30" xlink:href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61196-8/fulltext" xlink:type="simple">http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61196-8/fulltext</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext4">Waage J, Banerji R, Campbell O, Chirwa E, Collender G, Dieltiens V, et al. The Millennium Development Goals: A cross‐sectoral analysis and principles for goal setting after 2015. Lancet [Internet]. 2010; 376 (9745): 991–1023 [cited 2013 Mar 31]. Available from: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61196-8/fulltext</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12131-bib-0005">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Report of the United Nations Conference on Sustainable Development, Rio de Janeiro, Brazil, 20–22 June 2012. Report No.: A/CONF.216/16 [Internet]</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>U.N.</sb:name>
+                                 <sb:location>New York (NY)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2013 Mar 21]. Available from: <ce:inter-ref id="interrefs40" xlink:href="http://www.uncsd2012.org/content/documents/814UNCSD%20REPORT%20final%20revs.pdf" xlink:type="simple">http://www.uncsd2012.org/content/documents/814UNCSD%20REPORT%20final%20revs.pdf</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext5">United Nations. Report of the United Nations Conference on Sustainable Development, Rio de Janeiro, Brazil, 20–22 June 2012. Report No.: A/CONF.216/16 [Internet]. New York (NY): U.N. 2012 [cited 2013 Mar 21]. Available from: http://www.uncsd2012.org/content/documents/814UNCSD%20REPORT%20final%20revs.pdf</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="azph12131-bib-0006">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Communiqué Meeting of the High‐Level Panel of Eminent Persons on the Post‐2015 Development Agenda in Bali, Indonesia, 27 March 2013 [Internet]</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>U.N.</sb:name>
+                                 <sb:location>New York (NY)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[cited 2013 Apr 2]. Available from: <ce:inter-ref id="interrefs50" xlink:href="http://www.un.org/sg/management/pdf/Final%20Communique%20Bali.pdf" xlink:type="simple">http://www.un.org/sg/management/pdf/Final%20Communique%20Bali.pdf</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext6">United Nations. Communiqué Meeting of the High‐Level Panel of Eminent Persons on the Post‐2015 Development Agenda in Bali, Indonesia, 27 March 2013 [Internet]. New York (NY): U.N.; 2013 [cited 2013 Apr 2]. Available from: http://www.un.org/sg/management/pdf/Final%20Communique%20Bali.pdf</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

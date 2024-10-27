@@ -1,0 +1,374 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2452223620301371</prism:url><dc:identifier>doi:10.1016/j.cogsc.2020.100440</dc:identifier><eid>1-s2.0-S2452223620301371</eid><prism:doi>10.1016/j.cogsc.2020.100440</prism:doi><pii>S2452-2236(20)30137-1</pii><dc:title>Editorial Overview: Toward new sustainable development goals using advanced materials on green technologies and the processes in Asia </dc:title><prism:publicationName>Current Opinion in Green and Sustainable Chemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>24522236</prism:issn><prism:volume>28</prism:volume><prism:startingPage>100440</prism:startingPage><prism:pageRange>100440</prism:pageRange><articleNumber>100440</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-04-30</prism:coverDate><prism:coverDisplayDate>April 2021</prism:coverDisplayDate><prism:copyright>© 2020 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Kobayashi, Takaomi</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S2452223620301371" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2452223620301371" rel="scidir"/></coredata><scopus-id>85099334185</scopus-id><scopus-eid>2-s2.0-85099334185</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85099334185" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>314642</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291792</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291809</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Current Opinion in Green and Sustainable Chemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>CURRENTOPINIONINGREENSUSTAINABLECHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210106">2021-01-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210106">2021-01-06</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210117">2021-01-17</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210117">2021-01-17</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-04-22T12:00:33</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2452223620301371</xocs:eid>
+      <xocs:pii-formatted>S2452-2236(20)30137-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2452223620301371</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cogsc.2020.100440</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2452223620X0006X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210422">2021-04-22T14:50:19.221865Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210401</xocs:date-search-begin>
+      <xocs:date-search-end>20210430</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1609951456">2021-01-06T16:44:16.720304Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast misctext pubtype ref vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2452-2236</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24522236</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>28</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>28</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 28</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>14</xocs:sort-order>
+      <xocs:first-fp>100440</xocs:first-fp>
+      <xocs:article-number>100440</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>100440</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202104</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Green Processes and Technologies, Edited by Takaomi Kobayashi</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EDITORIALOVERVIEWTOWARDNEWSUSTAINABLEDEVELOPMENTGOALSUSINGADVANCEDMATERIALSGREENTECHNOLOGIESPROCESSESINASIA</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KOBAYASHI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Declaration of competing interest</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>STRANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTLINKINGECONOMYSOCIETYENVIRONMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>APELIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>318</xocs:ref-first-fp>
+            <xocs:ref-last-lp>323</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3"/>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>YIFEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-article-number>012011</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KOBAYASHIX2021X100440</xocs:refkey3>
+         <xocs:refkey4ai>KOBAYASHIX2021X100440XT</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2023-01-17T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2023-01-17T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-12-21T02:03:21.388Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2452-2236(20)30137-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2452223620301371</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2452223620301371</xocs:eid>
+         <xocs:doi>10.1016/j.cogsc.2020.100440</xocs:doi>
+         <xocs:cid>314642</xocs:cid>
+         <xocs:timestamp>2021-04-22T14:50:19.221865Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2452223620301371-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2452223620301371/MAIN/application/pdf/e45ea9e1ed083b43e464e33d2d77f971/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>199634</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2452223620301371-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2452223620301371/PREVIEW/image/png/12ed980d1a8a917806b17f3ba4fd1366/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>80982</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>COGSC</jid>
+            <aid>100440</aid>
+            <ce:article-number>100440</ce:article-number>
+            <ce:pii>S2452-2236(20)30137-1</ce:pii>
+            <ce:doi>10.1016/j.cogsc.2020.100440</ce:doi>
+            <ce:copyright type="full-transfer" year="2020">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="dhead0010">
+               <ce:textfn>Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="title0010">Editorial Overview: Toward new sustainable development goals using advanced materials on green technologies and the processes in Asia</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" biographyid="vt1" author-id="S2452223620301371-a3e59a7b8d360926d603479ca19c104e">
+                  <ce:given-name>Takaomi</ce:given-name>
+                  <ce:surname>Kobayashi</ce:surname>
+                  <ce:cross-ref id="crosref0010" refid="cor1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2452223620301371-1642e7dded9c4e460de80d76e2b148e7">
+                  <ce:textfn>Department of Science of Technology Innovation, Nagaoka University of Technology, 1603-1 Kamitomioka, Nagaoka, Niigata, 940-2188, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Science of Technology Innovation</sa:organization>
+                     <sa:organization>Nagaoka University of Technology</sa:organization>
+                     <sa:address-line>1603-1 Kamitomioka</sa:address-line>
+                     <sa:address-line>Nagaoka</sa:address-line>
+                     <sa:city>Niigata</sa:city>
+                     <sa:postal-code>940-2188</sa:postal-code>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Department of Science of Technology Innovation, Nagaoka University of Technology, 1603-1 Kamitomioka, Nagaoka, Niigata, 940-2188, Japan</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author: Kobayashi, Takaomi</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:miscellaneous id="misc0010">This review comes from a themed issue on <ce:bold>Green Processes and Technologies</ce:bold>
+            </ce:miscellaneous>
+            <ce:miscellaneous id="misc0015">Edited by <ce:bold>Takaomi Kobayashi</ce:bold>
+            </ce:miscellaneous>
+            <ce:miscellaneous id="misc0015e">Available online 6 January 2021</ce:miscellaneous>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0030aa" view="all">
+                  <ce:display>
+                     <ce:textbox id="dtbox1">
+                        <ce:textbox-body>
+                           <ce:sections>
+                              <ce:para id="p9045aaa" view="all">For complete overview of the section, please refer the article collection - <ce:inter-ref xlink:href="https://www.sciencedirect.com/journal/current-opinion-in-green-and-sustainable-chemistry/special-issue/10D95520VVV" id="intref00010" xlink:type="simple">Green Processes and Technologies</ce:inter-ref>
+                              </ce:para>
+                           </ce:sections>
+                        </ce:textbox-body>
+                     </ce:textbox>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="p0010" view="all">In 2021 emerging technologies are placing more emphasis than ever on the green aspects of chemistry. Since the inception of the UN Sustainable Development Goals (SDGs) in 2015, the Earth has been continued to be damaged year by year. So, advanced materials are important to develop future innovative technologies and processes highly concerned with environment-ecofriendly approaches. In particular, the use of biomass and recycled waste sources is making innovation and technology greener [<ce:cross-ref id="crosref0015" refid="bib1">1</ce:cross-ref>]. Since there are interactions between human and earth systems [<ce:cross-ref id="crosref0020" refid="bib2">2</ce:cross-ref>], the Sustainable Development Goals are important for understanding the sustainability of recycled biomass, biorefineries, energy-related materials, and also their green technologies.</ce:para>
+               <ce:para id="p0015" view="all">It is no longer possible for countries to develop in isolation: innovations have to be developed and used worldwide, regardless of borders. Asia is taking the lead in this: in Japan, China, India, and other ASEAN countries such as Thailand, Malaysia, Myanmar, and Vietnam, people have built deep relationships and strong networks across borders to develop low carbon technologies, methods for recycling plant waste, biorefineries and other technologies through education and cooperation between researchers [<ce:cross-ref id="crosref0025" refid="bib3">3</ce:cross-ref>], leading to a symbiosis between human and nature to develop green innovations [<ce:cross-ref id="crosref0030" refid="bib4">4</ce:cross-ref>] using sustainable materials.</ce:para>
+               <ce:para id="p0020" view="all">This series of articles are written by researchers coming from the Asia network and describes recent progress in green technology and process relating to advanced materials. This article collection for <ce:italic>Current Opinion in Green and Sustainable Chemistry</ce:italic> introduces efficient green innovation materials utilizing biomass and waste and classifies advanced materials and their processes for environmental conservation and electric energy technologies, which strongly support a sustainable society. This section has been organized into three subsections: (1) Biomass waste reuses and biomass functional materials, (2) Green chemical refinery, and (3) Sustainable green technologies and processes with advanced materials. Those subsections contain the following mini-reviews:</ce:para>
+               <ce:para id="p0025" view="all">
+                  <ce:bold>Sustainable development goals for advanced materials provided from industry wastes and biomass sources (</ce:bold>
+                  <ce:inter-ref id="intref0010" xlink:href="https://www.sciencedirect.com/science/article/pii/" xlink:type="simple">https://www.sciencedirect.com/science/article/pii/</ce:inter-ref>). This review highlights advanced materials developed for sustainable green technologies and processes as a key to a sustainable society in line with the UN Sustainable Development Goals (SDGs).</ce:para>
+               <ce:para id="p0030" view="all">
+                  <ce:bold>Advanced Cellulose Cosmetic Facial Masks Prepared from Myanmar Thanaka Heartwood</ce:bold>. <ce:inter-ref id="intref0015" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100413" xlink:type="simple">Cho et al.</ce:inter-ref> (Myanmar) describe how waste bark from thanaka wood is recycled to produce cellulose films and their application for cellulose cosmetic facial masks.</ce:para>
+               <ce:para id="p0035" view="all">Ap<ce:bold>plication of phenolic compounds in plants for green chemical materials</ce:bold>. <ce:inter-ref id="intref0020" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100418" xlink:type="simple">Okumura (Japan)</ce:inter-ref> reviews plant phenolic compounds of condensed tannins and hydrolyzable tannic acid and their application to adsorbents and recovery/separation agents for the green conservation technologies.</ce:para>
+               <ce:para id="p0040" view="all">
+                  <ce:bold>Chitosan and its biomass composites in the application for water treatment</ce:bold>. <ce:inter-ref id="intref0025" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100429" xlink:type="simple">Trang et al.</ce:inter-ref> (Vietnam) describe green chemical materials of chitosan and their composites for application in water treatment, especially as eco-friendly adsorbents.</ce:para>
+               <ce:para id="p0045" view="all">
+                  <ce:bold>Renewable biomass feedstocks for the production of sustainable, biodegradable polymer</ce:bold>. <ce:inter-ref id="intref0030" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100412" xlink:type="simple">Siti et al.</ce:inter-ref> (Malaysia) highlight the uses of renewable biomass feedstocks of whey, molasses, glycerol, cellulosic material, and waste oil via bacterial fermentation for the production of biodegradable plastics based on polyhydroxyalkanoates and their derivatives.</ce:para>
+               <ce:para id="p0050" view="all">
+                  <ce:bold>The usefulness of microalgal biorefinery into chemical products and recent technology in the automatic evaluation of microalgae</ce:bold>. A microalgal biorefinery could be an alternative to petrochemical refineries. <ce:inter-ref id="intref0035" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100410" xlink:type="simple">Takahashi</ce:inter-ref> (Japan) introduces automatic monitoring systems for the evaluation of microalgal by automated cell counting with fluorescence detection.</ce:para>
+               <ce:para id="p0055" view="all">
+                  <ce:bold>Study on modification methods to improve Li-ion storage capacity of carbon black</ce:bold>. As demand for electrical energy increases, carbon black (CB) use as a battery material for improved electrochemical performance is reviewed by <ce:inter-ref id="intref0040" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100432" xlink:type="simple">Zhou et al.</ce:inter-ref> (China).</ce:para>
+               <ce:para id="p0060" view="all">
+                  <ce:bold>Sustainable electroactive materials for energy storage</ce:bold>. <ce:inter-ref id="intref0045" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100431" xlink:type="simple">Okhawilai and Pattananuwa</ce:inter-ref> (Thailand) describe biomass sources, their eco-friendliness, safety, and cost-effectiveness, which can be used to produce carbonized materials for batteries, supercapacitors, and separators for a sustainable energy supply.</ce:para>
+               <ce:para id="p0065" view="all">
+                  <ce:bold>Supercritical CO</ce:bold>
+                  <ce:inf loc="post">
+                     <ce:bold>2</ce:bold>
+                  </ce:inf>
+                  <ce:bold>-assisted fabrication of advanced two-dimensional materials and their heterostructure</ce:bold>. By using, a so-called ‘green solvent’, supercritical CO<ce:inf loc="post">2</ce:inf>, <ce:inter-ref id="intref0050" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100424" xlink:type="simple">Xu et al.</ce:inter-ref> (China) review the fabrication of two-dimensional materials with unique structural features, their fascinating physicochemical properties, and their applications.</ce:para>
+               <ce:para id="p0070" view="all">
+                  <ce:bold>Ionic liquids based aqueous biphasic systems as sustainable extraction and separation techniques</ce:bold>. New processes for green and sustainable extraction and separation continue to be developed. <ce:inter-ref id="intref0055" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100423" xlink:type="simple">Ramesh et al.</ce:inter-ref> (India) review ionic liquids-based aqueous biphasic systems (ABS) and their use for the extraction and separation of materials.</ce:para>
+               <ce:para id="p0075" view="all">
+                  <ce:bold>Sonochemical green technology using active bubbles: Degradation of organic substances in water</ce:bold>. <ce:inter-ref id="intref0060" xlink:href="https://doi.org/10.1016/j.cogsc.2020.100411" xlink:type="simple">Yasuda</ce:inter-ref> (Japan) reviews recent studies on the sonochemical degradation of organic substances applied for not only water treatment but also food processing concerned with the degradation of aromatic compounds, organic halogens, biomass polysaccharides, and microorganisms using sonochemical cavitation bubbles.</ce:para>
+               <ce:para id="p0080" view="all">We hope that these short reviews give you an idea of the range of new techniques being studied and developed in Asia.</ce:para>
+               <ce:section id="sec1" view="all">
+                  <ce:section-title id="sectitle0010">Declaration of competing interest</ce:section-title>
+                  <ce:para id="p0085" view="all">Nothing declared.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0015">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Tracey</ce:given-name>
+                                 <ce:surname>Strang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Anne</ce:given-name>
+                                 <ce:surname>Bayley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development: Linking economy, society, environment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>OECD</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ISBN: 9789264077379</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0015">Tracey Strang and Anne Bayley, Sustainable Development: Linking economy, society, environment, OECD 2008, ISBN: 9789264077379</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Diran</ce:given-name>
+                                 <ce:surname>Apelian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Materials science and engineering's pivotal role in sustainable development for the 21st century</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS Bull</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>318</sb:first-page>
+                              <sb:last-page>323</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">Diran Apelian, Materials science and engineering’s pivotal role in sustainable development for the 21st century, MRS Bulletin 2012, 37, 318-323.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0065" xlink:href="https://seed-net.org/programs/collaborative-education-program-cep/" xlink:type="simple">https://seed-net.org/programs/collaborative-education-program-cep/</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">https://seed-net.org/programs/collaborative-education-program-cep/.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Guo</ce:given-name>
+                                 <ce:surname>Yi-Fei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Green innovation design of products under the perspective of sustainable development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IOP Conf Ser: Earth Environ Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:article-number>012011</sb:article-number>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0070" xlink:href="https://iopscience.iop.org/article/10.1088/1742-6596/51/1/012011" xlink:type="simple">https://iopscience.iop.org/article/10.1088/1742-6596/51/1/012011</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Guo Yi-Fei, Green Innovation Design of Products under the Perspective of Sustainable Development, 2017 IOP Conf. Ser.: Earth Environ. Sci. 51 012011. https://iopscience.iop.org/article/10.1088/1742-6596/51/1/012011</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="vt1" view="all">
+               <ce:simple-para id="biospara0010" view="all">
+                  <ce:bold>Takaomi Kobayashi</ce:bold>. Takaomi Kobayashi received his PhD at the Osaka University, Faculty of Science (1988). He worked at the Nagaoka University of Technology (NUT) as Research Associate (1991), Associate Professor (1995), and professor (2006) in the Department of Materials Science and Technology. He was visiting researcher at Emory University (1994), and in 2015, he was promoted to his present position as Dean Professor at the NUT. He obtained the Scientific Award of The Minister of Education, Culture, Sports, Science and Technology, Japan commendation at Technical session award in science and technology (2014). He has published more than 220 peer reviewed publications, contributions of 5 book chapters and over 20 patents. Intelligent materials and their physical chemistry approaches of polymer materials are his main research interests. Recent research focuses on green materials concerned with biobased platform materials and environmental conservation technologies for their green processing.</ce:simple-para>
+            </ce:biography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

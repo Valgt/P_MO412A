@@ -1,0 +1,873 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S254251961930213X</prism:url><dc:identifier>doi:10.1016/S2542-5196(19)30213-X</dc:identifier><eid>1-s2.0-S254251961930213X</eid><prism:doi>10.1016/S2542-5196(19)30213-X</prism:doi><pii>S2542-5196(19)30213-X</pii><dc:title>Migration transforms the conditions for the achievement of the Sustainable Development Goals </dc:title><prism:publicationName>The Lancet Planetary Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>25425196</prism:issn><prism:volume>3</prism:volume><prism:issueIdentifier>11</prism:issueIdentifier><prism:startingPage>e440</prism:startingPage><prism:endingPage>e442</prism:endingPage><prism:pageRange>e440-e442</prism:pageRange><prism:number>11</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2019-11-30</prism:coverDate><prism:coverDisplayDate>November 2019</prism:coverDisplayDate><prism:copyright>© 2019 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Adger, W Neil</dc:creator><dc:creator>Boyd, Emily</dc:creator><dc:creator>Fábos, Anita</dc:creator><dc:creator>Fransen, Sonja</dc:creator><dc:creator>Jolivet, Dominique</dc:creator><dc:creator>Neville, George</dc:creator><dc:creator>de Campos, Ricardo Safra</dc:creator><dc:creator>Vijge, Marjanneke J</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S254251961930213X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S254251961930213X" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="157627">https://api.elsevier.com/content/object/eid/1-s2.0-S254251961930213X-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85075151420</scopus-id><scopus-eid>2-s2.0-85075151420</scopus-eid><pubmed-id>31777332</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85075151420" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>316495</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Planetary Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETPLANETARYHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20191120">2019-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20191120">2019-11-20</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20191120">2019-11-20</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20191120">2019-11-20</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-08-11T03:55:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S254251961930213X</xocs:eid>
+      <xocs:pii-formatted>S2542-5196(19)30213-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S254251961930213X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2542-5196(19)30213-X</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2542519619X00133</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210811">2021-08-11T03:03:26.45485Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20191101</xocs:date-search-begin>
+      <xocs:date-search-end>20191130</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1574295957">2019-11-21T00:25:57.33426Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav table body affil articletitle auth authfirstini authfull authlast doctopic grantnumber grantsponsor pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2542-5196</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>25425196</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>3</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>3</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>11</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>11</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 3, Issue 11</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>e440</xocs:first-fp>
+      <xocs:last-lp>e442</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>e440</xocs:first-page>
+         <xocs:last-page>e442</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201911</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>November 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-11-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-11-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>MIGRATIONTRANSFORMSCONDITIONSFORACHIEVEMENTSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ADGER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>HELLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>226</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>DEHAAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>264</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>MASSEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>HUNTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>133</xocs:ref-first-fp>
+            <xocs:ref-last-lp>142</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>NIJENHUIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>51</xocs:ref-first-fp>
+            <xocs:ref-last-lp>68</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>HOLLIDAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2551</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2565</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>GEMENNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>336</xocs:ref-first-fp>
+            <xocs:ref-last-lp>347</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>BLACK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>447</xocs:ref-first-fp>
+            <xocs:ref-last-lp>448</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-normalized-surname>MCMICHAEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>646</xocs:ref-first-fp>
+            <xocs:ref-last-lp>654</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-normalized-surname>LEVY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>310</xocs:ref-first-fp>
+            <xocs:ref-last-lp>322</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ADGERX2019Xe440</xocs:refkey3>
+         <xocs:refkey4lp>ADGERX2019Xe440Xe442</xocs:refkey4lp>
+         <xocs:refkey4ai>ADGERX2019Xe440XW</xocs:refkey4ai>
+         <xocs:refkey5>ADGERX2019Xe440Xe442XW</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2019-10-18T10:44:23Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-05-27T10:35:48.896Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>University of Exeter European Network Fund</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>UK Economic and Social Research Council</xocs:funding-agency-matched-string>
+            <xocs:funding-id>ES/S007687/1</xocs:funding-id>
+            <xocs:funding-agency-acronym>ESRC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Economic and Social Research Council</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000269</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2635167/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>European Research Council</xocs:funding-agency-matched-string>
+            <xocs:funding-id>648496</xocs:funding-id>
+            <xocs:funding-agency-acronym>ERC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>European Research Council</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000781</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6695072/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>  W Neil Adger a n.adger@exeter.ac.uk  Emily Boyd b  Anita Fábos c  Sonja Fransen d  Dominique Jolivet d  George Neville b  Ricardo Safra de Campos a e  Marjanneke J Vijge f  a Geography, College of Life and Environmental Sciences, University of Exeter, Exeter EX4 4RJ, UK  Geography, College of Life and Environmental Sciences University of Exeter Exeter EX4 4RJ UK  Geography, College of Life and Environmental Sciences, University of Exeter, Exeter EX4 4RJ, UK  b Lund University Centre for Sustainability Studies, Lund University, Lund, Sweden  Lund University Centre for Sustainability Studies Lund University Lund Sweden  Lund University Centre for Sustainability Studies, Lund University, Lund, Sweden  c Department of International Development, Community, and Environment, Clark University, Worcester, MA, USA  Department of International Development, Community, and Environment Clark University Worcester MA USA  Department of International Development, Community, and Environment, Clark University, Worcester, MA, USA  d Faculty of Social and Behavioural Sciences, University of Amsterdam, Amsterdam, Netherlands  Faculty of Social and Behavioural Sciences University of Amsterdam Amsterdam Netherlands  Faculty of Social and Behavioural Sciences, University of Amsterdam, Amsterdam, Netherlands  e Global Systems Institute, University of Exeter, Exeter, UK  Global Systems Institute University of Exeter Exeter UK  Global Systems Institute, University of Exeter, Exeter, UK  f Copernicus Institute of Sustainable Development, Utrecht University, Utrecht, Netherlands  Copernicus Institute of Sustainable Development Utrecht University Utrecht Netherlands  Copernicus Institute of Sustainable Development, Utrecht University, Utrecht, Netherlands    Migration is transformative both for those who move and for the places and economies of source and destination. The global stock of migrants, depending on definition, is approximately 750 million people: to assume that the world is static and that migration is a problem to be managed is inaccurate. Since migration is a major driving force of planetary and population health, we argue that it must be more directly incorporated into planning for sustainable development, with a focus on the extent and way in which the Sustainable Development Goals (SDGs) incorporate the transformative reality of migration. The science of migration explains social and demographic dynamics, with human mobility as the norm rather than as a discrete event. 1 Flows of ideas, remittances, and social capital from migration, for example, play a central role in transforming economic as well as social and political life in places of origin and destination. Migration is, therefore, an intrinsic part of social transformation 2 that occurs in parallel and in combination with other societal trends, including many that are the explicit focus of the SDGs. Migration processes can have positive and negative effects on social transformation. 3 There are widespread concerns, for example, regarding the effect of rapid urbanisation driven by migration on the sustainable use of resources in cities. However, migrant populations have been shown throughout the world to be on average healthier and more economically active than host populations, at least with current migration patterns. 4 From an economic perspective, migration is often a driver of economic growth: whether economic growth is itself sustainable thus becomes the key question. The discourse of migration in the UN 2030 Agenda for Sustainable Development reflects the global political tensions surrounding the issue of migration at the time of its negotiations, culminating in 2015, when many countries, particularly in Europe, experienced major influxes of refugees from Syria and other conflict-affected countries. documents how sedentary framing of development leads to the relevant current goals, targets, and indicators within the SDGs. 5,6 In effect, the 2030 Agenda frames migration as a temporary and unplanned phenomenon that needs to be managed, rather than as an inherent and longstanding part of sustainable development and social transformation. The table  Within the SDGs, migration is recognised as a “multidimensional reality” that is of “major relevance for the development of countries of origin, transit and destination” (2030 Agenda, article 29). Migrants are acknowledged as able to make a “positive contribution” to inclusive growth (article 29), but the SDGs seem to refer mostly to benefits in the country of origin in the form of remittances from international labour migrants. Remittances, indeed, play a crucial economic role in countries with high international outmigration, but with significant social consequences such as so-called brain drain effects. Overall, the 2030 Agenda, and specifically the SDGs on sustainable cities and climate action, have a static concept of human populations, de-emphasising permanent and temporary migration as a key aspect of sustainable development, climate resilience, and social transformation. Where migration is considered to “threaten to reverse much of the development progress”, the 2030 Agenda focuses on the “eradication” of human trafficking (article 27, and targets 5.2, 8.7, and 16.2), as well as “temporary” stays of forcibly displaced people (indicator 10.7.2). Such a framing of climate migration fails to consider migration as a long-term contribution to climate resilience and adaptation. 7 Incorporating realistic scientific insights on migration and mobility would, we suggest, identify the conditions under which migration could contribute to positive outcomes for many arenas of sustainability, from disaster preparedness, to health and nutrition, and to safe and sustainable cities. SDG 11 seeks to promote safe, sustainable, and resilient cities, for example, but its indicators need to reflect the reality of how urbanisation is driven by population movement to cities. A target of SDG 11 is to minimise the “proportion of urban population living in slums, informal settlements or inadequate housing”. However, the persistence of slum areas is driven by continued movement of new migrants to cities. In many cities in developing countries, more than half of residents are lifetime migrants. Migrant populations cluster in areas that are exposed to environmental hazards and have been shown to have uneven access to public health and other services and discriminated in labour markets. 8 Therefore, the realisation of urban sustainability is intimately tied to the effectiveness and rapidity of integration of new populations into urban planning. SDG 13 on climate action does not make an explicit connection between nations most vulnerable to climate change and increased migration flows, and thus underplays the opportunity to protect or acknowledge the adaptive role played by mobile populations. More than 25 million people per year are displaced internally or internationally by weather-related disasters. Involuntary and forced migration, not least through climate change, represents a breach of rights and is likely to have significant detrimental health outcomes. 9,10 It has been shown in diverse settings that migrants contribute by filling key skill gaps, increase the consumption and production of goods and services, and improve local labour market efficiency, particularly in times of crisis or disaster. Migrants also support the resilience and wellbeing of origin communities through financial and social remittances. Rather than harnessing the potential of such interactions, the state-oriented nature of the targets and current indicators associated with SDG 13 implicitly sidesteps migration. Incorporating the potentially social transformative nature of migration into policy and planning for sustainable development would better reflect the reality of a mobile world. A more encompassing view of migration would, we argue, lead to more appropriate targets and indicators for the SDGs. For example, target indicators could, for SDG 11 on urban areas, include the number of migrants entering informal economic sectors: such migration is most often associated with discrimination and precarity in cities. Additionally, SDG 13 on climate action could monitor regulations across countries for government-led relocation of communities (such relocation is likely to become more widespread into the future). A comprehensive set of targets and indicators would present better opportunities to deal with pressing challenges of social transformations, including ageing populations and declining birth rates in many countries. In summary, the SDGs need to move beyond the implicit assumption that sedentary lives are the norm and that it is only safe, orderly, and regular migration that contributes to sustainable development. We suggest that, when migration is incorporated as an inherent and continuing part of social transformations, it will become central to long-term climate resilience and adaptation. We declare no competing interests. Funding for this work was provided by the Belmont Forum Transformation to Sustainability programme under the UK Economic and Social Research Council (grant ES/S007687/1 ), the University of Exeter European Network Fund, and the European Research Council (grant agreement 648496 ) Migration as Development project.    </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2542-5196(19)30213-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S254251961930213X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S254251961930213X</xocs:eid>
+         <xocs:doi>10.1016/S2542-5196(19)30213-X</xocs:doi>
+         <xocs:cid>316495</xocs:cid>
+         <xocs:timestamp>2021-08-11T03:03:26.45485Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-11-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-11-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S254251961930213X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S254251961930213X/MAIN/application/pdf/d1f37a40211eb897a3e2a7d39c5299ad/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>51214</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S254251961930213X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S254251961930213X/PREVIEW/image/png/181b5a18e061faab58ffe7a4046013ae/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>87610</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S254251961930213X-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1086QRRRWFV/MAIN/application/pdf/9325a61ee829510117bb45b53c3136de/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>157627</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>LANPLH</jid>
+            <aid>366</aid>
+            <ce:pii>S2542-5196(19)30213-X</ce:pii>
+            <ce:doi>10.1016/S2542-5196(19)30213-X</ce:doi>
+            <ce:copyright type="other" year="2019">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <ce:floats>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table</ce:label>
+               <ce:caption id="cecap10">
+                  <ce:simple-para id="spara10" role="caption" view="all">Framing of migration in the 2030 Agenda, with relevant goals, targets, and indicators</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Targets and indicators</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Relevant insights from migration science</bold>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" namest="col1" nameend="col3">
+                           <bold>Migration as temporary</bold>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Goal 10: Reduced inequalities</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Article 29: underlines the rights of migrants to return to their country of origin.<br/>Indicator 10.7.2: migration policies that facilitate “orderly, safe, regular and responsible migration and mobility of people”. Focus on granting permission of temporary stays of forcibly displaced people, agreements on readmission, and monitoring of visa overstays.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Migration as inherent and long-standing part of development and social transformation, including migrants as a source of innovation, economic growth, and cultural diversity.<br/>Demographic reality of migrants as healthy and economically active.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" namest="col1" nameend="col3">
+                           <bold>Migration enhances development of country of origin through remittances</bold>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Goal 17: Partnerships for the goals</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Target 17.3: mobilise financial resources for developing countries by increasing volume of remittances (indicator 17.3.2).</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">As above.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Goal 10: Reduced inequalities</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Target 10.c: reduce costs and barriers to remittances (indicator 10.c.1).</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">As above.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" namest="col1" nameend="col3">
+                           <bold>Migration as international and often labour-related</bold>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Goal 10: Reduced inequalities</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Indicator 10.7.2: migration policies that facilitate “orderly, safe, regular and responsible migration and mobility of people”. Focus on “non- nationals”, immigration and emigration, cooperation among countries, and people “displaced across international borders”.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Incorporation of the more prevalent form of migration: internal movements within a country as dominant form globally.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" namest="col1" nameend="col3">
+                           <bold>Development as sedentary</bold>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Goal 11: Sustainable cities and communities.<br/>Goal 13: Climate action</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">No explicit reference to migration or mobility in targets 11.3, 11.a, and 11.b, which call for inclusive urbanisation, sustainable human settlement planning and positive socioenvironmental links between urban, peri-urban, and rural areas by strengthening national and regional development planning and disaster risk reduction strategies.<br/>No explicit reference to migration or mobility in targets 13.1, 13.2, and 13.b, despite including a focus on small island developing states.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Permanent and temporary migration as key aspect of climate resilience and social transformation. For example: i) movement to urban areas increases pressure on urban infrastructure and governance; ii) permanent displacement and relocation of populations from places at risk, including from small island developing states.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Migration transforms the conditions for the achievement of the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S254251961930213X-f1b3b58b0b377f749c8a3c1d741dec77">
+                  <ce:given-name>W Neil</ce:given-name>
+                  <ce:surname>Adger</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S254251961930213X-9d6781b4aab054873bf46fc6bd15f859">
+                  <ce:given-name>Emily</ce:given-name>
+                  <ce:surname>Boyd</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30" author-id="S254251961930213X-29394ead2226e4f149b3e4d7edfca379">
+                  <ce:given-name>Anita</ce:given-name>
+                  <ce:surname>Fábos</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au40" author-id="S254251961930213X-0e1888f84738c67fe06dcadc3d78f336">
+                  <ce:given-name>Sonja</ce:given-name>
+                  <ce:surname>Fransen</ce:surname>
+                  <ce:cross-ref id="cecref40" refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au50" author-id="S254251961930213X-031170de28be1400dd91fedd0e710fcf">
+                  <ce:given-name>Dominique</ce:given-name>
+                  <ce:surname>Jolivet</ce:surname>
+                  <ce:cross-ref id="cecref50" refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au60" author-id="S254251961930213X-23245b7978b5706e4d65940aaf910897">
+                  <ce:given-name>George</ce:given-name>
+                  <ce:surname>Neville</ce:surname>
+                  <ce:cross-ref id="cecref60" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au70" author-id="S254251961930213X-ea763221fae1bb2d6f686a4ee5af55a1">
+                  <ce:given-name>Ricardo Safra</ce:given-name>
+                  <ce:surname>de Campos</ce:surname>
+                  <ce:cross-ref id="cecref70" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref80" refid="aff5">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au80" author-id="S254251961930213X-7d2651d2e5f2d0fc6d70cba22eed4d2a">
+                  <ce:given-name>Marjanneke J</ce:given-name>
+                  <ce:surname>Vijge</ce:surname>
+                  <ce:cross-ref id="cecref90" refid="aff6">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S254251961930213X-b66ac2fa4a4955e4e45f806b67b8e929">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Geography, College of Life and Environmental Sciences, University of Exeter, Exeter EX4 4RJ, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Geography, College of Life and Environmental Sciences</sa:organization>
+                     <sa:organization>University of Exeter</sa:organization>
+                     <sa:city>Exeter</sa:city>
+                     <sa:postal-code>EX4 4RJ</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext10">Geography, College of Life and Environmental Sciences, University of Exeter, Exeter EX4 4RJ, UK</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S254251961930213X-9a594704f055ca6514e37429ebf7bf05">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Lund University Centre for Sustainability Studies, Lund University, Lund, Sweden</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Lund University Centre for Sustainability Studies</sa:organization>
+                     <sa:organization>Lund University</sa:organization>
+                     <sa:city>Lund</sa:city>
+                     <sa:country>Sweden</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext20">Lund University Centre for Sustainability Studies, Lund University, Lund, Sweden</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S254251961930213X-8d1af4713660abdf637ecc00327c112e">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of International Development, Community, and Environment, Clark University, Worcester, MA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of International Development, Community, and Environment</sa:organization>
+                     <sa:organization>Clark University</sa:organization>
+                     <sa:city>Worcester</sa:city>
+                     <sa:state>MA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext30">Department of International Development, Community, and Environment, Clark University, Worcester, MA, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff4" affiliation-id="S254251961930213X-7d83d997d358264b4cf076b35297eacb">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Faculty of Social and Behavioural Sciences, University of Amsterdam, Amsterdam, Netherlands</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Faculty of Social and Behavioural Sciences</sa:organization>
+                     <sa:organization>University of Amsterdam</sa:organization>
+                     <sa:city>Amsterdam</sa:city>
+                     <sa:country>Netherlands</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext40">Faculty of Social and Behavioural Sciences, University of Amsterdam, Amsterdam, Netherlands</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff5" affiliation-id="S254251961930213X-121f053bc206900ec4a41165b231c8c7">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Global Systems Institute, University of Exeter, Exeter, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Global Systems Institute</sa:organization>
+                     <sa:organization>University of Exeter</sa:organization>
+                     <sa:city>Exeter</sa:city>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext50">Global Systems Institute, University of Exeter, Exeter, UK</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff6" affiliation-id="S254251961930213X-e0adb34eb960f3a165fb113db808ec65">
+                  <ce:label>f</ce:label>
+                  <ce:textfn>Copernicus Institute of Sustainable Development, Utrecht University, Utrecht, Netherlands</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Copernicus Institute of Sustainable Development</sa:organization>
+                     <sa:organization>Utrecht University</sa:organization>
+                     <sa:city>Utrecht</sa:city>
+                     <sa:country>Netherlands</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext60">Copernicus Institute of Sustainable Development, Utrecht University, Utrecht, Netherlands</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">Migration is transformative both for those who move and for the places and economies of source and destination. The global stock of migrants, depending on definition, is approximately 750 million people: to assume that the world is static and that migration is a problem to be managed is inaccurate. Since migration is a major driving force of planetary and population health, we argue that it must be more directly incorporated into planning for sustainable development, with a focus on the extent and way in which the Sustainable Development Goals (SDGs) incorporate the transformative reality of migration.</ce:para>
+               <ce:para id="para20" view="all">The science of migration explains social and demographic dynamics, with human mobility as the norm rather than as a discrete event.<ce:cross-ref id="cecref100" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> Flows of ideas, remittances, and social capital from migration, for example, play a central role in transforming economic as well as social and political life in places of origin and destination. Migration is, therefore, an intrinsic part of social transformation<ce:cross-ref id="cecref110" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> that occurs in parallel and in combination with other societal trends, including many that are the explicit focus of the SDGs.</ce:para>
+               <ce:para id="para30" view="all">Migration processes can have positive and negative effects on social transformation.<ce:cross-ref id="cecref120" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> There are widespread concerns, for example, regarding the effect of rapid urbanisation driven by migration on the sustainable use of resources in cities. However, migrant populations have been shown throughout the world to be on average healthier and more economically active than host populations, at least with current migration patterns.<ce:cross-ref id="cecref130" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> From an economic perspective, migration is often a driver of economic growth: whether economic growth is itself sustainable thus becomes the key question.</ce:para>
+               <ce:para id="para40" view="all">The discourse of migration in the UN 2030 Agenda for Sustainable Development reflects the global political tensions surrounding the issue of migration at the time of its negotiations, culminating in 2015, when many countries, particularly in Europe, experienced major influxes of refugees from Syria and other conflict-affected countries.<ce:cross-refs id="cecrefs10" refid="bib5 bib6">
+                     <ce:sup loc="post">5,6</ce:sup>
+                  </ce:cross-refs> In effect, the 2030 Agenda frames migration as a temporary and unplanned phenomenon that needs to be managed, rather than as an inherent and longstanding part of sustainable development and social transformation. The <ce:cross-ref id="cecref140" refid="tbl1">table</ce:cross-ref>
+                  <ce:float-anchor refid="tbl1"/> documents how sedentary framing of development leads to the relevant current goals, targets, and indicators within the SDGs.</ce:para>
+               <ce:para id="para50" view="all">Within the SDGs, migration is recognised as a “multidimensional reality” that is of “major relevance for the development of countries of origin, transit and destination” (2030 Agenda, article 29). Migrants are acknowledged as able to make a “positive contribution” to inclusive growth (article 29), but the SDGs seem to refer mostly to benefits in the country of origin in the form of remittances from international labour migrants. Remittances, indeed, play a crucial economic role in countries with high international outmigration, but with significant social consequences such as so-called brain drain effects.</ce:para>
+               <ce:para id="para60" view="all">Overall, the 2030 Agenda, and specifically the SDGs on sustainable cities and climate action, have a static concept of human populations, de-emphasising permanent and temporary migration as a key aspect of sustainable development, climate resilience, and social transformation. Where migration is considered to “threaten to reverse much of the development progress”, the 2030 Agenda focuses on the “eradication” of human trafficking (article 27, and targets 5.2, 8.7, and 16.2), as well as “temporary” stays of forcibly displaced people (indicator 10.7.2). Such a framing of climate migration fails to consider migration as a long-term contribution to climate resilience and adaptation.<ce:cross-ref id="cecref150" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para70" view="all">Incorporating realistic scientific insights on migration and mobility would, we suggest, identify the conditions under which migration could contribute to positive outcomes for many arenas of sustainability, from disaster preparedness, to health and nutrition, and to safe and sustainable cities.</ce:para>
+               <ce:para id="para80" view="all">SDG 11 seeks to promote safe, sustainable, and resilient cities, for example, but its indicators need to reflect the reality of how urbanisation is driven by population movement to cities. A target of SDG 11 is to minimise the “proportion of urban population living in slums, informal settlements or inadequate housing”. However, the persistence of slum areas is driven by continued movement of new migrants to cities. In many cities in developing countries, more than half of residents are lifetime migrants. Migrant populations cluster in areas that are exposed to environmental hazards and have been shown to have uneven access to public health and other services and discriminated in labour markets.<ce:cross-ref id="cecref160" refid="bib8">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref> Therefore, the realisation of urban sustainability is intimately tied to the effectiveness and rapidity of integration of new populations into urban planning.</ce:para>
+               <ce:para id="para90" view="all">SDG 13 on climate action does not make an explicit connection between nations most vulnerable to climate change and increased migration flows, and thus underplays the opportunity to protect or acknowledge the adaptive role played by mobile populations. More than 25 million people per year are displaced internally or internationally by weather-related disasters. Involuntary and forced migration, not least through climate change, represents a breach of rights and is likely to have significant detrimental health outcomes.<ce:cross-refs id="cecrefs20" refid="bib9 bib10">
+                     <ce:sup loc="post">9,10</ce:sup>
+                  </ce:cross-refs> It has been shown in diverse settings that migrants contribute by filling key skill gaps, increase the consumption and production of goods and services, and improve local labour market efficiency, particularly in times of crisis or disaster. Migrants also support the resilience and wellbeing of origin communities through financial and social remittances. Rather than harnessing the potential of such interactions, the state-oriented nature of the targets and current indicators associated with SDG 13 implicitly sidesteps migration.</ce:para>
+               <ce:para id="para100" view="all">Incorporating the potentially social transformative nature of migration into policy and planning for sustainable development would better reflect the reality of a mobile world. A more encompassing view of migration would, we argue, lead to more appropriate targets and indicators for the SDGs. For example, target indicators could, for SDG 11 on urban areas, include the number of migrants entering informal economic sectors: such migration is most often associated with discrimination and precarity in cities. Additionally, SDG 13 on climate action could monitor regulations across countries for government-led relocation of communities (such relocation is likely to become more widespread into the future). A comprehensive set of targets and indicators would present better opportunities to deal with pressing challenges of social transformations, including ageing populations and declining birth rates in many countries.</ce:para>
+               <ce:para id="para110" view="all">In summary, the SDGs need to move beyond the implicit assumption that sedentary lives are the norm and that it is only safe, orderly, and regular migration that contributes to sustainable development. We suggest that, when migration is incorporated as an inherent and continuing part of social transformations, it will become central to long-term climate resilience and adaptation.</ce:para>
+               <ce:para id="para120" role="acknowledgement" view="all">We declare no competing interests. Funding for this work was provided by the Belmont Forum Transformation to Sustainability programme under the <ce:grant-sponsor id="GS1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">UK Economic and Social Research Council</ce:grant-sponsor> (grant <ce:grant-number refid="GS1">ES/S007687/1</ce:grant-number>), the <ce:grant-sponsor id="GS2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">University of Exeter European Network Fund, and the European Research Council</ce:grant-sponsor> (grant agreement <ce:grant-number refid="GS2">648496</ce:grant-number>) Migration as Development project.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Heller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Urry</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The new mobilities paradigm</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ Plann A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                              <sb:last-page>226</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext70">Heller M, Urry J. The new mobilities paradigm. Environ Plann A 2006; 38: 207–26.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>De Haas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Migration and development: a theoretical perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int Migr Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>264</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext80">De Haas H. Migration and development: a theoretical perspective. Int Migr Rev 2010; 44: 227–64.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DS</ce:given-name>
+                                 <ce:surname>Massey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Social structure, household strategies, and the cumulative causation of migration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Popul Index</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>26</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext90">Massey DS. Social structure, household strategies, and the cumulative causation of migration. Popul Index, 1990; 56: 3–26.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>LM</ce:given-name>
+                                 <ce:surname>Hunter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DH</ce:given-name>
+                                 <ce:surname>Simon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Might climate change the “healthy migrant” effect?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glob Environ Change</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>133</sb:first-page>
+                              <sb:last-page>142</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext100">Hunter LM, Simon DH. Might climate change the “healthy migrant” effect? Glob Environ Change 2017; 47: 133–42.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Nijenhuis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Leung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rethinking migration in the 2030 Agenda: towards a de-territorialized conceptualization of development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Forum Dev Stud</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>51</sb:first-page>
+                              <sb:last-page>68</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext110">Nijenhuis G, Leung M. Rethinking migration in the 2030 Agenda: towards a de-territorialized conceptualization of development. Forum Dev Stud 2017; 44: 51–68.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Holliday</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Hennebry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Gammage</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Achieving the sustainable development goals: surfacing the role for a gender analytic of migration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Ethn Migr Stud</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2551</sb:first-page>
+                              <sb:last-page>2565</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext120">Holliday J, Hennebry J, Gammage S. Achieving the sustainable development goals: surfacing the role for a gender analytic of migration. J Ethn Migr Stud 2019; 45: 2551–65.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F</ce:given-name>
+                                 <ce:surname>Gemenne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Blocher</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How can migration serve adaptation to climate change? Challenges to fleshing out a policy ideal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geogr J</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>183</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>336</sb:first-page>
+                              <sb:last-page>347</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext130">Gemenne F, Blocher J. How can migration serve adaptation to climate change? Challenges to fleshing out a policy ideal. Geogr J 2017; 183: 336–47.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Black</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SR</ce:given-name>
+                                 <ce:surname>Bennett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SM</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JR</ce:given-name>
+                                 <ce:surname>Beddington</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Climate change: Migration as adaptation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>478</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>447</sb:first-page>
+                              <sb:last-page>448</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext140">Black R, Bennett SR, Thomas SM, Beddington JR. Climate change: Migration as adaptation. Nature 2011; 478: 447–48.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>McMichael</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AJ</ce:given-name>
+                                 <ce:surname>McMichael</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An ill wind? Climate change, migration, and health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ Health Perspect</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>646</sb:first-page>
+                              <sb:last-page>654</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext150">McMichael C, Barnett J, McMichael AJ. An ill wind? Climate change, migration, and health. Environ Health Perspect 2012; 120: 646–54.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>BS</ce:given-name>
+                                 <ce:surname>Levy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JA</ce:given-name>
+                                 <ce:surname>Patz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Climate change, human rights, and social justice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>310</sb:first-page>
+                              <sb:last-page>322</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext160">Levy BS, Patz JA. Climate change, human rights, and social justice. Ann Glob Health 2015; 81: 310–22.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

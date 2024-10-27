@@ -1,0 +1,2080 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1386505621001301</prism:url><dc:identifier>doi:10.1016/j.ijmedinf.2021.104504</dc:identifier><eid>1-s2.0-S1386505621001301</eid><prism:doi>10.1016/j.ijmedinf.2021.104504</prism:doi><pii>S1386-5056(21)00130-1</pii><dc:title>Leveraging data and information systems on the sustainable development goals </dc:title><prism:publicationName>International Journal of Medical Informatics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>13865056</prism:issn><prism:volume>152</prism:volume><prism:startingPage>104504</prism:startingPage><prism:pageRange>104504</prism:pageRange><articleNumber>104504</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-08-31</prism:coverDate><prism:coverDisplayDate>August 2021</prism:coverDisplayDate><prism:copyright>© 2021 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Novillo-Ortiz, David</dc:creator><dc:creator>Quintana, Yuri</dc:creator><dc:creator>Holmes, John H.</dc:creator><dc:creator>Borbolla, Damian</dc:creator><dc:creator>De Fatima Marin, Heimar</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S1386505621001301" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1386505621001301" rel="scidir"/></coredata><scopus-id>85106980767</scopus-id><scopus-eid>2-s2.0-85106980767</scopus-eid><pubmed-id>34074600</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85106980767" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271161</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291773</xocs:ssid>
+         <xocs:ssid type="subj">291870</xocs:ssid>
+         <xocs:ssid type="subj">291901</xocs:ssid>
+         <xocs:ssid type="subj">291919</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Medical Informatics</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALMEDICALINFORMATICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210515">2021-05-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210515">2021-05-15</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210612">2021-06-12</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210612">2021-06-12</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-03-06T07:02:19</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1386505621001301</xocs:eid>
+      <xocs:pii-formatted>S1386-5056(21)00130-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1386505621001301</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijmedinf.2021.104504</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1386505621X00068</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240306">2024-03-06T07:45:48.256882Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210801</xocs:date-search-begin>
+      <xocs:date-search-end>20210831</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1621092626">2021-05-15T15:30:26.915236Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body acknowledge affil articletitle auth authfirstini authfull authlast ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1386-5056</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13865056</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>152</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>152</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 152</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>104504</xocs:first-fp>
+      <xocs:article-number>104504</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>104504</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202108</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Editors' Choice</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>LEVERAGINGDATAINFORMATIONSYSTEMSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>NOVILLOORTIZ</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Disclaimer</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>ASMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>240</xocs:ref-first-fp>
+            <xocs:ref-last-lp>246</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>WORLDHEALTHORGANIZATION</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>PEOPLELIVINGLONGERHEALTHIERLIVESBUTCOVID19THREATENSTHROWPROGRESSOFFTRACK</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>WORLDHEALTHORGANIZATION</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>IMPACTCOVID19PEOPLESLIVELIHOODSHEALTHFOODSYSTEMSJOINTSTATEMENTBYILOFAOIFAD</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>NATIONALINTELLIGENCECOUNCIL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALTRENDSREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>OSAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>n861</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>CLARE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>BEAUNOYER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>106424</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>UNITEDNATIONS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTGOALSREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>UNITEDNATIONS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTGOALSREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>PARIS21UNDERCOVID19WORRYINGSTAGNATIONINFUNDINGDESPITEGROWINGDATADEMAND</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>UNITEDNATIONSCONFERENCEONTRADEANDDEVELOPMENT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>KEEPTRACKSDGSNEEDADATAREVOLUTION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>ALSHORBAJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>474</xocs:ref-first-fp>
+            <xocs:ref-last-lp>476</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>SUTHAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e027689</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>WATSONGRANT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>LASPIDOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>137264</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>TAMFON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>316</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>BOMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1321904</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>LIAW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>773</xocs:ref-first-fp>
+            <xocs:ref-last-lp>777</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>TESFAYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-last-lp>51</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>PINICHKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e0189909</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>CECCATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>126</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0110">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0115">
+            <xocs:ref-normalized-surname>CAMPOSSANCHEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0120">
+            <xocs:ref-normalized-surname>ISMAIL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9519321</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0125">
+            <xocs:ref-normalized-surname>MOLLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>AERTS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104456</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0135">
+            <xocs:ref-normalized-surname>ZAHID</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104420</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0140">
+            <xocs:ref-normalized-surname>POPPE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104422</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0145">
+            <xocs:ref-normalized-surname>POSSENTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0150">
+            <xocs:ref-normalized-surname>BERTOLET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104301</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0155">
+            <xocs:ref-normalized-surname>GIUNTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104236</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0160">
+            <xocs:ref-normalized-surname>ABBOTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104412</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0165">
+            <xocs:ref-normalized-surname>SIDDIQI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104413</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0170">
+            <xocs:ref-normalized-surname>AZZOPARDIMUSCAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>638</xocs:ref-first-fp>
+            <xocs:ref-last-lp>639</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0175">
+            <xocs:ref-normalized-surname>VINUESA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>NOVILLOORTIZX2021X104504</xocs:refkey3>
+         <xocs:refkey4ai>NOVILLOORTIZX2021X104504XD</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2022-06-12T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-06-12T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-06-17T02:36:42.390Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp-car</xocs:funding-addon-type>
+         <xocs:funding-text>Heimar De Fatima Marin, David Novillo-Ortiz, Yuri Quintana, John Holmes, Damian Borbolla for valued contributions as Guest Editors for the Special Issue.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1386-5056(21)00130-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1386505621001301</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1386505621001301</xocs:eid>
+         <xocs:doi>10.1016/j.ijmedinf.2021.104504</xocs:doi>
+         <xocs:cid>271161</xocs:cid>
+         <xocs:timestamp>2024-03-06T07:45:48.256882Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-08-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1386505621001301-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386505621001301/MAIN/application/pdf/7ef612049feef702a427e389745e3928/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>346484</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1386505621001301-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1386505621001301/PREVIEW/image/png/582d9d3d3bdf97c8de4c43bc3da140e4/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>74186</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" xml:lang="en" docsubtype="edi">
+         <item-info>
+            <jid>IJB</jid>
+            <aid>104504</aid>
+            <ce:article-number>104504</ce:article-number>
+            <ce:pii>S1386-5056(21)00130-1</ce:pii>
+            <ce:doi>10.1016/j.ijmedinf.2021.104504</ce:doi>
+            <ce:copyright type="full-transfer" year="2021">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:title id="tit0005">Leveraging data and information systems on the sustainable development goals</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S1386505621001301-e2287805add63f6572cafe24428f0de5">
+                  <ce:given-name>David</ce:given-name>
+                  <ce:surname>Novillo-Ortiz</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S1386505621001301-b3302a21d66f47ead947443613479432">
+                  <ce:textfn>Division of Country Health Policies and Systems, World Health Organization, Regional Office for Europe, Copenhagen, Denmark</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Division of Country Health Policies and Systems</sa:organization>
+                     <sa:organization>World Health Organization</sa:organization>
+                     <sa:organization>Regional Office for Europe</sa:organization>
+                     <sa:city>Copenhagen</sa:city>
+                     <sa:country>Denmark</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0005">a. Division of Country Health Policies and Systems, World Health Organization, Regional Office for Europe, Copenhagen, DK</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="aug0010">
+               <ce:author id="aut0010" author-id="S1386505621001301-281488332a8ccf8a5e9b61f080cb7943">
+                  <ce:given-name>Yuri</ce:given-name>
+                  <ce:surname>Quintana</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="aff0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0010" affiliation-id="S1386505621001301-99e1dc2b5dc0aeee4ecc734e87b0a9a5">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Division of Clinical Informatics, Beth Israel Deaconess Medical Center, Boston, MA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Division of Clinical Informatics</sa:organization>
+                     <sa:organization>Beth Israel Deaconess Medical Center</sa:organization>
+                     <sa:city>Boston</sa:city>
+                     <sa:state>MA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0010">b. Division of Clinical Informatics, Beth Israel Deaconess Medical Center, Boston, MA, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S1386505621001301-f5101f68721429a9f3bd5187588b77e3">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Harvard Medical School, Boston, MA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Harvard Medical School</sa:organization>
+                     <sa:city>Boston</sa:city>
+                     <sa:state>MA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0015">c. Harvard Medical School, Boston, MA, USA</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="aug0015">
+               <ce:author id="aut0015" author-id="S1386505621001301-47804a31c28a7afa0e6cd3a8b699683c">
+                  <ce:given-name>John H.</ce:given-name>
+                  <ce:surname>Holmes</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0020" affiliation-id="S1386505621001301-6fcd9b7af621afdce2565d4bfa8cb289">
+                  <ce:textfn>Department of Biostatistics, Epidemiology, and Informatics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Biostatistics, Epidemiology, and Informatics</sa:organization>
+                     <sa:organization>Perelman School of Medicine</sa:organization>
+                     <sa:organization>University of Pennsylvania</sa:organization>
+                     <sa:city>Philadelphia</sa:city>
+                     <sa:state>PA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0020">d. Department of Biostatistics, Epidemiology, and Informatics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="aug0020">
+               <ce:author id="aut0020" author-id="S1386505621001301-bd4f7478c34d7d5182449f2a7cfe4e22">
+                  <ce:given-name>Damian</ce:given-name>
+                  <ce:surname>Borbolla</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0025">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0025" affiliation-id="S1386505621001301-7efa4a0fd73205ee9e7b6eaf079e0fb2">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Department of Biomedical Informatics, University of Utah, Salt Lake City, UT, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Biomedical Informatics</sa:organization>
+                     <sa:organization>University of Utah</sa:organization>
+                     <sa:city>Salt Lake City</sa:city>
+                     <sa:state>UT</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0025">e. Department of Biomedical Informatics, University of Utah, Salt Lake City, Utah, USA</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:author-group id="aug0025">
+               <ce:author id="aut0025" author-id="S1386505621001301-8b2aaf1dc693ebc623d28a17c8da7006">
+                  <ce:given-name>Heimar</ce:given-name>
+                  <ce:surname>De Fatima Marin</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="cor0005">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0030" affiliation-id="S1386505621001301-1b7201440ccf1ec0bc6016ffc353ed95">
+                  <ce:textfn>Federal University of São Paulo, São Paulo, Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Federal University of São Paulo</sa:organization>
+                     <sa:city>São Paulo</sa:city>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0030">f. Federal University of São Paulo, São Paulo, Brazil.</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: R. Sena Madureira, 1500 - Vila Clementino, São Paulo, SP, 04021-001, Brazil.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>R. Sena Madureira</sa:organization>
+                     <sa:address-line>1500 - Vila Clementino</sa:address-line>
+                     <sa:city>São Paulo</sa:city>
+                     <sa:state>SP</sa:state>
+                     <sa:postal-code>04021-001</sa:postal-code>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="par0005" view="all">In September 2015, the 193 United Nations’ member states agreed to continue working towards the Millennium Development Goals (MDG), which began in 2000. This commitment, included under the Sustainable Development Goals (SDGs), aims to achieve 17 goals and 169 targets by 2030. Of these, 12 goals, 33 targets, and 57 indicators have been identified as health-related SDGs [<ce:cross-ref id="crf0025" refid="bib0005">1</ce:cross-ref>]. According to the World Health Organization (WHO), life expectancy and healthy life expectancy have increased, but unequally. In addition, the COVID-19 pandemic is causing significant loss of life, disrupting livelihoods, and threatening the recent advances in health and progress towards global development goals [<ce:cross-ref id="crf0030" refid="bib0010">2</ce:cross-ref>]. The economic and societal impacts from the COVID-19 pandemic may be long lasting [<ce:cross-ref id="crf0035" refid="bib0015">3</ce:cross-ref>,<ce:cross-ref id="crf0040" refid="bib0020">4</ce:cross-ref>] and create inequities not only in vaccine accessibility but also on the technologies needed adapt to the new world such as vaccine passports [<ce:cross-ref id="crf0045" refid="bib0025">5</ce:cross-ref>], telehealth accessibility [<ce:cross-ref id="crf0050" refid="bib0030">6</ce:cross-ref>] and digital inequities [<ce:cross-ref id="crf0055" refid="bib0035">7</ce:cross-ref>].</ce:para>
+               <ce:para id="par0010" view="all">Robust information systems and high-quality data are critical for governments and healthcare organizations to make informed decisions and track progress on the SDGs. However, important barriers must be overcome related to data coverage. As reported in 2019, most countries do not regularly collect data for over a half of the indicators [<ce:cross-ref id="crf0060" refid="bib0040">8</ce:cross-ref>]), data timeliness (the average for the most recent year available for health-related SDGs is 2017 [<ce:cross-ref id="crf0065" refid="bib0045">9</ce:cross-ref>]), and lack of funding (63 % of low-income and lower-middle-income countries need additional financing for data and statistics to face the challenges posed by COVID-19 [<ce:cross-ref id="crf0070" refid="bib0050">10</ce:cross-ref>]). Furthermore, the cost of collecting data to monitor the SDGs is expensive ($650 million per year [<ce:cross-ref id="crf0075" refid="bib0055">11</ce:cross-ref>]), but the cost of not obtaining timely, credible, reliable, and actionable data is even higher, as the COVID-19 pandemic has demonstrated.</ce:para>
+               <ce:para id="par0015" view="all">In spite of the barriers, there has been substantial research and implementation into the role of informatics in addressing the Sustainable Development Goals. Several initiatives have focused on developing data resources to address specific health-related issues, such as road traffic injuries [<ce:cross-ref id="crf0080" refid="bib0060">12</ce:cross-ref>], public health monitoring [<ce:cross-ref id="crf0085" refid="bib0065">13</ce:cross-ref>,<ce:cross-ref id="crf0090" refid="bib0070">14</ce:cross-ref>]; coordination of routine health care [<ce:cross-ref id="crf0095" refid="bib0075">15</ce:cross-ref>,<ce:cross-ref id="crf0100" refid="bib0080">16</ce:cross-ref>]. Another focus is on increasing the accessible of the public to information and communication technology (ICT), as illustrated in works of Boman; Liaw; Tesfaye [<ce:cross-refs id="crfs0005" refid="bib0085 bib0090 bib0095">17–19</ce:cross-refs>]. The integration of informatics, remote sensors, and geographic information systems to support environmental monitoring [<ce:cross-refs id="crfs0010" refid="bib0100 bib0105 bib0110">20–22</ce:cross-refs>], and child movement to school [<ce:cross-ref id="crf0105" refid="bib0115">23</ce:cross-ref>]. Finally, the exchange of healthcare data poses challenges for strategic development, and this could be addressed by the development of robust ontologies and data models to improve that exchange [<ce:cross-ref id="crf0110" refid="bib0120">24</ce:cross-ref>,<ce:cross-ref id="crf0115" refid="bib0125">25</ce:cross-ref>].</ce:para>
+               <ce:para id="par0020" view="all">This issue seeks to highlight innovative approaches and informatics methodologies for achieving SDGs and lessons learned from digital solutions. The thirty-three papers received from eighteen countries underwent a rigorous peer-review process, which identified eight papers for publication. The accepted papers cover a range of issues related to governance, emerging data solutions for modeling and analytics, standards and interoperability, and targeted interventions focused on clinical outcomes, noncommunicable diseases (NCDs), i.e., behavioral risk factors and cancer, and immunization. In one paper, colleagues from the UN Broadband Commission for Sustainable Development propose applying six practical building blocks (policy, legal framework, standardized infrastructure, interoperability, partnerships, and sustained financing) that would allow policymakers, private companies, donors, health consumers, and civil society to work together to strategically build health and care systems to help accelerate the achievement of the health SDGs, reduce the burden of NCDs, and aid countries on their path toward universal health coverage [<ce:cross-ref id="crf0120" refid="bib0130">26</ce:cross-ref>]. In another paper, Zahid et al. reviewed emerging information technologies for data modeling and analytics that may establish Data-Centric Healthcare (DCHC) for sustainable healthcare as envisioned. They identify requirements to create sustainability. These demands include user-centric design, data privacy and protection measures, transparency, interoperability, scalability, and compatibility within the solution [<ce:cross-ref id="crf0125" refid="bib0135">27</ce:cross-ref>]. Furthermore, colleagues from the University of Oslo describe a novel approach to disseminating standards through a digital platform, District Health Information Software 2 (DHIS2). Based on experience with 40 countries, Poppe et al. affirm that combining types of standards into one coherent package increases the value of adopting the standards [<ce:cross-ref id="crf0130" refid="bib0140">28</ce:cross-ref>].</ce:para>
+               <ce:para id="par0025" view="all">This special issue includes two specific experiences related to NCDs. In one example from Italy, Possenti et al. describe two Behavioural Risk Factor Surveillance Systems (BRFSSs) in Italy that are used to monitor 19 indicators concerning nine health-related SDGs and to design, implement, monitor, and evaluate programs and policies at different levels (local, regional, national) for NCD prevention and health promotion [<ce:cross-ref id="crf0135" refid="bib0145">29</ce:cross-ref>]. Furthermore, Bertolet et al. present integrated customization of an Oncology Information System (OIS) implemented in a hospital in Spain, yet adaptable to other hospitals, that optimizes the department’s performance by driving an automatized, paperless workflow and automated and effortless collection of structured data throughout the radiotherapy process [<ce:cross-ref id="crf0140" refid="bib0150">30</ce:cross-ref>]. This special issue also includes an example of a data-driven approach to improve clinical outcomes. Specifically, Giunta et al. assess an indicator of the quality of care in a tertiary referral hospital in Argentina, using data available from clinical records, and determine that efforts to improve must prioritize greater attention to patients’ readiness for discharge, explore causes of preventable readmissions, and better support patient self-management [<ce:cross-ref id="crf0145" refid="bib0155">31</ce:cross-ref>]. Two papers related to immunization information systems (IIS) conclude this special issue. Abbott et al. share the experience of the American Immunization Registry Association (AIRA) and its Measurement and Improvement (M&amp;I) Initiative, which, according to the authors, since 2015 has helped to reduce variability across IIS and strengthen immunization data in IIS that are more complete, accurate, and can be utilized with confidence [<ce:cross-ref id="crf0150" refid="bib0160">32</ce:cross-ref>]. Also related to immunization, Siddiqi et al. demonstrate how big immunization data from electronic records is leveraged in Sindh, Pakistan, to increase geographical coverage, to quantify the impact of provincial accelerated outreach activities, and to examine the impact of the COVID-19 pandemic on routine immunization coverage to help devise a tailored approach for future efforts [<ce:cross-ref id="crf0155" refid="bib0165">33</ce:cross-ref>].</ce:para>
+               <ce:para id="par0030" view="all">Along with national data governance plans, well-defined and documented data processes, mechanisms to exchange data, and a data-driven culture to empower users, as proposed by the WHO [<ce:cross-ref id="crf0160" refid="bib0170">34</ce:cross-ref>], digital data solutions and digital data sources can help leverage and scale up the solutions and proposals presented in this special issue and to breach the gap to achieve and monitor the SDGs. For example, artificial intelligence has shown a 69 % positive impact (versus an 8% negative impact) toward accomplishing the SDG3 “Good Health and Well-being” [<ce:cross-ref id="crf0165" refid="bib0175">35</ce:cross-ref>]. Along with public data sets, digital data sources (e.g., electronic health records, mass media, internet media, search engines, social media, mobile data, and GPS mobility data) should be integrated and used to monitor real-time progress to achieve national and global health-related goals. Again, the risk of not using innovative approaches to achieve and monitor the SDGs is higher than not using data that is already available. With the proper governance and legal reforms (including ethical, privacy, and bias concerns), this approach can benefit governments and society.</ce:para>
+               <ce:para id="par0035" view="all">Finally, the guest editors would like to thank the IJMI Editorial Committee for the opportunity to work on this special edition. They would also like to thank the team that has provided support to make this possible and everyone who sent contributions to this special edition.</ce:para>
+               <ce:section id="sec0005" view="all">
+                  <ce:section-title id="sect0005">Disclaimer</ce:section-title>
+                  <ce:para id="par0040" view="all">DNO is a staff member of the World Health Organization and is himself alone responsible for the views expressed in this publication, which do not necessarily represent the decisions or policies of the Organization.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0010">Acknowledgments</ce:section-title>
+               <ce:para id="par0045" view="all">Heimar De Fatima Marin, David Novillo-Ortiz, Yuri Quintana, John Holmes, Damian Borbolla for valued contributions as Guest Editors for the Special Issue.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0015">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Asma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lozano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chatterji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Swaminathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>de Fátima Marinho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Varavikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Misganaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ryan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Dandona</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Minghui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.L.</ce:given-name>
+                                 <ce:surname>Murray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Monitoring the health-related Sustainable Development Goals: lessons learned and recommendations for improved measurement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>395</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>January (10219)</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>240</sb:first-page>
+                              <sb:last-page>246</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/S0140-6736(19)32523-1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0035">Asma S, Lozano R, Chatterji S, Swaminathan S, de Fátima Marinho M, Yamamoto N, Varavikova E, Misganaw A, Ryan M, Dandona L, Minghui R, Murray CJL. Monitoring the health-related Sustainable Development Goals: lessons learned and recommendations for improved measurement. Lancet. 2020 Jan 18;395(10219):240-246. doi: 10.1016/S0140-6736(19)32523-1.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>World Health Organization</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>WHO: People Living Longer and Healthier Lives but COVID-19 Threatens to Throw Progress Off Track</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>13 May 2020. Available at URL:</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0005" xlink:href="https://www.who.int/news/item/13-05-2020-people-living-longer-and-healthier-lives-but-covid-19-threatens-to-throw-progress-off-track" xlink:type="simple">https://www.who.int/news/item/13-05-2020-people-living-longer-and-healthier-lives-but-covid-19-threatens-to-throw-progress-off-track</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0040">World Health Organization. WHO: People living longer and healthier lives but COVID-19 threatens to throw progress off track. 13 May 2020. Available at URL: https://www.who.int/news/item/13-05-2020-people-living-longer-and-healthier-lives-but-covid-19-threatens-to-throw-progress-off-track</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>World Health Organization</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of COVID-19 on People’s Livelihoods, Their Health and Our Food Systems - Joint Statement by ILO, FAO, IFAD and WHO</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>13 October 2020. Available at URL:</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0010" xlink:href="https://www.who.int/news/item/13-10-2020-impact-of-covid-19-on-people%27s-livelihoods-their-health-and-our-food-systems" xlink:type="simple">https://www.who.int/news/item/13-10-2020-impact-of-covid-19-on-people%27s-livelihoods-their-health-and-our-food-systems</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0045">World Health Organization. Impact of COVID-19 on people's livelihoods, their health and our food systems - Joint statement by ILO, FAO, IFAD and WHO. 13 October 2020. Available at URL: https://www.who.int/news/item/13-10-2020-impact-of-covid-19-on-people%27s-livelihoods-their-health-and-our-food-systems</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>National Intelligence Council</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global Trends Report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>MARCH 2021. NIC 2021-02339, ISBN 978-1-929667-33-8, Available at</sb:comment>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:edition>7th edition</sb:edition>
+                              <sb:date>2021</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0015" xlink:href="https://www.dni.gov/index.php/global-trends-home" xlink:type="simple">https://www.dni.gov/index.php/global-trends-home</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0050">National Intelligence Council. Global Trends report. 7th Edition. MARCH 2021. NIC 2021-02339, ISBN 978-1-929667-33-8, Available at https://www.dni.gov/index.php/global-trends-home</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Osama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Razai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Majeed</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Covid-19 vaccine passports: access, equity, and ethics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>373</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>April (1)</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>n861</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1136/bmj.n861</ce:doi>
+                        </sb:host>
+                        <sb:comment>PMID: 33795260</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sot0055">Osama T, Razai MS, Majeed A. Covid-19 vaccine passports: access, equity, and ethics. BMJ. 2021 Apr 1;373:n861. doi: 10.1136/bmj.n861. PMID: 33795260.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Clare</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Telehealth and the digital divide as a social determinant of health during the COVID-19 pandemic</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Netw. Model. Anal. Health Inform. Bioinform.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s13721-021-00300-y</ce:doi>
+                        </sb:host>
+                        <sb:comment>Epub 2021 Apr 3. PMID: 33842187; PMCID: PMC8019343</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sot0060">Clare CA. Telehealth and the digital divide as a social determinant of health during the COVID-19 pandemic. Netw Model Anal Health Inform Bioinform. 2021;10(1):26. doi: 10.1007/s13721-021-00300-y. Epub 2021 Apr 3. PMID: 33842187; PMCID: PMC8019343.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Beaunoyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Dupéré</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Guitton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>COVID-19 and digital inequalities: reciprocal impacts and mitigation strategies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Comput. Human Behav.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>111</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>October</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>106424</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.chb.2020.106424</ce:doi>
+                        </sb:host>
+                        <sb:comment>Epub 2020 May 11. PMID: 32398890; PMCID: PMC7213963</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sot0065">Beaunoyer E, Dupéré S, Guitton MJ. COVID-19 and digital inequalities: Reciprocal impacts and mitigation strategies. Comput Human Behav. 2020 Oct;111:106424. doi: 10.1016/j.chb.2020.106424. Epub 2020 May 11. PMID: 32398890; PMCID: PMC7213963.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Sustainable Development Goals Report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Available at URL:</sb:comment>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2019</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0020" xlink:href="https://unstats.un.org/sdgs/report/2019/" xlink:type="simple">https://unstats.un.org/sdgs/report/2019/</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0070">United Nations. The Sustainable Development Goals Report. 2019. Available at URL: https://unstats.un.org/sdgs/report/2019/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Sustainable Development Goals Report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Available at URL:</sb:comment>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2020</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0025" xlink:href="https://unstats.un.org/sdgs/report/2020/the-need-for-data-innovations-in-the-time-of-COVID-19/" xlink:type="simple">https://unstats.un.org/sdgs/report/2020/the-need-for-data-innovations-in-the-time-of-COVID-19/</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0075">United Nations. The Sustainable Development Goals Report. 2020. Available at URL: https://unstats.un.org/sdgs/report/2020/the-need-for-data-innovations-in-the-time-of-COVID-19/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Paris 21. Under COVID-19, Worrying Stagnation in Funding Despite Growing Data Demand</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>8 December 2020. Available at URL:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0030" xlink:href="https://paris21.org/news-center/news/press2020-under-covid-19-worrying-stagnation-funding-despite-growing-data-demand" xlink:type="simple">https://paris21.org/news-center/news/press2020-under-covid-19-worrying-stagnation-funding-despite-growing-data-demand</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0080">Paris 21. Under COVID-19, worrying stagnation in funding despite growing data demand. 8 December 2020. Available at URL: https://paris21.org/news-center/news/press2020-under-covid-19-worrying-stagnation-funding-despite-growing-data-demand</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations Conference on Trade and Development</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>To Keep Track of the SDGs, We Need a Data Revolution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>17 January 2019. Available at URL: https://unctad.org/news/keep-track-sdgs-we-need-data-revolution#:∼:text=The%20Global%20Partnership%20for%20Sustainable,least%20%241%20billion%20by%202020</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sot0085">United Nations Conference on Trade and Development. To keep track of the SDGs, we need a data revolution. 17 January 2019. Available at URL: https://unctad.org/news/keep-track-sdgs-we-need-data-revolution#:∼:text=The%20Global%20Partnership%20for%20Sustainable,least%20%241%20billion%20by%202020.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Al-Shorbaji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Haux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Krishnamurthy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Marschollek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Mattfeld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bartolomeos</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Road traffic related injury research and informatics. New opportunities for biomedical and health informatics as a contribution to the United Nations’ sustainable development goals?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Methods Inf. Med.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>474</sb:first-page>
+                              <sb:last-page>476</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0090">Al-Shorbaji N, Haux R, Krishnamurthy R, Marschollek M, Mattfeld DC, Bartolomeos K, et al. Road Traffic Related Injury Research and Informatics. New Opportunities for Biomedical and Health Informatics as a Contribution to the United Nations’ Sustainable Development Goals?. Methods Inf Med. 2015;54(5):474–6.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Suthar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Khalifa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Joos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.-J.</ce:given-name>
+                                 <ce:surname>Manders</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Abdul-Quader</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Amoyaw</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>National health information systems for achieving the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ Open</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e027689</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0095">Suthar AB, Khalifa A, Joos O, Manders E-J, Abdul-Quader A, Amoyaw F, et al. National health information systems for achieving the Sustainable Development Goals. BMJ Open. 2019;9(5):e027689.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Watson-Grant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Achieving sustainability in health information systems: a field tested measure of country ownership</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Global. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0100">Watson-Grant S, Xiong K, Thomas JC. Achieving sustainability in health information systems: a field tested measure of country ownership. Global health. 2017;13(1):36.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Laspidou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.K.</ce:given-name>
+                                 <ce:surname>Mellios</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Spyropoulou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.T.</ce:given-name>
+                                 <ce:surname>Kofinas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Papadopoulou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Systems thinking on the resource nexus: modeling and visualisation tools to identify critical interlinkages for resilient and sustainable societies and institutions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>717</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>uj0, 0330500</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>137264</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0105">Laspidou CS, Mellios NK, Spyropoulou AE, Kofinas DT, Papadopoulou MP. Systems thinking on the resource nexus: Modeling and visualisation tools to identify critical interlinkages for resilient and sustainable societies and institutions. Sci Total Environ. 2020;717(uj0, 0330500):137264.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Tamfon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bilounga Ndongo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Bataliack</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Ngoufack</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Nguefack-Tsague</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Routine health information system in the health facilities in Yaounde-Cameroon: assessing the gaps for strengthening</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMC Med. Inf. Decis. Mak.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>316</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0110">Tamfon BB, Bilounga Ndongo C, Bataliack SM, Ngoufack MN, Nguefack-Tsague G. Routine health information system in the health facilities in Yaounde-Cameroon: assessing the gaps for strengthening. BMC Med Inf Decis Mak. 2020;20(1):316.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Boman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Kruse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Supporting global health goals with information and communications technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glob. Health Action</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>Suppl 3</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1321904</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0115">Boman M, Kruse E. Supporting global health goals with information and communications technology. Glob Health Action. 2017;10(sup3):1321904.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-T.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Marcelo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Narasimhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Ashraf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global eHealth, social business and citizen engagement: a natural convergence?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Stud. Health Technol. Inform.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>245</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>ck1, 9214582</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>773</sb:first-page>
+                              <sb:last-page>777</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0120">Liaw S-T, Marcelo A, Narasimhan P, Ashraf MM, Ray P. Global eHealth, Social Business and Citizen Engagement: A Natural Convergence?. Stud Health Technol Inform. 2017;245(ck1, 9214582):773–7.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Tesfaye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Atique</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Elias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Dibaba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-A.</ce:given-name>
+                                 <ce:surname>Shabbir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kebede</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determinants and development of a web-based child mortality prediction model in resource-limited settings: a data mining approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Comput. Methods Programs Biomed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>doh, 8506513</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                              <sb:last-page>51</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0125">Tesfaye B, Atique S, Elias N, Dibaba L, Shabbir S-A, Kebede M. Determinants and development of a web-based child mortality prediction model in resource-limited settings: A data mining approach. Comput Methods Programs Biomed. 2017;140(doh, 8506513):45–51.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Pinichka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Makka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sukkumnoed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chariyalertsak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Inchai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bundhamcharoen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Burden of disease attributed to ambient air pollution in Thailand: a GIS-based approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS One</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e0189909</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0130">Pinichka C, Makka N, Sukkumnoed D, Chariyalertsak S, Inchai P, Bundhamcharoen K. Burden of disease attributed to ambient air pollution in Thailand: A GIS-based approach. PLoS ONE. 2017;12(12):e0189909.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ceccato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Ramirez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Manyangadze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gwakisa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Thomson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Data and tools to integrate climate and environmental information into public health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Infect. Dis. Poverty</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>126</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0135">Ceccato P, Ramirez B, Manyangadze T, Gwakisa P, Thomson MC. Data and tools to integrate climate and environmental information into public health. Infect dis poverty. 2018;7(1):126.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.-C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>[Incorporating smart technologies and resilience into healthy living environment designs]</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Hu Li Tsa Chih.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                              <sb:last-page>28</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0140">Chen C-C. [Incorporating Smart Technologies and Resilience Into Healthy Living Environment Designs]. Hu Li Tsa Chih. 2019;66(3):23–8.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.S.</ce:given-name>
+                                 <ce:surname>Campos-Sanchez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Abarca-Alvarez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Molina-Garcia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Chillon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A GIS-Based method for analysing the association between school-built environment and home-school route measures with active commuting to school in urban children and adolescents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Environ. Res. Public Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0145">Campos-Sanchez FS, Abarca-Alvarez FJ, Molina-Garcia J, Chillon P. A GIS-Based Method for Analysing the Association Between School-Built Environment and Home-School Route Measures with Active Commuting to School in Urban Children and Adolescents. Int J Environ Res Public Health. 2020;17(7).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ismail</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Alshmari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Latif</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Ahmad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A granular ontology model for maternal and child health information system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Healthc. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2017</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>101528166</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9519321</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0150">Ismail S, Alshmari M, Latif K, Ahmad HF. A Granular Ontology Model for Maternal and Child Health Information System. J healthc eng. 2017;2017(101528166):9519321.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Molla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Rawlins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.T.</ce:given-name>
+                                 <ce:surname>Makanga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cunningham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.H.</ce:given-name>
+                                 <ce:surname>Avila</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Ruktanonchai</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Geographic information system for improving maternal and newborn health: recommendations for policy and programs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMC Pregnancy Childbirth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0155">Molla YB, Rawlins B, Makanga PT, Cunningham M, Avila JEH, Ruktanonchai CW, et al. Geographic information system for improving maternal and newborn health: recommendations for policy and programs. BMC Pregnancy Childbirth. 2017;17(1):26.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Aerts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bogdan-Martin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Leveraging data and AI to deliver on the promise of digital health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Med. Inform.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>April (10)</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104456</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijmedinf.2021.104456</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0160">Aerts A, Bogdan-Martin D. Leveraging data and AI to deliver on the promise of digital health. Int J Med Inform. 2021 Apr 10;150:104456. doi: 10.1016/j.ijmedinf.2021.104456.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zahid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Poulsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Wingreen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A systematic review of emerging information technologies for sustainable data-centric health-care</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Med. Inform.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>149</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>February (19)</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104420</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijmedinf.2021.104420</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0165">Zahid A, Poulsen JK, Sharma R, Wingreen SC. A systematic review of emerging information technologies for sustainable data-centric health-care. Int J Med Inform. 2021 Feb 19;149:104420. doi: 10.1016/j.ijmedinf.2021.104420.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Poppe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.I.</ce:given-name>
+                                 <ce:surname>Sæbø</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Braa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>WHO digital health packages for disseminating data standards and data use practices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Med. Inform.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>149</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>February (19)</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104422</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijmedinf.2021.104422</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0170">Poppe O, Sæbø JI, Braa J. WHO digital health packages for disseminating data standards and data use practices. Int J Med Inform. 2021 Feb 19;149:104422. doi: 10.1016/j.ijmedinf.2021.104422.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Possenti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Minardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Contoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gallo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Bertozzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Campostrini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Carrozzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cristofori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>D’Argenzio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.C.</ce:given-name>
+                                 <ce:surname>De Luca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Fateh-Moghadam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ramigni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.O.</ce:given-name>
+                                 <ce:surname>Trinito</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Vasselli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Masocco</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The two behavioural risk factor surveillances on the adult and elderly populations as information systems for leveraging data on health-related Sustainable Development Goals in Italy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Med. Inform.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>Epub ahead of print</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sot0175">Possenti V, Minardi V, Contoli B, Gallo R, Lana S, Bertozzi N, Campostrini S, Carrozzi G, Cristofori M, D’Argenzio A, De Luca AMC, Fateh-Moghadam P, Ramigni M, Trinito MO, Vasselli S, Masocco M. The two behavioural risk factor surveillances on the adult and elderly populations as information systems for leveraging data on health-related Sustainable Development Goals in Italy. Int J Med Inform. 2021. Epub ahead of print.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bertolet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Wals</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Miras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Macías</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Organic generation of real-world real-time data for clinical evidence in radiation oncology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Med. Inform.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>144</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>December</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104301</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijmedinf.2020.104301</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0180">Bertolet A, Wals A, Miras H, Macías J. Organic generation of real-world real-time data for clinical evidence in radiation oncology. Int J Med Inform. 2020 Dec;144:104301. doi: 10.1016/j.ijmedinf.2020.104301.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Giunta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marquez Fosser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.R.</ce:given-name>
+                                 <ce:surname>Boietti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ación</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Pollan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Martínez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Luna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Bonella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Grande Ratti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Emergency department visits and hospital readmissions in an Argentine health system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Med. Inform.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>141</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>September</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104236</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijmedinf.2020.104236</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0185">Giunta DH, Marquez Fosser S, Boietti BR, Ación L, Pollan JA, Martínez B, Luna D, Bonella MB, Grande Ratti MF. Emergency department visits and hospital readmissions in an Argentine health system. Int J Med Inform. 2020 Sep;141:104236. doi: 10.1016/j.ijmedinf.2020.104236.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sbref0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.K.</ce:given-name>
+                                 <ce:surname>Abbott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Coyle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Dayton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Kurilo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measurement and improvement as a model to strengthen immunization information systems and overcome data gaps</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Med. Inform.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>148</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>February (8)</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104412</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijmedinf.2021.104412</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0190">Abbott EK, Coyle R, Dayton A, Kurilo MB. Measurement and improvement as a model to strengthen immunization information systems and overcome data gaps. Int J Med Inform. 2021 Feb 8;148:104412. doi: 10.1016/j.ijmedinf.2021.104412.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sbref0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Siddiqi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Abdullah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Dharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Shah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Akhter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Habib</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chandir</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Using a low-cost, real-time electronic immunization registry in Pakistan to demonstrate utility of data for immunization programs and evidence-based decision making to achieve SDG-3: insights from analysis of Big Data on vaccines</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Med. Inform.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>149</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>February (8)</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104413</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijmedinf.2021.104413</ce:doi>
+                        </sb:host>
+                        <sb:comment>Epub ahead of print</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="sot0195">Siddiqi DA, Abdullah S, Dharma VK, Shah MT, Akhter MA, Habib A, Khan AJ, Chandir S. Using a low-cost, real-time electronic immunization registry in Pakistan to demonstrate utility of data for immunization programs and evidence-based decision making to achieve SDG-3: Insights from analysis of Big Data on vaccines. Int J Med Inform. 2021 Feb 8;149:104413. doi: 10.1016/j.ijmedinf.2021.104413. Epub ahead of print.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="sbref0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Azzopardi-Muscat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.P.</ce:given-name>
+                                 <ce:surname>Kluge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Asma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Novillo-Ortiz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A call to strengthen data in response to COVID-19 and beyond</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Med. Inform. Assoc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>March (3)</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>638</sb:first-page>
+                              <sb:last-page>639</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1093/jamia/ocaa308</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0200">Azzopardi-Muscat N, Kluge HHP, Asma S, Novillo-Ortiz D. A call to strengthen data in response to COVID-19 and beyond. J Am Med Inform Assoc. 2021 Mar 1;28(3):638-639. doi: 10.1093/jamia/ocaa308.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0175">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="sbref0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Vinuesa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Azizpour</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Leite</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Balaam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Dignum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Domisch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Felländer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Langhans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tegmark</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Fuso Nerini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of artificial intelligence in achieving the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>January (1)</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/s41467-019-14108-y</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0205">Vinuesa R, Azizpour H, Leite I, Balaam M, Dignum V, Domisch S, Felländer A, Langhans SD, Tegmark M, Fuso Nerini F. The role of artificial intelligence in achieving the Sustainable Development Goals. Nat Commun. 2020 Jan 13;11(1):233. doi: 10.1038/s41467-019-14108-y.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

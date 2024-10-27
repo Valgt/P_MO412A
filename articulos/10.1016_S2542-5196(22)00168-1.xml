@@ -1,0 +1,165 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2542519622001681</prism:url><dc:identifier>doi:10.1016/S2542-5196(22)00168-1</dc:identifier><eid>1-s2.0-S2542519622001681</eid><prism:doi>10.1016/S2542-5196(22)00168-1</prism:doi><pii>S2542-5196(22)00168-1</pii><dc:title>Correction to Lancet Planet Health 2022; 6: e422–30 </dc:title><prism:publicationName>The Lancet Planetary Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>err</pubType><prism:issn>25425196</prism:issn><prism:volume>6</prism:volume><prism:issueIdentifier>8</prism:issueIdentifier><prism:startingPage>e644</prism:startingPage><prism:pageRange>e644</prism:pageRange><prism:number>8</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2022-08-31</prism:coverDate><prism:coverDisplayDate>August 2022</prism:coverDisplayDate><prism:copyright>© 2022 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>JISC UK 2022: OA journals</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2542519622001681" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2542519622001681" rel="scidir"/></coredata><scopus-id>85149178197</scopus-id><scopus-eid>2-s2.0-85149178197</scopus-eid><pubmed-id>35932782</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85149178197" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>316495</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Planetary Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETPLANETARYHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220803">2022-08-03</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220803">2022-08-03</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220803">2022-08-03</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220803">2022-08-03</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2022-08-03T07:20:19.103471Z</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2542519622001681</xocs:eid>
+      <xocs:pii-formatted>S2542-5196(22)00168-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2542519622001681</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2542-5196(22)00168-1</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2542519622X00089</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20220803">2022-08-03T22:26:20.860866Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220801</xocs:date-search-begin>
+      <xocs:date-search-end>20220831</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1659569180">2022-08-03T23:26:20.860866Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body articletitle doctopic pubtype</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2542-5196</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>25425196</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>JISCDIS22</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>6</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>6</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>8</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>8</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 6, Issue 8</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>e644</xocs:first-fp>
+      <xocs:pages>
+         <xocs:first-page>e644</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202208</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>err</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>CORRECTIONLANCETPLANETHEALTH20226E42230</xocs:normalized-article-title>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S2542-5196(22)00070-5</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S2542519622000705</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:refkeys/>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2022-06-30T10:01:18Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>JISC UK 2022: OA journals</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2542-5196(22)00168-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2542519622001681</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2542519622001681</xocs:eid>
+         <xocs:doi>10.1016/S2542-5196(22)00168-1</xocs:doi>
+         <xocs:cid>316495</xocs:cid>
+         <xocs:timestamp>2022-08-03T22:26:20.860866Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-08-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>JISCDIS22</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2542519622001681-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542519622001681/MAIN/application/pdf/d2dab72746addb6435f798349894383a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>36598</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2542519622001681-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542519622001681/PREVIEW/image/png/7d532054408c28fa2b5caba6f75b3f64/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>30798</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="err" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>LANPLH</jid>
+            <aid>816</aid>
+            <ce:pii>S2542-5196(22)00168-1</ce:pii>
+            <ce:doi>10.1016/S2542-5196(22)00168-1</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S2542-5196(22)00070-5</ce:pii>
+                  <ce:doi>10.1016/S2542-5196(22)00070-5</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="full-transfer" year="2022">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Corrections</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Corrections</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Correction to <ce:italic>Lancet Planet Health</ce:italic> 2022; 6: e422–30</ce:title>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">
+                  <ce:italic>Laumann F, von Kügelgen J, Kanashiro Uehara TH, Barahona M. Complex interlinkages, key objectives, and nexuses among the Sustainable Development Goals and climate change: a network analysis.</ce:italic> Lancet Planet Health <ce:italic>2022; <ce:bold>6:</ce:bold> e422–30</ce:italic>—In this Article, figure 3 was corrected, and the figures in appendix pp 14–19 were updated. These corrections have been made as of Aug 3, 2022.</ce:para>
+            </ce:sections>
+         </body>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,592 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2214109X17303856</prism:url><dc:identifier>doi:10.1016/S2214-109X(17)30385-6</dc:identifier><eid>1-s2.0-S2214109X17303856</eid><prism:doi>10.1016/S2214-109X(17)30385-6</prism:doi><pii>S2214-109X(17)30385-6</pii><dc:title>Lessons for the Sustainable Development Goals from Ethiopia's success: the case of under-5 mortality </dc:title><prism:publicationName>The Lancet Global Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>2214109X</prism:issn><prism:volume>5</prism:volume><prism:issueIdentifier>11</prism:issueIdentifier><prism:startingPage>e1060</prism:startingPage><prism:endingPage>e1061</prism:endingPage><prism:pageRange>e1060-e1061</prism:pageRange><prism:number>11</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2017-11-30</prism:coverDate><prism:coverDisplayDate>November 2017</prism:coverDisplayDate><prism:copyright>© 2017 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Melaku, Yohannes Adama</dc:creator><dc:creator>Shi, Zumin</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2214109X17303856" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2214109X17303856" rel="scidir"/></coredata><scopus-id>85032491319</scopus-id><scopus-eid>2-s2.0-85032491319</scopus-eid><pubmed-id>29025622</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85032491319" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>286970</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291904</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Global Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETGLOBALHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20171009">2017-10-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20171009">2017-10-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20171009">2017-10-09</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20171009">2017-10-09</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-11-26T12:54:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2214109X17303856</xocs:eid>
+      <xocs:pii-formatted>S2214-109X(17)30385-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2214109X17303856</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2214-109X(17)30385-6</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2214109X17X00120</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20191126">2019-11-26T13:20:25.707888Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20171101</xocs:date-search-begin>
+      <xocs:date-search-end>20171130</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1507592030">2017-10-09T23:33:50.33576Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2214-109X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>2214109X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>5</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>5</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>11</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>11</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 5, Issue 11</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>8</xocs:sort-order>
+      <xocs:first-fp>e1060</xocs:first-fp>
+      <xocs:last-lp>e1061</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>e1060</xocs:first-page>
+         <xocs:last-page>e1061</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201711</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>November 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-11-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-11-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>LESSONSFORSUSTAINABLEDEVELOPMENTGOALSETHIOPIASSUCCESSCASEUNDER5MORTALITY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MELAKU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S2214-109X(17)30331-5</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S2214109X17303315</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ETHIOPIADEMOGRAPHICHEALTHSURVEY2000</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ETHIOPIADEMOGRAPHICHEALTHSURVEY2016</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>BALABANOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2118</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2133</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>RUDUCHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e1142</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e1151</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>DERIBEW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>42</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>ASSEFA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e000318</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>KERBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2637</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2648</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>MISGANAW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MELAKUX2017Xe1060</xocs:refkey3>
+         <xocs:refkey4lp>MELAKUX2017Xe1060Xe1061</xocs:refkey4lp>
+         <xocs:refkey4ai>MELAKUX2017Xe1060XY</xocs:refkey4ai>
+         <xocs:refkey5>MELAKUX2017Xe1060Xe1061XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2017-09-21T14:57:32Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2017-11-03T22:31:29.402Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2214-109X(17)30385-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2214109X17303856</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2214109X17303856</xocs:eid>
+         <xocs:doi>10.1016/S2214-109X(17)30385-6</xocs:doi>
+         <xocs:cid>286970</xocs:cid>
+         <xocs:timestamp>2019-11-26T13:20:25.707888Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-11-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-11-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2214109X17303856-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2214109X17303856/MAIN/application/pdf/ebcf4c501d632a36f69056381b0c8a84/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>40658</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2214109X17303856-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2214109X17303856/PREVIEW/image/png/5709376dda487d74952e699f52292998/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73828</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>LANGLO</jid>
+            <aid>728</aid>
+            <ce:pii>S2214-109X(17)30385-6</ce:pii>
+            <ce:doi>10.1016/S2214-109X(17)30385-6</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S2214-109X(17)30331-5</ce:pii>
+                  <ce:doi>10.1016/S2214-109X(17)30331-5</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="other" year="2017">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY-NC-ND 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Lessons for the Sustainable Development Goals from Ethiopia's success: the case of under-5 mortality</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S2214109X17303856-64e88d5453d49d5f5ce8b7d742542bfe">
+                  <ce:given-name>Yohannes Adama</ce:given-name>
+                  <ce:surname>Melaku</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S2214109X17303856-9c6a281d3c9f8a1f464a0969710d2492">
+                  <ce:given-name>Zumin</ce:given-name>
+                  <ce:surname>Shi</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2214109X17303856-26392500dab3e899206f0270c6cd1350">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Adelaide Medical School, The University of Adelaide, Adelaide, SA 5005, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Adelaide Medical School</sa:organization>
+                     <sa:organization>The University of Adelaide</sa:organization>
+                     <sa:city>Adelaide</sa:city>
+                     <sa:state>SA</sa:state>
+                     <sa:postal-code>5005</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2214109X17303856-6ce32ef932678558136b9d3984fcc862">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Institute of Public Health, University of Gondar, Gondar, Ethiopia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Public Health</sa:organization>
+                     <sa:organization>University of Gondar</sa:organization>
+                     <sa:city>Gondar</sa:city>
+                     <sa:country>Ethiopia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">Low-income countries face many health and development challenges. In response to these challenges, world leaders have taken counter action and formulated the <ce:inter-ref id="interrefs10" xlink:href="http://www.un.org/millennium/declaration/ares552e.htm" xlink:type="simple">Millennium Development Goals</ce:inter-ref> (MDGs), one of which (MDG4) was to reduce the mortality of children younger than 5 years by two-thirds by 2015. In Ethiopia, under-5 mortality was 166 deaths per 1000 livebirths in 2000,<ce:cross-ref id="cecref40" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> one of the highest in the world. However, by 2016, after 15 years of successful effort, under-5 mortality had decreased to 67 deaths per 1000 livebirths.<ce:cross-ref id="cecref50" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> The achievement of MDG4 in Ethiopia is proof that tailored health and health-related interventions and strategies can be successfully implemented in poorly resourced settings.<ce:cross-ref id="cecref60" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> Yet one of the challenges in countries like Ethiopia is understanding how countries progress in achieving the MDGs. It is imperative to systematically document the lessons from countries that have already successfully achieved the MDGs. This will enable other countries to emulate the experiences of these countries and replicate them to solve the same challenge or other health problems in different or similar settings.</ce:para>
+               <ce:para id="para20" view="all">Using mixed methods to pinpoint the success of Ethiopia in reducing under-5 mortality, Jenny Ruducha and colleagues<ce:cross-ref id="cecref70" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> have generated a body of evidence that provides comprehensive information and allows replication of the Ethiopian experience. The case study assessed macro-level factors that have had a potential impact on under-5 mortality, such as national policies, programmes, health financing, and health interventions. Additionally, the authors present the trend and coverage of successful interventions by calendar year and residency, extending their analysis to health equity. The relative contributions of selected interventions designed to reduce under-5 mortality were also estimated. The use of multiple data sources and triangulation of methods are strengths of the study.<ce:cross-ref id="cecref80" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> In line with another study,<ce:cross-ref id="cecref90" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> the authors declare the achievement of MDG4 in Ethiopia, reducing under-5 mortality by 69% between 1990 and 2013. The analysis indicates that half of the averted mortality was due to improvements in child nutrition. Compared with other east African countries, Ethiopia also had the fastest rate of reduction in under-5 mortality between 1990 and 2013.<ce:cross-ref id="cecref100" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> It is also encouraging to note that, except for early and exclusive breastfeeding, all other health and health-related indicators included in the analysis showed improvements. Despite this progress, however, coverage disparity and health inequity by geographic areas (across regions, and in rural <ce:italic>vs</ce:italic> urban areas) remain daunting challenges to Ethiopia's health-care system. It is apparent that this continues to be an important bottleneck for the country's health-care system despite major public health triumphs during the MDG era.<ce:cross-ref id="cecref110" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para30" view="all">In future studies, analyses should comprehensively include all policy determinants of under-5 mortality (ie, all major health interventions, including the expansion of HIV care and prevention of maternal-to-child transmission services).<ce:cross-ref id="cecref120" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> Maternal factors such as education, dietary intake, and nutritional status also determine child health outcomes. The overall socioeconomic trajectory should be considered in similar studies in the future. Incorporating independent, reliable, and unbiased data sources (including subnational studies) in future analyses will provide additional insights.</ce:para>
+               <ce:para id="para40" view="all">Ethiopia is facing an unprecedented health phenomenon known as the double/triple burden of diseases, which refers to the coexistence of a high burden of infectious diseases, nutritional disorders, and non-communicable diseases.<ce:cross-ref id="cecref130" refid="bib8">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref> Health inequities across geographic areas are exacerbating this phenomenon. A reorientation of the health-care system is therefore needed to address this challenge and to ensure health justice in the country. In this respect, Ethiopia has already started a roadmap by endorsing the <ce:inter-ref id="interrefs20" xlink:href="http://www.un.org/sustainabledevelopment/development-agenda/" xlink:type="simple">UN's Sustainable Development Goals</ce:inter-ref> (SDGs), 2015–30, a global development initiative with 17 goals, one of which (SDG3) focuses on health (ensure healthy lives and promote wellbeing for all at all ages). It is commendable that the country recognises and uses lessons from the MDGs, sustains successes, and addresses the challenges in future health interventions and strategies to achieve the targets. Ethiopia might also need to redevelop and reformulate targeted strategies, interventions, and programmes by critically analysing the evidence on the current disease epidemiology and demographic transition.<ce:cross-ref id="cecref140" refid="bib8">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref> Last but not least, informing health investments by actively collating, analysing, and disseminating data should be an integral part of the interventions.</ce:para>
+               <ce:para id="para50" view="all">In summary, the data presented by Jenny Ruducha and colleagues<ce:cross-ref id="cecref150" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> explicitly demonstrate the importance of political commitment, multisectoral policies and strategies, and resource mobilisation in reducing under-5 mortality in low-income countries. An interplay between direct and indirect interventions from different sectors has had a positive effect, but further efforts on other health challenges and a strong partnership between sectors will be necessary to further improve progress. The experience in Ethiopia in reducing under-5 mortality provides further evidence and salient lessons as to how low-income countries can solve existing and future health challenges using innovative and inexpensive interventions in the SDG era.</ce:para>
+               <ce:para id="para60" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Central Statistical Agency of Ethiopia</sb:collaboration>
+                              <sb:collaboration>ORC Macro</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Ethiopia Demographic and Health Survey 2000</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2001</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Central Statistical Agency of Ethiopia and ORC Macro</sb:name>
+                                 <sb:location>Addis Ababa and Calverton, MD</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Central Statistical Agency and ORC Macro</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Ethiopia Demographic and Health Survey 2016</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Central Statistical Agency of Ethiopia and ORC Macro</sb:name>
+                                 <sb:location>Addis Ababa and Calverton, MD</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Balabanova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Mills</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Conteh</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Good Health at Low Cost 25 years on: lessons for the future of health systems strengthening</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>381</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2118</sb:first-page>
+                              <sb:last-page>2133</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Ruducha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Mann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>NS</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How Ethiopia achieved Millennium Development Goal 4 through multisectoral interventions: a Countdown to 2015 case study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e1142</sb:first-page>
+                              <sb:last-page>e1151</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Deribew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>GA</ce:given-name>
+                                 <ce:surname>Tessema</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Deribe</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Trends, causes, and risk factors of mortality among children under 5 in Ethiopia, 1990–2013: findings from the Global Burden of Disease Study 2013</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Popul Health Metr</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>42</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y</ce:given-name>
+                                 <ce:surname>Assefa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>WV</ce:given-name>
+                                 <ce:surname>Damme</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>OD</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>PS</ce:given-name>
+                                 <ce:surname>Hill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Successes and challenges of the millennium development goals in Ethiopia: lessons for the sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e000318</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>KJ</ce:given-name>
+                                 <ce:surname>Kerber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JE</ce:given-name>
+                                 <ce:surname>Lawn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>LF</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>South African child deaths 1990–2011: have HIV services reversed the trend enough to meet Millennium Development Goal 4?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>AIDS</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2637</sb:first-page>
+                              <sb:last-page>2648</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Misganaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>TN</ce:given-name>
+                                 <ce:surname>Haregu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Deribe</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>National mortality burden due to communicable, non-communicable, and other diseases in Ethiopia, 1990–2015: findings from the Global Burden of Disease Study 2015</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Popul Health Metr</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

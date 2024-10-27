@@ -1,0 +1,629 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2214109X17302942</prism:url><dc:identifier>doi:10.1016/S2214-109X(17)30294-2</dc:identifier><eid>1-s2.0-S2214109X17302942</eid><prism:doi>10.1016/S2214-109X(17)30294-2</prism:doi><pii>S2214-109X(17)30294-2</pii><dc:title>Financing health systems to achieve the health Sustainable Development Goals </dc:title><prism:publicationName>The Lancet Global Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>2214109X</prism:issn><prism:volume>5</prism:volume><prism:issueIdentifier>9</prism:issueIdentifier><prism:startingPage>e841</prism:startingPage><prism:endingPage>e842</prism:endingPage><prism:pageRange>e841-e842</prism:pageRange><prism:number>9</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2017-09-30</prism:coverDate><prism:coverDisplayDate>September 2017</prism:coverDisplayDate><prism:copyright>© 2017 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Fryatt, Robert J</dc:creator><dc:creator>Bhuwanee, Karishmah</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2214109X17302942" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2214109X17302942" rel="scidir"/></coredata><scopus-id>85024089790</scopus-id><scopus-eid>2-s2.0-85024089790</scopus-eid><pubmed-id>28728919</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85024089790" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>286970</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291904</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Global Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETGLOBALHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170717">2017-07-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170717">2017-07-17</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170811">2017-08-11</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170811">2017-08-11</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-11-26T12:55:47</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2214109X17302942</xocs:eid>
+      <xocs:pii-formatted>S2214-109X(17)30294-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2214109X17302942</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2214-109X(17)30294-2</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.4</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2214109X17X00107</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20191126">2019-11-26T13:34:35.631091Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170901</xocs:date-search-begin>
+      <xocs:date-search-end>20170930</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1500303627">2017-07-17T15:00:27.975999Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2214-109X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>2214109X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>5</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>5</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 5, Issue 9</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>e841</xocs:first-fp>
+      <xocs:last-lp>e842</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>e841</xocs:first-page>
+         <xocs:last-page>e842</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201709</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>FINANCINGHEALTHSYSTEMSACHIEVEHEALTHSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FRYATT</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S2214-109X(17)30263-2</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S2214109X17302632</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>STENBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>FRYATT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>419</xocs:ref-first-fp>
+            <xocs:ref-last-lp>426</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>HATT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>IMPACTHEALTHSYSTEMSSTRENGTHENINGHEALTH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>KARISHMAH</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>GURKAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>IMPLEMENTINGPUBLICEXPENDITURETRACKINGSURVEYSFORRESULTSLESSONSADECADEGLOBALEXPERIENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>JAMISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1898</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1955</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70"/>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>FARAQ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>162</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-normalized-surname>SOELIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>TAXREFORMRESOURCEMOBILIZATIONFORHEALTH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-normalized-surname>SIMMS</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FRYATTX2017Xe841</xocs:refkey3>
+         <xocs:refkey4lp>FRYATTX2017Xe841Xe842</xocs:refkey4lp>
+         <xocs:refkey4ai>FRYATTX2017Xe841XR</xocs:refkey4ai>
+         <xocs:refkey5>FRYATTX2017Xe841Xe842XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2017-07-13T09:51:01Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2214-109X(17)30294-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2214109X17302942</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2214109X17302942</xocs:eid>
+         <xocs:doi>10.1016/S2214-109X(17)30294-2</xocs:doi>
+         <xocs:cid>286970</xocs:cid>
+         <xocs:timestamp>2019-11-26T13:34:35.631091Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-09-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2214109X17302942-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2214109X17302942/MAIN/application/pdf/54ac8a9298f95333bd391e545c0405b6/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>40170</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2214109X17302942-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2214109X17302942/PREVIEW/image/png/8f4779217f31c392f93450e2ae318b2a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>71673</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>LANGLO</jid>
+            <aid>658</aid>
+            <ce:pii>S2214-109X(17)30294-2</ce:pii>
+            <ce:doi>10.1016/S2214-109X(17)30294-2</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S2214-109X(17)30263-2</ce:pii>
+                  <ce:doi>10.1016/S2214-109X(17)30263-2</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="other" year="2017">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Financing health systems to achieve the health Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S2214109X17302942-c51c5b3fd42c48f17e5778875a16fc6c">
+                  <ce:given-name>Robert J</ce:given-name>
+                  <ce:surname>Fryatt</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S2214109X17302942-275f06420aa4ee62fac9fd3a728948a5">
+                  <ce:given-name>Karishmah</ce:given-name>
+                  <ce:surname>Bhuwanee</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2214109X17302942-d041997e35b368cccff12d5aa14e5571">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>International Health Division, Abt Associates, 4550 Montgomery Avenue, Suite 800 North, Bethesda, MD 20814, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>International Health Division</sa:organization>
+                     <sa:organization>Abt Associates</sa:organization>
+                     <sa:address-line>4550 Montgomery Avenue</sa:address-line>
+                     <sa:address-line>Suite 800 North</sa:address-line>
+                     <sa:city>Bethesda</sa:city>
+                     <sa:state>MD</sa:state>
+                     <sa:postal-code>20814</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">In September, 2015, 193 countries agreed to the ambitious Sustainable Development Goals (SDGs). SDG 3, for “healthy lives and wellbeing”, includes targets for universal health coverage (UHC). Some international commentators have raised questions about whether many of the SDGs are feasible and affordable. Targets related to health have good metrics to assess progress, and there is a good track record of achieving many of the previous ambitious goals. So, health is a good place to start assessments of feasibility and affordability. The Article by Karin Stenberg and colleagues<ce:cross-ref id="cecref30" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> in <ce:italic>The Lancet Global Health</ce:italic> represents a milestone in the implementation of this ambitious SDG agenda. It provides not only the estimated level of financing that will be required for the health SDGs to be reached, but also a global picture of how this target might be achieved. In this Comment, we discuss how their analysis could be of use to countries, and some of the implications for the global health community.</ce:para>
+               <ce:para id="para20" view="all">The health-systems research and policy communities have made substantial progress since the same WHO group attempted to cost achievement of the health Millennium Development Goals, at a time when the evidence base for investment in health systems was weak.<ce:cross-ref id="cecref40" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> Now, the case for investing in health systems is stronger and generally more accepted.<ce:cross-ref id="cecref50" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> The ability to describe and compare health systems across countries has also much improved. The model used by Stenberg and colleagues includes services across sectors, with different service delivery platforms and scenarios to consider what is feasible with different levels of political commitment and resource envelopes.</ce:para>
+               <ce:para id="para30" view="all">The funding requirements as presented in Stenberg and colleagues' analysis provide countries with a soft target for minimum spending levels for health as they move towards UHC. As countries increase their data quality and capacity to do country-specific costing and impact studies, these targets can be complemented with more robust locally determined resource-needs estimates of what is required to reach national SDG-related targets (where they exist). Ministries of health could also use these data to negotiate for additional domestic resources by highlighting the effect that increased health spending has on life expectancy, healthy life-years, and financial empowerment of households. Stenberg and colleagues' analysis can act as a benchmark to track health spending, in combination with locally led resource tracking.<ce:cross-refs id="cecrefs10" refid="bib4 bib5">
+                     <ce:sup loc="post">4,5</ce:sup>
+                  </ce:cross-refs> It also allows countries to compare their spending with that of higher-income countries, to plan how health spending will need to evolve in the long term.</ce:para>
+               <ce:para id="para40" view="all">The estimates emerging from the analysis provide compelling arguments that investments in health need to focus not only on direct service delivery but also on overall health-systems strengthening. Strong health systems will be central to achievement of SDG 3. Stenberg and colleagues' data can facilitate building cross-country consensus on why health-systems strengthening is so essential, but country-specific studies will be required to understand where countries should focus their investments—eg, human resources, infrastructure, data systems. The Article provides a stark reminder that many countries need substantial additional investments in health to meet SDG 3. As countries continue to grow economically, those that transition to middle-income status will probably reach the UHC target, assuming that they have the right policies in place and the political commitment to raise resources domestically. Investments in research and new technology have also been emphasised as important in longer-term projections for improving global health.<ce:cross-ref id="cecref60" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref> By contrast, low-income countries will continue to need international financial assistance to reach UHC goals. To sustain this level of financing, the global public health community will need a sophisticated set of messages tailored to different audiences that clearly show the benefits in terms of human rights, economic development, and global health security.</ce:para>
+               <ce:para id="para50" view="all">Competing pressures for resources across sectors, however, mean that increasing the proportion of resources for health will be difficult. Efficiency gains in the health sector could help to make the case for more investment. Countries need to tackle major sources of inefficiency by doing more of the right things (ie, low-cost, high-effect interventions) in the right settings (ie, at the most appropriate system level) and in the right way (ie, without waste).<ce:cross-ref id="cecref70" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> Domestic resource mobilisation combined with more effective strategic purchasing will become increasingly important, with a financial and programmatic transition away from directly donor-financed service delivery, where such delivery exists.</ce:para>
+               <ce:para id="para60" view="all">Perhaps the most important message to come from this analysis though is the central importance of progressive universalism—ie, steadily increasing coverage in countries without access to good-quality services, and leaving no one behind. As countries get wealthier, they increase the proportion of overall national resources allocated to health.<ce:cross-ref id="cecref80" refid="bib8">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref> Countries can also ensure that increases in domestic revenues through other reforms, such as tax administration, also translate into proportional increases in health.<ce:cross-ref id="cecref90" refid="bib9">
+                     <ce:sup loc="post">9</ce:sup>
+                  </ce:cross-ref> However, without the right policies and allocation systems in place, there is a natural tendency for expansion to favour rich people, and for inequalities to increase in terms of access to care and services. Policies and actions to counter this tendency require leadership and long-term vision, both at national and local levels. Debates in the USA this year show the dangers of assuming that policies aimed at UHC will always be sustained in the long term.<ce:cross-ref id="cecref100" refid="bib10">
+                     <ce:sup loc="post">10</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para70" view="all">How much investment is required to reach the health SDGs, and where these investments should be made, is now known. The health SDGs are ambitious, but it is starting to become clear that, where consistent, sustained political commitment exists, they are within reach.</ce:para>
+               <ce:para id="para80" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Stenberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O</ce:given-name>
+                                 <ce:surname>Hanssen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Tan-Torres Edejer</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Financing transformative health systems towards achievement of the health Sustainable Development Goals: a model for projected resource needs in 67 low-income and middle-income countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online July 17.</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:role="http://www.elsevier.com/xml/linking-roles/research-data" xlink:href="http://dx.doi.org/10.1016/S2214-109X(17)30263-2" xlink:type="simple">http://dx.doi.org/10.1016/S2214-109X(17)30263-2</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Fryatt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Mills</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Nordstrom</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Financing of health systems to achieve the health Millennium Development Goals in low-income countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>375</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>419</sb:first-page>
+                              <sb:last-page>426</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Hatt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B</ce:given-name>
+                                 <ce:surname>Johns</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Connor</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Impact of health systems strengthening on health</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>USAID Health finance &amp; Governance Project, Abt Associates</sb:name>
+                                 <sb:location>Bethesda, MD</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B</ce:given-name>
+                                 <ce:surname>Karishmah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Cogswell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Ashagari</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How can health accounts inform health sector investments? Lessons from country applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:role="http://www.elsevier.com/xml/linking-roles/research-data" xlink:href="https://www.hfgproject.org/presentation-can-health-accounts-inform-health-sector-investments/" xlink:type="simple">https://www.hfgproject.org/presentation-can-health-accounts-inform-health-sector-investments/</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed June 30, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Gurkan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Kaiser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Voorbraak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Implementing public expenditure tracking surveys for results : lessons from a decade of global experience</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Bank</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DT</ce:given-name>
+                                 <ce:surname>Jamison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>LH</ce:given-name>
+                                 <ce:surname>Summers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Alleyne</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global health 2035: a world converging within a generation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>382</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1898</sb:first-page>
+                              <sb:last-page>1955</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Bank</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>2017 Annual UHC Financing Forum: key messages. Greater efficiency for better health and financial protection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:role="http://www.elsevier.com/xml/linking-roles/research-data" xlink:href="http://pubdocs.worldbank.org/en/361931492633876923/Key-messages-Second-Annual-UHC-Financing-Forum.pdf" xlink:type="simple">http://pubdocs.worldbank.org/en/361931492633876923/Key-messages-Second-Annual-UHC-Financing-Forum.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed June 30, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Faraq</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AK</ce:given-name>
+                                 <ce:surname>NandaKumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Wallack</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The income elasticity of health care spending in developing and developed countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Health Care Finance Econ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>162</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Soe-Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Frankel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Heredia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Makinen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Tax reform and resource mobilization for health</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Health Finance &amp; Governance Project, Abt Associates</sb:name>
+                                 <sb:location>Bethesda, MD</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Simms</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Explaining Trumpcare: the appalling appeal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:role="http://www.elsevier.com/xml/linking-roles/research-data" xlink:href="http://globalhealth.thelancet.com/2017/06/02/explaining-trumpcare-appalling-appeal" xlink:type="simple">http://globalhealth.thelancet.com/2017/06/02/explaining-trumpcare-appalling-appeal</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed June 30, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

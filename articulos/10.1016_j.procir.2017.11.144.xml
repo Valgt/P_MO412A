@@ -1,0 +1,784 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S221282711730940X</prism:url><dc:identifier>doi:10.1016/j.procir.2017.11.144</dc:identifier><eid>1-s2.0-S221282711730940X</eid><prism:doi>10.1016/j.procir.2017.11.144</prism:doi><pii>S2212-8271(17)30940-X</pii><dc:title>Sustainable Development Goals as a Guideline for Indicator Selection in Life Cycle Sustainability Assessment </dc:title><prism:publicationName>Procedia CIRP</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>22128271</prism:issn><prism:volume>69</prism:volume><prism:startingPage>59</prism:startingPage><prism:endingPage>65</prism:endingPage><prism:pageRange>59-65</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-12-31</prism:coverDate><prism:coverDisplayDate>2018</prism:coverDisplayDate><prism:copyright>© 2017 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><prism:issueName>25th CIRP Life Cycle Engineering (LCE) Conference, 30 April – 2 May 2018, Copenhagen, Denmark</prism:issueName><dc:creator>Wulf, Christina</dc:creator><dc:creator>Werker, Jasmin</dc:creator><dc:creator>Zapp, Petra</dc:creator><dc:creator>Schreiber, Andrea</dc:creator><dc:creator>Schlör, Holger</dc:creator><dc:creator>Kuckshinrichs, Wilhelm</dc:creator><dc:description>
+                  Life Cycle Sustainability Assessment (LCSA) emerged as a methodology allowing a detailed representation of technologies in their processes from a life cycle perspective. To conduct a profound LCSA a plausible indicator selection is needed. From a Sustainability perspective, the currently dominant political framework is the Sustainable Development Goals (SDGs) of the United Nations. In this paper, LCSA indicators are selected based on the SDGs, comparing in a first approach the implication due to the selection based on overall goals and SDG indicators level. The applicability of this selection is tested by a case study of electrolytic hydrogen production. The analysis shows meaningful differences between the goal-based and the indicator-based assessment. Only the goal-based indicator set comprises all dimensions of sustainability.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Indicator selection</dcterms:subject><dcterms:subject>Life Cycle Sustainability Assessment</dcterms:subject><dcterms:subject>Sustainable Development Goals</dcterms:subject><dcterms:subject>Hydrogen</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S221282711730940X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S221282711730940X" rel="scidir"/></coredata><scopus-id>85047054693</scopus-id><scopus-eid>2-s2.0-85047054693</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85047054693" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>282173</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia CIRP</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIACIRP</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180418">2018-04-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180418">2018-04-18</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180418">2018-04-18</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180418">2018-04-18</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-04-27T23:57:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S221282711730940X</xocs:eid>
+      <xocs:pii-formatted>S2212-8271(17)30940-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S221282711730940X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.procir.2017.11.144</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.4</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2212827118X00043</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180427">2018-04-27T23:10:34.345751Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180101</xocs:date-search-begin>
+      <xocs:date-search-end>20181231</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1524098279">2018-04-19T00:37:59.741303Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2212-8271</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>22128271</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>69</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>69</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 69</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>59</xocs:first-fp>
+      <xocs:last-lp>65</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>59</xocs:first-page>
+         <xocs:last-page>65</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2018</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>25th CIRP Life Cycle Engineering (LCE) Conference, 30 April – 2 May 2018, Copenhagen, Denmark</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S2212827118X00043-fac96ff0bcc728fa6c1a29b16f70e60b">
+                     <ce:given-name>Alexis</ce:given-name>
+                     <ce:surname>Laurent</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2212827118X00043-8fea8866761613501249864e2de6666d">
+                     <ce:given-name>Alexandra</ce:given-name>
+                     <ce:surname>Leclerc</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2212827118X00043-f30767722b2db1a1d1127b9663962b5b">
+                     <ce:given-name>Monia</ce:given-name>
+                     <ce:surname>Niero</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2212827118X00043-0940f9e3f77fb195f68b67186eeb5c9b">
+                     <ce:given-name>Yan</ce:given-name>
+                     <ce:surname>Dong</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2212827118X00043-34d9ce9bf87094f953ddd6f49265f243">
+                     <ce:given-name>Stig I.</ce:given-name>
+                     <ce:surname>Olsen</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2212827118X00043-84e53a71ff9f47241b17d2e1ef88e04d">
+                     <ce:given-name>Mikołaj</ce:given-name>
+                     <ce:surname>Owsianiak</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2212827118X00043-8b0836954ab618e94525db057f4c7088">
+                     <ce:given-name>Niki</ce:given-name>
+                     <ce:surname>Bey</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2212827118X00043-12f423928c83243b3cfb7e6600be1a35">
+                     <ce:given-name>Morten</ce:given-name>
+                     <ce:surname>Ryberg</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2212827118X00043-1a58606bd0b1f292b835e379e25b38a4">
+                     <ce:given-name>Michael Z.</ce:given-name>
+                     <ce:surname>Hauschild</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SUSTAINABLEDEVELOPMENTGOALSAGUIDELINEFORINDICATORSELECTIONINLIFECYCLESUSTAINABILITYASSESSMENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WULF</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>MAIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0015"/>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="oref0025"/>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>KORPI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>240</xocs:ref-first-fp>
+            <xocs:ref-last-lp>261</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>OKANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>317</xocs:ref-first-fp>
+            <xocs:ref-last-lp>341</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0040"/>
+         <xocs:ref-info refid="oref0045"/>
+         <xocs:ref-info refid="oref0050"/>
+         <xocs:ref-info refid="oref0055"/>
+         <xocs:ref-info refid="oref0060"/>
+         <xocs:ref-info refid="oref0065"/>
+         <xocs:ref-info refid="oref0070"/>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>BRANKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4470</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4482</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0080"/>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>KUCKSHINRICHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0090"/>
+         <xocs:ref-info refid="oref0095"/>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>HORRIGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>456</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0105"/>
+         <xocs:ref-info refid="oref0110"/>
+         <xocs:ref-info refid="oref0115"/>
+         <xocs:ref-info refid="sbref0120">
+            <xocs:ref-normalized-surname>FRISCHKNECHT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>159</xocs:ref-first-fp>
+            <xocs:ref-last-lp>189</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0125"/>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>KOJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>860</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0135"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WULFX2018X59</xocs:refkey3>
+         <xocs:refkey4lp>WULFX2018X59X65</xocs:refkey4lp>
+         <xocs:refkey4ai>WULFX2018X59XC</xocs:refkey4ai>
+         <xocs:refkey5>WULFX2018X59X65XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2017-12-06T01:04:07Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2212-8271(17)30940-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S221282711730940X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S221282711730940X</xocs:eid>
+         <xocs:doi>10.1016/j.procir.2017.11.144</xocs:doi>
+         <xocs:cid>282173</xocs:cid>
+         <xocs:timestamp>2018-04-27T23:10:34.345751Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S221282711730940X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S221282711730940X/MAIN/application/pdf/5b175c65dc1c27ebd5597b95c2abf8a0/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S221282711730940X/MAIN/application/pdf/5b175c65dc1c27ebd5597b95c2abf8a0/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>234093</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S221282711730940X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S221282711730940X/PREVIEW/image/png/2552fb760ea5ede199eb7e3dede107b2/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S221282711730940X/PREVIEW/image/png/2552fb760ea5ede199eb7e3dede107b2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>51978</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd"> Procedia CIRP  69 ( 2018 )  59 â€“ 65  Available online at www.sciencedirect.com 2212-8271 Â© 2018 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/4.0/). Peer-review under responsibility of the scientific committee of the 25th CIRP Life Cycle Engineering (LCE) Conference  doi: 10.1016/j.procir.2017.11.144  ScienceDirect 25th CIRP Life Cycle Engineering (LCE) Conference, 30 April â€“ 2 May 2018, Copenhagen, Denmark Sustainable development goals as a guideline for indicator selection in Life  Cycle Sustainability Assessment Christina Wulfa*, Jasmin Werkera, Petra Zappa, Andrea Schreibera, Holger SchlÃ¶ra,Wilhelm Kuckshinrichsa aForschungszentrum JÃ¼lich GmbH Institute of Energy and Climate Research â€“ Systems Analysis and Technology Evaluation, 52425 JÃ¼lich, Germany * Corresponding author. Tel.: +49-246161-3268; fax: +49-246161-2540. E-mail address: c.wulf@fz-juelich.de Abstract Life Cycle Sustainability Assessment (LCSA) emerged as a methodology allowing a detailed representation of technologies in their processes  from a life cycle perspective. To conduct a profound LCSA a plausible indicator selection is needed. From a Sustainability perspective, the  currently dominant political framework is the Sustainable Development Goals (SDGs) of the United Nations. In this paper, LCSA indicators  are selected based on the SDGs, comparing in a first approach the implication due to the selection based on overall goals and SDG indicators level. The applicability of this selection is tested by a case study of electrolytic hydrogen production. The analysis shows meaningful  differences between the goal-based and the indicator-based assessment. Only the goal-based indicator set comprises all dimensions of  sustainability. Â© 2017 The Authors. Published by Elsevier B.V. Peer-review under responsibility of the scientific committee of the 25th CIRP Life Cycle Engineering (LCE) Conference. Keywords: Indicator selection, Life Cycle Sustainability Assessment, Sustainable Development Goals, Hydrogen 1. Introduction Life Cycle Sustainability Assessment (LCSA) emerged as  a methodology allowing a detailed representation of  technologies in their processes from a life cycle perspective.  In addition, it enables sustainability assessments in its  different perspectives (environmental, economic and social).  To conduct a profound LCSA, a plausible indicator selection  is needed. One possible approach to define an LCSA indicator  set is to follow political decision processes. Currently, the  most important political decision process on a global scale is  the definition of Sustainable Development Goals (SDGs) by  the UN [1], see Table 1. An indicator set chosen for  technology sustainability assessment is gaining increasing  relevance and reliability if related directly to SDGs. Table 1 Sustainable development goals [1]. No. Goal 1 End poverty in all its forms everywhere  2 End hunger, achieve food security and improved nutrition and  promote sustainable agriculture 3 Ensure healthy lives and promote well-being for all at all ages 4 Ensure inclusive and equitable quality education and promote lifelong  learning opportunities for all 5 Achieve gender equality and empower all women and girls 6 Ensure availability and sustainable management of water and  sanitation for all 7 Ensure access to affordable, reliable, sustainable and modern energy  for all 8 Promote sustained, inclusive and sustainable economic growth, full  and productive employment and decent work for all 9 Build resilient infrastructure, promote inclusive and sustainable  industrialization and foster innovation  2018 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/4.0/). Peer-review under responsibility of the scientifi c committee of the 25th CIRP Life Cycle Engineering (LCE) Conference  60   Christina Wulf et al. /  Procedia CIRP  69 ( 2018 )  59 â€“ 65  10 Reduce inequality within and among countries 11 Make cities and human settlements inclusive, safe, resilient and  sustainable 12 Ensure sustainable consumption and production patterns 13 Take urgent action to combat climate change and its impacts 14 Conserve and sustainably use the oceans, seas and marine resources  for sustainable development 15 Protect, restore and promote sustainable use of terrestrial ecosystems,  sustainably manage forests, combat desertification, and halt and  reverse land degradation and halt biodiversity loss 16 Promote peaceful and inclusive societies for sustainable development,  provide access to justice for all and build effective, accountable and  inclusive institutions at all levels 17 Strengthen the means of implementation and revitalize the Global  Partnership for Sustainable Development The SDGs have already been recognised by the Life Cycle  Assessment (LCA) community. Maier et al. [2] assign the  SDGs to certain impact category groups, e.g. health or  climate, and, in a second stage, assign impact categories to the  category groups, e.g. respiratory diseases as part of the group  health. Each impact category can be comprised of different  indicators, which can be case specific or more generic LCA  impact categories. The authors apply this approach to the  example of the impact category group health in the context of  development cooperation projects. However, no full example  for an application of all impact categories is given and the  direct connection between the chosen indicators and the SDGs  is weakened by several steps of impact categorization. Another publication [3] assigns the SDG indicators to  stakeholders based on LCA and the Product Social Metrics  Handbook. This assignment, however, can only be the first  step to a connection between SDGs and LCSA. Though the SDGs are designed for countries or regions also  a product based sustainability assessment method like LCSA  can provide guidance. In this paper the LCSA indicators are  assigned to the SDGs in a first step and their indicators  published by the UN [4] in a second step for a product on the  micro level. The applicability of this selection will be tested  by an LCSA case study about electrolytic hydrogen  production. This work is supposed to be a first approximation  between LCSA and SDGs and demonstrates which problems might occur along the way.   2. Methodology As already mentioned, the SDGs are predominantly targeted towards countries and regions. For the assessment of  products they more or less do not fit. To close this gap, it is  necessary to identify the motivation behind the SDGs. As the UN not only passed goals but also defined indicators and  targets to lay them out further, these specifications can be  used as guidelines for indicator selection in LCSA also. The SDGs are tiered into the actual goals, e.g. 3 â€˜Ensure  healthy lives and promote well-being for all at all agesâ€™, see Table 1, targets, e.g. 3.9 â€˜By 2030, substantially reduce the  number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contaminationâ€™, and SDG  indicators, which describe how the targets can be measured,  e.g. 3.9.1 â€˜Mortality rate attributed to household and ambient  air pollutionâ€™ [4]. In total 169 targets and 232 SDG indicators  have been developed by the UN. The LCSA indicator set comprises indicators from LCA,  social LCA (s-LCA), and Life Cycle Costing (LCC). LCA is  an established method to evaluate environmental impacts of  technologies or products. Its methodology has been enhanced for decades. Therefore, several indicators have consensus  within the community, only their methodology is  continuously updated. Also for still controversial indicators,  e.g. water, a consensus is sought after [5]. In contrast, social  LCA (s-LCA) is a relatively new field of research with little  consensus on methodology and indicators. The here applied  PSILCA database is only one of several approaches, which try  to operationalise social assessment. LCC is an established  approach in economics [6, 7]. However, historically the  approach is not linked to sustainability assessments, the  chosen indicators are varying, and the methodological  harmonization with LCA in the form of environmental life  cycle costing is quite new [8]. In a first step of our approach the SDG goals are matched with LCSA indicators. The goals, however, are often very  general. Some LCSA indicators can therefore be matched  very easily, while others, which are equally important, find no  connection. In a second step a look is taken at the SDG  indicators, which are much more specific. As they are initially  customized for regions and countries there is sometimes more  argumentation needed to match them with product related  LCSA indicators. Thus, a line of reasoning needs to be given  for most of the indicator pairs. The target tier of the SDGs is  not further discussed since it mainly pertains to the time  horizon of goal fulfilment. A depiction of this approach is  presented in Fig. 1. Fig. 1. Schematic diagram to link SDGs with LCSA. The LCA indicator selection is starting from the ILCD  recommendations [9] and the more recent guidance from the  UNEP/SETAC [10] on a midpoint level. Only those LCA  indicators implemented in the LCA software GaBi 7 are taken  into consideration. The s-LCA indicators must be  implemented in the PSILCA database 1.0 [11]. These indicators are based on the s-LCA guidelines [12] and the  accompanying methodological sheets [13]. The PSILCA  database uses the multi-regional input/output database Eora  and provides data for 189 countries [11]. Consequently, the  data in PSILCA is provided per sector as specified in Eora.  However, social and socio-economic data is not always  available per sector but rather on the country level, which is  also, for example, the case for the illiteracy indicator. In such  a case the developers of PSILCA used several steps to  attribute data to each sector, starting by mapping the sectors to  the raw data from statistical agencies as well as private and  governmental databases. Afterwards data for sectors, for  SDGs (Table 1) SDG indicators Preselected LCSA indicators Goal based indicator set (Table 2) SDG indicator based indicator set (Table 3) Application with case study (Table 4) Evaluation 61 Christina Wulf et al. /  Procedia CIRP  69 ( 2018 )  59 â€“ 65  which raw data was not available, was extrapolated. This data  was risk-assessed by PSILCA in line with international  conventions and standards. For example, the risk assessment  of illiteracy in the German electricity sector is stated as â€˜very  low riskâ€™. Given that many of the indicators used in s-LCA  refer to the general societal situation in a country, exact  scaling to the functional unit proves difficult.   The inventory needed as input for the PSILCA  calculations are technical specification about the product  system, which are translated into monetary terms using  publicly available prices (e.g. Alibaba.com). PSILCA then  connects these monetary amounts of each sector input with  the risk-assessed social data established through the  methodology described above. Advantages and disadvantages  of this relatively new approach are not topic of this paper. The LCC indicators refer to a guide prepared by the  European Investment Bank [14] and literature on economic  assessment of energy technologies, e.g. [15-17]. In this  indicator selection double or even triple counting of indicators  is prevented. Therefor only 54 indicators are looked at in  PSILCA. The other PSILCA indicators are already provided  for by LCA indicators. 3. Results 3.1. Indicator selection When assigning the LCSA indicators to the SDGs on goal  tier, 14 out of 17 goals can be described by LCSA indicators,  see Table 2. Table 2 LCSA indicators assigned to SDGs on goal tier (normal: LCA  indicators, bold: s-LCA indicators, italic: LCC indicators). No. LCSA Indicator 1 Living wage, Minimum wage, Sector average wage,  Unemployment rate in a country 2 - 3 Human toxicity cancer, Human toxicity non-cancer, Ionizing  radiation, ozone depletion, Particulate matter, Photochemical ozone  creation, Accident rate at workplace, Fatal accidents at  workplace, Presence of sufficient safety measures, Drinking  water coverage, Sanitation coverage, Health expenditure public,  Health expenditure out of pocket, Health expenditure external  resources, Health expenditure out of the total GDP of the  country, Social security expenditure 4 Illiteracy rate total, Youth illiteracy rate total 5 Women in the labour force, Gender wage gap 6 Resource depletion â€“ Water, Drinking water coverage, Sanitation  coverage 7 Levelized cost of energy 8 Goods produced by forced labour, Frequency of forced labour,  Tier placement referring to trafficking in persons,  Children in  employment total, Living wage, Minimum wage, Sector average  wage, Trade union density as a % of paid employment total,  Right of Association, Right of Collective Bargaining, Right to  Strike, Social security expenditure, Evidence of violations of laws  and employment regulations, Hours of work per employee, per  day, Hours of work per employee, per week, Standard weekly  hours, Standard daily hours, Net present value, Profitability index,  Internal rate of return, Payback time, Dynamic payback time 9 Marginal  cost 10 Human rights issues faced by indigenous people 11 - 12 Resource depletion â€“ Abiotic resources 13 Climate change 14 Freshwater ecotoxicity, Freshwater eutrophication, Marine  eutrophication 15 Acidification, Terrestrial eutrophication 16 Freedom of association rights, Trade union density as a % of paid  employment total, Right of Association, Right of Collective  Bargaining, Right to Strike, Evidence of violations of laws and  employment regulations 17 - For the social indicators 32 out of 54 provided by PSILCA are matching to characterise the SDGs. An example for an  important social issue not compatible with the SDG goal tier  is corruption, which is excluded from this level of analysis.  For the environmental indicators 14 out of 16 from the  recommendations can be assigned to the SDGs. Only impacts  regarding land use and energy demand find no place within  the SDGs. The LCC indicators comprise the levelized cost of  energy, the net present value of the investment, operation and  deconstruction phases, the profitability index of an  investment, and the marginal cost of energy supply.  Generally, further economic indicators are relevant for  assessing a technology such as the internal rate of return,  payback time or dynamic payback time. Depending on the  system boundary they are applicable only in case the use  phase of the product (or the demand side paying a price for  the intended product) is part of the analysis. The assignment of LCSA indicators to the SDG indicators  is listed in Table 3. Then, only twelve out of 17 goals from the  SDGs can be covered on an SDG indicator tier. Apart from goal 17, which is covered neither on a goal nor on an indicator  tier, the two approaches lead to different goals not being considered. For the goal tier these are goals 2 and 11. On a  SDG indicator tier the goals 5, 9, 13, and 15 are not covered. Here, it is most surprising that goal 13 (â€˜climate changeâ€™)  cannot be represented by the LCA impact category climate  change. The SDG indicators are targeted towards climate  change adaptation and not mitigation. Table 3 LCSA indicators assigned to SDGs on indicator tier. No. SDG Indicator LCSA Indicator Reason 1.3.1 Proportion of population covered by social protection  floors/systems, by sex, distinguishing children, unemployed  persons, older persons, persons with disabilities, pregnant women,  newborns, workinjury victims and the poor and the vulnerable Social security expenditure Expenditure related to population  can show proportion of population  covered 1.a.2 Proportion of total government spending on essential services Public expenditure on  62   Christina Wulf et al. /  Procedia CIRP  69 ( 2018 )  59 â€“ 65  (education, health and social protection) education 2.5.2 Proportion of local breeds classified as being at risk, not-at-risk or  at unknown level of risk of extinction Ecosystem toxicity, Climate  change, Acidification,  Eutrophication (marine,  freshwater, terrestrial)  Climate change will effect biodiversity  [18], Acidification reduces biodiversity  [19], Eutrophication leads to a loss in  biodiversity [20] 3.3.2- 3.3.5 Tuberculosis incidence per 100,000 population Malaria incidence per 1,000 population Hepatitis B incidence per 100,000 population Number of people requiring interventions against neglected  tropical diseases Climate change Climate change can lead to more  infection diseases [18] 3.4.1 Mortality rate attributed to cardiovascular disease, cancer,  diabetes or chronic respiratory disease Particulate matter, Photochemical  ozone creation, Human toxicity  cancer and non-cancer, Ozone  depletion, Ionizing radiation Particulate matter and photochemical  ozone can lead to chronic respiratory  diseases [21, 22], more UV-B radiation  leads to cancer [23] as well as exposure  to ionizing radiation [24] 3.8.2 Proportion of population with large household expenditures on  health as a share of total household expenditure or income Health expenditure, out of  pocket 3.9.1 Mortality rate attributed to household and ambient air pollution Particulate matter, Human  toxicity cancer and non-cancer Particulate matter can lead to an early  death as well as cancer [25] 4.6.1 Proportion of population in a given age group achieving at least a  fixed level of proficiency in functional (a) literacy and (b)  numeracy skills, by sex Illiteracy rate total, Youth  illiteracy rate total 6.1.1 Proportion of  population using safely managed drinking water  services  Drinking water coverage 6.2.1 Proportion of population using safely managed sanitation  services, including a hand-washing facility with soap and water Sanitation coverage 6.4.2 Level of water stress: freshwater withdrawal as a proportion of  available freshwater resources Resource depletion â€“ Water 6.5.1 Degree of integrated water resources management  implementation (1-100) Presence of certified  environmental management  systems Integrated water resource  management is one of the relevant  environmental management systems 7.3.1 Energy intensity measured in terms of primary energy and GDP Cumulative energy demand Measures energy intensity for a product 8.4.1,  8.4.2/  12.2.1,  12.2.2 Material footprint, material footprint per capita, and material  footprint per GDP Domestic material consumption, domestic material consumption  per capita, and domestic material consumption per GDP Resource depletion â€“ Abiotic  resources 8.5.1 Average hourly earnings of female and male employees, by  occupation, age and persons with disabilities Minimum wage per month, Sector average wage per month 8.5.2 Unemployment rate , by sex, age and persons with disabilities Unemployment rate in a  country 8.7.1 Proportion and number of children aged 5-17 years engaged in  child labour, by sex and age Children in employment total 8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by  sex and migrant status Accident rate at workplace,  Fatal accidents rate at  workplace 8.8.2 Level of national compliance of labour rights (freedom of  association and collective bargaining) based on International  Labour Organization (ILO) textual sources and national  legislation, by sex and migrant status Right of Association, Right of  collective bargaining, Right to  Strike 10.2.1 Proportion of people living below 50 percent of median income,  by sex, age and persons with disabilities Living wage per month, Minimum wage per month 10.3.1/  16.b.1 Proportion of population reporting having personally felt  discriminated against or harassed in the previous 12 months on  the basis of a ground of discrimination prohibited under  international human rights law Human rights issues faced by  indigenous people Indigenous people are one of the  groups at risk for discrimination 11.3.1 Ratio of land consumption rate to population growth rate Land use Land use for a product instead of land  use for a country 11.6.2 Annual mean levels of fine particulate matter (e.g. PM2.5 and  PM10) in cities (population weighted) Particulate matter 14.1.1 Index of coastal eutrophication and floating plastic debris density Marine eutrophication 63 Christina Wulf et al. /  Procedia CIRP  69 ( 2018 )  59 â€“ 65  14.3.1 Average marine acidity (pH) measured at agreed suite of  representative sampling stations Acidification Aquatic ecosystems are part of general  acidification [9] 16.2.2 Number of victims of human trafficking per 100,000 population,  by sex age and from of exploitation Tier placement referring to  trafficking in persons 16.5.1 Proportion of persons who hat at least one contact with public  official and who paid a bribe to a public official, or were asked  for a bribe by those public officials, during the previous 12  months Corruption Index or country 16.5.2 Proportion of businesses that had at least one contact with a  public official and that paid a bribe to a public official, or were  asked for a bribe by those public officials during the previous 12  months Active involvement of  enterprises in corruption and  bribery For the LCA indicators all 16 are assigned to the SDG  indicators. For the social assessment, in contrast, only 22 out  of 54 PSILCA indicators can be matched. For example, the  connection between the PSILCA indicator illiteracy and the  SDGs is established by SDG indicator 4.6.1. This indicator  corresponds to the statistics provided by UNESCO, which  also serves as the basis for the PSILCA calculations of  illiteracy. Without having full knowledge of the methods used  in developing the PSILCA database we assume that the  positive UNESCO literacy statistics were simply reversed to  provide data for illiteracy. The decrease in indicators  employed compared to the goal tier can be explained by the  increased level of detail of the SDG indicator tier. For  example, important social issues liked forced labour are not  included on this level. Although the chosen LCC indicators match the general  focus of goals 7, 8, and 9, they do not really fit to the  respective SDG indicators. The main reason is that SDG  indicators do not focus on process-relevant assessments of the  investment, operation, and demolition phases of plants,  installation sites, respectively on economic efficiency and the  rationales for investment in and operation of plants. They  rather focus on assessing other scales of economic systems  such as sectoral, macro-economic, development economics, institutional and socio-economic ones. 3.2. Case study To test the application of the new found LCSA indicator  sets in a case study already existing LCA and LCC are adapted. It comprises a comparison of three locations for  hydrogen production with an advanced alkaline water  electrolyzer. The countries Germany, Spain and Austria offer  different opportunities for industrial hydrogen production.  The LCA modelling is based on [26], while the LCC is taken  from [17]. The s-LCA is conducted with the PSILCA  database [11] integrated in openLCA 1.6. The functional unit  for the LCSA is 1 kg of hydrogen produced. The two indicator sets identified above are applied for this  case study. For the LCSA goal-based indicator set 50 indicators are calculated while for the LCSA SDG indicator- based indicator set only 38 indicators are calculated. The  results are listed in Table 4. Beginning with the SDG indicator tier, for the social  analysis the hydrogen production is measured against 22 social indicators. The PSILCA database combines indicators  into impact categories and uses medium risk hours as unit of  measurement. When calculating risk points, PSILCA  produces a default output of 35 impact categories, which  represent either single indicators or combined indicator sets in  impact categories. The SDG indicator-based assessment  provides risk levels for 17 impact categories. The indicator-based analysis shows that out of the three  locations under investigation hydrogen production in Austria (14.2 med risk hours) exhibits the highest level of social risks,  followed by Spain (13.4 med risk hours) and Germany (10.1 med risk hours). Overall, the risks associated with each  process stem mainly from the water (Ã¸ 60 %) and electricity  (Ã¸ 40 %) sector and their upstream chains; other sectors only  exert marginal impact. The overall highest level of social risks  is found for â€˜Fair salaryâ€™ (Germany: 1.4 med risk hours,  Austria: 1.9 med risk hours) and â€˜Unemploymentâ€™ (Spain: 2.0  med risk hours). The goal-based assessment provides risk levels for 21  impact categories based on 32 social indicators. The analysis shows no difference in the ranking of locations in terms of  social risk; however, the differences between the overall risk  levels per location become slightly more pronounced (Austria:  15.5 med risk hours, Spain: 14.1 med risk hours, Germany:  10.1 med risk hours). In the goal-based assessment four of the  impact categories considered in the indicator-based  assessment are no longer included, instead, seven different  impact categories are added. For example, the goal-based assessment includes the impact categories â€˜Frequency of  forced labourâ€™ and â€˜Goods produced by forced labourâ€™. While  forced labour is of high importance in relation to Sustainable  Development, the s-LCA indicators associated with these  impact categories cannot be matched with SDG indicators. For the LCA applying the goal-based indicator set  comprises the 14 identified indicators. It can be clearly stated  that Austria shows the best results as it is the best country in  ten out of 14 indicators. When comparing the other two  countries (Spain and Germany) ranking is harder to tell as  Spain shows worst results for seven and best for three  indicators while Germany shows worst results for five and  best for one indicator. When applying the SDG indicator-based indicator set 16 indicators should be calculated. â€˜Land useâ€™, however, is  implemented in GaBi but not with the characterisation model  the UNEP/SETAC recommends [10]. Due to the ongoing  scientific discussion in the LCA community this indicator is  excluded from the indicator set leaving 15 indicators to be  calculated. The one additional indicator does not change the  overall picture already painted by the slightly smaller goal- 64   Christina Wulf et al. /  Procedia CIRP  69 ( 2018 )  59 â€“ 65  based indicator set. Still Austria is by far the best option (best  in twelve out of 15 indicators) and Spain as well as Germany  still close together (seven worst indicator results each). The  following statements are valid for both indicator sets: The decisive factor is the electricity supply in all three  countries. Its share amounts to 80 % in case of Austria and  even 90 % in case of Spain and Germany for most indicators. Against this background it is not surprising that Austria has  the lowest environmental impacts due to their high share of  hydro power (58 % [27]) on the total electricity mix. For the chosen case the economic indicators are restricted.  As the use phase of the product and respective returns from  market activities are excluded, the internal rate of return and  payback times cannot be calculated. For all four remaining  economic indicators the German site performs best. From a  cost perspective, the price of electricity for the hydrogen  technology has a decisive impact. Therefore, it should be kept  in mind that the projection of electricity prices is subject to a  range of assumptions, including the political influence on cost  components such as grid transport, taxes, and contributions to  finance renewable energy sources. If, contrary to the  assumption here, electricity prices are going to adjust over  time, and if the energy-intensive industries will lose its  beneficial regulatory status with respect to the German  Renewable Energy Act (EEG), the relative advantage of the  German site may disappear. At the moment Germany has the  lowest prices for electricity due to the regulatory status of  energy-intensive industries within the financial support of  renewable energy sources. Table 4 LCSA indicator results (bold: SDG goal and indicator tier; italic: only  goal tier; normal: only SDG indicator tier). DE AT ES Environmental indicators Acidification, Mole of H+ eq 0.0445 0.0216 0.0503 Climate change, kg CO2-eq 29.8 10.2 16.2 Ecotoxicity freshwater, CTUe 5.59 3.31 3.71 Eutrophication freshwater, kg P eq 1.28E-4 1.33E-4 9.32E-5 Eutrophication marine, kg N eq 1.12E-2 7.31E-3 1.16E-2 Eutrophication terrestrial, Mole of N eq 0.116 0.065 0.121 Human toxicity, cancer effects, CTUh 3.75E-8 1.48E-8 2.71E-8 Human toxicity, non-cancer effects,  CTUh 9.77E-7 5.07E-7 4.34E-7 Ionizing radiation, human health, kBq  U235 eq 2.76 0.03 3.20 Ozone depletion, kg CFC-11 eq 6.32E-8 4.38E-8 5.03E-8 Particulate matter/Respiratory  inorganics, kg PM2.5 eq 2.00E-3 0.87E-3 2.46E-3 Photochemical ozone formation, kg  NMVOC eq 0.0300 0.0164 0.0330 Resource depletion, mineral, fossils and  renewables, kg Sb eq 1.29E-4 0.39E-4 0.94E-4 Primary energy demanda, MJ 534 341 513 AWAREb, mÂ³ world eq 21.9 22.3 43.1 Social indicators in medium risk hours Association and bargaining rights 0.5 1.0 0.3 Certified environmental management  systems 0.8 1.4 0.7 Child Labour 0.4 0.4 0.3 Corruption 1.2 1.7 1.3 Drinking water coverage 0.2 0.3 0.2 Education 0.5 0.7 0.9 Fair Salary 1.4 1.9 1.5 Fatal accidents 0.2 0.4 0.2 Frequency of forced labour 0.3 0.4 0.2 Gender wage gap 0.5 1.9 0.9 Goods produced by forced labour 0.0 0.0 0.0 Health expenditure 1.2 1.7 1.6 Illiteracy 1.1 1.3 1.1 Indigenous rights 0.3 0.4 0.7 Non-fatal accidents 0.5 1.1 1.5 Safety measures 0.2 0.3 0.2 Sanitation coverage 0.6 0.7 0.5 Social security expenditures 0.5 0.6 0.4 Trade unionism 0.8 1.3 1.0 Trafficking in persons 0.3 0.4 0.3 Unemployment 0.2 0.3 2.0 Violations of employment laws and  regulations 0.5 0.8 0.7 Weekly hours of work per employee 0.3 0.5 0.4 Youth illiteracy 0.8 0.9 0.6 Economic indicators Levelized cost of hydrogenc, â‚¬2015/kg H2 3.64 4.22 4.31 Net present value, mâ‚¬2015/kg H2 -50.1 -58.1 -59.4 Profitability index -6.38 -7.45 -7.74 Marginal costd, â‚¬2015/kg H2 3.72 4.52 4.73 a from ren. and non ren. resources (net cal. value); b OECD+BRIC average for  unspecified water; ctaking into account tax deductible expenditures; dlevelized  marginal cost in case of increasing variable operation and maintenance cost in  real terms 4. Conclusions While the SDGs focus on changing conditions on a  country-level, LCSA analysis is geared towards a particular  process or technology mostly on micro level. This uneven  focus can lead to imprecise predictions of whether or not a  particular process can contribute to reach the SDGs.  The difference in issues included in the goal- and indica- tor-based assessment leads to slightly different definitions of  Sustainable Development. This impressively portrays the  importance of a diligent indicator selection. For the LCA the two identified indicator sets show only  slight differences (one indicator) while for the s-LCA  significant differences are observed. For the LCC even no  indicator set on SDG indicator tier can be compiled. This  emphasises the difference between the sustainability  assessment on a country or region level and on a process  chain level. 65 Christina Wulf et al. /  Procedia CIRP  69 ( 2018 )  59 â€“ 65  In consequence, to assign the LCSA indicators to the SDGs  requires a longer line of argumentation based on the fact that  the SDGs are conceptualized for country or regional level  while LCSA aims at products at micro level. Only for few  indicators, e.g. unemployment, nearly perfect congruence is  provided. In contrast, the LCA indicator particulate matter is  assigned to the goal 3 and the SDG indicators 3.4.1 and 3.9.1  because of the effects of particulate matter to human health on  the endpoint level (mixing endpoint and midpoint level is  another limitation of this approach). In addition this impact  category is also assigned to the SDG indicator 11.6.2. This  SDG indicator has clear connections to the LCA impact  category particulate matter but is less comprehensive. Sometimes the idea behind the SDGs and SDG indicators is  plainly translated into LCSA indicators because a translation  with perfect overlap is not possible.  The LCSA case study on different hydrogen production  sites shows that only the goal based indicator set can be  applied for a full sustainability assessment comprising all  dimensions of sustainability. For this case study no qualitative  differences in the results of the LCA and s-LCA of the  indicator sets can be found. Further case studies have to proof  if this is a universally valid statement. In sum, the SDG goal-based indicator set proves  appropriate to be applied in an LCSA study. The SDG  indicator-based indicator set reveals more matching problems  between SDGs and LCSA. In particular the economic  assessment related to the SDGs is difficult because of the  discrepancies between the macro-economic intentions of the  SDGs and the microeconomic nature of LCC. Nevertheless,  taking a look at the SDG indicators for a particular case  provides an enhanced understanding of the SDGs and guide  indicator selection. References [1] UN General Assembly. Resolution adopted by the General Assembly on  25 September 2015: Transforming our world: the 2030 Agenda for  Sustainable Development. New York: United Nations, 2015. [2] Maier S, Beck T, Francisco Vallejo J, Horn R, SÃ¶hlemann J-H, Nguyen T.  Methodological Approach for the Sustainability Assessment of  Development Cooperation Projects for Built Innovations Based on the  SDGs and Life Cycle Thinking. Sustainability 2016;8:1-26. [3] Goedkoop M, Martinez EV, de Beer I. LCA as the tool to measure  progress towards the Sustainable Development Goals.  8th Life Cycle  Management Conference, Luxembourg: LIST, 2017. [4] UN. Revised list of global Sustainable Development Goal indicators.   Report of the Inter-Agency and Expert Group on Sustainable  Development Goal Indicators (E/CN.3/2017/2), Annex III, New York:  United Nations, 2017. [5] Boulay A-M, Bare J, Benini L, Berger M, LathuilliÃ¨re MJ, Manzardo A,  Margni M, Motoshita M, NÃºÃ±ez M, Pastor AV, Ridoutt B, Oki T, Worbe  S, Pfister S. The WULCA consensus characterization model for water  scarcity footprints: assessing impacts of water consumption based on  available water remaining (AWARE). The International Journal of Life  Cycle Assessment 2017. [6] Korpi E, Ala-Risku T. Life cycle costing: a rview of published case  studies. Managerial Auditing Journal 2008;23:240-261. [7] Okano K. Life cycle costing - an approach to life cycle cost management:  A consideration from historical development. Asia Pacific Management  Review 2001;6:317-341. [8] Swarr TE, Hunkeler D, KlÃ¶pffer W, Pesonen H-L, Ciroth A, Brent AC,  Pagan R. Environmental life cycle costing: A code of practice.  Pensacola,  Brussels: SETAC; 2011. [9] EU-JRC. Recommendations for Life Cycle Impact Assessment in the  European context - based on existing environmental impact assessment  models and factors.  International Reference Life Cycle Data System  (ILCD) handbook, Luxembourg: European Commission-Joint Research  Centre - Institute for Environment and Sustainability, 2011. [10] UNEP SETAC. Global Guidance for Life Cycle Impact Assessment  Indicators: Volume 1. Paris: United Nations Environment Programme,  Sustainable Lifestyles, Cities and Industry Branch, 2017. [11] Ciroth A, Eisfeldt F. PSILCA â€“ A Product Social Impact Life Cycle  Assessment database: Database version 1.0 - Documentation. Berlin:  Greendelta, 2016. [12] Andrews ES, Barthel L-P, Beck T, BenoÃ®t Norris C, Ciroth A,  Cucuzzella C, Gensch C-O, HÃ©bert J, Lesage P, Manhart A, Mazeau P,  Mazijn B, Methot A-L, Moberg Ã…, Norris G, Parent J, Prakash S, Reveret  J-P, Spillemaeckers S, Ugaya CML, Valdivia S, Weidemann B.  Guidelines for Social Life Cycle Assessment of Products: Social and  socio-economic LCA guidelines complementing environmental LCA and  Life Cycle Costing, contributing to the full assessment of goods and  services within the context of sustainable development. C. BenoÃ®t Norris,  B. Mazijn (Eds.), Paris: United Nations Environment Programme, 2009. [13] BenoÃ®t Norris C, Traverso M, Valdivia S, Vickery-Niedermann G,  Franze J, Azuero L, Ciroth A, Mazijn B, Aulisio D. The Methodological  Sheets for Subcategories in Social Life Cycle Assessment (S-LCA).  UNEP/SETAC, 2013. [14] European Investment Bank. The economic appraisal of investment  projects at the EIB. Luxembourg, 2013. [15] Branker K, Pathak MJM, Pearce JM. A review of solar photovoltaic  levelized cost of electricity. Renewable and Sustainable Energy Reviews  2011;15:4470-4482. [16] Stephan A, Battke B, Beuse MD, Clausdeinken JH, Schmidt TS.  Limiting the public cost of stationary battery deployment by combining  applications. Nature Energy 2016;1:Art. No 16079. [17] Kuckshinrichs W, Ketelaer T, Koj JC. Economic Analysis of Improved  Alkaline Water Electrolysis. Frontiers in Energy Research 2017;5. [18] Stocker TF, Qin D, Plattner G-K, Tignor M, Allen SK, Boschung J,  Nauels A, Xia Y, Bex V, Midgley PM. Climate Change 2013: The  Physical Science Basis. - Contribution of Working Group I to the Fifth  Assessment Report of the Intergovernmental Panel on Climate Change.  Cambridge: Intergovernmental Panel on Climate Change, 2013. [19] Wenzel H, Hauschild M. Environmental assessment of products: Volume  2.  London: Chapman &amp; Hall; 1998. [20] Horrigan L, Lawrence RS, Walker P. How sustainable agriculture can  address the environmental and human health harms of industrial  agriculture. Environmental Health Perspectives 2002;110:445-456. [21] Humbert S. Geographically Differentiated Life-cycle Impact Assessment  of Human Health. University of California, 2009. [22] Stroh K. Bodennahes Ozon: UmweltWissen â€“ Schadstoffe. Augsburg:  Bayerisches Landesamt fÃ¼r Umwelt, 2013. [23] Abarca JF, Casiccia CC. Skin cancer and ultraviolet-B radiation under  the Antarctic ozone hole: southern Chile, 1987â€“2000. Photodermatology,  Photoimmunology &amp; Photomedicine 2002;18:294-302. [24] Frischknecht R, Braunschweig A, Hofstetter P, Suter P. Human health  damages due to ionising radiation in life cycle impact assessment.  Environmental Impact Assessment Review 2000;20:159-189. [25] WHO. Burden of disease from Ambient Air Pollution for 2012:  Description of method. Geneva: World Health Organization, 2014. [26] Koj JC, Wulf C, Schreiber A, Zapp P. Site-Dependent Environmental  Impacts of Industrial Hydrogen Production by Alkaline Water  Electrolysis. Energies 2017;10:860. [27] Capros P, De Vita A, Tasios N, Papadopoulos D, Siskos P, Apostolaki E,  Zampara M, Paroussos L, Fragiadakis K, Kouvaritakis N, Hoglund- Isaksson L, Winiwarter W, Purohit P, Bottcher H, Frank S, Havlik P,  Gusti M, Witzke HP. EU Energy, Transport and GHG Emissions: Trends  to 2050, Reference Scenario 2013.  Luxembourg: Publications Office of  the European Union; 2013. ETAC; 2011. [9] EU-JRC. Recommendations for Life Cycle Impact Assessment in the  European context - based on existing environmental impact assessment  models and factors.  International Reference Life Cycle Data System  (ILCD) handbook, Luxembourg: European Commission-Joint Research  Centre - Institute for Environment and Sustainability, 2011. [10] UNEP SETAC. Global Guidance for Life Cycle Impact Assessment  Indicators: Volume 1. Paris: United Nations Environment Programme,  Sustainable Lifestyles, Cities and Industry Branch, 2017. [11] Ciroth A, Eisfeldt F. PSILCA â€“ A Product Social Impact Life Cycle  Assessment database: Database version 1.0 - Documentation. Berlin:  Greendelta, 2016. [12] Andrews ES, Barthel L-P, Beck T, BenoÃ®t Norris C, Ciroth A,  Cucuzzella C, Gensch C-O, HÃ©bert J, Lesage P, Manhart A, Mazeau P,  Mazijn B, Methot A-L, Moberg Ã…, Norris G, Parent J, Prakash S, Reveret  J-P, Spillemaeckers S, Ugaya CML, Valdivia S, Weidemann B.  Guidelines for Social Life Cycle Assessment of Products: Social and  socio-economic LCA guidelines complementing environmental LCA and  Life Cycle Costing, contributing to the full assessment of goods and  services within the context of sustainable development. C. BenoÃ®t Norris,  B. Mazijn (Eds.), Paris: United Nations Environment Programme, 2009. [13] BenoÃ®t Norris C, Traverso M, Valdivia S, Vickery-Niedermann G,  Franze J, Azuero L, Ciroth A, Ma</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PROCIR</jid>
+            <aid>5444</aid>
+            <ce:pii>S2212-8271(17)30940-X</ce:pii>
+            <ce:doi>10.1016/j.procir.2017.11.144</ce:doi>
+            <ce:copyright type="unknown" year="2017"/>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Peer-review under responsibility of the scientific committee of the 25th CIRP Life Cycle Engineering (LCE) Conference.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Sustainable Development Goals as a Guideline for Indicator Selection in Life Cycle Sustainability Assessment</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S221282711730940X-2b7acaa2014b5e0e7b4f6ad0e0b99e08">
+                  <ce:given-name>Christina</ce:given-name>
+                  <ce:surname>Wulf</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0010" author-id="S221282711730940X-529abe2a9edcdc70e606f315c627b799">
+                  <ce:given-name>Jasmin</ce:given-name>
+                  <ce:surname>Werker</ce:surname>
+               </ce:author>
+               <ce:author id="aut0015" author-id="S221282711730940X-de504614215f0f4a1df09d2e726b65e0">
+                  <ce:given-name>Petra</ce:given-name>
+                  <ce:surname>Zapp</ce:surname>
+               </ce:author>
+               <ce:author id="aut0020" author-id="S221282711730940X-61dea2d855de919d33f215e1e573e208">
+                  <ce:given-name>Andrea</ce:given-name>
+                  <ce:surname>Schreiber</ce:surname>
+               </ce:author>
+               <ce:author id="aut0025" author-id="S221282711730940X-0c62f473ac4526790c3159009994caed">
+                  <ce:given-name>Holger</ce:given-name>
+                  <ce:surname>Schlör</ce:surname>
+               </ce:author>
+               <ce:author id="aut0030" author-id="S221282711730940X-992d024b16bf3b0ac8432170635711e0">
+                  <ce:given-name>Wilhelm</ce:given-name>
+                  <ce:surname>Kuckshinrichs</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>Forschungszentrum Jülich GmbH Institute of Energy and Climate Research – Systems Analysis and Technology Evaluation, 52425 Jülich, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Forschungszentrum Jülich GmbH Institute of Energy and Climate Research – Systems Analysis and Technology Evaluation, 52425 Jülich</sa:organization>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +49-246161-3268; fax: +49-246161-2540.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Tel.: +49-246161-3268; fax: +49-246161-2540.</sa:organization>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="21" month="6" year="2017"/>
+            <ce:date-revised day="15" month="11" year="2017"/>
+            <ce:date-accepted day="16" month="11" year="2017"/>
+            <ce:abstract id="abs0005" view="all" class="author"><ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">Life Cycle Sustainability Assessment (LCSA) emerged as a methodology allowing a detailed representation of technologies in their processes from a life cycle perspective. To conduct a profound LCSA a plausible indicator selection is needed. From a Sustainability perspective, the currently dominant political framework is the Sustainable Development Goals (SDGs) of the United Nations. In this paper, LCSA indicators are selected based on the SDGs, comparing in a first approach the implication due to the selection based on overall goals and SDG indicators level. The applicability of this selection is tested by a case study of electrolytic hydrogen production. The analysis shows meaningful differences between the goal-based and the indicator-based assessment. Only the goal-based indicator set comprises all dimensions of sustainability.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Indicator selection</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Life Cycle Sustainability Assessment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Sustainable Development Goals</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Hydrogen</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>UN General Assembly. Resolution adopted by the General Assembly on 25 September 2015: Transforming our world: the 2030 Agenda for Sustainable Development. New York: United Nations, 2015.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Beck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Francisco Vallejo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Horn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-H.</ce:given-name>
+                                 <ce:surname>Söhlemann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methodological Approach for the Sustainability Assessment of Development Cooperation Projects for Built Innovations Based on the SDGs and Life Cycle Thinking</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>26</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="oref0015">
+                        <ce:textref>Goedkoop M, Martinez EV, de Beer I. LCA as the tool to measure progress towards the Sustainable Development Goals. 8th Life Cycle Management Conference, Luxembourg: LIST, 2017.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>UN. Revised list of global Sustainable Development Goal indicators. Report of the Inter-Agency and Expert Group on Sustainable Development Goal Indicators (E/CN.3/2017/2), Annex III, New York: United Nations, 2017.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>Boulay A-M, Bare J, Benini L, Berger M, Lathuillière MJ, Manzardo A, Margni M, Motoshita M, Núñez M, Pastor AV, Ridoutt B, Oki T, Worbe S, Pfister S. The WULCA consensus characterization model for water scarcity footprints: assessing impacts of water consumption based on available water remaining (AWARE). The International Journal of Life Cycle Assessment 2017.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Korpi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ala-Risku</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Life cycle costing: a rview of published case studies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Managerial Auditing Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>240</sb:first-page>
+                              <sb:last-page>261</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Okano</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Life cycle costing - an approach to life cycle cost management: A consideration from historical development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Asia Pacific Management Review</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>317</sb:first-page>
+                              <sb:last-page>341</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="oref0040">
+                        <ce:textref>Swarr TE, Hunkeler D, Klöpffer W, Pesonen H-L, Ciroth A, Brent AC, Pagan R. Environmental life cycle costing: A code of practice. Pensacola, Brussels: SETAC; 2011.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="oref0045">
+                        <ce:textref>EU-JRC. Recommendations for Life Cycle Impact Assessment in the European context - based on existing environmental impact assessment models and factors. International Reference Life Cycle Data System (ILCD) handbook, Luxembourg: European Commission-Joint Research Centre - Institute for Environment and Sustainability, 2011.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref id="oref0050">
+                        <ce:textref>UNEP SETAC. Global Guidance for Life Cycle Impact Assessment Indicators: Volume 1. Paris: United Nations Environment Programme, Sustainable Lifestyles, Cities and Industry Branch, 2017.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref id="oref0055">
+                        <ce:textref>Ciroth A, Eisfeldt F. PSILCA – A Product Social Impact Life Cycle Assessment database: Database version 1.0 - Documentation. Berlin: Greendelta, 2016.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="oref0060">
+                        <ce:textref>Andrews ES, Barthel L-P, Beck T, Benoît Norris C, Ciroth A, Cucuzzella C, Gensch C-O, Hébert J, Lesage P, Manhart A, Mazeau P, Mazijn B, Methot A-L, Moberg Å, Norris G, Parent J, Prakash S, Reveret J-P, Spillemaeckers S, Ugaya CML, Valdivia S, Weidemann B. Guidelines for Social Life Cycle Assessment of Products: Social and socio-economic LCA guidelines complementing environmental LCA and Life Cycle Costing, contributing to the full assessment of goods and services within the context of sustainable development. C. Benoît Norris, B. Mazijn (Eds.), Paris: United Nations Environment Programme, 2009.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="oref0065">
+                        <ce:textref>Benoît Norris C, Traverso M, Valdivia S, Vickery-Niedermann G, Franze J, Azuero L, Ciroth A, Mazijn B, Aulisio D. The Methodological Sheets for Subcategories in Social Life Cycle Assessment (S-LCA). UNEP/SETAC, 2013.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref id="oref0070">
+                        <ce:textref>European Investment Bank. The economic appraisal of investment projects at the EIB. Luxembourg, 2013.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Branker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.M.</ce:given-name>
+                                 <ce:surname>Pathak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Pearce</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review of solar photovoltaic levelized cost of electricity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renewable and Sustainable Energy Reviews</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4470</sb:first-page>
+                              <sb:last-page>4482</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref id="oref0080">
+                        <ce:textref>Stephan A, Battke B, Beuse MD, Clausdeinken JH, Schmidt TS. Limiting the public cost of stationary battery deployment by combining applications. Nature Energy 2016; 1:Art. No 16079.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kuckshinrichs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ketelaer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Koj</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Economic Analysis of Improved Alkaline Water Electrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Frontiers in Energy Research</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref id="oref0090">
+                        <ce:textref>Stocker TF, Qin D, Plattner G-K, Tignor M, Allen SK, Boschung J, Nauels A, Xia Y, Bex V, Midgley PM. Climate Change 2013: The Physical Science Basis. - Contribution of Working G***roup I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Intergovernmental Panel on Climate Change, 2013.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <ce:other-ref id="oref0095">
+                        <ce:textref>Wenzel H, Hauschild M. Environmental assessment of products: Volume 2. London: Chapman &amp; Hall; 1998.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Horrigan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Lawrence</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Walker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How sustainable agriculture can address the environmental and human health harms of industrial agriculture</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environmental Health Perspectives</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                              <sb:last-page>456</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <ce:other-ref id="oref0105">
+                        <ce:textref>Humbert S. Geographically Differentiated Life-cycle Impact Assessment of Human Health. University of California, 2009.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <ce:other-ref id="oref0110">
+                        <ce:textref>Stroh K. Bodennahes Ozon: UmweltWissen – Schadstoffe. Augsburg: Bayerisches Landesamt für Umwelt, 2013.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref id="oref0115">
+                        <ce:textref>Abarca JF, Casiccia CC. Skin cancer and ultraviolet-B radiation under the Antarctic ozone hole: southern Chile, 1987-2000. Photodermatology, Photoimmunology &amp; Photomedicine 2002;18:294-302.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Frischknecht</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Braunschweig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hofstetter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Suter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Human health damages due to ionising radiation in life cycle impact assessment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environmental Impact Assessment Review</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>159</sb:first-page>
+                              <sb:last-page>189</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <ce:other-ref id="oref0125">
+                        <ce:textref>WHO. Burden of disease from Ambient Air Pollution for 2012: Description of method. Geneva: World Health Organization, 2014.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Koj</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wulf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Schreiber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zapp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Site-Dependent Environmental Impacts of Industrial Hydrogen Production by Alkaline Water Electrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energies</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>860</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[27]</ce:label>
+                     <ce:other-ref id="oref0135">
+                        <ce:textref>Capros P, De Vita A, Tasios N, Papadopoulos D, Siskos P, Apostolaki E, Zampara M, Paroussos L, Fragiadakis K, Kouvaritakis N, Hoglund-Isaksson L, Winiwarter W, Purohit P, Bottcher H, Frank S, Havlik P, Gusti M, Witzke HP. EU Energy, Transport and GHG Emissions: Trends to 2050, Reference Scenario 2013. Luxembourg: Publications Office of the European Union; 2013.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1935 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1462901118305768</prism:url><dc:identifier>doi:10.1016/j.envsci.2018.10.014</dc:identifier><eid>1-s2.0-S1462901118305768</eid><prism:doi>10.1016/j.envsci.2018.10.014</prism:doi><pii>S1462-9011(18)30576-8</pii><dc:title>Developing good practice guidance for estimating land degradation in the context of the United Nations Sustainable Development Goals </dc:title><prism:publicationName>Environmental Science &amp; Policy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>14629011</prism:issn><prism:volume>92</prism:volume><prism:startingPage>349</prism:startingPage><prism:endingPage>355</prism:endingPage><prism:pageRange>349-355</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-02-28</prism:coverDate><prism:coverDisplayDate>February 2019</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Sims, Neil C.</dc:creator><dc:creator>England, Jacqueline R.</dc:creator><dc:creator>Newnham, Glenn J.</dc:creator><dc:creator>Alexander, Sasha</dc:creator><dc:creator>Green, Carly</dc:creator><dc:creator>Minelli, Sara</dc:creator><dc:creator>Held, Alex</dc:creator><dc:description>
+                  In recent decades there have been numerous global and regional targets and initiatives to halt and reverse land degradation. The land degradation neutrality (LDN) target, embedded in the United Nations Sustainable Development Goals (SDGs), provides a framework for countries to avoid or reduce degradation through sustainable land management, coupled with efforts to restore or rehabilitate degraded land. Here we present the key recommendations from the Good Practice Guidance (GPG) for monitoring and reporting on SDG indicator 15.3.1 (“proportion of land that is degraded over total land area”) and discuss how it could be used in the context of implementing the LDN target. SDG indicator 15.3.1 is assessed in terms of change in three sub-indicators: land cover, land productivity and carbon stocks. Each of these sub-indicators represents a unique perspective on the manifestation and assessment of land degradation. Global time-series datasets are a valuable recent development for monitoring landscape-scale changes, but variations in land conditions between countries, and differences in the sensitivities of these time-series datasets, present challenges in the selection of the most appropriate methods and datasets. Methods to combine the three sub-indicators for SDG indicator 15.3.1 need to account for variations in conditions over space and time, and potential differences in the representation of degradation among the sub-indicators and between countries. Without being prescriptive about the sources of data, the GPG aims to ensure technical soundness and consistency in estimation methods as well as comparability of results across countries and over time. The information provided by the three sub-indicators will assist countries to better understand their distribution and types of land degradation, and support countries to achieve their LDN targets. This paper presents some of the key methodological details of the GPG and describes how they can be used in the context of LDN implementation.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Land degradation neutrality</dcterms:subject><dcterms:subject>Land use change</dcterms:subject><dcterms:subject>Land productivity</dcterms:subject><dcterms:subject>Carbon stocks</dcterms:subject><dcterms:subject>Earth observation</dcterms:subject><dcterms:subject>2030 agenda for sustainable development</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1462901118305768" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1462901118305768" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="8848">https://api.elsevier.com/content/object/eid/1-s2.0-S1462901118305768-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="104" size="10214">https://api.elsevier.com/content/object/eid/1-s2.0-S1462901118305768-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="274" size="42663">https://api.elsevier.com/content/object/eid/1-s2.0-S1462901118305768-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="287" size="53271">https://api.elsevier.com/content/object/eid/1-s2.0-S1462901118305768-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="1212" size="420561">https://api.elsevier.com/content/object/eid/1-s2.0-S1462901118305768-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2667" height="1272" size="390804">https://api.elsevier.com/content/object/eid/1-s2.0-S1462901118305768-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="271296">https://api.elsevier.com/content/object/eid/1-s2.0-S1462901118305768-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85056480549</scopus-id><scopus-eid>2-s2.0-85056480549</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85056480549" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271991</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291705</xocs:ssid>
+         <xocs:ssid type="subj">291714</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291768</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Environmental Science &amp; Policy</xocs:srctitle>
+      <xocs:normalized-srctitle>ENVIRONMENTALSCIENCEPOLICY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20181113">2018-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20181113">2018-11-13</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20181228">2018-12-28</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20181228">2018-12-28</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-02-04T23:04:47</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1462901118305768</xocs:eid>
+      <xocs:pii-formatted>S1462-9011(18)30576-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1462901118305768</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.envsci.2018.10.014</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1462901118X00124</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190205">2019-02-05T01:24:05.68779Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190201</xocs:date-search-begin>
+      <xocs:date-search-end>20190228</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1542153404">2018-11-13T23:56:44.742735Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body affil articletitle auth authfirstini authfull authkeywords authlast footnotes highlightsabst orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1462-9011</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>14629011</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>92</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>92</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 92</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>37</xocs:sort-order>
+      <xocs:first-fp>349</xocs:first-fp>
+      <xocs:last-lp>355</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>349</xocs:first-page>
+         <xocs:last-page>355</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201902</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>DEVELOPINGGOODPRACTICEGUIDANCEFORESTIMATINGLANDDEGRADATIONINCONTEXTUNITEDNATIONSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SIMS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methodology</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Good practice guidance for SDG indicator 15.3.1</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Land cover and land cover change</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.1.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Land productivity</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.1.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Carbon stocks above and below ground</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.1.4</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Establishing the baseline</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.1.5</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Combining sub-indicators to estimate SDG indicator 15.3.1</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.1.6</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Spatial aggregation and disaggregation</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>AKHTARSCHUSTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>BORJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>CARONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>437</xocs:ref-first-fp>
+            <xocs:ref-last-lp>451</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>COWIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>35</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>HENGL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-article-number>e0169748</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>IPCC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>HAYAMAJAPANINTERGOVERNMENTALPANELCLIMATECHANGEIPCCINSTITUTEFORGLOBALENVIRONMENTALSTRATEGIESIGES</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>IPCCGUIDELINESFORNATIONALGREENHOUSEGASINVENTORIES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>IPCC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>2013SUPPLEMENT2006IPCCGUIDELINESFORNATIONALGREENHOUSEGASINVENTORIESWETLANDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>IVITS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>LANDPRODUCTIVITYDYNAMICSTOWARDSINTEGRATEDASSESSMENTLANDDEGRADATIONGLOBALSCALES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>ORR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SCIENTIFICCONCEPTUALFRAMEWORKFORLANDDEGRADATIONNEUTRALITYAREPORTSCIENCEPOLICYINTERFACEUNITEDNATIONSCONVENTIONCOMBATDESERTIFICATIONUNCCD</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>PENMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>GOODPRACTICEGUIDANCEFORLANDUSELANDUSECHANGEFORESTRYGOODPRACTICEGUIDANCEFORLANDUSELANDUSECHANGEFORESTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>PONCECAMPOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>349</xocs:ref-first-fp>
+            <xocs:ref-last-lp>352</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>SIMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>GOODPRACTICEGUIDANCESDGINDICATOR1531PROPORTIONLANDDEGRADEDOVERTOTALLANDAREAP115</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1878</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1883</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>TUCKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>127</xocs:ref-first-fp>
+            <xocs:ref-last-lp>150</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>UNCCD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>UNITEDNATIONSCONVENTIONCOMBATDESERTIFICATIONINCOUNTRIESEXPERIENCINGSERIOUSDROUGHTANDORDESERTIFICATIONPARTICULARLYINAFRICA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>UNCCD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>REPORTCONFERENCEPARTIESELEVENTHSESSIONHELDINWINDHOEK1627SEPTEMBER2013PARTTWOACTIONTAKEN</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>UNCCD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>REPORTCONFERENCEPARTIESTWELFTHSESSIONHELDINANKARA1223OCTOBER2015PARTTWOACTIONSTAKENBONNUNITEDNATIONSCONVENTIONCOMBATDESERTIFICATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>UNCCD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>DEFAULTDATAMETHODSINTERPRETATIONAGUIDANCEDOCUMENTFOR2018UNCCDREPORTING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>VANDERESCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>EXPLORINGFUTURECHANGESINLANDUSELANDCONDITIONIMPACTSFOODWATERCLIMATECHANGEBIODIVERSITYHAGUEPBLNETHERLANDSENVIRONMENTALASSESSMENTAGENCY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SIMSX2019X349</xocs:refkey3>
+         <xocs:refkey4lp>SIMSX2019X349X355</xocs:refkey4lp>
+         <xocs:refkey4ai>SIMSX2019X349XN</xocs:refkey4ai>
+         <xocs:refkey5>SIMSX2019X349X355XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2020-12-28T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-12-28T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1462-9011(18)30576-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1462901118305768</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1462901118305768</xocs:eid>
+         <xocs:doi>10.1016/j.envsci.2018.10.014</xocs:doi>
+         <xocs:cid>271991</xocs:cid>
+         <xocs:timestamp>2019-02-05T01:24:05.68779Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-02-28</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1462901118305768-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1462901118305768/MAIN/application/pdf/5da184562d028b385a7a88160af79874/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>731340</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1462901118305768-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1462901118305768/PREVIEW/image/png/e75e64dd91a76e5bfa13f591d9552808/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>52349</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1462901118305768-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1462901118305768/gr1/THUMBNAIL/image/gif/8e4c86602c456ed4886cc86694a65083/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8848</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1462901118305768-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1462901118305768/gr2/THUMBNAIL/image/gif/d5e9688b1cac5f07a749a568d11ab2ba/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10214</xocs:filesize>
+               <xocs:pixel-height>104</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1462901118305768-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1462901118305768/gr1/DOWNSAMPLED/image/jpeg/2747168f47d2ea6071cec4edc8b029e5/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42663</xocs:filesize>
+               <xocs:pixel-height>274</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1462901118305768-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1462901118305768/gr2/DOWNSAMPLED/image/jpeg/992b4188e422f33bf7bd85fd3f4199aa/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>53271</xocs:filesize>
+               <xocs:pixel-height>287</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1462901118305768-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1462901118305768/gr1/HIGHRES/image/jpeg/eed003b3548a1f5d4d9e34fe8f8f5ce9/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>420561</xocs:filesize>
+               <xocs:pixel-height>1212</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1462901118305768-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1462901118305768/gr2/HIGHRES/image/jpeg/1381e5cd920930c6efe9c517a01fd9a2/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>390804</xocs:filesize>
+               <xocs:pixel-height>1272</xocs:pixel-height>
+               <xocs:pixel-width>2667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1462901118305768-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:108MX0DTNS5/MAIN/application/pdf/4401c6a69bf521bc31560728b5c4d11a/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:108MX0DTNS5/MAIN/application/pdf/4401c6a69bf521bc31560728b5c4d11a/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/dfa74030-7e77-4f85-a159-1317649a8852</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>271296</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>ENVSCI</jid>
+            <aid>2286</aid>
+            <ce:pii>S1462-9011(18)30576-8</ce:pii>
+            <ce:doi>10.1016/j.envsci.2018.10.014</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0005" view="all">Steps to derive SDG indicator 15.3.1 from the sub-indicators. ND is not degraded and D is degraded. 1OAO is the ‘one-out, all-out’ principle for combining indicators (see Section <ce:cross-ref id="crf0005" refid="sec0010">2</ce:cross-ref>.1.5).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S1462901118305768/gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0010" view="all">Example graphical summary of the land cover/land use change matrix for the 6 IPCC classes (30 possible transitions). Unlikely transitions are highlighted in red text. Major land cover processes (flows) are identified and boxes are colour coded as improvement (green), stable (blue) or degradation (red). This is a guide only, and the determination of whether changes from one land cover type to another are interpreted as degradation should be made by countries in the context of their land cover conditions (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S1462901118305768/gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0015" view="all">The relationship between land cover classes used in various classification schemes. Land cover classes defined in any classification scheme can be harmonised and aligned with one another using the Land Cover Meta Language (LCML).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Table 1</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">IPCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">GLC-Share</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">SEEA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">ESA CCI-LC</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Forest Land</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Tree Covered Areas</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Forest tree cover</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Tree broadleaved evergreen,<br/>Tree broadleaved deciduous,<br/>Tree needle leaved evergreen,<br/>Tree needle leaved deciduous,<br/>Tree mixed leaf type,<br/>Mosaic tree, shrub / herbaceous cover</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Grassland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Grassland<br/>Shrub Covered Areas<br/>Sparse Vegetation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Mosaic natural vegetation / cropland,<br/>Mosaic herbaceous cover / tree, shrub,<br/>Scrublands,<br/>Grassland,<br/>Lichens and mosses,<br/>Sparse vegetation</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Cropland rain fed,<br/>Cropland, irrigated or post-flooding,<br/>Mosaic cropland / natural vegetation</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Wetlands</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Herbaceous Vegetation, aquatic and regularly flooded<br/>Mangrove</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Open wetland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Tree cover, flooded, saline water,<br/>Shrub or herbaceous cover, flooded<br/>Tree flooded, fresh water</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Settlements</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Artificial Surfaces</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Urban areas</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Other land</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Bare soil<br/>Snow and Glacier</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Bare areas,<br/>Permanent snow and ice</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Water Bodies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Water bodies</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0020" view="all">Combinations of productivity metrics for determining whether a pixel is degraded. Pixels in classes 1–4 include a significant negative Trend, indicating productivity decline over the analysis period. The Trend in classes 5–8 is either not significant or positive, but both the State and Productivity metrics indicate degradation in class 5. Y is degradation identified in that metric or pixel. N is not degraded in that metric or pixel.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0020" role="short">Table 2</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Class</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trend</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">State</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Performance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Degraded</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="center">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="center">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="center">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="center">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="center">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="center">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="center">7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="center">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">N</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0025" view="all">Conceptual framework for quantifying changes in soil organic carbon (SOC) stocks (adapted from <ce:cross-ref id="crf0010" refid="bib0060">Sims et al., 2017</ce:cross-ref>).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0025" role="short">Table 3</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Level of detail</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">SOC stock baseline</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">SOC stock changes</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Tier 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Apply IPCC Tier 1 methods that relate SOC stock to environmental and management factors, with separate approaches and defaults for mineral and organic soils.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Apply IPCC Tier 1 methods to assess SOC stock change (0-30 cm) after default 20-year period<sup loc="post">1</sup>; methods differ for mineral and organic soils.</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Tier 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Two general approaches:<br/>a) Apply IPCC Tier 2 method, i.e. update of SOC reference stocks and associated stock change factors with nationally-determined values. SOC reference stocks can be determined from global or national high-resolution, digital soil maps or from measurements (e.g. national soil surveys);<br/>b) Where available and robust, apply methods that relate SOC stock to environmental and management factors, using statistical learning methods (e.g. used in state-of-the-art digital soil mapping studies) using best available baseline data for SOC stock and environmental covariates (e.g. land cover) for defined reference period. Where possible, refine established global relationship using national data.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">a) Apply IPCC Tier 2 method using stock change factors with nationally-determined values;<br/>b) Apply methods derived from baseline data to changed environmental and management conditions observed during the reporting year, i.e. use relationships derived from global or national digital soil mapping products.</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Tier 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Two general approaches:<br/>a) As for Tier 2b above, but only using measured soil data for the baseline period;<br/>b) Derived from ecosystem (process-based) modelling.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">a) As for Tier 2b above, but only using measured soil data for the reporting period;<br/>b) Derived from ecosystem modelling, calibrated at points using results from new field measurements/monitoring.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="spar0030" view="all">
+                     <ce:sup loc="post">1</ce:sup>Note: default equations are based on linear relationships that are modified to allow for different reporting periods.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Developing good practice guidance for estimating land degradation in the context of the United Nations Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S1462901118305768-4d08a157eaa8dbf33f573f18a1c0bbf5">
+                  <ce:given-name>Neil C.</ce:given-name>
+                  <ce:surname>Sims</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0020" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0010" author-id="S1462901118305768-4b616fea35c77b25e802d97fcec8f3e0">
+                  <ce:given-name>Jacqueline R.</ce:given-name>
+                  <ce:surname>England</ce:surname>
+                  <ce:cross-ref id="crf0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015" author-id="S1462901118305768-fd76d14d86a7309b70a3d17b2b1d5028">
+                  <ce:given-name>Glenn J.</ce:given-name>
+                  <ce:surname>Newnham</ce:surname>
+                  <ce:cross-ref id="crf0030" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020" author-id="S1462901118305768-0d8b3fd3d2b915dcf1a32c7d4ad6bc82">
+                  <ce:given-name>Sasha</ce:given-name>
+                  <ce:surname>Alexander</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0025" author-id="S1462901118305768-f7fad6c7b859772c897acc3fc420208e">
+                  <ce:given-name>Carly</ce:given-name>
+                  <ce:surname>Green</ce:surname>
+                  <ce:cross-ref id="crf0040" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0030" orcid="0000-0002-5499-2426" author-id="S1462901118305768-f6a53d43e0c7217bace6aa9290ff19c6">
+                  <ce:given-name>Sara</ce:given-name>
+                  <ce:surname>Minelli</ce:surname>
+                  <ce:cross-ref id="crf0045" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0035" author-id="S1462901118305768-d3a884fcbae95803b77de9a81f65ee45">
+                  <ce:given-name>Alex</ce:given-name>
+                  <ce:surname>Held</ce:surname>
+                  <ce:cross-ref id="crf0050" refid="aff0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0055" refid="aff0025">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S1462901118305768-756884d218075278245c59ca82cb170a">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>CSIRO Land and Water, Private Bag 10, Clayton South, VIC, 3169, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CSIRO Land and Water</sa:organization>
+                     <sa:address-line>Private Bag 10</sa:address-line>
+                     <sa:city>Clayton South</sa:city>
+                     <sa:state>VIC</sa:state>
+                     <sa:postal-code>3169</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S1462901118305768-94e451d39a8e76519a76ef573130fb2c">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>UNCCD, Platz der Vereinten Nationen 1, 53113, Bonn, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>UNCCD</sa:organization>
+                     <sa:address-line>Platz der Vereinten Nationen 1</sa:address-line>
+                     <sa:city>Bonn</sa:city>
+                     <sa:postal-code>53113</sa:postal-code>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S1462901118305768-21dc4be84969ac50ba0b7af85864b367">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>GFOI, Viale delle Terme di Caracalla, 00153, Rome, Italy</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>GFOI</sa:organization>
+                     <sa:organization>Viale delle Terme di Caracalla</sa:organization>
+                     <sa:city>Rome</sa:city>
+                     <sa:postal-code>00153</sa:postal-code>
+                     <sa:country>Italy</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0020" affiliation-id="S1462901118305768-0b77a4d1382d6a7813942f1c79e7b628">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>CSIRO Land and Water, GPO Box 1666, Canberra, ACT, 2601, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CSIRO Land and Water</sa:organization>
+                     <sa:address-line>GPO Box 1666</sa:address-line>
+                     <sa:city>Canberra</sa:city>
+                     <sa:state>ACT</sa:state>
+                     <sa:postal-code>2601</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0025" affiliation-id="S1462901118305768-e3d72699c46a75c8ccb1b0d3c1b17974">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>CSIRO Astronomy and Space Science, GPO Box 1700, Canberra, ACT, 2601, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CSIRO Astronomy and Space Science</sa:organization>
+                     <sa:address-line>GPO Box 1700</sa:address-line>
+                     <sa:city>Canberra</sa:city>
+                     <sa:state>ACT</sa:state>
+                     <sa:postal-code>2601</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="1" month="6" year="2018"/>
+            <ce:date-revised day="15" month="10" year="2018"/>
+            <ce:date-accepted day="23" month="10" year="2018"/>
+            
+            <ce:abstract id="abs0010" view="all" class="author"><ce:abstract-sec id="abst0010" view="all">
+                  <ce:simple-para id="spar0040" view="all">In recent decades there have been numerous global and regional targets and initiatives to halt and reverse land degradation. The land degradation neutrality (LDN) target, embedded in the United Nations Sustainable Development Goals (SDGs), provides a framework for countries to avoid or reduce degradation through sustainable land management, coupled with efforts to restore or rehabilitate degraded land. Here we present the key recommendations from the Good Practice Guidance (GPG) for monitoring and reporting on SDG indicator 15.3.1 (“proportion of land that is degraded over total land area”) and discuss how it could be used in the context of implementing the LDN target. SDG indicator 15.3.1 is assessed in terms of change in three sub-indicators: land cover, land productivity and carbon stocks. Each of these sub-indicators represents a unique perspective on the manifestation and assessment of land degradation. Global time-series datasets are a valuable recent development for monitoring landscape-scale changes, but variations in land conditions between countries, and differences in the sensitivities of these time-series datasets, present challenges in the selection of the most appropriate methods and datasets. Methods to combine the three sub-indicators for SDG indicator 15.3.1 need to account for variations in conditions over space and time, and potential differences in the representation of degradation among the sub-indicators and between countries. Without being prescriptive about the sources of data, the GPG aims to ensure technical soundness and consistency in estimation methods as well as comparability of results across countries and over time. The information provided by the three sub-indicators will assist countries to better understand their distribution and types of land degradation, and support countries to achieve their LDN targets. This paper presents some of the key methodological details of the GPG and describes how they can be used in the context of LDN implementation.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Land degradation neutrality</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Land use change</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Land productivity</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Carbon stocks</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>Earth observation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>2030 agenda for sustainable development</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0020">Introduction</ce:section-title>
+                  <ce:para id="par0025" view="all">Since 2010 there have been a number of global and regional targets and initiatives to halt and reverse land degradation and restore degraded land. These include the Convention on Biological Diversity’s Aichi Targets, one of which aims to restore at least 15% of degraded ecosystems; the Bonn Challenge and its regional initiatives to restore more than 150 million hectares; and most recently the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs). The goals were agreed upon, and adopted by 193 countries in September 2015 at the United Nations General Assembly in New York. The SDGs came into effect in January 2016 and are expected to guide social, economic and environmental policy and investment until 2030.</ce:para>
+                  <ce:para id="par0030" view="all">The global indicator framework for the SDGs and targets was adopted by the United Nations Statistical Commission in March 2017 and approved by the General Assembly in July 2017, with the United Nations Convention to Combat Desertification (UNCCD) acting as the custodian agency for Target 15.3, which aims by 2030 to “combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world”, and for SDG indicator 15.3.1 (the proportion of land that is degraded over total land area). This indicator is measured in terms of three sub-indicators which were adopted at the eleventh session of the UNCCD Conference of the Parties (<ce:cross-ref id="crf0060" refid="bib0080">UNCCD, 2013</ce:cross-ref>):<ce:list id="lis0010">
+                        <ce:list-item id="lsti0025">
+                           <ce:label>1</ce:label>
+                           <ce:para id="par0035" view="all">Land cover and land cover change;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0030">
+                           <ce:label>2</ce:label>
+                           <ce:para id="par0040" view="all">The status and change in land productivity, and</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0035">
+                           <ce:label>3</ce:label>
+                           <ce:para id="par0045" view="all">Change in carbon stocks above and below ground, with soil organic carbon (SOC) stock as the initial metric.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="par0050" view="all">While the SDGs are not legally binding, national governments are expected to establish frameworks and facilitate investments to achieve the 17 goals, including collecting data to report on and monitor progress towards achieving them. At the twelfth UNCCD conference of the parties (COP 12), the Convention agreed to integrate the SDGs, including Target 15.3 on land degradation neutrality (LDN) in particular, into the implementation of the Convention (<ce:cross-ref id="crf0065" refid="bib0085">UNCCD, 2016</ce:cross-ref>). Through its LDN Target Setting Programme which measures land degradation using the sub-indicators of SDG 15.3.1 (<ce:cross-ref id="crf0070" refid="bib0020">Cowie et al., 2018</ce:cross-ref>), the UNCCD invited countries to formulate voluntary targets to achieve LDN in accordance with their specific national circumstances and development priorities(<ce:cross-ref id="crf0075" refid="bib0085">UNCCD, 2016</ce:cross-ref>).</ce:para>
+                  <ce:para id="par0055" view="all">The term ‘land degradation’ is used to describe the reduction or loss of biological or economic productivity and complexity of the land resulting from natural processes, land uses or other human activities (<ce:cross-ref id="crf0080" refid="bib0075">UNCCD, 1994</ce:cross-ref>, Article 1 of the Convention Text). Land degradation is a multi-faceted socio-economic and environmental issue, and no single indicator can fully capture the health or state of the land. Land degradation has also been defined in a range of ways, with each definition emphasising different aspects of the distribution and severity of reduction in land quality. The three sub-indicators used to define land degradation in SDG Indicator 15.3.1 were initially proposed as proxies to monitor key factors and driving variables that reflect the capacity of the land to deliver ecosystem services within the LDN Framework (Orr et.al 2017), and these were formally adopted by the Inter-Agency and Expert Group on SDG indicators (IAEG-SDGs) in November 2017.</ce:para>
+                  <ce:para id="par0060" view="all">LDN aims to balance anticipated losses in land-based natural capital and associated ecosystem functions and services with measures that produce alternative gains through approaches such as land restoration and sustainable land management (<ce:cross-ref id="crf0085" refid="bib0020">Cowie et al., 2018</ce:cross-ref>). UNCCD COP 12 defined LDN as “a state whereby the amount and quality of land resources necessary to support ecosystem functions and services and enhance food security remain stable or increase within specified temporal and spatial scales and ecosystems”. LDN is envisioned to be achieved through a pro-active focus on planning, which comprises the counterbalancing of anticipated losses in land-based natural capital with planned gains, within unique land types. Thus, pursuit of LDN encourages broad adoption of sustainable land management practices to avoid and reduce land degradation, combined with localized action to reverse degradation undertaken strategically to deliver neutrality (<ce:cross-ref id="crf0090" refid="bib0020">Cowie et al., 2018</ce:cross-ref>; <ce:cross-ref id="crf0095" refid="bib0045">Orr et al., 2017</ce:cross-ref>).</ce:para>
+                  <ce:para id="par0065" view="all">The UNCCD has been supporting countries in their efforts to define land degradation baselines and set LDN targets since 2014. In 2014–2015, 14 countries participated in the UNCCD’s LDN pilot project which aimed to elaborate and test a common approach to facilitate LDN target setting and monitoring, based on the UNCCD indicator framework. While all of the countries participating in the LDN pilot project established baselines based on the three sub-indicators for SDG indicator 15.3.1, either by using national data and/or the global default data provided by the UNCCD and its partners, the project demonstrated that additional technical guidance was necessary with regard to the definition, rationale and interpretation of the sub-indicators, the method of computation, and recommended sources of data (<ce:cross-ref id="crf0100" refid="bib0005">Akhtar-Schuster et al., 2017</ce:cross-ref>). As of October 2018, there were 119 countries participating in the UNCCD LDN Target Setting Programme.<ce:cross-ref id="crf0105" refid="fn0005">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref>
+                     <ce:footnote id="fn0005">
+                        <ce:label>1</ce:label>
+                        <ce:note-para id="npar0005" view="all">
+                           <ce:inter-ref id="intr0005" xlink:href="https://www2.unccd.int/actions/ldn-target-setting-programme" xlink:type="simple">https://www2.unccd.int/actions/ldn-target-setting-programme</ce:inter-ref>
+                        </ce:note-para>
+                     </ce:footnote> With the support of the Global Environment Fund and country donors, the UNCCD and its partners are leading a capacity-building initiative that includes defining national baselines and targets, and the implementation measures and monitoring approaches for achieving LDN.</ce:para>
+                  <ce:para id="par0070" view="all">Countries vary greatly in their capacity to measure, monitor and report on the three sub-indicators. Even in countries with relatively advanced capacity, there are a range of tradeoffs in the choices of datasets and methods that can be used. In addition, datasets and methods suitable in one country may not be suitable in another. For this reason, the UNCCD published a Good Practice Guidance (GPG) report (<ce:cross-ref id="crf0110" refid="bib0060">Sims et al., 2017</ce:cross-ref>) to assist countries in identifying the most suitable approach to assess their specific land degradation conditions in order to report on SDG indicator 15.3.1. The GPG assists countries to select and access a wide range of data sources for the three sub-indicators, including Earth observation and geospatial information, and also to identify suitable analytical methods for their assessment.</ce:para>
+                  <ce:para id="par0075" view="all">Here we present some of the key recommendations contained in the GPG and discuss how they can be used to support countries in achieving their LDN targets. In particular, we discuss deriving the proportion of degraded land from an assessment of changes in land cover, land productivity and carbon stocks, and the challenge of spatially aggregating results from pixel to national, regional and global scales. Readers are directed to the GPG report (<ce:cross-ref id="crf0115" refid="bib0060">Sims et al., 2017</ce:cross-ref>) for more details, and descriptions of the rationale for the methods described below.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0025">Methodology</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0030">Good practice guidance for SDG indicator 15.3.1</ce:section-title>
+                     <ce:para id="par0080" view="all">To calculate SDG indicator 15.3.1, the sub-indicators are combined to determine the degradation status at the indicator level, and the results are spatially aggregated to calculate the extent of degraded land over total land area (<ce:cross-ref id="crf0120" refid="fig0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0005"/>).</ce:para>
+                     <ce:section id="sec0020" view="all">
+                        <ce:label>2.1.1</ce:label>
+                        <ce:section-title id="sect0035">Land cover and land cover change</ce:section-title>
+                        <ce:para id="par0085" view="all">The land cover and land cover change sub-indicator involves defining transitions from one land cover type to another as either improving, stable or degraded. It points to changes in land cover where there is a loss in the provision of valued ecosystem services. The spatial regions identified by this sub-indicator can be used to define boundaries for the assessment of the land productivity and SOC stock sub-indicators, and also for the aggregation or disaggregation of results across scales.</ce:para>
+                        <ce:para id="par0090" view="all">There are a range of land cover classification schemes in use worldwide, each varying in the number of classes into which they divide the landscape, the spatial detail they provide, and the duration over which data are available, including the examples shown in <ce:cross-ref id="crf0125" refid="tbl0005">Table 1</ce:cross-ref>
+                           <ce:float-anchor refid="tbl0005"/>. The six classes in the Intergovernmental Panel on Climate Change (IPCC) land use change legend (<ce:cross-ref id="crf0130" refid="bib0050">Penman et al., 2003</ce:cross-ref>) are deemed suitable as a minimum for reporting, however national agencies are encouraged to enhance their ability to identify and map important land degradation processes occurring in their country that may require disaggregation into more defined land cover types.</ce:para>
+                        <ce:para id="par0095" view="all">The United Nations Statistical Commission’s System of Environmental and Economic Accounting (SEEA; United Nations 2014) defines 14 land cover types to assess the state of natural capital in a country. The Global Land Cover-SHARE land cover dataset of the Food and Agriculture Organization of the United Nations (FAO) adopts 11 of these classes by aggregating SEEA cropland classes (Latham et al. 2014). The default land cover dataset provided by the UNCCD to countries for reporting on SDG indicator 15.3.1 is based on the European Space Agency’s Climate Change Initiative Land Cover (CCI-LC) dataset, which provides an annual land cover classification in 22 global land cover classes at 300 m resolution for each year from 1992 to 2015<ce:cross-ref id="crf0135" refid="fn0010">
+                              <ce:sup loc="post">2</ce:sup>
+                           </ce:cross-ref>
+                           <ce:footnote id="fn0010">
+                              <ce:label>2</ce:label>
+                              <ce:note-para id="npar0010" view="all">
+                                 <ce:inter-ref id="intr0010" xlink:href="https://www.esa-landcover-cci.org/" xlink:type="simple">https://www.esa-landcover-cci.org/</ce:inter-ref>.</ce:note-para>
+                           </ce:footnote>. Classes in different classification schema can be harmonised and aligned with one another using the Land Cover Meta Language (LCML), as described in the FAO Land Cover Classification System (LCCS) guidelines (Di Gregorio 2016).</ce:para>
+                        <ce:para id="par0100" view="all">Consistent with the definition of land degradation adopted by the UNCCD (<ce:cross-ref id="crf0140" refid="bib0075">UNCCD, 1994</ce:cross-ref>, Article 1 of the Convention Text) any land cover transitions that reduce biological or economic productivity and complexity of the land would usually be identified as a degrading land cover change. However, the determination of whether changes from one land cover type to another are interpreted as degradation should be made by countries in the context of their land cover conditions and development objectives. Nevertheless, using the relatively simple IPCC legend as an example, the GPG provides some generic guidance to assist countries in determining how changes from one land cover class to another might be classified as either improvement, stable or degradation in terms of land condition (<ce:cross-ref id="crf0145" refid="fig0010">Fig. 2</ce:cross-ref>
+                           <ce:float-anchor refid="fig0010"/>).</ce:para>
+                     </ce:section>
+                     <ce:section id="sec0025" view="all">
+                        <ce:label>2.1.2</ce:label>
+                        <ce:section-title id="sect0040">Land productivity</ce:section-title>
+                        <ce:para id="par0105" view="all">For the purposes of SDG 15.3.1, changes in land productivity are determined from Earth observations of changes in Annual Net Primary Productivity (ANPP) between years. This sub-indicator reflects the net effects of ecosystem changes on plant biomass growth as an indicator of the health and productivity of the land. Observations of plant productivity, such as from the Normalised Difference Vegetation Index (NDVI; <ce:cross-ref id="crf0150" refid="bib0070">Tucker, 1979</ce:cross-ref>) or other image transformations sensitive to vegetation growth, can be used to determine relative changes in plant growth between years. Absolute changes (in terms of kg of plant biomass per ha, for instance) can be measured by linking observations and productivity models to field samples of ANPP. Alternatively, there are default global datasets such as the Land Productivity Dynamics dataset (<ce:cross-ref id="crf0155" refid="bib0040">Ivits and Cherlet, 2016</ce:cross-ref>) which classifies changes in productivity based on the direction, magnitude and stability of productivity changes over time.</ce:para>
+                        <ce:para id="par0110" view="all">The GPG recommends interpreting land productivity change from three metrics based on time-series images: (i) Trend, which uses a statistical test to determine the significance of the magnitude and persistence of changes in plant productivity over time, (ii) State, which compares current productivity levels to historical productivity levels for the same region, and (iii) Performance, which compares local productivity levels to productivity levels in similar land units at the national scale. The combination of these three metrics helps to identify areas where productivity may be increasing but is below the level expected for that location or land cover type in a given climatic region, for example.</ce:para>
+                        <ce:para id="par0115" view="all">The Trend metric is considered the most objective as it uses a statistical significance test to determine degradation, whereas the determination of significance in the State and Performance metrics is more arbitrary. Consequently, degradation is indicated where either there is a significant negative Trend, regardless of whether or not degradation is indicated by the State and/or Performance metrics, or where both State and Performance metrics indicate degradation in the absence of a significant negative Trend. Thus, using these ‘rules’, five of the eight possible combinations of the three metrics shown in <ce:cross-ref id="crf0160" refid="tbl0010">Table 2</ce:cross-ref>
+                           <ce:float-anchor refid="tbl0010"/> would indicate degradation.</ce:para>
+                        <ce:para id="par0120" view="all">The need for calibration of the time-series of productivity observations to minimise the influence of differences in climatic conditions between years is a contentious issue. A range of methods are available to calibrate productivity observations to minimise climate impacts, which can highlight the human-induced changes in plant productivity (see <ce:cross-ref id="crf0165" refid="bib0055">Ponce-Campos et al., 2013</ce:cross-ref>). Uncalibrated observations show changes in productivity levels from all sources, which are often most strongly influenced by climatic variations, particularly differences in moisture availability over time. The GPG suggests that calculating both climate-calibrated and uncalibrated time series might help countries interpret the relative influence of the factors driving degradation, which may be useful for targeting remediation efforts.</ce:para>
+                     </ce:section>
+                     <ce:section id="sec0030" view="all">
+                        <ce:label>2.1.3</ce:label>
+                        <ce:section-title id="sect0045">Carbon stocks above and below ground</ce:section-title>
+                        <ce:para id="par0125" view="all">Carbon stocks reflect the integration of many processes affecting plant growth, as well as the gains and losses from terrestrial organic matter pools. As outlined in UNCCD decision 22/COP.11 (<ce:cross-ref id="crf0170" refid="bib0080">UNCCD, 2013</ce:cross-ref>), <ce:italic>SOC stock</ce:italic> is the metric currently used to assess carbon stocks and will be replaced by <ce:italic>total terrestrial system carbon stock</ce:italic> once a standardised calculation method is operational.</ce:para>
+                        <ce:para id="par0130" view="all">The approach used to quantify change in SOC stocks will vary depending on the availability of country-specific data and capability (<ce:cross-ref id="crf0175" refid="tbl0015">Table 3</ce:cross-ref>
+                           <ce:float-anchor refid="tbl0015"/>). SOC stocks can be estimated based on reference stocks such as the Intergovernmental Panel on Climate change (IPCC) defaults (<ce:cross-ref id="crf0180" refid="bib0030">IPCC et al., 2006</ce:cross-ref>) that are modified by change factors based on defined changes in land use and land management for mineral soils, and default annual emission factors to estimate losses following drainage and/or fire for organic soils (<ce:cross-ref id="crf0185" refid="bib0035">IPCC et al., 2014</ce:cross-ref>). A more nationally-relevant database for SOC can be created based on nationally-derived land cover classes, with change factors being calculated from national datasets and validated against field samples, or through integration of on-ground monitoring, Earth observation and modelling.</ce:para>
+                        <ce:para id="par0135" view="all">The default SOC dataset provided to countries is the International Soil Reference and Information Center’s ‘SoilGrids250m’ dataset (<ce:cross-ref id="crf0190" refid="bib0025">Hengl et al., 2017</ce:cross-ref>), which provides information on SOC concentration, bulk density, gravel concentration and depth in the upper 30 cm of the soil profile globally at 250 m spatial resolution, can be used to calculate a predicted SOC stock. This can be used as a substitute for baseline SOC stock (<ce:cross-ref id="crf0195" refid="bib0090">UNCCD, 2018</ce:cross-ref>) noting this first requires derivation of SOC stock from SOC concentration and bulk density.</ce:para>
+                        <ce:para id="par0140" view="all">The typically slow rate of change makes SOC a useful indicator of longer-term changes in land productivity conditions, but it may result in little change in SOC stock being observed between reporting periods. This can complicate the determination of significance in SOC stock changes. Consequently, degradation of SOC stocks in the GPG can be determined using either a statistical significance test, assessment against a confidence interval, or based on a reduction in SOC stock relative to some defined threshold (e.g. &gt; 10%) of the baseline stock.</ce:para>
+                     </ce:section>
+                     <ce:section id="sec0035" view="all">
+                        <ce:label>2.1.4</ce:label>
+                        <ce:section-title id="sect0050">Establishing the baseline</ce:section-title>
+                        <ce:para id="par0145" view="all">Progress towards achieving many of the SDGs will be assessed by comparing conditions in 2030 to those reported for the ‘baseline’ period, which for SDG indicator 15.3.1 is 2000 to 2015. Each of the sub-indicators and metrics used to calculate the sub-indicators may analyse the baseline period in a unique way depending on whether the baseline is an absolute value, an average, a trend, or a spatial or temporally-relative assessment. For instance, the baseline extent of degradation for land productivity Trend is calculated from the slope of a trend line through all 16 years of ANPP data from 2000 to 2015. To calculate the baseline degradation extent for productivity State, the baseline time series is separated into two sets: (i) the years 2000 to 2012, which are used to represent the likely range of variability, and (ii) an average of the productivity observations in 2013, 2014 and 2015, which is compared to the range to determine the extent of degradation in the baseline period (<ce:cross-ref id="crf0200" refid="bib0060">Sims et al., 2017</ce:cross-ref>). By comparison, baseline SOC stocks can be derived in two distinct ways, as either estimates of total SOC stocks for a particular land use/management stratification using global or national datasets, or as spatially-explicit baselines derived from the integration of data collected from on-ground- monitoring systems with Earth observation and modelling to update and interpolate across space and over time (<ce:cross-ref id="crf0205" refid="bib0060">Sims et al., 2017</ce:cross-ref>).</ce:para>
+                     </ce:section>
+                     <ce:section id="sec0040" view="all">
+                        <ce:label>2.1.5</ce:label>
+                        <ce:section-title id="sect0055">Combining sub-indicators to estimate SDG indicator 15.3.1</ce:section-title>
+                        <ce:para id="par0150" view="all">Indicator 15.3.1 is a binary indicator (degraded or not degraded) representing the proportion of land degraded over total land area, that is estimated from the outcomes of each of the sub-indicator assessments. The individual sub-indicators are complementary and non-additive components of land-based natural capital that are sensitive to different degradation pressures, and this presents distinct challenges when combining them to calculate the Indicator. For instance, the sub-indicators tend to vary at different rates: Land cover may transition over years in response to changes in moisture availability, or over hours from land use activities. In contrast, substantial changes in SOC stock typically occur much more slowly, and may take years to respond to changes in land cover or productivity conditions (<ce:cross-ref id="crf0210" refid="bib0065">Smith, 2004</ce:cross-ref>). Differences in the rates of change, and differences in the sensitivity of methods to determine degradation in each of the sub-indicators, make it likely that in any given location, some sub-indicators will indicate degradation, while others will not.</ce:para>
+                        <ce:para id="par0155" view="all">There are a number of possible approaches for combining metrics and sub-indicators to assess degradation status (<ce:cross-ref id="crf0215" refid="bib0010">Borja et al., 2014</ce:cross-ref>). Each method has its advantages and disadvantages and may be suited to smaller or larger datasets, combining particular types of metrics such as those that are sensitive to the same pressure (averaging approaches) or be better suited for use with ‘preference’ metrics to determine an overall degradation level (probabilistic approaches).</ce:para>
+                        <ce:para id="par0160" view="all">In the GPG, the principle used to combine results from the three sub-indicators to determine the extent of degradation in SDG indicator 15.3.1. is “one-out, all-out” (1OAO), which is applied taking into account changes in the sub-indicators which are depicted as (i) positive or improving, (ii) negative or declining, or (iii) stable or unchanging. If one of the sub-indicators is negative (or stable when degraded in the baseline or previous monitoring year) for a particular land unit, then that pixel or region would be considered as degraded, subject to validation by national authorities. Within the spatial features that comprise the study region, degradation is considered to have occurred if degradation is reported in any one of the sub-indicators.</ce:para>
+                        <ce:para id="par0165" view="all">1OAO is recommended where sub-indicators are sensitive to different pressures (<ce:cross-ref id="crf0220" refid="bib0015">Caroni et al., 2013</ce:cross-ref>). Gains in one of the sub-indicators cannot compensate for losses in another (<ce:cross-ref id="crf0225" refid="bib0045">Orr et al., 2017</ce:cross-ref>) which complicates the use of variable weighting methods, for instance, and aggregation approaches could mask the identification of degradation detected by the individual sub-indicators. Limitations of 1OAO include that the likelihood of identifying degradation is highly sensitive to the number of metrics used in the analysis, and that it can mask the benefits from positive initiatives to restore the land if those initiatives do not address all of the sub-indicators. Ultimately, the GPG recognizes that any significant negative change in the sub-indicators indicating land degradation is context specific, and the determination of degradation is made by national authorities based on a convergence of evidence, and in the context of their specific landscape conditions and development objectives.</ce:para>
+                     </ce:section>
+                     <ce:section id="sec0045" view="all">
+                        <ce:label>2.1.6</ce:label>
+                        <ce:section-title id="sect0060">Spatial aggregation and disaggregation</ce:section-title>
+                        <ce:para id="par0170" view="all">Although SDG indicator 15.3.1 is reported as a single figure quantifying the area of land degraded as a proportion of land area, spatial disaggregation to the smallest possible unit can increase its policy relevance. The SDG indicator framework has an overarching principle for data disaggregation: “Sustainable Development Goal indicators should be disaggregated, where relevant, by income, sex, age, race, ethnicity, migratory status, disability and geographic location, or other characteristics, in accordance with the Fundamental Principles of Official Statistics” (General Assembly resolution 68/261). The UNCCD’s metadata document<ce:cross-ref id="crf0230" refid="fn0015">
+                              <ce:sup loc="post">3</ce:sup>
+                           </ce:cross-ref>
+                           <ce:footnote id="fn0015">
+                              <ce:label>3</ce:label>
+                              <ce:note-para id="npar0015" view="all">
+                                 <ce:inter-ref id="intr0015" xlink:href="https://unstats.un.org/sdgs/metadata/files/Metadata-15-03-01.pdf" xlink:type="simple">https://unstats.un.org/sdgs/metadata/files/Metadata-15-03-01.pdf</ce:inter-ref>.</ce:note-para>
+                           </ce:footnote> suggests that SDG indicator 15.3.1 can be disaggregated by land cover type or other policy‐relevant units, such as agro‐ecological, bio‐cultural or administrative boundaries. These spatial features can provide a reporting basis for the indicator and all sub-indicator assessments.</ce:para>
+                        <ce:para id="par0175" view="all">Each set of boundaries provides a unique perspective on the distribution of features at larger scales. Grid-based features such as image pixels are often simple to use, but they may misrepresent conditions near the boundaries of the units due to slight differences in the location of pixels over time. Natural features may be enduring over time, or they may show considerable variation, as is the case for wetlands. Geopolitical or administrative boundaries are possibly the most relevant for policy setting, since action to mitigate and remediate land degradation will often be managed at the local government level. Ultimately, the method of defining disaggregation units is best determined at the national level.</ce:para>
+                        <ce:para id="par0180" view="all">The most appropriate schema for spatial disaggregation will depend on the quality and availability of source data to support a land cover classification or other disaggregation method, along with the expertise and capacities of national agencies and existing practices. The disaggregation schema should, as far as possible, optimise the policy relevance of derived data and be aligned with existing methods to minimise the burden of reporting. Although boundaries defined for the baseline assessment should be maintained for reporting at subsequent dates, it should be expected that the distribution of features within the defined regions, such as land cover classes or income groups, may change over time. Reporting of the sub-indicator at the spatial feature level should therefore be a proportion of the polygon that is considered degraded.</ce:para>
+                        <ce:para id="par0185" view="all">The <ce:italic>proportion of land that is degraded over total land area</ce:italic> should be reported for each defined land cover unit in addition to the total proportion of land degraded at the national level. Key elements of the aggregation recommendations include:<ce:list id="lis0015">
+                              <ce:list-item id="lsti0040">
+                                 <ce:label>•</ce:label>
+                                 <ce:para id="par0190" view="all">Degraded area is the extent degraded in the current reporting period, plus the extent of degradation identified in the baseline or earlier reporting periods that remains degraded;</ce:para>
+                              </ce:list-item>
+                              <ce:list-item id="lsti0045">
+                                 <ce:label>•</ce:label>
+                                 <ce:para id="par0195" view="all">The total area degraded at the national scale is the sum of the degraded areas identified in each land cover class within the monitoring period; and</ce:para>
+                              </ce:list-item>
+                              <ce:list-item id="lsti0050">
+                                 <ce:label>•</ce:label>
+                                 <ce:para id="par0200" view="all">The proportion of degraded land in the monitoring period includes the area over which degradation is identified following 1OAO assessment divided by the total land area within the national boundary.</ce:para>
+                              </ce:list-item>
+                           </ce:list>
+                        </ce:para>
+                        <ce:para id="par0205" view="all">The aggregation of national-level data into a regional or global dataset has inherent limitations relating to precision, completeness and consistency. Simple averaging of national degradation proportions at regional scales may indicate the relative overall degradation levels regionally, but may skew the representation upwards in cases such as where smaller countries with larger proportions of degradation occur in the region. Conversely, weighting degradation levels by country area may understate the importance of significant degradation in smaller countries. Ultimately the method of aggregation must consider the reporting objectives of the aggregation, as each of these bases for aggregation can provide a unique insight into the drivers of land degradation.</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0050" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0065">Discussion</ce:section-title>
+                  <ce:para id="par0210" view="all">The GPG presents methods and data options for analysing operationally-available datasets to estimate and report on land degradation in a consistent manner using the sub-indicators prescribed for SDG indicator 15.3.1. These sub-indicators may not fully capture the types or mechanisms of degradation that are important at national levels, thus the LDN conceptual framework explicitly notes that indicators in addition to those used in SDG 15.3.1 may be required to fully assess trends in land-based ecosystem services (<ce:cross-ref id="crf0235" refid="bib0045">Orr et al., 2017</ce:cross-ref>). There is also disagreement about whether degradation should only include human-induced processes, and which symptoms of degradation should be considered (<ce:cross-ref id="crf0240" refid="bib0095">van der Esch et al., 2017</ce:cross-ref>). For instance, degradation of vegetation productivity may be seasonal or annual, whereas soil degradation can persist for much longer periods of time. Consequently, there is no consensus on the extent of degradation either globally or at national levels, though it is accepted that degradation occurs in all biomes and regions of the globe (<ce:cross-ref id="crf0245" refid="bib0095">van der Esch et al., 2017</ce:cross-ref>).</ce:para>
+                  <ce:para id="par0215" view="all">The LDN conceptual framework encourages countries to stabilise and reduce the extent of degradation (<ce:cross-ref id="crf0250" refid="bib0045">Orr et al., 2017</ce:cross-ref>), and presents pathways to develop a vision of the intended outcomes, identify the mechanisms of neutrality, and estimate and monitor the extent of degradation. The achievement of LDN requires that the state of land-based natural capital is maintained or improved, and decisions about how and where to focus efforts to achieve LDN will likely be made at the political or institutional levels. In this way, the conceptual framework presents the rationale and context in which assessments of SDG indicator 15.3.1 should be interpreted to achieve LDN.</ce:para>
+                  <ce:para id="par0220" view="all">Within this framework, the role of the GPG is to describe methods to process and interpret data from existing operational sources to support countries in their assessment and quantification of land degradation. Although the GPG methods are essentially transferrable to LDN, monitoring neutrality involves quantifying the balance between the area of significant new negative changes (losses, i.e. degradation) and significant new positive changes (gains, i.e. remediation) compared to the baseline, within each land type across the landscape (<ce:cross-ref id="crf0255" refid="bib0045">Orr et al., 2017</ce:cross-ref>).</ce:para>
+                  <ce:para id="par0225" view="all">As of October 2018, the UNCCD and its partners have provided 196 countries that are Party to the Convention with default datasets on the three sub-indicators and the SDG indicator 15.3.1 to assist countries in complementing and enhancing their national data. The default datasets are extracted from global remotely sensed data and are provided without any assurance of their relevance or accuracy. Each country has distinctive land cover characteristics and development objectives, and datasets developed to represent conditions globally may not provide information with the required spatial detail, or present information in the appropriate terms, such as land cover classes for example. It is in these cases, where globally-calibrated datasets do not provide the optimal reporting framework at national scales, that the GPG can be used to guide countries in the development of their own country-specific datasets.</ce:para>
+                  <ce:para id="par0230" view="all">The GPG was a critical element in the elevation of SDG indicator 15.3.1 from Tier 3 (no internationally established methodology or standards) to Tier 2 (conceptually clear, with an internationally established methodology and standards available) by the Inter-Agency and Expert Group on SDG indicators in November 2017<ce:cross-ref id="crf0260" refid="fn0020">
+                        <ce:sup loc="post">4</ce:sup>
+                     </ce:cross-ref>
+                     <ce:footnote id="fn0020">
+                        <ce:label>4</ce:label>
+                        <ce:note-para id="npar0020" view="all">
+                           <ce:inter-ref id="intr0020" xlink:href="https://unstats.un.org/sdgs/files/meetings/iaeg-sdgs-meeting-06/Meeting%20Report%206th%20IAEG-SDG%20meeting_21.12.2017_final.pdf" xlink:type="simple">https://unstats.un.org/sdgs/files/meetings/iaeg-sdgs-meeting-06/Meeting%20Report%206th%20IAEG-SDG%20meeting_21.12.2017_final.pdf</ce:inter-ref>.</ce:note-para>
+                     </ce:footnote>. The GPG is therefore accepted as one of the key documents providing the methodology and standards that countries should refer to when reporting on SDG indicator 15.3.1.</ce:para>
+                  <ce:para id="par0235" view="all">The UNCCD is also implementing a range of initiatives and programs supporting countries to enhance the quality and consistency of reporting on SDG indicator 15.3.1. These include highlighting data needs at the highest level of international Earth observation forums<ce:cross-ref id="crf0265" refid="fn0025">
+                        <ce:sup loc="post">5</ce:sup>
+                     </ce:cross-ref>
+                     <ce:footnote id="fn0025">
+                        <ce:label>5</ce:label>
+                        <ce:note-para id="npar0025" view="all">
+                           <ce:inter-ref id="intr0025" xlink:href="https://www.earthobservations.org/activity.php?id=149" xlink:type="simple">https://www.earthobservations.org/activity.php?id=149</ce:inter-ref>.</ce:note-para>
+                     </ce:footnote> to unifying the development of datasets and methods for calculating SDG indicators, the development of operational tools based on the recommendations of the GPG to simplify the calculation of country-specific datasets, and capacity building workshops to directly assist countries in estimating their land degradation indicators. For example, the Trends.Earth platform (<ce:inter-ref id="intr0030" xlink:href="http://trends.earth/docs/en/" xlink:type="simple">http://trends.earth/docs/en/</ce:inter-ref>) has been developed by Conservation International as part of the project “Enabling the use of global data sources to assess and monitor land degradation at multiple scales”, funded by the Global Environment Facility. This platform enables the calculation and analysis of SDG indicator 15.3.1 and its sub-indicators using the best available global and national datasets. By implementing the GPG, Trends.Earth facilitates the harmonization of methods between countries, while at the same time encouraging national ownership of the data and processes used for reporting. Developments in a range of associated technologies including Open Data Cubes (<ce:inter-ref id="intr0035" xlink:href="https://www.opendatacube.org/" xlink:type="simple">https://www.opendatacube.org/</ce:inter-ref>) will further improve access to, and simplify processing of, the latest archives of satellite images and other spatial datasets. This will in turn improve the accuracy and consistency of assessing land degradation for reporting on SDG indicator 15.3.1, and the quality and availability of the information on which progress towards LDN can be monitored.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0070">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Akhtar-Schuster et al., 2017</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Akhtar-Schuster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Stringer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Erlewein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Metternicht</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Minelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Safriel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sommer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Unpacking the concept of land degradation neutrality and addressing its operation through the Rio Conventions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Borja et al., 2014</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Borja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.C.</ce:given-name>
+                                 <ce:surname>Prins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Simboura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Berg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-C.</ce:given-name>
+                                 <ce:surname>Marques</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Neto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Papadopoulou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Reker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Teixeira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Uusitalo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tales from a thousand and one ways to integrate marine ecosystem components when assessing the environmental status</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front. Mar. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Caroni et al., 2013</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Caroni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Van de Bund</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Clarke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Combination of multiple biological quality elements into waterbody assessment of surface waters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Hydrobiologia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>704</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>437</sb:first-page>
+                              <sb:last-page>451</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Cowie et al., 2018</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Cowie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Orr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.M.C.</ce:given-name>
+                                 <ce:surname>Sanchez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Chasek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Crossman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Erlewein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Louwagie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maron</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.I.</ce:given-name>
+                                 <ce:surname>Metternicht</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Minelli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Land in balance: the scientific conceptual framework for land degradation neutrality</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Policy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>35</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Hengl et al., 2017</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hengl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mendes de Jesus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.M.</ce:given-name>
+                                 <ce:surname>Heuvelink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ruiperez Gonzalez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kilibarda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Blagotić</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Shangguan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Wright</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Geng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Bauer-Marschallinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Guevara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Vargas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>MacMillan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.H.</ce:given-name>
+                                 <ce:surname>Batjes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.B.</ce:given-name>
+                                 <ce:surname>Leenaars</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ribeiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Wheeler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mantel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kempen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SoilGrids250m: global gridded soil information based on machine learning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS One</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e0169748</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>IPCC et al., 2006</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>IPCC</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>IPCC guidelines for national greenhouse gas inventories</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Eggleston</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>L.</ce:given-name>
+                                    <ce:surname>Buendia</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>K.</ce:given-name>
+                                    <ce:surname>Miwa</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>T.</ce:given-name>
+                                    <ce:surname>Ngara</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>K.</ce:given-name>
+                                    <ce:surname>Tanabe</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Hayama, Japan: Intergovernmental Panel on Climate Change (IPCC)/Institute for Global Environmental Strategies (IGES)</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2006</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0040" xlink:href="https://www.ipcc-nggip.iges.or.jp/support/Primer_2006GLs.pdf" xlink:type="simple">https://www.ipcc-nggip.iges.or.jp/support/Primer_2006GLs.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>IPCC et al., 2014</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>IPCC</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>T.</ce:given-name>
+                                    <ce:surname>Hiraishi</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>T.</ce:given-name>
+                                    <ce:surname>Krug</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>K.</ce:given-name>
+                                    <ce:surname>Tanabe</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>N.</ce:given-name>
+                                    <ce:surname>Srivastava</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Baasansuren</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Fukuda</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>T.G.</ce:given-name>
+                                    <ce:surname>Troxler</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Intergovernmental Panel on Climate Change</sb:name>
+                                 <sb:location>Switzerland</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>Ivits and Cherlet, 2016</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ivits</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cherlet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Land Productivity Dynamics: Towards Integrated Assessment of Land Degradation at Global Scales</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Joint Research Centre</sb:name>
+                                 <sb:location>Luxembourg</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0045" xlink:href="http://publications.jrc.ec.europa.eu/repository/bitstream/JRC80541/lb-na-26052-en-n%20.pdf" xlink:type="simple">http://publications.jrc.ec.europa.eu/repository/bitstream/JRC80541/lb-na-26052-en-n%20.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>Orr et al., 2017</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Orr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Cowie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.M.C.</ce:given-name>
+                                 <ce:surname>Sanchez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Chasek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Crossman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Erlewein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Louwagie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Maron</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.I.</ce:given-name>
+                                 <ce:surname>Metternicht</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Minelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Tengberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Walter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Welton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Scientific Conceptual Framework for Land Degradation Neutrality. A Report of the Science-Policy Interface. United Nations Convention to Combat Desertification (UNCCD)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Convention to Combat Desertification</sb:name>
+                                 <sb:location>Bonn Germany</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>Penman et al., 2003</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Penman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gytarsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hiraishi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Krug</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kruger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pipatti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Buendia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Miwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ngara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tanabe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Good Practice Guidance for Land Use, Land-use Change and Forestry. Good Practice Guidance for Land Use, Land-use Change and Forestry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2003</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>Ponce-Campos et al., 2013</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Ponce-Campos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Moran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Huete</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bresloff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Huxman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Eamus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Bosch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Buda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Gunter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ecosystem resilience despite large-scale altered hydroclimatic conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>494</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>349</sb:first-page>
+                              <sb:last-page>352</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>Sims et al., 2017</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.C.</ce:given-name>
+                                 <ce:surname>Sims</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Green</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Newnham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>England</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Held</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Wulder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Herold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.D.</ce:given-name>
+                                 <ce:surname>Cox</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Huete</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Viscarra Rossel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Roxburgh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>McKenzie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Good Practice Guidance. SDG Indicator 15.3.1, Proportion of Land That Is Degraded Over Total Land Area (p. 115)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Convention to Combat Desertification</sb:name>
+                                 <sb:location>Bonn, Germany</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0050" xlink:href="http://www2.unccd.int/sites/default/files/relevant-links/2017-10/Good%20Practice%20Guidance_SDG%20Indicator%2015.3.1_Version%201.0.pdf" xlink:type="simple">http://www2.unccd.int/sites/default/files/relevant-links/2017-10/Good%20Practice%20Guidance_SDG%20Indicator%2015.3.1_Version%201.0.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>Smith, 2004</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How long before a change in soil organic carbon can be detected?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glob. Chang. Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1878</sb:first-page>
+                              <sb:last-page>1883</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>Tucker, 1979</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Tucker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Red and photographic infrared linear combinations for monitoring vegetation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Remote Sens. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>127</sb:first-page>
+                              <sb:last-page>150</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>UNCCD, 1994</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UNCCD</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>United Nations Convention to Combat Desertification in Those Countries Experiencing Serious Drought and/or Desertification, Particularly in Africa</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1994</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0055" xlink:href="http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf" xlink:type="simple">http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>UNCCD, 2013</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UNCCD</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Report of the Conference of the Parties on Its Eleventh Session, Held in Windhoek from 16 to 27 September 2013. Part Two: Action Taken</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Convention to Combat Desertification</sb:name>
+                                 <sb:location>Bonn</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0060" xlink:href="https://www2.unccd.int/official-documents/cop-11-windhoek-2013/iccdcop1123add1" xlink:type="simple">https://www2.unccd.int/official-documents/cop-11-windhoek-2013/iccdcop1123add1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>UNCCD, 2016</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UNCCD</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Report of the Conference of the Parties on Its Twelfth Session, Held in Ankara from 12 to 23 October 2015. Part Two: Actions Taken. Bonn: United Nations Convention to Combat Desertification</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2016</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0065" xlink:href="https://www2.unccd.int/official-documents/cop-12-ankara-2015/iccdcop1220add1" xlink:type="simple">https://www2.unccd.int/official-documents/cop-12-ankara-2015/iccdcop1220add1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>UNCCD, 2018</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UNCCD</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Default Data: Methods and Interpretation. A Guidance Document for the 2018 UNCCD Reporting</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Convention to Combat Desertification</sb:name>
+                                 <sb:location>Bonn</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0070" xlink:href="https://prais.unccd.int/sites/default/files/helper_documents/3-DD_guidance_EN.pdf" xlink:type="simple">https://prais.unccd.int/sites/default/files/helper_documents/3-DD_guidance_EN.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>van der Esch et al., 2017</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>van der Esch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>ten Brink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Stehfest</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bakkenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sewell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bouwman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Meijer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Westhoek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>van denBerg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>van denBorn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Doelman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Berkhout</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Klein Goldewijk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.F.</ce:given-name>
+                                 <ce:surname>Bouwman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Beusen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.-J.</ce:given-name>
+                                 <ce:surname>van Zeist</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Stoorvogel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.T.</ce:given-name>
+                                 <ce:surname>Schut</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Biemans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.L.</ce:given-name>
+                                 <ce:surname>Candel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>van Beek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Tabeau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.M.</ce:given-name>
+                                 <ce:surname>van Meijl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Caspari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>van Egmond</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.J.</ce:given-name>
+                                 <ce:surname>van Lynden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mantel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Exploring Future Changes in Land Use and Land Condition and the Impacts on Food, Water, Climate Change and Biodiversity. The Hague: PBL: Netherlands Environmental Assessment Agency</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intr0075" xlink:href="http://edepot.wur.nl/420892" xlink:type="simple">http://edepot.wur.nl/420892</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

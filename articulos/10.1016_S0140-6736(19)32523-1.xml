@@ -1,0 +1,2705 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673619325231</prism:url><dc:identifier>doi:10.1016/S0140-6736(19)32523-1</dc:identifier><eid>1-s2.0-S0140673619325231</eid><prism:doi>10.1016/S0140-6736(19)32523-1</prism:doi><pii>S0140-6736(19)32523-1</pii><dc:title>Monitoring the health-related Sustainable Development Goals: lessons learned and recommendations for improved measurement </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>rev</pubType><prism:issn>01406736</prism:issn><prism:volume>395</prism:volume><prism:issueIdentifier>10219</prism:issueIdentifier><prism:startingPage>240</prism:startingPage><prism:endingPage>246</prism:endingPage><prism:pageRange>240-246</prism:pageRange><prism:number>10219</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2020-01-24</prism:coverDate><prism:coverDisplayDate>18–24 January 2020</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Asma, Samira</dc:creator><dc:creator>Lozano, Rafael</dc:creator><dc:creator>Chatterji, Somnath</dc:creator><dc:creator>Swaminathan, Soumya</dc:creator><dc:creator>de Fátima Marinho, Maria</dc:creator><dc:creator>Yamamoto, Naoko</dc:creator><dc:creator>Varavikova, Elena</dc:creator><dc:creator>Misganaw, Awoke</dc:creator><dc:creator>Ryan, Michael</dc:creator><dc:creator>Dandona, Lalit</dc:creator><dc:creator>Minghui, Ren</dc:creator><dc:creator>Murray, Christopher J L</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673619325231" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673619325231" rel="scidir"/></coredata><objects><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="121783">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673619325231-mmc1.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85077930650</scopus-id><scopus-eid>2-s2.0-85077930650</scopus-eid><pubmed-id>31767190</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85077930650" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20191122">2019-11-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20191122">2019-11-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200116">2020-01-16</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200116">2020-01-16</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-01-23T12:54:48</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673619325231</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(19)32523-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673619325231</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(19)32523-1</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673620X00031</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200123">2020-01-23T13:00:00.145151Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200118</xocs:date-search-begin>
+      <xocs:date-search-end>20200124</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1574468761">2019-11-23T00:26:01.813802Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav e-component body acknowledge affil appendices articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>395</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>395</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10219</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10219</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 395, Issue 10219</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>37</xocs:sort-order>
+      <xocs:first-fp>240</xocs:first-fp>
+      <xocs:last-lp>246</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>240</xocs:first-page>
+         <xocs:last-page>246</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20200118</xocs:start-date>
+         <xocs:end-date>20200124</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>18–24 January 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-01-18</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-01-24</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>rev</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>MONITORINGHEALTHRELATEDSUSTAINABLEDEVELOPMENTGOALSLESSONSLEARNEDRECOMMENDATIONSFORIMPROVEDMEASUREMENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ASMA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Background</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Defining HRSDG indicators</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Data platforms</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Data processing to address bias and enhance comparability</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Data synthesis and imputation</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Minimalist approach</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Minimalist approach plus the assumption of no change over time</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Expert data synthesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Statistical data synthesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Preferred approaches to data synthesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Country ownership</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Transparency</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Inequalities</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Reporting</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Recommendations</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Strengthening national data collection capabilities</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Data processing standards</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Regularly updated best practice guidance on data synthesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Enhanced transparency guidelines</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Full global and national implementation of GATHER</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-section-title>Supplementary Material</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10"/>
+         <xocs:ref-info refid="sbref20"/>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>NILSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>320</xocs:ref-first-fp>
+            <xocs:ref-last-lp>322</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40"/>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDHEALTHSTATISTICS2016MONITORINGHEALTHFORSDGS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1813</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1850</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70"/>
+         <xocs:ref-info refid="sbref80"/>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDHEALTHSTATISTICS2017MONITORINGHEALTHFORSDGS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDHEALTHSTATISTICS2018MONITORINGHEALTHFORSDGS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref110">
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDHEALTHSTATISTICS2019MONITORINGHEALTHFORSDGS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref120"/>
+         <xocs:ref-info refid="sbref130"/>
+         <xocs:ref-info refid="sbref140">
+            <xocs:ref-normalized-surname>FULLMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1423</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1459</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref150">
+            <xocs:ref-normalized-surname>LOZANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2091</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2138</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref160">
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SDGINDEXDASHBOARDSGLOBALREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref170">
+            <xocs:ref-normalized-surname>SACHS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SDGINDEXDASHBOARDSREPORT2017</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref180"/>
+         <xocs:ref-info refid="sbref190"/>
+         <xocs:ref-info refid="sbref200">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TOWARDAGLOBALACTIONPLANFORHEALTHYLIVESWELLBEINGFORUNITINGACCELERATEPROGRESSTOWARDSHEALTHRELATEDSDGS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref210">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>THIRTEENTHGENERALPROGRAMMEWORK20192023PROMOTEHEALTHKEEPWORLDSAFESERVEVULNERABLE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref220">
+            <xocs:ref-normalized-surname>ROTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1736</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1788</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref230">
+            <xocs:ref-normalized-surname>ELLSBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>RESEARCHINGVIOLENCEAGAINSTWOMENAPRACTICALGUIDEFORRESEARCHERSACTIVISTS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref240">
+            <xocs:ref-normalized-surname>SCHWARTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>815</xocs:ref-first-fp>
+            <xocs:ref-last-lp>838</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref250">
+            <xocs:ref-normalized-surname>DYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-last-lp>43</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref260">
+            <xocs:ref-normalized-surname>BORGDORFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1523</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1528</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref270">
+            <xocs:ref-normalized-surname>CLAASSENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>535</xocs:ref-first-fp>
+            <xocs:ref-last-lp>537</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref280">
+            <xocs:ref-normalized-surname>BOERMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>607</xocs:ref-first-fp>
+            <xocs:ref-last-lp>609</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref290">
+            <xocs:ref-normalized-surname>ABOUZAHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-article-number>1290370</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref300">
+            <xocs:ref-normalized-surname>FRIEBEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2006</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2008</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref310">
+            <xocs:ref-normalized-surname>AKOMBI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e863</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref320">
+            <xocs:ref-normalized-surname>BOERMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1538</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1548</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref330">
+            <xocs:ref-normalized-surname>HOGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e168</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref340">
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>PRIMARYHEALTHCAREROADUNIVERSALHEALTHCOVERAGE2019MONITORINGREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref350"/>
+         <xocs:ref-info refid="sbref360">
+            <xocs:ref-normalized-surname>STEVENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e19</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e23</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref370">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>MCEEWHOMETHODSDATASOURCESFORCHILDCAUSESDEATH20002017</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref380">
+            <xocs:ref-normalized-surname>TICHENOR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref390">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>POVERTYSHAREDPROSPERITY2018PIECINGTOGETHERPOVERTYPUZZLE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref400">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDMALARIAREPORT2018</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref410">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALAIDSUPDATE2018MILESGOCLOSINGGAPSBREAKINGBARRIERSRIGHTINGINJUSTICES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref420">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>UNAIDSDATA2018</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref430">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALTUBERCULOSISREPORT2018</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref440">
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>RESOLUTIONADOPTEDBYGENERALASSEMBLYFUNDAMENTALPRINCIPLESOFFICIALSTATISTICSARES68261</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref450">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>INDICATORSAMONITORINGFRAMEWORKFORSUSTAINABLEDEVELOPMENTGOALSLAUNCHINGADATAREVOLUTION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref460"/>
+         <xocs:ref-info refid="sbref470">
+            <xocs:ref-normalized-surname>GOLDING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2182</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref480">
+            <xocs:ref-normalized-surname>OSGOODZIMMERMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>41</xocs:ref-first-fp>
+            <xocs:ref-last-lp>47</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref490">
+            <xocs:ref-normalized-surname>MOSSER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1843</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1855</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref500">
+            <xocs:ref-normalized-surname>WEISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>322</xocs:ref-first-fp>
+            <xocs:ref-last-lp>331</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref510">
+            <xocs:ref-normalized-surname>BATTLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>332</xocs:ref-first-fp>
+            <xocs:ref-last-lp>343</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref520">
+            <xocs:ref-normalized-surname>DWYERLINDGREN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>189</xocs:ref-first-fp>
+            <xocs:ref-last-lp>193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref530">
+            <xocs:ref-normalized-surname>BURSTEIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>353</xocs:ref-first-fp>
+            <xocs:ref-last-lp>358</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref540">
+            <xocs:ref-normalized-surname>MURRAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1314</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1317</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref550">
+            <xocs:ref-normalized-surname>BOWLES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>TRANSPARENCYINPOLITICSMEDIAACCOUNTABILITYOPENGOVERNMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref560">
+            <xocs:ref-normalized-surname>CAMAJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>42</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref570">
+            <xocs:ref-normalized-surname>OLUKOYUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ASMAX2020X240</xocs:refkey3>
+         <xocs:refkey4lp>ASMAX2020X240X246</xocs:refkey4lp>
+         <xocs:refkey4ai>ASMAX2020X240XS</xocs:refkey4ai>
+         <xocs:refkey5>ASMAX2020X240X246XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2020-07-16T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-07-16T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(19)32523-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673619325231</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673619325231</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(19)32523-1</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2020-01-23T13:00:00.145151Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-01-18</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-01-24</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673619325231-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673619325231/MAIN/application/pdf/e2416f3cb3b8089fccda550d41cc7a11/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>96789</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673619325231-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673619325231/PREVIEW/image/png/424e8fe4271a06bf3df55d50c591447e/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>97322</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673619325231-mmc1.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673619325231/mmc1/MAIN/application/pdf/6090491d6dcdc78beec77d0b87351ee7/mmc1.pdf</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>121783</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="rev" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>7894</aid>
+            <ce:pii>S0140-6736(19)32523-1</ce:pii>
+            <ce:doi>10.1016/S0140-6736(19)32523-1</ce:doi>
+            <ce:copyright type="full-transfer" year="2020">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Review and Opinion</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Viewpoint</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Viewpoint</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Monitoring the health-related Sustainable Development Goals: lessons learned and recommendations for improved measurement</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S0140673619325231-40c49bc82a9d3b50dcd1d9f2f08bd789">
+                  <ce:given-name>Samira</ce:given-name>
+                  <ce:surname>Asma</ce:surname>
+                  <ce:degrees>DDS</ce:degrees>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref20" refid="cor1">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S0140673619325231-50f43b619153c86267e375df30fb318d">
+                  <ce:degrees>Prof</ce:degrees>
+                  <ce:given-name>Rafael</ce:given-name>
+                  <ce:surname>Lozano</ce:surname>
+                  <ce:degrees>MD</ce:degrees>
+                  <ce:cross-ref id="cecref30" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref40" refid="cor2">
+                     <ce:sup loc="post">**</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au30" author-id="S0140673619325231-39156ec3173b96c144351c360331a5b6">
+                  <ce:given-name>Somnath</ce:given-name>
+                  <ce:surname>Chatterji</ce:surname>
+                  <ce:degrees>MD</ce:degrees>
+                  <ce:cross-ref id="cecref50" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au40" author-id="S0140673619325231-2bdfafc1a97cc66012b7ec77e90b3c5b">
+                  <ce:given-name>Soumya</ce:given-name>
+                  <ce:surname>Swaminathan</ce:surname>
+                  <ce:degrees>MD</ce:degrees>
+                  <ce:cross-ref id="cecref60" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au50" author-id="S0140673619325231-db50390d1f4913d8f1a979b21063cffb">
+                  <ce:given-name>Maria</ce:given-name>
+                  <ce:surname>de Fátima Marinho</ce:surname>
+                  <ce:degrees>PhD</ce:degrees>
+                  <ce:cross-ref id="cecref70" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au60" author-id="S0140673619325231-d3f3290cbb90919b2e51163a63fe0a1b">
+                  <ce:given-name>Naoko</ce:given-name>
+                  <ce:surname>Yamamoto</ce:surname>
+                  <ce:degrees>MD</ce:degrees>
+                  <ce:cross-ref id="cecref80" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au70" author-id="S0140673619325231-9721fc53ef136b999dbf3315418bfe88">
+                  <ce:given-name>Elena</ce:given-name>
+                  <ce:surname>Varavikova</ce:surname>
+                  <ce:degrees>PhD</ce:degrees>
+                  <ce:cross-ref id="cecref90" refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au80" author-id="S0140673619325231-89b646841eeaaaebf30edd532335badc">
+                  <ce:given-name>Awoke</ce:given-name>
+                  <ce:surname>Misganaw</ce:surname>
+                  <ce:degrees>PhD</ce:degrees>
+                  <ce:cross-ref id="cecref100" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref110" refid="aff5">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au90" author-id="S0140673619325231-7246c75adc0943a1438e92173b36ceae">
+                  <ce:given-name>Michael</ce:given-name>
+                  <ce:surname>Ryan</ce:surname>
+                  <ce:degrees>MD</ce:degrees>
+                  <ce:cross-ref id="cecref120" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au100" author-id="S0140673619325231-d4c9f5182c246dd73147f800af1d4e47">
+                  <ce:degrees>Prof</ce:degrees>
+                  <ce:given-name>Lalit</ce:given-name>
+                  <ce:surname>Dandona</ce:surname>
+                  <ce:degrees>MD</ce:degrees>
+                  <ce:cross-ref id="cecref130" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref140" refid="aff6">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref150" refid="aff7">
+                     <ce:sup loc="post">g</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au110" author-id="S0140673619325231-ec5b7095562d40c69ecfe172ca1a128d">
+                  <ce:given-name>Ren</ce:given-name>
+                  <ce:surname>Minghui</ce:surname>
+                  <ce:degrees>PhD</ce:degrees>
+                  <ce:cross-ref id="cecref160" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au120" author-id="S0140673619325231-7362fdbf3e257329a03fb05c1d799d43">
+                  <ce:degrees>Prof</ce:degrees>
+                  <ce:given-name>Christopher J L</ce:given-name>
+                  <ce:surname>Murray</ce:surname>
+                  <ce:degrees>DPhil</ce:degrees>
+                  <ce:cross-ref id="cecref170" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0140673619325231-f58b5ef961d898904959d24e8b7905a3">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>WHO, Geneva, Switzerland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>WHO</sa:organization>
+                     <sa:city>Geneva</sa:city>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext53a">WHO, Geneva, Switzerland</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0140673619325231-502c91d0ecdae679ec7b67581405cb59">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Health Metrics Sciences, Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Health Metrics Sciences</sa:organization>
+                     <sa:organization>Institute for Health Metrics and Evaluation</sa:organization>
+                     <sa:organization>University of Washington</sa:organization>
+                     <sa:city>Seattle</sa:city>
+                     <sa:state>WA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext54a">Department of Health Metrics Sciences, Institute for Health Metrics and Evaluation, University of Washington, Seattle, WA, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S0140673619325231-1f3c3f7ac891b2d70befa3a108125d17">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Institute of Advanced Studies, University of São Paulo, São Paulo, Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Advanced Studies</sa:organization>
+                     <sa:organization>University of São Paulo</sa:organization>
+                     <sa:city>São Paulo</sa:city>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext55a">Institute of Advanced Studies, University of São Paulo, São Paulo, Brazil</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff4" affiliation-id="S0140673619325231-a25ae8823791264e105f662e12b3fea6">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Federal Research Public Health Organization and Information Institute, Ministry of Health, Moscow, Russia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Federal Research Public Health Organization and Information Institute</sa:organization>
+                     <sa:organization>Ministry of Health</sa:organization>
+                     <sa:city>Moscow</sa:city>
+                     <sa:country>Russia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext56a">Federal Research Public Health Organization and Information Institute, Ministry of Health, Moscow, Russia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff5" affiliation-id="S0140673619325231-9ee2382a08887b16da9d6370d93df02c">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Ethiopian Public Health Institute, Addis Ababa, Ethiopia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Ethiopian Public Health Institute</sa:organization>
+                     <sa:city>Addis Ababa</sa:city>
+                     <sa:country>Ethiopia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext57a">Ethiopian Public Health Institute, Addis Ababa, Ethiopia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff6" affiliation-id="S0140673619325231-fdc67b934eac4e9fc0089e20ce2b4320">
+                  <ce:label>f</ce:label>
+                  <ce:textfn>Indian Council of Medical Research, New Delhi, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Indian Council of Medical Research</sa:organization>
+                     <sa:city>New Delhi</sa:city>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext58a">Indian Council of Medical Research, New Delhi, India</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff7" affiliation-id="S0140673619325231-16d8a552084d2c0159c458dd575f07d9">
+                  <ce:label>g</ce:label>
+                  <ce:textfn>Public Health Foundation of India, Gurugram, National Capital Region, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Public Health Foundation of India</sa:organization>
+                     <sa:address-line>Gurugram</sa:address-line>
+                     <sa:address-line>National Capital Region</sa:address-line>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext59a">Public Health Foundation of India, Gurugram, National Capital Region, India</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Correspondence to: Dr Samira Asma, World Health Organization, 1211, Switzerland</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>World Health Organization</sa:organization>
+                     <sa:postal-code>1211</sa:postal-code>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+               <ce:correspondence id="cor2">
+                  <ce:label>**</ce:label>
+                  <ce:text>Prof Rafael Lozano, University of Washington, 98121, USA</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>University of Washington</sa:organization>
+                     <sa:postal-code>98121</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="cesec10" view="all">
+                  <ce:section-title id="cestitle10">Background</ce:section-title>
+                  <ce:para id="para10" view="all">The UN General Assembly launched the Sustainable Development Goals (SDGs) in September, 2015.<ce:cross-ref id="cecref180" refid="bib1">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> The original global SDG framework included 17 goals, 169 targets, and 232 unique indicators.<ce:cross-ref id="cecref190" refid="bib2">
+                        <ce:sup loc="post">2</ce:sup>
+                     </ce:cross-ref> Of these, 12 goals, 33 targets, and 57 indicators have been identified as health-related SDGs (HRSDGs),<ce:cross-refs id="cecrefs10" refid="bib3 bib4 bib5 bib6">
+                        <ce:sup loc="post">3–6</ce:sup>
+                     </ce:cross-refs> that is, pertaining to health outcomes, health services, and well-established environmental, occupational, behavioural, and metabolic risks. The scope of health in the SDGs is much broader than in the Millennium Development Goals, spanning from maternal and child health and infectious diseases to non-communicable diseases, injuries, risk factors, and health-system functions. Regular monitoring of the HRSDGs is important for fostering a shared notion of accountability for results, identifying important gaps in resources and rates of progress, and taking into account emerging challenges that can influence the trajectory of progress. Regular monitoring and accountability will be essential to sustain policy focus and funding for the broad and complex HRSDG agenda.</ce:para>
+                  <ce:para id="para20" view="all">100 countries have published SDG monitoring reports since 2015 and, in 2019, 38 more countries indicated intentions to report.<ce:cross-refs id="cecrefs20" refid="bib7 bib8">
+                        <ce:sup loc="post">7,8</ce:sup>
+                     </ce:cross-refs> In addition to these government-led efforts, several international groups report on the HRSDGs: WHO in 2016, 2017, 2018, and 2019;<ce:cross-refs id="cecrefs30" refid="bib5 bib9 bib10 bib11">
+                        <ce:sup loc="post">5,9–11</ce:sup>
+                     </ce:cross-refs> the World Bank in 2017 and 2018;<ce:cross-refs id="cecrefs40" refid="bib12 bib13">
+                        <ce:sup loc="post">12,13</ce:sup>
+                     </ce:cross-refs> the Global Burden of Disease (GBD) collaboration in 2016, 2017, and 2018;<ce:cross-refs id="cecrefs50" refid="bib6 bib14 bib15">
+                        <ce:sup loc="post">6,14,15</ce:sup>
+                     </ce:cross-refs> the Sustainable Development Solutions Network in 2016, 2017, and 2018;<ce:cross-refs id="cecrefs60" refid="bib16 bib17 bib18">
+                        <ce:sup loc="post">16–18</ce:sup>
+                     </ce:cross-refs> and Our World in Data's SDG dashboard starting in 2017–18.<ce:cross-ref id="cecref200" refid="bib19">
+                        <ce:sup loc="post">19</ce:sup>
+                     </ce:cross-ref> These reporting efforts on the HRSDGs differ in the number of indicators, countries, and years covered. Where reports overlap for the same indicator, country, and year, correlation coefficients of the estimates vary widely. For example, WHO and GBD's most recent reports have correlation coefficients varying from 0·94 for under-five mortality (indicator 3.2.1) to 0·43 for road traffic mortality (indicator 3.6.1).<ce:cross-refs id="cecrefs70" refid="bib10 bib15">
+                        <ce:sup loc="post">10,15</ce:sup>
+                     </ce:cross-refs> Poor correlations for some indicators across reporting efforts highlight inconsistencies that emerge from using different HRSDG definitions, data sources, data processing, and data synthesis approaches.</ce:para>
+                  <ce:para id="para30" view="all">In this Viewpoint, we examine why HRSDG results can differ so much across these empirical monitoring efforts and make recommendations on moving towards more standardised, universal assessments.</ce:para>
+               </ce:section>
+               <ce:section id="cesec20" view="all">
+                  <ce:section-title id="cestitle20">Defining HRSDG indicators</ce:section-title>
+                  <ce:para id="para40" view="all">Beyond SDG 3—the SDG dedicated to ensuring healthy lives and promoting wellbeing for all—the global indicator framework includes many indicators that directly measure health outcomes (eg, indicator 3.1.1; maternal mortality ratio) or determinants of health (eg, indicator 6.1.1; proportion of population using safely managed drinking water services). Yet, defining what constitutes a HRSDG inevitably involves a judgment about the relative proximal or distal relationship of an indicator to health, as well as its scope within the direct or stewardship functions of the health system in delivering health interventions or reducing risks to health.</ce:para>
+                  <ce:para id="para50" view="all">Drawing from previous monitoring efforts by WHO and the GBD collaboration,<ce:cross-refs id="cecrefs80" refid="bib11 bib15 bib20 bib21">
+                        <ce:sup loc="post">11,15,20,21</ce:sup>
+                     </ce:cross-refs> we identified 57 HRSDG indicators that (1) either are or directly relate to health outcomes and risks, health services and interventions, or health system needs and capacities (eg, indicator 3.d.1; international health regulations capacity and health emergency preparedness, indicator 17.19.2c; well certified deaths); and (2) have been established as health priorities by countries via international agendas or agencies (<ce:cross-ref id="cecref210" refid="sec1">appendix pp 1–4</ce:cross-ref>). These criteria lead to a larger set of HRSDGs than had been previously reported by UN agencies and the GBD collaboration, with the latter identifying 52 HRSDGs in its 2018 analysis.<ce:cross-ref id="cecref220" refid="bib15">
+                        <ce:sup loc="post">15</ce:sup>
+                     </ce:cross-ref> Continuously updating the number of indicators included within the HRSDGs—and thus their scope—is far from ideal, but we view this revisiting process as crucial for better aligning HRSDG monitoring with recent global initiatives (eg, WHO's Global Action Plan on the Sustainable Development Goals, which was initially launched in October, 2018).<ce:cross-ref id="cecref230" refid="bib20">
+                        <ce:sup loc="post">20</ce:sup>
+                     </ce:cross-ref> Further, with its annual indicator refinements and updates via the Inter-Agency and Expert Group on Sustainable Development Goal Indicators (IAEG-SDGs) and UN Statistical Commission, as well as its upcoming comprehensive reviews in 2020 and 2025, the global SDG indicator framework remains a dynamic development agenda.</ce:para>
+                  <ce:para id="para60" view="all">How each HRSDG is operationalised—that is, how indicators from the global framework are translated to meta-data and then to quantifiable measures at the country level—can contribute to differences in monitoring efforts. For some HRSDGs, particularly those for which data are incomplete or sparse in many countries, the proxy measures selected or modifications implemented could underlie differences in HRSDG reporting, in addition to data input and analyses. Continued collaboration to bring proxy measures closer to indicator definitions and their meta-data is important. Doing so also hinges upon heightened investments in data collection systems as well as testing which proxy indicators are most closely predictive of recent HRSDG patterns and trends.</ce:para>
+               </ce:section>
+               <ce:section id="cesec30" view="all">
+                  <ce:section-title id="cestitle30">Data platforms</ce:section-title>
+                  <ce:para id="para70" view="all">Monitoring the 57 HRSDG indicators requires at least 12 data systems to be functioning in each country (<ce:cross-ref id="cecref240" refid="sec1">appendix pp 1–4</ce:cross-ref>). The most extensively used systems include nationally representative household surveys (NRHS) with a wide array of modules (including biomarker collection), civil registration and vital statistics (CRVS), and various administrative data systems. Alternatives exist for many preferred data systems, such as collecting verbal autopsy data through household survey or sample registration systems for CRVS. For some more complex indicators, such as deaths attributable to air pollution (indicator 3.9.1), multiple sources are required. For several indicators, preferred measurement methods are not direct measures from collected data and must be transformed or modelled for reporting on specific indicators. For example, for malaria incidence (indicator 3.3.3), due to the often low or variable disease notification rate in many high-burden settings, surveys that measure parasite presence in blood samples serve as the preferred measurement method. Overall, 13 HRSDG indicators should be based on complete CRVS, 20 on household surveys, nine on inputs from NRHS, 12 on administrative data, and three on data from multiple sources. CRVS, administrative records, and household surveys feature prominently as the preferred data systems for monitoring the HRSDGs (<ce:cross-ref id="cecref250" refid="sec1">appendix p 5</ce:cross-ref>). CRVS, administrative systems, and disease registries can produce data on an annual basis, but time lags can affect the collation and reporting of data.</ce:para>
+               </ce:section>
+               <ce:section id="cesec40" view="all">
+                  <ce:section-title id="cestitle40">Data processing to address bias and enhance comparability</ce:section-title>
+                  <ce:para id="para80" view="all">Meaningful comparisons over time and across or within countries require correcting for known data biases, as well as converting proxy or alternative measures to the reference case definition through a defined analytical approach (otherwise known as cross-walking). For example, ten indicators should use data from CRVS with medical certification of causes of death. But even among functional CRVS, recorded deaths must be corrected for completeness for vital registration system coverage, as well as highly variable certification and coding practices.<ce:cross-ref id="cecref260" refid="bib22">
+                        <ce:sup loc="post">22</ce:sup>
+                     </ce:cross-ref> The fraction of International Classification of Diseases (ICD) non-specific codes, or codes that cannot be an underlying cause of death (so-called garbage codes), ranges from 2·3% (in Singapore in 2016) to 83% (in the Maldives in 2005).<ce:cross-ref id="cecref270" refid="bib22">
+                        <ce:sup loc="post">22</ce:sup>
+                     </ce:cross-ref> Without correction, these biases can lead to overestimation or underestimation HRSDGs and then incorrect orderings of countries or subnational units.<ce:cross-ref id="cecref280" refid="bib22">
+                        <ce:sup loc="post">22</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="para90" view="all">For some HRSDGs, household surveys collect similar data, albeit in different ways. Alternative assays, items, or instruments must be cross-walked to the reference measurement approach to ensure comparability across countries and over time. For malaria (indicator 3.3.3), data from prevalence surveys, or less often case notifications, can be based on thick and thin blood smears or rapid diagnostic tests, all of which feature different diagnostic sensitivities and specificities. Meaningful comparisons require adjusting for differences in test characteristics. Another example involves the duration of recall period used in surveys; for instance, many surveys on gender-based violence ask for lifetime recall, whereas others limit recall to a month or a year.<ce:cross-refs id="cecrefs90" refid="bib23 bib24">
+                        <ce:sup loc="post">23,24</ce:sup>
+                     </ce:cross-refs> Tuberculosis incidence (indicator 3.3.2) cannot be directly measured, so reported cases must be adjusted upwards by case-detection rates. Several approaches have been proposed to assess case-detection rates, including expert judgment, comparisons to prevalence surveys or triangulation using death rates, or prevalence in surveys.<ce:cross-refs id="cecrefs100" refid="bib25 bib26 bib27">
+                        <ce:sup loc="post">25–27</ce:sup>
+                     </ce:cross-refs> To ensure comparability, approaches used to triangulate data from multiple sources and across countries must be done consistently.</ce:para>
+                  <ce:para id="para100" view="all">How data are processed can profoundly affect results, yet very little attention has been given to data processing and HRSDG measurement. For example, the IAEG-SDGs do not provide detailed guidance on data processing, and few scientific papers focus on data processing—a stark contrast to the substantial debates on data synthesis methods.<ce:cross-refs id="cecrefs110" refid="bib28 bib29">
+                        <ce:sup loc="post">28,29</ce:sup>
+                     </ce:cross-refs> In the absence of more explicit guidance, we would naturally expect heterogeneity in how national statistical offices, ministries of health, UN agencies, the GBD collaboration, and others have implemented data processing, undermining comparability across these efforts. Assessing bias in administrative data due to exclusion or misaligned incentives is an important aspect of data processing.<ce:cross-ref id="cecref290" refid="bib30">
+                        <ce:sup loc="post">30</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="cesec50" view="all">
+                  <ce:section-title id="cestitle50">Data synthesis and imputation</ce:section-title>
+                  <ce:para id="para110" view="all">Fundamental differences in opinion exist on how to move available processed data to final HRSDG values for a given country and year. Data synthesis and imputation should, in principle, account for both sampling and non-sampling error of measurements, synthesise multiple data points from different sources for the same indicator and year for a given country, and address the common problem of having no data for a given country and year. Although national authorities, UN agencies, the GBD collaboration, and various research groups use diverse approaches for data synthesis, these approaches can be roughly grouped into four families. In the following sections we discuss advantages and disadvantages of each approach.</ce:para>
+                  <ce:section id="cesec60" view="all">
+                     <ce:section-title id="cestitle60">Minimalist approach</ce:section-title>
+                     <ce:para id="para120" view="all">With the minimalist approach, indicators are reported for years in which processed data are available. When more than one source for the same year is available, one source is selected on the basis of qualitative assessments of the quality of the different measurements. When different sources show large fluctuations over time (eg, stunting in South Africa),<ce:cross-ref id="cecref300" refid="bib31">
+                           <ce:sup loc="post">31</ce:sup>
+                        </ce:cross-ref> results are simply reported as they are. The advantage of this approach is that producers of indicator results can point to a specific data source when questions emerge regarding the validity of results. However, there are two major disadvantages. First, when measurements are periodic—as all survey-based HRSDGs are—only a small subset of countries can be directly compared for a given year. Even for indicators that are based on CRVS or administrative systems, lags in data collation and reporting mean that results might only be available for 3–4 years before the year of data publication (eg, in 2019, the most recent data points could be for the years 2015–16). Second, sampling and non-sampling errors in measurements can lead to substantial, unexplained year-to-year fluctuations in indicator values. These fluctuations undermine the notion of accountability for change—a cornerstone of the HRSDG monitoring framework.</ce:para>
+                  </ce:section>
+                  <ce:section id="cesec70" view="all">
+                     <ce:section-title id="cestitle70">Minimalist approach plus the assumption of no change over time</ce:section-title>
+                     <ce:para id="para130" view="all">Another approach starts with processed data and then increases the number of countries that can be compared by assuming indicator values are not changing over time since the most recent measurement.<ce:cross-refs id="cecrefs120" refid="bib32 bib33 bib34">
+                           <ce:sup loc="post">32–34</ce:sup>
+                        </ce:cross-refs> For example, a survey-based measure from 2011, if it is the most recent one, is used for 2018. Assuming no change in trend since the last available measurement is not credible for nearly all HRSDGs, as empirical evidence shows that most indicators have been improving globally. Assuming no change over time introduces considerable bias in reported comparisons; countries with more recent data will look better, all else being equal, than those with older measurements.</ce:para>
+                  </ce:section>
+                  <ce:section id="cesec80" view="all">
+                     <ce:section-title id="cestitle80">Expert data synthesis</ce:section-title>
+                     <ce:para id="para140" view="all">The third approach tries to address the limitations of the minimalist approach by using a panel of experts to review available data and then determine the best estimate for each year. WHO/UNICEF Joint Reporting Process on vaccine coverage is an example of this approach,<ce:cross-ref id="cecref310" refid="bib35">
+                           <ce:sup loc="post">35</ce:sup>
+                        </ce:cross-ref> wherein an expert group evaluates administrative data and survey data provided by countries and, on the basis of their assessment, annual vaccine coverage estimates are provided. An advantage of this approach is that it incorporates additional information that might not be captured by various quantitative sources (eg, vaccine stock-outs). Yet, disadvantages involve not being replicable by others—in fact, a different expert panel could easily come to diverging judgments. Lastly, the expert data synthesis approach does not follow the Guidelines on Accurate and Transparent Health Estimates Reporting (GATHER), which require well-documented statistical models for data synthesis to generate uncertainty estimates and allow replication.<ce:cross-ref id="cecref320" refid="bib36">
+                           <ce:sup loc="post">36</ce:sup>
+                        </ce:cross-ref>
+                     </ce:para>
+                  </ce:section>
+                  <ce:section id="cesec90" view="all">
+                     <ce:section-title id="cestitle90">Statistical data synthesis</ce:section-title>
+                     <ce:para id="para150" view="all">The statistical data synthesis approach uses statistical models to synthesise processed data into a coherent trend, applying the same model to estimate HRSDG indicator values for years with and without data, as well as generate uncertainty estimates for each year. The Inter-agency Group on Child Mortality Estimation is among the organisations applying this approach.<ce:cross-ref id="cecref330" refid="bib37">
+                           <ce:sup loc="post">37</ce:sup>
+                        </ce:cross-ref> Advantages include enabling replicability by others, reporting of uncertainty, and producing estimates for a full time series, including years beyond the most recent processed data point. Some view this approach as potentially disadvantageous, such that using statistical models to generate estimates after an indicator's last measurement could misrepresent important trends or reversals due to data sparsity or lags in administrative data, or giving the false impression of having more data than what is available.<ce:cross-ref id="cecref340" refid="bib38">
+                           <ce:sup loc="post">38</ce:sup>
+                        </ce:cross-ref> In addition, disagreements around how to best do statistical data synthesis for a given indicator are likely to occur and could lead to dissimilar models and results between analytical groups, even if all other analytic components—namely, data inputs and processing—are standardised. Finally, performance of statistical data synthesis generally improves by analysing data from all countries together; Bayesian statistical models often used in these efforts enhance predictive validity by borrowing strength over space and time.</ce:para>
+                  </ce:section>
+                  <ce:section id="cesec100" view="all">
+                     <ce:section-title id="cestitle100">Preferred approaches to data synthesis</ce:section-title>
+                     <ce:para id="para160" view="all">Views about preferred approaches to data synthesis are as much philosophical as scientific. Some groups want to remain true to available observations and others would like to report indicator values that are as close as possible to what would have been observed with unbiased data systems and timely reporting. There is a substantial divide across and within organisations on the preferred approach: the World Bank largely follows the minimalist tradition for some indicators but statistical data synthesis for poverty estimation;<ce:cross-ref id="cecref350" refid="bib39">
+                           <ce:sup loc="post">39</ce:sup>
+                        </ce:cross-ref> WHO uses the minimalist approach plus the assumption of no change over time for many tracer indicators in the universal health coverage service coverage measure (eg, prevalence of raised blood pressure),<ce:cross-ref id="cecref360" refid="bib34">
+                           <ce:sup loc="post">34</ce:sup>
+                        </ce:cross-ref> expert synthesis for vaccine coverage,<ce:cross-ref id="cecref370" refid="bib35">
+                           <ce:sup loc="post">35</ce:sup>
+                        </ce:cross-ref> and statistical data synthesis for malaria,<ce:cross-ref id="cecref380" refid="bib40">
+                           <ce:sup loc="post">40</ce:sup>
+                        </ce:cross-ref> HIV,<ce:cross-refs id="cecrefs130" refid="bib41 bib42">
+                           <ce:sup loc="post">41,42</ce:sup>
+                        </ce:cross-refs> and tuberculosis.<ce:cross-ref id="cecref390" refid="bib43">
+                           <ce:sup loc="post">43</ce:sup>
+                        </ce:cross-ref> GBD uses statistical data synthesis for all HRSDGs, with the exception of 17.19.2a (population census or registry status). There is a similar debate regarding estimates of uncertainty, particularly in terms of what types of uncertainty should be captured (ie, sampling and non-sampling errors), and for what results uncertainty should be reported. These are non-trivial areas for HRSDG measurement, especially since reporting of uncertainty estimates can identify instances in which more serious data gaps remain and inform investments in data collection and systems.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="cesec110" view="all">
+                  <ce:section-title id="cestitle110">Country ownership</ce:section-title>
+                  <ce:para id="para170" view="all">Using data to take action is much more likely when country governments, academia, and civil society fully understand and own every step of the measurement process, including data processing and data synthesis. This notion of country ownership is also enshrined in UN Statistical Commission principles,<ce:cross-ref id="cecref400" refid="bib44">
+                        <ce:sup loc="post">44</ce:sup>
+                     </ce:cross-ref> and is also why WHO has adopted the principle that Ministries of Health should be consulted on all indicator assessments. In an ideal world, every country would have high-quality, publicly available data reported with minimal lags from CRVS, periodic NRHS, and administrative health service data alongside other sources, such as National Health Accounts. Further, in this ideal setting, accepted international standards would exist to guide data processing and data synthesis, thereby enabling national statistical offices, ministries of health, academia, UN agencies, the GBD collaboration, and civil society groups to arrive at exactly the same answer for HRSDG monitoring. In this ideal case, the data would literally speak for themselves.</ce:para>
+                  <ce:para id="para180" view="all">Unfortunately, our current reality is quite different. Due to myriad factors—sparse data, particularly in lower-income and middle-income countries, no international standards for data processing, and no accepted standards for data synthesis—different groups at both country and international levels can reasonably get quite different results on the HRSDGs. Discordant metrics from various actors committed to monitoring the HRSDGs is strong evidence of this mixture of problems. In some cases, national assessments of indicators differ from WHO or GBD assessments, with origins traceable to the data sources examined, data processing choices, and different approaches to data synthesis. To maintain comparability and foster accountability, data processing and data synthesis must be standardised. Data ownership must lie with data producers, which are often national governments. However, these data should also be made publicly available, as they are usually produced using public resources and are intended for the common good. Openly sharing data ultimately lays the foundation for the best health practices—those that are informed by the best possible science that draws from all available data and represents the best evidence base at a given point in time. This scenario is mutually beneficial to countries that share data (ie, they can put it to the best use) and to experts who aim to continuously improve the measurement of health outcomes and determinants. Promoting heterogeneity in data processing and data synthesis standards in the name of advancing country ownership is not helpful. Real country ownership will happen when national data systems are strengthened for data generation, analysis, and use, as well as when clear standards for each step of HRSDG monitoring are established. At that point, everyone will own the results since anyone examining the data will come to the same conclusion. Similar to other large-scale multi-country collaborative efforts, the GBD collaboration offers an example wherein transparent analysis and very broad participation encourages national ownership and use. The collaborative scientific model espoused by the GBD is one example of how to establish highly standardised approaches to data processing and synthesis while also fostering broad ownership.</ce:para>
+               </ce:section>
+               <ce:section id="cesec120" view="all">
+                  <ce:section-title id="cestitle120">Transparency</ce:section-title>
+                  <ce:para id="para190" view="all">Expectations for transparency and replicability from the public, media, civil society, and scientific communities have been greatly enhanced in the past two decades. WHO led the creation of GATHER,<ce:cross-ref id="cecref410" refid="bib36">
+                        <ce:sup loc="post">36</ce:sup>
+                     </ce:cross-ref> a much needed move towards transparency and a powerful way to improve trust across all segments in society in the validity of HRSDG monitoring. Although there has been great progress towards transparency, much more needs to happen. WHO estimates of child mortality, maternal mortality, and tuberculosis are fully compliant with GATHER, as are all outcomes produced by the GBD collaboration. However, many efforts that generate global health estimates are not compliant with GATHER. GATHER call for the public release of all input meta-data, but do not require publication of the actual values of input data. One key reason for this specification is that, often, national governments report data to WHO or other agencies but do not clarify if the data can be publicly shared. Some parts of WHO share data unless contributing governments give written prohibition, while other WHO departments do not share data unless permission is explicitly provided. WHO is moving towards a default opt-out position, such that data would be shared unless written agreements restrict sharing. This position would substantially enhance transparency and build trust in the global public health community. In some cases, governments restrict access and use of data in writing, posing challenges to transparency and replicability. In the future, transparency could be enhanced if the international community collectively agrees to only use data shared in the public domain for HRSDG monitoring.</ce:para>
+               </ce:section>
+               <ce:section id="cesec130" view="all">
+                  <ce:section-title id="cestitle130">Inequalities</ce:section-title>
+                  <ce:para id="para200" view="all">The global SDG framework clearly emphasises the importance of addressing inequalities within countries across its goals, targets, and indicators.<ce:cross-refs id="cecrefs140" refid="bib1 bib2 bib45">
+                        <ce:sup loc="post">1,2,45</ce:sup>
+                     </ce:cross-refs> Monitoring HRSDG inequalities requires considerably more disaggregated data, which then necessitates the inclusion of appropriate equity stratifiers in NRHS or spatially disaggregated data from CRVS and administrative systems. However, examinations of HRSDG inequalities across indicators like socioeconomic status or minority groups (eg, race, ethnicity, and religion) have yet to widely occur, largely because these data are simply not available. An absence of practical and comparable approaches to assessing inequalities could mean that countries do not pay sufficient attention to reducing inequalities. The axis over which inequality varies the most (eg, sex, gender, age, sexual orientation, income, education, race, ethnicity, religion, and migrant status) will differ across countries. The global community is in a virtual impasse on inequality tracking for the SDGs: the choice appears to be to promote local inequality measurement using the most relevant axis of differentiation and lose all comparability and potentially accountability, or to inaccurately reflect the true nature of inequality in each country by using a standardised and comparable measure along a single axis of differentiation. Inequality monitoring with disaggregated data is the first step towards reducing inequities (ie, inequalities deemed as unjust). The only imperfect option available today is to track geographical inequalities. UNICEF has focused on district-level inequalities in its EQUIST work,<ce:cross-ref id="cecref420" refid="bib46">
+                        <ce:sup loc="post">46</ce:sup>
+                     </ce:cross-ref> and increasing number of HRSDGs have been analysed using model-based geostatistics.<ce:cross-refs id="cecrefs150" refid="bib47 bib48 bib49 bib50 bib51 bib52 bib53">
+                        <ce:sup loc="post">47–53</ce:sup>
+                     </ce:cross-refs> The most plausible prospect for adding an inequality dimension to HRSDG monitoring is to evaluate each indicator at the district or more disaggregated level, such as 5 km × 5 km pixels. Nonetheless, efforts to report on geographical inequalities must be clear that this is only one useful dimension of inequality measurement. Simultaneously, there needs to be investment in strengthening the capacity of data to enable reporting by other inequality dimensions.</ce:para>
+               </ce:section>
+               <ce:section id="cesec140" view="all">
+                  <ce:section-title id="cestitle140">Reporting</ce:section-title>
+                  <ce:para id="para210" view="all">How indicators are reported generates substantial tension.<ce:cross-ref id="cecref430" refid="bib54">
+                        <ce:sup loc="post">54</ce:sup>
+                     </ce:cross-ref> Accountability requires social engagement and political debate. In most societies, media (print, digital, and social) are essential components to accountability cycles.<ce:cross-refs id="cecrefs160" refid="bib55 bib56 bib57">
+                        <ce:sup loc="post">55–57</ce:sup>
+                     </ce:cross-refs> The media want to highlight rankings, poor performance, and, less often, success stories. By contrast, countries often prefer to not publicly discuss unfavourable comparisons. However, the most important thing is that HRSDG indicator reporting is clear and simple, and that the actual indicator values are readily available for countries to learn from others with comparably better performance. A transparent audit trail of every estimate that is published must be provided to build confidence in these numbers.</ce:para>
+               </ce:section>
+               <ce:section id="cesec150" view="all">
+                  <ce:section-title id="cestitle150">Recommendations</ce:section-title>
+                  <ce:para id="para220" view="all">Our analysis of monitoring of the HRSDGs by national governments, WHO, the World Bank, the GBD collaboration, and others suggests some concrete steps forward to improve the timeliness, reliability, and validity of measurements. Pursuing these recommendations will hopefully lead to a situation in which the correlation of HRSDG indicator values will be much higher across different groups.</ce:para>
+                  <ce:section id="cesec160" view="all">
+                     <ce:section-title id="cestitle160">Strengthening national data collection capabilities</ce:section-title>
+                     <ce:para id="para230" view="all">The international community, led by WHO, should actively seek to provide resources and technical assistance to countries to help them strengthen CRVS. Given the major role for various types of NRHS modules, including biomarkers in HRSDG monitoring, WHO should promote and streamline NRHS capability. WHO is actively considering launching a revised World Health Survey Plus data collection platform that would be tailored to the efficient measurement of the relevant HRSDG indicators. A regular, institutionalised, adequately resourced system of NRHS that includes biomarker collection would go a long way in also enabling better inequality analyses because these surveys would collect geolocated data for the appropriate equity stratifiers. Better measurement and accountability must begin with improved primary data. Building national partnerships between the national statistical offices and the ministries of health will be key in this regard.</ce:para>
+                  </ce:section>
+                  <ce:section id="cesec170" view="all">
+                     <ce:section-title id="cestitle170">Data processing standards</ce:section-title>
+                     <ce:para id="para240" view="all">Led by WHO, drawing on the experience of all the groups involved in HRSDG measurement, precise guidance should be developed for the processing of data that covers all key sources of bias, including assessing completeness of important registration, dealing with imprecise or impossible cause of death codes through redistribution algorithms, and cross-walking alternative case definitions, assays, instruments, and measurement methods to a defined reference approach. WHO has a clear leadership role in setting standards for health data; the ICD is a powerful example of this role. The normative role of WHO in setting data processing standards for HRSDG monitoring is extremely important.</ce:para>
+                  </ce:section>
+                  <ce:section id="cesec180" view="all">
+                     <ce:section-title id="cestitle180">Regularly updated best practice guidance on data synthesis</ce:section-title>
+                     <ce:para id="para250" view="all">The international community should promulgate and adopt standard approaches to data synthesis reflecting current best practice. However, given that methods for data synthesis are rapidly evolving, principles by which improved methods are evaluated and adopted should also be clearly defined, such as enhanced out-of-sample predictive validity. National statistical offices and the myriad academic groups innovating in this area should be essential partners in this effort. Given widely divergent philosophical views on the right approach to data synthesis, these two extreme positions should be accommodated: the minimalist approach and the statistical data synthesis approach. Results can easily be produced using both approaches so that users can understand exactly what is coming from appropriately processed primary data and what is the result of the statistical data synthesis. This pragmatic compromise, producing both approaches, would then allow different groups to focus on their preferred set of results. As methods in this area evolve, international consensus can be built over a period of time.</ce:para>
+                  </ce:section>
+                  <ce:section id="cesec190" view="all">
+                     <ce:section-title id="cestitle190">Enhanced transparency guidelines</ce:section-title>
+                     <ce:para id="para260" view="all">GATHER should be further strengthened. The scope of GATHER should cover all HRSDGs and inputs, including population numbers to the computation of the HRSDGs. For official HRSDG reporting, all data inputs, including data as they are used before and after processing, should be made publicly available. All code used in any analysis should be posted publicly. Strengthened GATHER, and their uniform application to HRSDG reporting championed by WHO, would have a ripple effect on other health analyses. If the norm for the community shifts to full data transparency and replicability, everyone will benefit. This scenario could become an effective antidote to the unfortunate tendency towards the siloing of data that still exists in many settings.</ce:para>
+                  </ce:section>
+                  <ce:section id="cesec200" view="all">
+                     <ce:section-title id="cestitle200">Full global and national implementation of GATHER</ce:section-title>
+                     <ce:para id="para270" view="all">Countries with analytical capacity should apply the standard for data processing and data synthesis to their own data in a fully transparent manner consistent with GATHER. National statistical offices or ministry of health statistics departments would do this entirely on their own or participate in global collaborations that fulfil GATHER, such as the GBD collaboration or interagency processes that estimate child and maternal mortality. Countries with insufficient analytical capacity need support to develop their analytical skills and infrastructure; WHO and the GBD collaboration with partners should make coherent efforts to advance this agenda. In the presence of sparse data, statistical data synthesis methods are more accurate when data from all countries are analysed jointly. A technical challenge remains in how to facilitate joint statistical data synthesis approaches while allowing groups in each country to experiment with and interrogate the methods.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="cesec210" view="all">
+                  <ce:section-title id="cestitle210">Conclusion</ce:section-title>
+                  <ce:para id="para280" view="all">The science of measuring the HRSDGs must be a guiding principle for sound measurement. Good measurement itself is not political—rather, the actions that are based on good measurement are political, as societies must make their own decisions and agendas, informed by the available data, national values, and social priorities. If the necessary data are collected, and the processing and synthesis steps standardised, results should not substantively vary on the basis of who conducts the analysis. These developments will naturally lead to a single, consistent, and transparently documented number for every HRSDG indicator. The scientific community has a crucial role in advancing the procedures and methods to support robust measurement of the HRSDGs.</ce:para>
+               </ce:section>
+               <ce:para id="para290" role="acknowledgement" view="all">
+                  <ce:bold>Contributors</ce:bold>
+               </ce:para>
+               <ce:para id="para300" role="acknowledgement" view="all">SA, SC, RL, and CJLM prepared the first draft and finalised the manuscript on the basis of comments and reviewer feedback. SS, NY, MR, MFM, EV, AM, RM, and LD provided critical commentary on, and content for, the manuscript over the stages of manuscript finalisation.</ce:para>
+               <ce:para id="para310" role="acknowledgement" view="all">
+                  <ce:bold>Declaration of interests</ce:bold>
+               </ce:para>
+               <ce:para id="para320" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+            <ce:acknowledgment id="ceack10" view="all">
+               <ce:para id="para330" view="all">
+                  <ce:bold>Acknowledgments</ce:bold>
+               </ce:para>
+               <ce:para id="para340" role="acknowledgement" view="all">The authors thank Nancy Fullman and J Everett Mumford for their contributions to this Viewpoint.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="sec1" view="extended">
+                  <ce:section-title id="cestitle220">Supplementary Material</ce:section-title>
+                  <ce:para id="para350" view="all">
+                     <ce:display>
+                        <ce:e-component id="ecomp10">
+                           <ce:label>Supplementary appendix</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0140673619325231/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle230">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transforming our world: the 2030 Agenda for Sustainable Development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs10" xlink:href="https://sustainabledevelopment.un.org/post2015/transformingourworld/publication" xlink:type="simple">https://sustainabledevelopment.un.org/post2015/transformingourworld/publication</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                              <sb:date-accessed day="7" month="7" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext1">UN. Transforming our world: the 2030 Agenda for Sustainable Development. 2015. https://sustainabledevelopment.un.org/post2015/transformingourworld/publication (accessed July 7, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resolution adopted by the General Assembly on work of the statistical commission pertaining to the 2030 Agenda for Sustainable Development (A/RES/71/313)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="https://unstats.un.org/sdgs/indicators/indicators-list/" xlink:type="simple">https://unstats.un.org/sdgs/indicators/indicators-list/</ce:inter-ref>
+                              <sb:date>2017</sb:date>
+                              <sb:date-accessed day="7" month="7" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext2">UN. Resolution adopted by the General Assembly on work of the statistical commission pertaining to the 2030 Agenda for Sustainable Development (A/RES/71/313). 2017. https://unstats.un.org/sdgs/indicators/indicators-list/ (accessed July 7, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Nilsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Griggs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Visbeck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Policy: map the interactions between Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>534</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>320</sb:first-page>
+                              <sb:last-page>322</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext3">Nilsson M, Griggs D, Visbeck M. Policy: map the interactions between Sustainable Development Goals. Nature 2016; 534: 320–22.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>International Council for Sciences (ICSU)</sb:collaboration>
+                              <sb:collaboration>International Social Science Council (ISSC)</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Review of targets for the Sustainable Development Goals: the science perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="https://council.science/cms/2017/05/SDG-Report.pdf" xlink:type="simple">https://council.science/cms/2017/05/SDG-Report.pdf</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                              <sb:date-accessed day="7" month="7" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext4">International Council for Sciences (ICSU), International Social Science Council (ISSC). Review of targets for the Sustainable Development Goals: the science perspective. 2015. https://council.science/cms/2017/05/SDG-Report.pdf (accessed July 7, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World Health Statistics 2016: monitoring health for the SDGs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext5">WHO. World Health Statistics 2016: monitoring health for the SDGs. Geneva: World Health Organization, 2016.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>SS</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Allen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>ZA</ce:given-name>
+                                 <ce:surname>Bhutta</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease Study 2015</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>388</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1813</sb:first-page>
+                              <sb:last-page>1850</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext6">Lim SS, Allen K, Bhutta ZA, et al. Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease Study 2015. Lancet 2016; 388: 1813–50.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN Sustainable Development Knowledge Platform</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG reviews from member states of the United Nations and specialized agencies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:href="https://sustainabledevelopment.un.org/memberstates" xlink:type="simple">https://sustainabledevelopment.un.org/memberstates</ce:inter-ref>
+                              <sb:date-accessed day="7" month="7" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext7">UN Sustainable Development Knowledge Platform. SDG reviews from member states of the United Nations and specialized agencies. https://sustainabledevelopment.un.org/memberstates (accessed July 7, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN Sustainable Development Knowledge Platform</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Voluntary national reviews database</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs50" xlink:href="https://sustainabledevelopment.un.org/vnrs/" xlink:type="simple">https://sustainabledevelopment.un.org/vnrs/</ce:inter-ref>
+                              <sb:date-accessed day="7" month="7" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext8">UN Sustainable Development Knowledge Platform. Voluntary national reviews database. https://sustainabledevelopment.un.org/vnrs/ (accessed July 7, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World Health Statistics 2017: monitoring health for the SDGs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organisation</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext9">WHO. World Health Statistics 2017: monitoring health for the SDGs. Geneva: World Health Organisation, 2017.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World Health Statistics 2018: monitoring health for the SDGs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organisation</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext10">WHO. World Health Statistics 2018: monitoring health for the SDGs. Geneva: World Health Organisation, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sbref110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World Health Statistics 2019: monitoring health for the SDGs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext11">WHO. World Health Statistics 2019: monitoring health for the SDGs. Geneva: World Health Organization, 2019.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Bank</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atlas of the Sustainable Development Goals 2017: from the World Development Indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs60" xlink:href="https://openknowledge.worldbank.org/handle/10986/26306" xlink:type="simple">https://openknowledge.worldbank.org/handle/10986/26306</ce:inter-ref>
+                              <sb:date>2017</sb:date>
+                              <sb:date-accessed day="7" month="7" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext12">World Bank. Atlas of the Sustainable Development Goals 2017: from the World Development Indicators. 2017. https://openknowledge.worldbank.org/handle/10986/26306 (accessed July 7, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sbref130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Bank</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atlas of Sustainable Development Goals 2018: from World Development Indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs70" xlink:href="https://openknowledge.worldbank.org/handle/10986/29788" xlink:type="simple">https://openknowledge.worldbank.org/handle/10986/29788</ce:inter-ref>
+                              <sb:date>2018</sb:date>
+                              <sb:date-accessed day="11" month="7" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext13">World Bank. Atlas of Sustainable Development Goals 2018: from World Development Indicators. 2018. https://openknowledge.worldbank.org/handle/10986/29788 (accessed July 11, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="sbref140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Fullman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>RM</ce:given-name>
+                                 <ce:surname>Barber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AA</ce:given-name>
+                                 <ce:surname>Abajobir</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring progress and projecting attainment on the basis of past trends of the health-related Sustainable Development Goals in 188 countries: an analysis from the Global Burden of Disease Study 2016</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>390</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1423</sb:first-page>
+                              <sb:last-page>1459</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext14">Fullman N, Barber RM, Abajobir AA, et al. Measuring progress and projecting attainment on the basis of past trends of the health-related Sustainable Development Goals in 188 countries: an analysis from the Global Burden of Disease Study 2016. Lancet 2017; 390: 1423–59.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>15</ce:label>
+                     <sb:reference id="sbref150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Lozano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Fullman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Abate</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring progress from 1990 to 2017 and projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and territories: a systematic analysis for the Global Burden of Disease Study 2017</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>392</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2091</sb:first-page>
+                              <sb:last-page>2138</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext15">Lozano R, Fullman N, Abate D, et al. Measuring progress from 1990 to 2017 and projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and territories: a systematic analysis for the Global Burden of Disease Study 2017. Lancet 2018; 392: 2091–138.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>16</ce:label>
+                     <sb:reference id="sbref160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Sustainable Development Solutions Network (SDSN)</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG index and dashboards—global report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>SDSN</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext16">Sustainable Development Solutions Network (SDSN). SDG index and dashboards—global report. New York, NY: SDSN, 2016.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="sbref170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Sachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Schmidt-Traub</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Kroll</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Durand-Delacre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Teksoz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG index and dashboards report 2017</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Bertelsmann stiftung and sustainable development solutions network</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext17">Sachs J, Schmidt-Traub G, Kroll C, Durand-Delacre D, Teksoz K. SDG index and dashboards report 2017. New York, NY: Bertelsmann stiftung and sustainable development solutions network, 2017.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="sbref180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Bertelsmann Stiftung</sb:collaboration>
+                              <sb:collaboration>Sustainable Development Solutions Network</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG index and dashboards report 2018. Global responsibilities: implementing the goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs80" xlink:href="http://www.sdgindex.org/assets/files/2018/01%20SDGS%20GLOBAL%20EDITION%20WEB%20V8%20060718.pdf" xlink:type="simple">http://www.sdgindex.org/assets/files/2018/01%20SDGS%20GLOBAL%20EDITION%20WEB%20V8%20060718.pdf</ce:inter-ref>
+                              <sb:date>2018</sb:date>
+                              <sb:date-accessed day="7" month="5" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext18">Bertelsmann Stiftung, Sustainable Development Solutions Network. SDG index and dashboards report 2018. Global responsibilities: implementing the goals. 2018. http://www.sdgindex.org/assets/files/2018/01%20SDGS%20GLOBAL%20EDITION%20WEB%20V8%20060718.pdf. (accessed May 7, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>19</ce:label>
+                     <sb:reference id="sbref190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Measuring progress towards the Sustainable Development Goals—SDG tracker</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Our world data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs90" xlink:href="https://sdg-tracker.org/" xlink:type="simple">https://sdg-tracker.org/</ce:inter-ref>
+                              <sb:date-accessed day="5" month="7" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext19">Measuring progress towards the Sustainable Development Goals—SDG tracker. Our world data. https://sdg-tracker.org/ (accessed July 5, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>20</ce:label>
+                     <sb:reference id="sbref200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Toward a global action plan for healthy lives and well-being for all: uniting to accelerate progress towards the health-related SDGs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext20">WHO. Toward a global action plan for healthy lives and well-being for all: uniting to accelerate progress towards the health-related SDGs. Geneva: World Health Organization, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>21</ce:label>
+                     <sb:reference id="sbref210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thirteenth general programme of work 2019–2023: promote health, keep the world safe, serve the vulnerable</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext21">WHO. Thirteenth general programme of work 2019–2023: promote health, keep the world safe, serve the vulnerable. Geneva: World Health Organization, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>22</ce:label>
+                     <sb:reference id="sbref220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>GA</ce:given-name>
+                                 <ce:surname>Roth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Abate</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>KH</ce:given-name>
+                                 <ce:surname>Abate</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980–2017: a systematic analysis for the Global Burden of Disease Study 2017</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>392</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1736</sb:first-page>
+                              <sb:last-page>1788</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext22">Roth GA, Abate D, Abate KH, et al. Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980–2017: a systematic analysis for the Global Burden of Disease Study 2017. Lancet 2018; 392: 1736–88.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>23</ce:label>
+                     <sb:reference id="sbref230">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Ellsberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Heise</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Researching violence against women: a practical guide for researchers and activists</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext23">Ellsberg M, Heise L. Researching violence against women: a practical guide for researchers and activists. Geneva: World Health Organization, 2005.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>24</ce:label>
+                     <sb:reference id="sbref240">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>MD</ce:given-name>
+                                 <ce:surname>Schwartz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methodological issues in the use of survey data for measuring and characterizing violence against women</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Violence Against Women</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>815</sb:first-page>
+                              <sb:last-page>838</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext24">Schwartz MD. Methodological issues in the use of survey data for measuring and characterizing violence against women. Violence Against Women 2000; 6: 815–38.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>25</ce:label>
+                     <sb:reference id="sbref250">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Dye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>CJ</ce:given-name>
+                                 <ce:surname>Watt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DM</ce:given-name>
+                                 <ce:surname>Bleed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>BG</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>What is the limit to case detection under the DOTS strategy for tuberculosis control?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tuberculosis</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                              <sb:last-page>43</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext25">Dye C, Watt CJ, Bleed DM, Williams BG. What is the limit to case detection under the DOTS strategy for tuberculosis control? Tuberculosis 2003; 83: 35–43.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>26</ce:label>
+                     <sb:reference id="sbref260">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>MW</ce:given-name>
+                                 <ce:surname>Borgdorff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New measurable indicator for tuberculosis case detection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Emerg Infect Dis</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1523</sb:first-page>
+                              <sb:last-page>1528</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext26">Borgdorff MW. New measurable indicator for tuberculosis case detection. Emerg Infect Dis 2004; 10: 1523–28.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>27</ce:label>
+                     <sb:reference id="sbref270">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>MM</ce:given-name>
+                                 <ce:surname>Claassens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>van Schalkwyk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Dunbar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Ayles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Beyers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Patient diagnostic rate as indicator of tuberculosis case detection, South Africa</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Emerg Infect Dis</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>535</sb:first-page>
+                              <sb:last-page>537</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext27">Claassens MM, van Schalkwyk C, Dunbar R, Ayles H, Beyers N. Patient diagnostic rate as indicator of tuberculosis case detection, South Africa. Emerg Infect Dis 2016; 22: 535–37.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>28</ce:label>
+                     <sb:reference id="sbref280">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Boerma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Victora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Abouzahr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Monitoring country progress and achievements by making global predictions: is the tail wagging the dog?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>392</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>607</sb:first-page>
+                              <sb:last-page>609</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext28">Boerma T, Victora C, Abouzahr C. Monitoring country progress and achievements by making global predictions: is the tail wagging the dog? Lancet 2018; 392: 607–09.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>29</ce:label>
+                     <sb:reference id="sbref290">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>AbouZahr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Boerma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Hogan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global estimates of country health indicators: useful, unnecessary, inevitable?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glob Health Action</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:article-number>1290370</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext29">AbouZahr C, Boerma T, Hogan D. Global estimates of country health indicators: useful, unnecessary, inevitable? Glob Health Action 2017; 10: 1290370.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>30</ce:label>
+                     <sb:reference id="sbref300">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Friebel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Silverman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Glassman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Chalkidou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On results reporting and evidentiary standards: spotlight on the Global Fund</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>393</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2006</sb:first-page>
+                              <sb:last-page>2008</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext30">Friebel R, Silverman R, Glassman A, Chalkidou K. On results reporting and evidentiary standards: spotlight on the Global Fund. Lancet 2019; 393: 2006–08.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>31</ce:label>
+                     <sb:reference id="sbref310">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>BJ</ce:given-name>
+                                 <ce:surname>Akombi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>KE</ce:given-name>
+                                 <ce:surname>Agho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JJ</ce:given-name>
+                                 <ce:surname>Hall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Wali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AMN</ce:given-name>
+                                 <ce:surname>Renzaho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Merom</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stunting, wasting and underweight in Sub-saharan Africa: a systematic review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Environ Res Public Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e863</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext31">Akombi BJ, Agho KE, Hall JJ, Wali N, Renzaho AMN, Merom D. Stunting, wasting and underweight in Sub-saharan Africa: a systematic review. Int J Environ Res Public Health 2017; 14: e863.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>32</ce:label>
+                     <sb:reference id="sbref320">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Boerma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Requejo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>CG</ce:given-name>
+                                 <ce:surname>Victora</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Countdown to 2030: tracking progress towards universal coverage for reproductive, maternal, newborn, and child health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>391</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1538</sb:first-page>
+                              <sb:last-page>1548</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext32">Boerma T, Requejo J, Victora CG, et al. Countdown to 2030: tracking progress towards universal coverage for reproductive, maternal, newborn, and child health. Lancet 2018; 391: 1538–48.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>33</ce:label>
+                     <sb:reference id="sbref330">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DR</ce:given-name>
+                                 <ce:surname>Hogan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>GA</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AR</ce:given-name>
+                                 <ce:surname>Hosseinpoor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Boerma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Monitoring universal health coverage within the Sustainable Development Goals: development and baseline data for an index of essential health services</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e152</sb:first-page>
+                              <sb:last-page>e168</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext33">Hogan DR, Stevens GA, Hosseinpoor AR, Boerma T. Monitoring universal health coverage within the Sustainable Development Goals: development and baseline data for an index of essential health services. Lancet Glob Health 2018; 6: e152–68.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>34</ce:label>
+                     <sb:reference id="sbref340">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Primary health care on the road to universal health coverage: 2019 monitoring report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext34">WHO. Primary health care on the road to universal health coverage: 2019 monitoring report. Geneva: World Health Organization, 2019.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>35</ce:label>
+                     <sb:reference id="sbref350">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>WHO/UNICEF joint reporting process. WHO</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs100" xlink:href="https://www.who.int/immunization/monitoring_surveillance/routine/reporting/reporting/en/" xlink:type="simple">https://www.who.int/immunization/monitoring_surveillance/routine/reporting/reporting/en/</ce:inter-ref>
+                              <sb:date-accessed day="5" month="7" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext35">WHO. WHO/UNICEF joint reporting process. WHO. https://www.who.int/immunization/monitoring_surveillance/routine/reporting/reporting/en/ (accessed July 5, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib36">
+                     <ce:label>36</ce:label>
+                     <sb:reference id="sbref360">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>GA</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Alkema</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>RE</ce:given-name>
+                                 <ce:surname>Black</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Guidelines for Accurate and Transparent Health Estimates Reporting: the GATHER statement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>388</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e19</sb:first-page>
+                              <sb:last-page>e23</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext36">Stevens GA, Alkema L, Black RE, et al. Guidelines for Accurate and Transparent Health Estimates Reporting: the GATHER statement. Lancet 2016; 388: e19–23.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib37">
+                     <ce:label>37</ce:label>
+                     <sb:reference id="sbref370">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>MCEE-WHO methods and data sources for child causes of death, 2000–2017</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext37">WHO. MCEE-WHO methods and data sources for child causes of death, 2000–2017. Geneva: World Health Organization, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib38">
+                     <ce:label>38</ce:label>
+                     <sb:reference id="sbref380">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Tichenor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Sridhar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metric partnerships: global burden of disease estimates within the World Bank, the World Health Organisation and the Institute for Health Metrics and Evaluation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wellcome Open Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext38">Tichenor M, Sridhar D. Metric partnerships: global burden of disease estimates within the World Bank, the World Health Organisation and the Institute for Health Metrics and Evaluation. Wellcome Open Res 2019; 4: 35.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib39">
+                     <ce:label>39</ce:label>
+                     <sb:reference id="sbref390">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Bank</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Poverty and shared prosperity 2018: piecing together the poverty puzzle</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Bank</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext39">World Bank. Poverty and shared prosperity 2018: piecing together the poverty puzzle. Washington, DC: World Bank, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib40">
+                     <ce:label>40</ce:label>
+                     <sb:reference id="sbref400">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World malaria report 2018</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext40">WHO. World malaria report 2018. Geneva: World Health Organization, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib41">
+                     <ce:label>41</ce:label>
+                     <sb:reference id="sbref410">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UNAIDS</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global AIDS update 2018. Miles to go: closing gaps, breaking barriers, righting injustices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>UNAIDS</sb:name>
+                                 <sb:location>Geneva, Switzerland</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext41">UNAIDS. Global AIDS update 2018. Miles to go: closing gaps, breaking barriers, righting injustices. Geneva, Switzerland: UNAIDS, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib42">
+                     <ce:label>42</ce:label>
+                     <sb:reference id="sbref420">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UNAIDS</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>UNAIDS data 2018</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>UNAIDS</sb:name>
+                                 <sb:location>Geneva, Switzerland</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext42">UNAIDS. UNAIDS data 2018. Geneva, Switzerland: UNAIDS, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib43">
+                     <ce:label>43</ce:label>
+                     <sb:reference id="sbref430">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global tuberculosis report 2018</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext43">WHO. Global tuberculosis report 2018. Geneva: World Health Organization, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib44">
+                     <ce:label>44</ce:label>
+                     <sb:reference id="sbref440">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resolution adopted by the General Assembly on Fundamental Principles of Official Statistics (A/RES/68/261)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext44">UN. Resolution adopted by the General Assembly on Fundamental Principles of Official Statistics (A/RES/68/261). New York, NY: United Nations, 2014.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib45">
+                     <ce:label>45</ce:label>
+                     <sb:reference id="sbref450">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Sustainable Development Solutions Network (SDSN)</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Indicators and a monitoring framework for the sustainable development goals: launching a data revolution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>SDSN</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext45">Sustainable Development Solutions Network (SDSN). Indicators and a monitoring framework for the sustainable development goals: launching a data revolution. New York, NY: SDSN, 2015.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib46">
+                     <ce:label>46</ce:label>
+                     <sb:reference id="sbref460">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UNICEF</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>EQUIST: equitable strategies to save lives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs110" xlink:href="https://www.equist.info/" xlink:type="simple">https://www.equist.info/</ce:inter-ref>
+                              <sb:date-accessed day="13" month="6" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext46">UNICEF. EQUIST: equitable strategies to save lives. https://www.equist.info/ (accessed June 13, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib47">
+                     <ce:label>47</ce:label>
+                     <sb:reference id="sbref470">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Golding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Burstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Longbottom</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping under-5 and neonatal mortality in Africa, 2000–15: a baseline analysis for the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>390</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2171</sb:first-page>
+                              <sb:last-page>2182</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext47">Golding N, Burstein R, Longbottom J, et al. Mapping under-5 and neonatal mortality in Africa, 2000–15: a baseline analysis for the Sustainable Development Goals. Lancet 2017; 390: 2171–82.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib48">
+                     <ce:label>48</ce:label>
+                     <sb:reference id="sbref480">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Osgood-Zimmerman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AI</ce:given-name>
+                                 <ce:surname>Millear</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>RW</ce:given-name>
+                                 <ce:surname>Stubbs</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping child growth failure in Africa between 2000 and 2015</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>555</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>41</sb:first-page>
+                              <sb:last-page>47</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext48">Osgood-Zimmerman A, Millear AI, Stubbs RW, et al. Mapping child growth failure in Africa between 2000 and 2015. Nature 2018; 555: 41–47.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib49">
+                     <ce:label>49</ce:label>
+                     <sb:reference id="sbref490">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>JF</ce:given-name>
+                                 <ce:surname>Mosser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W</ce:given-name>
+                                 <ce:surname>Gagne-Maynard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>PC</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping diphtheria-pertussis-tetanus vaccine coverage in Africa, 2000–16: a spatial and temporal modelling study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>393</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1843</sb:first-page>
+                              <sb:last-page>1855</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext49">Mosser JF, Gagne-Maynard W, Rao PC, et al. Mapping diphtheria-pertussis-tetanus vaccine coverage in Africa, 2000–16: a spatial and temporal modelling study. Lancet 2019; 393: 1843–55.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib50">
+                     <ce:label>50</ce:label>
+                     <sb:reference id="sbref500">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DJ</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>TCD</ce:given-name>
+                                 <ce:surname>Lucas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping the global prevalence, incidence, and mortality of <ce:italic>Plasmodium falciparum</ce:italic>, 2000–17: a spatial and temporal modelling study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>394</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>322</sb:first-page>
+                              <sb:last-page>331</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext50">Weiss DJ, Lucas TCD, Nguyen M, et al. Mapping the global prevalence, incidence, and mortality of Plasmodium falciparum, 2000–17: a spatial and temporal modelling study. Lancet 2019; 394: 322–31.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib51">
+                     <ce:label>51</ce:label>
+                     <sb:reference id="sbref510">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>KE</ce:given-name>
+                                 <ce:surname>Battle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>TCD</ce:given-name>
+                                 <ce:surname>Lucas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping the global endemicity and clinical burden of <ce:italic>Plasmodium vivax</ce:italic>, 2000–17: a spatial and temporal modelling study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>394</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>332</sb:first-page>
+                              <sb:last-page>343</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext51">Battle KE, Lucas TCD, Nguyen M, et al. Mapping the global endemicity and clinical burden of Plasmodium vivax, 2000–17: a spatial and temporal modelling study. Lancet 2019; 394: 332–43.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib52">
+                     <ce:label>52</ce:label>
+                     <sb:reference id="sbref520">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Dwyer-Lindgren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>MA</ce:given-name>
+                                 <ce:surname>Cork</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Sligar</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping HIV prevalence in sub-Saharan Africa between 2000 and 2017</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>570</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>189</sb:first-page>
+                              <sb:last-page>193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext52">Dwyer-Lindgren L, Cork MA, Sligar A, et al. Mapping HIV prevalence in sub-Saharan Africa between 2000 and 2017. Nature 2019; 570: 189–93.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib53">
+                     <ce:label>53</ce:label>
+                     <sb:reference id="sbref530">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Burstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>NJ</ce:given-name>
+                                 <ce:surname>Henry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>ML</ce:given-name>
+                                 <ce:surname>Collison</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping 123 million neonatal, infant and child deaths between 2000 and 2017</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>574</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>353</sb:first-page>
+                              <sb:last-page>358</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext53">Burstein R, Henry NJ, Collison ML, et al. Mapping 123 million neonatal, infant and child deaths between 2000 and 2017. Nature 2019; 574: 353–8.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib54">
+                     <ce:label>54</ce:label>
+                     <sb:reference id="sbref540">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>CJL</ce:given-name>
+                                 <ce:surname>Murray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Choosing indicators for the health-related SDG targets</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>386</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1314</sb:first-page>
+                              <sb:last-page>1317</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext54">Murray CJL. Choosing indicators for the health-related SDG targets. Lancet 2015; 386: 1314–17.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib55">
+                     <ce:label>55</ce:label>
+                     <sb:reference id="sbref550">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Bowles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JT</ce:given-name>
+                                 <ce:surname>Hamilton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transparency in politics and the media: accountability and open government</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>I B Tauris</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext55">Bowles N, Hamilton JT. Transparency in politics and the media: accountability and open government. Oxford: I B Tauris, 2013.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib56">
+                     <ce:label>56</ce:label>
+                     <sb:reference id="sbref560">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Camaj</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The media's role in fighting corruption: media effects on governmental accountability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Press</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>42</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext56">Camaj L. The media's role in fighting corruption: media effects on governmental accountability. Int J Press 2013; 18: 21–42.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib57">
+                     <ce:label>57</ce:label>
+                     <sb:reference id="sbref570">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Olukoyun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Media accountability and democracy in Nigeria, 1999–2003</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Afr Stud Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext57">Olukoyun A. Media accountability and democracy in Nigeria, 1999–2003. Afr Stud Rev 2004; 47: 69–90.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

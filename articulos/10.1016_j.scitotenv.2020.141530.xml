@@ -1,0 +1,1661 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0048969720350592</prism:url><dc:identifier>doi:10.1016/j.scitotenv.2020.141530</dc:identifier><eid>1-s2.0-S0048969720350592</eid><prism:doi>10.1016/j.scitotenv.2020.141530</prism:doi><pii>S0048-9697(20)35059-2</pii><dc:title>Urban environmental health interventions towards the Sustainable Development Goals </dc:title><prism:publicationName>Science of The Total Environment</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>00489697</prism:issn><prism:volume>748</prism:volume><prism:startingPage>141530</prism:startingPage><prism:pageRange>141530</prism:pageRange><articleNumber>141530</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2020-12-15</prism:coverDate><prism:coverDisplayDate>15 December 2020</prism:coverDisplayDate><prism:copyright>© 2020 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Vardoulakis, Sotiris</dc:creator><dc:creator>Salmond, Jennifer</dc:creator><dc:creator>Krafft, Thomas</dc:creator><dc:creator>Morawska, Lidia</dc:creator><dc:description>
+                  The aim of the UN Sustainable Development Goals (SDGs) is to achieve a better and more sustainable future for all by 2030. Since the majority of the global population lives in cities, it is crucial to identify, evaluate and implement urban interventions (such as zero carbon housing, active transport, better urban connectivity, air pollution control, clean household fuels, and protection from heat and flood events) that will improve health and wellbeing and make our natural and built environment more sustainable. This Virtual Special Issue (VSI) comprises of 14 diverse case studies, methods and tools that provide suggestions for interventions which directly or indirectly support the achievement of the UN SDGs.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Urban health</dcterms:subject><dcterms:subject>Environmental health</dcterms:subject><dcterms:subject>Non-communicable diseases</dcterms:subject><dcterms:subject>Sustainable development</dcterms:subject><dcterms:subject>Climate change</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0048969720350592" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0048969720350592" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="811" height="513" size="127929">https://api.elsevier.com/content/object/eid/1-s2.0-S0048969720350592-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="139" size="11041">https://api.elsevier.com/content/object/eid/1-s2.0-S0048969720350592-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3591" height="2273" size="990033">https://api.elsevier.com/content/object/eid/1-s2.0-S0048969720350592-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85089519482</scopus-id><scopus-eid>2-s2.0-85089519482</scopus-eid><pubmed-id>32827895</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85089519482" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271800</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291781</xocs:ssid>
+         <xocs:ssid type="subj">291792</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Science of The Total Environment</xocs:srctitle>
+      <xocs:normalized-srctitle>SCIENCETOTALENVIRONMENT</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200807">2020-08-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200807">2020-08-07</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200819">2020-08-19</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200819">2020-08-19</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-11-28T12:42:50</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0048969720350592</xocs:eid>
+      <xocs:pii-formatted>S0048-9697(20)35059-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0048969720350592</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.scitotenv.2020.141530</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0048969720X00398</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20201128">2020-11-28T13:10:22.729993Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20201215</xocs:date-search-begin>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1596783930">2020-08-07T07:05:30.213759Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0048-9697</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00489697</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>748</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>748</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 748</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>91</xocs:sort-order>
+      <xocs:first-fp>141530</xocs:first-fp>
+      <xocs:article-number>141530</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>141530</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20201215</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 December 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-12-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>URBANENVIRONMENTALHEALTHINTERVENTIONSTOWARDSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>VARDOULAKIS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Urban environmental health case studies</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Accelerating sustainable development for healthier cities</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>ADESINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>134403</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>ASUMADUSAKYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>470</xocs:ref-first-fp>
+            <xocs:ref-last-lp>479</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>BONNEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>CARMICHAEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>137146</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>HEAVISIDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>296</xocs:ref-first-fp>
+            <xocs:ref-last-lp>305</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>HOWDENCHAPMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>134408</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>JAMEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>883</xocs:ref-first-fp>
+            <xocs:ref-last-lp>898</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>MACMILLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>136678</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf2020">
+            <xocs:ref-normalized-surname>MAZORRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>135968</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>134259</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>ROTHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>137772</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>SALMOND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>SALMOND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>52</xocs:ref-first-fp>
+            <xocs:ref-last-lp>63</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>SYMONDS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>134105</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>UN</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>UN</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>VARDOULAKIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>VARDOULAKIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>VARDOULAKIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>557</xocs:ref-first-fp>
+            <xocs:ref-last-lp>565</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>VOMMARO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>134629</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>WRI</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>133586</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>134577</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>ZHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>197</xocs:ref-first-fp>
+            <xocs:ref-last-lp>208</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>VARDOULAKISX2020X141530</xocs:refkey3>
+         <xocs:refkey4ai>VARDOULAKISX2020X141530XS</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2022-08-19T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-08-19T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-08-21T22:20:10.731Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S0048969720350592</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Healthy-Polis International Consortium for Urban Environmental Health and Sustainability</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding-text>We acknowledge in-kind support from the Healthy-Polis International Consortium for Urban Environmental Health and Sustainability .</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0048-9697(20)35059-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0048969720350592</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0048969720350592</xocs:eid>
+         <xocs:doi>10.1016/j.scitotenv.2020.141530</xocs:doi>
+         <xocs:cid>271800</xocs:cid>
+         <xocs:timestamp>2020-11-28T13:10:22.729993Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-12-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0048969720350592-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0048969720350592/MAIN/application/pdf/f550e48d412347b86ca858df225d780a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>672760</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0048969720350592-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0048969720350592/PREVIEW/image/png/83f180ef048000df10b7bee231ba67e1/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64631</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0048969720350592-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0048969720350592/gr1/DOWNSAMPLED/image/jpeg/3fb4d5d925b53f7025d52ac68832a2fd/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>127929</xocs:filesize>
+               <xocs:pixel-height>513</xocs:pixel-height>
+               <xocs:pixel-width>811</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0048969720350592-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0048969720350592/gr1/THUMBNAIL/image/gif/49d82e274d303582fad655312bd8ebe1/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11041</xocs:filesize>
+               <xocs:pixel-height>139</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0048969720350592-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0048969720350592/gr1/HIGHRES/image/jpeg/311e9a05ed4ca22be37a79642cd5565c/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>990033</xocs:filesize>
+               <xocs:pixel-height>2273</xocs:pixel-height>
+               <xocs:pixel-width>3591</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>STOTEN</jid>
+            <aid>141530</aid>
+            <ce:article-number>141530</ce:article-number>
+            <ce:pii>S0048-9697(20)35059-2</ce:pii>
+            <ce:doi>10.1016/j.scitotenv.2020.141530</ce:doi>
+            <ce:copyright type="unknown" year="2020"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">Urban environmental health interventions discussed in the Virtual Special Issue in relation with the SDGs.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0005" role="short">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:href="pii:S0048969720350592/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" colsep="0" frame="topbot" id="t0005" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">Case studies presented in the VSI: urban environmental health interventions towards the sustainable development goals by city or region.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0010" role="short">Table 1</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Paper</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Problem</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Intervention</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Topic</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">City or region/country</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">SDGs</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0005" refid="bb0010">Asumadu-Sakyi et al. (2019)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Exposure to extreme indoor temperatures</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Improved thermal performance of houses</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Heat and cold</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Brisbane/Australia</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">11, 13</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0010" refid="bb0115">Zhen et al. (2019)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">High energy consumption of indoor lighting &amp; health consequences of poor lighting</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Optimizing light fixtures</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Light</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Xi'an/China</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">3, 7, 11</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0015" refid="bb0035">Jamei et al. (2019)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Need to model urban climates for human health</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Overview of climatic and bioclimatic modelling systems case study: ENVI-met</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Urban climate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Melbourne/Australia</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">11, 13</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0020" refid="bb0105">Wu et al. (2019)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Extreme flooding events</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Policy evaluation and recommendations for sheltering</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Flooding</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Anhui province/China</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">3, 13</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0025" refid="bb0065">Symonds et al. (2019)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Discerning &amp; quantifying impacts of environmental policies on population health and health inequalities</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Microsimulation model</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Health and inequalities</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">London/UK</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">3, 11</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0030" refid="bb0045">Park et al. (2020)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Overheating of urban environments &amp; impact on health</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Radiant heat load mitigation strategies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Heat</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Hypothetical urban site/Korea</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">3, 11</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0035" refid="bb0005">Adesina et al. (2020)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Indoor air pollution and health impacts of solid fuel burning</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Case study analysis and evidence</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Air pollution</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Mpumalanga province/South Africa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">3, 7</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0040" refid="bb0030">Howden-Chapman et al. (2020)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Impact of transport and housing on health, employment and wellbeing</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Evaluation of investment and planning initiatives</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Carbon emissions</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Auckland and Christchurch/New Zealand</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">3, 6, 10, 11, 13</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0045" refid="bb0110">Xue et al. (2020)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Spatial heterogeneity and difficulty measuring air pollution over large areas</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Satellite-derived spatiotemporal PM<inf loc="post">2.5</inf> concentrations</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Air pollution</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Various city clusters/China</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">3</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0050" refid="bb0095">Vommaro et al. (2020)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Climate change risk in urban areas</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Indicators are proposed to identify and reduce municipal climate risks</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Urban climate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">State of Maranhão/Brazil</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">13 (13.1 &amp; 13.2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf1245" refid="bb2020">Mazorra et al. (2020)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Need for sustainable cooking solutions which minimise indoor air pollution</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Comprehensive analysis of cooking solutions co-benefits at household level</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Cookstoves</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Casamance/Senegal, The Gambia and Guinea Bissau</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">3, 5, 7, 13</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0055" refid="bb0040">Macmillan et al. (2020)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Constraints on improving active transportation choices</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Theory and case study approach to identify suburb-level changes for active transport</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Active transport</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Auckland/New Zealand</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">1, 3, 4, 5, 8, 10, 11 (11.2), 13, 15, 16, 17</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0060" refid="bb0020">Carmichael et al. (2020)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Establishing the link between buildings and public health</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Public health research and evaluation of building policy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Housing</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">England/UK</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">3 (3.9), 11 (11.1)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">
+                           <cross-ref id="cf0065" refid="bb0050">Rother (2020)</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Climate impacts on non-communicable diseases</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Framework for understanding climatic pathways</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">NCDs</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Sub-Saharan Africa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">1, 2, 3, 6, 8, 11, 13</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dh0005">
+               <ce:textfn id="tn0005">Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0005">Urban environmental health interventions towards the Sustainable Development Goals</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author author-id="S0048969720350592-7700a33acc7b87225503d6a012736501" id="au0005">
+                  <ce:given-name>Sotiris</ce:given-name>
+                  <ce:surname>Vardoulakis</ce:surname>
+                  <ce:cross-ref id="cf0070" refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cf0075" refid="cr0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S0048969720350592-ef19388f4a37021009798123f4bd93c9" id="au0010">
+                  <ce:given-name>Jennifer</ce:given-name>
+                  <ce:surname>Salmond</ce:surname>
+                  <ce:cross-ref id="cf0080" refid="af0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author author-id="S0048969720350592-122f29755cc0ab090df10303cf9ea808" id="au0015">
+                  <ce:given-name>Thomas</ce:given-name>
+                  <ce:surname>Krafft</ce:surname>
+                  <ce:cross-ref id="cf0085" refid="af0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author author-id="S0048969720350592-1eeccc639ba08e3c0bbd02a6df2c0518" id="au0020">
+                  <ce:given-name>Lidia</ce:given-name>
+                  <ce:surname>Morawska</ce:surname>
+                  <ce:cross-ref id="cf0090" refid="af0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation affiliation-id="S0048969720350592-a1a05db4c52112e99739f16b6c16d351" id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0010">National Centre for Epidemiology and Population Health, Research School of Population Health, Australian National University, Canberra, ACT 2601, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>National Centre for Epidemiology and Population Health</sa:organization>
+                     <sa:organization>Research School of Population Health</sa:organization>
+                     <sa:organization>Australian National University</sa:organization>
+                     <sa:city>Canberra</sa:city>
+                     <sa:state>ACT</sa:state>
+                     <sa:postal-code>2601</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">National Centre for Epidemiology and Population Health, Research School of Population Health, Australian National University, Canberra, ACT 2601, Australia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0048969720350592-005f4556341ffdec2c0df460b95ee48a" id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0015">School of Environment, University of Auckland, Auckland 1142, New Zealand</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Environment</sa:organization>
+                     <sa:organization>University of Auckland</sa:organization>
+                     <sa:city>Auckland</sa:city>
+                     <sa:postal-code>1142</sa:postal-code>
+                     <sa:country>New Zealand</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0010">School of Environment, University of Auckland, Auckland, 1142, New Zealand</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0048969720350592-383e199deca954b9d4aa74270315c1fb" id="af0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0020">Faculty of Health, Medicine and Life Sciences, Maastricht University, Maastricht 6200 MD, the Netherlands</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Faculty of Health, Medicine and Life Sciences</sa:organization>
+                     <sa:organization>Maastricht University</sa:organization>
+                     <sa:city>Maastricht</sa:city>
+                     <sa:postal-code>6200 MD</sa:postal-code>
+                     <sa:country>the Netherlands</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0015">Faculty of Health, Medicine and Life Sciences, Maastricht University, Maastricht 6200 MD, The Netherlands</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0048969720350592-56610c301f86de285b3c1e7989dcc23e" id="af0020">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="tn0025">International Laboratory for Air Quality &amp; Health, Queensland University of Technology, Brisbane, QLD 4001 Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>International Laboratory for Air Quality &amp; Health</sa:organization>
+                     <sa:organization>Queensland University of Technology</sa:organization>
+                     <sa:city>Brisbane</sa:city>
+                     <sa:state>QLD</sa:state>
+                     <sa:postal-code>4001</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0020">International Laboratory for Air Quality &amp; Health, Queensland University of Technology, Brisbane, QLD, Australia</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author" id="ab0005" xml:lang="en" view="all"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0015" view="all">The aim of the UN Sustainable Development Goals (SDGs) is to achieve a better and more sustainable future for all by 2030. Since the majority of the global population lives in cities, it is crucial to identify, evaluate and implement urban interventions (such as zero carbon housing, active transport, better urban connectivity, air pollution control, clean household fuels, and protection from heat and flood events) that will improve health and wellbeing and make our natural and built environment more sustainable. This Virtual Special Issue (VSI) comprises of 14 diverse case studies, methods and tools that provide suggestions for interventions which directly or indirectly support the achievement of the UN SDGs.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="ks0005" view="all">
+               <ce:section-title id="st0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Urban health</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Environmental health</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Non-communicable diseases</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Sustainable development</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0030">Climate change</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">The United Nations 2030 Agenda for Sustainable Development, and its Sustainable Development Goals (SDGs) in particular, have focused the attention of researchers, practitioners and policy-makers on interventions that have the potential to provide multiple benefits (“co-benefits”) for health, the environment, and the economy, particularly in urban settings were two-thirds of the world population will live by 2050 (<ce:cross-ref id="cf0095" refid="bb0070">UN, 2018</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0010" view="all">Progress towards the SDGs has being made in many areas, but, overall, action to meet the Goals is not yet advancing at the speed or scale required to achieve their specific targets and bring about transformational change. In September 2019, the UN Secretary-General called on all sectors of society to mobilize for a decade of action to accelerate sustainable solutions to the world's biggest challenges, ranging from poverty and gender to climate change, inequality and closing the finance gap (<ce:cross-ref id="cf0100" refid="bb0075">UN, 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0015" view="all">Many of these challenges are experienced in cities around the world, and particularly in rapidly urbanising low and middle-income countries, which face overpopulation, lack of adequate resources and infrastructure, climate change, urban heat islands, extreme weather, air pollution, and related illnesses, inequalities and productivity losses (<ce:cross-ref id="cf0105" refid="bb0055">Salmond et al., 2018</ce:cross-ref>; <ce:cross-ref id="cf0110" refid="bb0085">Vardoulakis et al., 2016</ce:cross-ref>; <ce:cross-ref id="cf0115" refid="bb0080">Vardoulakis and Kinney, 2019</ce:cross-ref>). At the same time, the complex links between the growing burden of non-communicable diseases (such as cancer, cardiovascular, respiratory, neurodegenerative and autoimmune diseases), urban form and environmental quality are becoming increasingly recognised.</ce:para>
+                  <ce:para id="p0020" view="all">Identifying and promoting effective urban environmental health interventions for addressing the SDGs, such as reducing carbon emissions (Goal 13), which can enhance good health and wellbeing (Goal 3), is urgent (<ce:cross-ref id="cf0120" refid="bb0030">Howden-Chapman et al., 2020</ce:cross-ref>). Well-planned, sustainable, changes to urban transport, housing, land use, renewable energy generation, and waste management have the potential to lead to improvements in air and water quality and livability of urban environments, providing multiple benefits including improved public health, reduced inequalities and higher productivity in cities (<ce:cross-ref id="cf0125" refid="bb0090">Vardoulakis et al., 2018</ce:cross-ref>). Furthermore, the use of smart sensing technologies and mobile platforms, and the development of advanced techniques for the analysis of big data, when applied appropriately, can revolutionise environmental and public health management in cities (<ce:cross-ref id="cf0130" refid="bb0060">Salmond et al., 2017</ce:cross-ref>). Citizen science, awareness raising and behaviour change campaigns are also expected to have an impact on environmental sustainability and urban health, although it is currently unclear whether benefits of such interventions can be sustained over time (<ce:cross-ref id="cf0135" refid="bb0015">Bonney et al., 2016</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0025" view="all">The Healthy-Polis Consortium for Urban Environmental Health and Sustainability (<ce:inter-ref id="ir0005" xlink:href="http://www.healthy-polis.org" xlink:type="simple">www.healthy-polis.org</ce:inter-ref>) aims to contribute to the implementation of the SDGs by identifying and evaluating specific policy initiatives, case studies, tools, evidence gaps, and opportunities for research and translation into environmental public health practice in cities around the world. In this Virtual Special Issue, we present a collection of such case studies from 10 countries (4 high income, and 6 middle or low income countries; <ce:cross-ref id="cf0140" refid="t0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/>) and discuss their implications for achieving the SDGs (<ce:cross-ref id="cf0145" refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>).</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0020">Urban environmental health case studies</ce:section-title>
+                  <ce:para id="p0030" view="all">The research presented in this Virtual Special Issue, highlights a number of key interventions aimed at achieving the SDGs and their consequent pathways to health and environmental impact. One of the main direct effects of climate change is the increase in global average temperature, as well as in the frequency and severity of extreme weather events (e.g. heatwaves). This has a disproportionate impact on built up areas due to the Urban Heat Island effect, housing overheating and overcrowding, and the vulnerability of the resident population (<ce:cross-ref id="cf0150" refid="bb0025">Heaviside et al., 2017</ce:cross-ref>). Two of the studies included in the special issue focus on temperature related impacts on health and wellbeing due to the poor thermal performance of houses in Brisbane, Australia (<ce:cross-ref id="cf0155" refid="bb0010">Asumadu-Sakyi et al., 2019</ce:cross-ref>), and the mitigation strategies aiming to reduce radiant heat load on buildings in Korea (<ce:cross-ref id="cf0160" refid="bb0045">Park et al., 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0035" view="all">One of the key challenges when attempting to address Goal 3 (health and wellbeing) is to improve both ambient and household air quality. <ce:cross-ref id="cf0165" refid="bb0110">Xue et al. (2020)</ce:cross-ref> focused on satellite-derived air pollution (PM<ce:inf loc="post">2.5</ce:inf>) as an evaluation index for health and wellbeing. In their paper, the temporal trends of PM<ce:inf loc="post">2.5</ce:inf> and the quantitative potential impact of environmental governance on PM<ce:inf loc="post">2.5</ce:inf> were analysed for China. Using environmental regulation intensity and synergy to quantify the influence of governance, they concluded that regulatory measures should be enhanced to further decrease PM<ce:inf loc="post">2.5</ce:inf> in the future (<ce:cross-ref id="cf0170" refid="bb0110">Xue et al., 2020</ce:cross-ref>). <ce:cross-ref id="cf0175" refid="bb0065">Symonds et al. (2019)</ce:cross-ref> used a microsimulation model to quantifying the impact of PM<ce:inf loc="post">2.5</ce:inf> exposures on mortality, morbidity and health inequality in London, UK, as an aid to selecting policies likely to have the greatest benefit (<ce:cross-ref id="cf0180" refid="bb0065">Symonds et al., 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0040" view="all">In a different context, <ce:cross-ref id="cf0185" refid="bb0005">Adesina et al. (2020)</ce:cross-ref> assessed the impact of solid fuel burning in an indoor and ambient environment near coal-fired power plants in South Africa using continuous monitoring of PM<ce:inf loc="post">4</ce:inf> in two houses, of which only one used coal as a primary source of energy. They found significant differences in indoor air pollution levels during the winter season, but also at times high ambient concentrations, which indicated that decarbonisation of household energy and power generation could bring significant benefits for air quality and public health (<ce:cross-ref id="cf0190" refid="bb0005">Adesina et al., 2020</ce:cross-ref>). In a comprehensive analysis of cooking solutions in Western Africa, co-benefits of clean cooking solutions (Goal 7, affordable and clean energy) at household level were analysed in relation to Goals 3 (health and wellbeing), 5 (gender equality), and 13 (climate action). Interestingly, the most important co-benefit was related to gender equality (Goal 5), representing 60–97% of the total economic benefit of the intervention (<ce:cross-ref id="cf7195" refid="bb2020">Mazorra et al. 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0045" view="all">
+                     <ce:cross-ref id="cf0195" refid="bb0020">Carmichael et al. (2020)</ce:cross-ref> explored the use of public health research and evidence in policy to regulate new buildings in England to deliver improved public health, climate resilience and a reduced carbon footprint. They showed that public health evidence was hardly referenced in policy, and that a narrow focus on climate mitigation in building regulations results in both positive and negative impacts on health. This highlights the need for a systems approach around urban interventions (<ce:cross-ref id="cf0200" refid="bb0020">Carmichael et al., 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0050" view="all">
+                     <ce:cross-ref id="cf0205" refid="bb0115">Zhen et al. (2019)</ce:cross-ref> demonstrated that optimizing the design of natural lighting in residential buildings can greatly reduce lighting energy consumption and improve indoor environmental quality, as well as the physical and mental health of residents (Goal 3, health and wellbeing) (<ce:cross-ref id="cf0210" refid="bb0115">Zhen et al., 2019</ce:cross-ref>). <ce:cross-ref id="cf0215" refid="bb0035">Jamei et al. (2019)</ce:cross-ref> provided an overview of different types of climatic and bioclimatic modelling systems and presented their main benefits and shortcomings in urban applications (<ce:cross-ref id="cf0220" refid="bb0035">Jamei et al., 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0055" view="all">Human vulnerability assessment is an important tool within the scope of Goal 13 (climate action), as it can help develop adaptation strategies in the context of regional climate change. <ce:cross-ref id="cf0225" refid="bb0095">Vommaro et al. (2020)</ce:cross-ref> demonstrated the application of a modelling method to evaluate human vulnerability to climate change in the state of Maranhão, Brazil. Using a municipal vulnerability index based on socioeconomic, demographic, climate, epidemiological, and environmental aspects, they identified the most vulnerable areas under climate change (<ce:cross-ref id="cf0230" refid="bb0095">Vommaro et al., 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0060" view="all">
+                     <ce:cross-ref id="cf0235" refid="bb0105">Wu et al. (2019)</ce:cross-ref> identified good practice and lessons learned from China's response to severe flooding in Anhui province in 2016. Good practice included using early warning systems to advise communities of risks and enforce evacuation in the flood zone, preparing and using schools as shelters with open-ended periods of operation, and providing stable shelter accommodations with medical and public health services, clean drinking water and food, sanitation, and toilet hygiene through multiagency cooperation. They concluded that disaster mitigation strategies need to be integrated with climate adaptation plans in cities (<ce:cross-ref id="cf0240" refid="bb0105">Wu et al., 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0065" view="all">Two studies from New Zealand focused on active transport (<ce:cross-ref id="cf0245" refid="bb0040">Macmillan et al., 2020</ce:cross-ref>), and on integrated urban planning and regeneration (<ce:cross-ref id="cf0250" refid="bb0030">Howden-Chapman et al., 2020</ce:cross-ref>). <ce:cross-ref id="cf0255" refid="bb0040">Macmillan et al. (2020)</ce:cross-ref> used an active transport case study from Auckland to illustrate the complex causal pathways that contribute to achieving several SDGs, including Goal 11 (sustainable cities) and Goal 10 (reduced inequalities). <ce:cross-ref id="cf0260" refid="bb0030">Howden-Chapman et al. (2020)</ce:cross-ref> examined four urban policies involving installation of cycleways and walkways, a central government measure to recentralise employment after the 2011 Christchurch earthquakes, the streamlining of housing developments by reducing land-use regulation, and changes of policy about public housing investment. They demonstrated that having a clear understanding of the benefits of increased physical activity for health could accelerate the reduction of carbon emissions. Furthermore, decisions about infrastructure, housing and job locations could generate health and environmental co-benefits, if supported by broader public transport investments (<ce:cross-ref id="cf0265" refid="bb0030">Howden-Chapman et al., 2020</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0070" view="all">There is limited evidence in research, policies and in the SDGs about the impact of environmental factors on non-communicable diseases (NCDs) in urban areas of sub-Saharan Africa, although 80% of NCDs are taking place in low- and middle-income countries and are linked to a third of the deaths in sub-Saharan Africa. <ce:cross-ref id="cf0270" refid="bb0050">Rother (2020)</ce:cross-ref> poses the question: what would these statistics look like if environmental risk factors (e.g., pollution, climate change) were prevented and controlled. <ce:cross-ref id="cf0275" refid="bb0050">Rother (2020)</ce:cross-ref> presents a framework for understanding climatic impacts on climate-sensitive NCDs and achieving the SDGs. This explains how current global mitigation interventions in high income urban settings, with implied health co-benefits for NCD reduction (i.e. use of less polluting vehicles, cycling, walking, public transport, green spaces), experience major implementation challenges in sub-Saharan African cities (i.e. too costly, lack of availability, poor road conditions, gender and cultural norms, security problems). The article recommends more support for research on the climate-NCD nexus, ensuring health professional training includes sustainable health education, and including a focus on climate change and health in primary and secondary school curricula (<ce:cross-ref id="cf0280" refid="bb0050">Rother, 2020</ce:cross-ref>).</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0025">Accelerating sustainable development for healthier cities</ce:section-title>
+                  <ce:para id="p0075" view="all">In the Decade of Action for SDG implementation (<ce:cross-ref id="cf0285" refid="bb0075">UN, 2020</ce:cross-ref>), the recovery pathways from COVID-19 are an opportunity for governments, urban planners, environmental public health practitioners, and other stakeholders to Build Back Better our cities (<ce:cross-ref id="cf0290" refid="bb0100">WRI, 2020</ce:cross-ref>). The Healthy-Polis VSI: Urban Environmental Health Interventions towards the Sustainable Development Goals provides diverse evidence, case studies and tools to inspire action in cities and regions around the world, so they can emerge healthier and more sustainable in the future post COVID-19. The interventions and tools discussed can be used to provide multiple environmental health solutions, which are context specific. For this reason, it is important to consider the intended and unintended consequences of these interventions by using a cross-disciplinary systems approach and involving all relevant stakeholders in discussions and decision making. Promoting climate-sensitive urban policies, such as zero carbon housing, active transport, better urban connectivity, clean household fuels, and protection from heat and flood events, will help improve health and wellbeing in cities as we move towards achieving and sustaining the SDGs.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0005" view="all">
+               <ce:section-title id="st9180">Declaration of competing interest</ce:section-title>
+               <ce:para id="p9270" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0030">Acknowledgements</ce:section-title>
+               <ce:para id="p0080" view="all">We acknowledge in-kind support from the <ce:grant-sponsor id="gts0005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Healthy-Polis International Consortium for Urban Environmental Health and Sustainability</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0035">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>Adesina et al., 2020</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Adesina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Piketh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Qhekwana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Burger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Language</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Mkhatshwa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Contrasting indoor and ambient particulate matter concentrations and thermal comfort in coal and non-coal burning households at South Africa highveld</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>699</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134403</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0025">Adesina JA, Piketh SJ, Qhekwana M, Burger R, Language B, Mkhatshwa G. 2020. Contrasting indoor and ambient particulate matter concentrations and thermal comfort in coal and non-coal burning households at south africa highveld. Science of The Total Environment 699:134403.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>Asumadu-Sakyi et al., 2019</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Asumadu-Sakyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Thai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Jayaratne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Thompson</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Seasonal temperature patterns and durations of acceptable temperature range in houses in Brisbane, Australia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>683</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>470</sb:first-page>
+                              <sb:last-page>479</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0030">Asumadu-Sakyi AB, Miller W, Barnett AG, Thai PK, Jayaratne ER, Thompson MH, et al. 2019. Seasonal temperature patterns and durations of acceptable temperature range in houses in brisbane, australia. Science of The Total Environment 683:470-479.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>Bonney et al., 2016</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bonney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.B.</ce:given-name>
+                                 <ce:surname>Phillips</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Ballard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Enck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Can citizen science enhance public understanding of science?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Public Underst. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2</sb:first-page>
+                              <sb:last-page>16</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0035">Bonney R, Phillips TB, Ballard HL, Enck JW. 2016. Can citizen science enhance public understanding of science? Public Understanding of Science 25:2-16.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>Carmichael et al., 2020</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Carmichael</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Prestwood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Marsh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ige</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Pilkington</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Healthy buildings for a healthy city: is the public health evidence base informing current building policies?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>719</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>137146</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">Carmichael L, Prestwood E, Marsh R, Ige J, Williams B, Pilkington P, et al. 2020. Healthy buildings for a healthy city: Is the public health evidence base informing current building policies? Science of The Total Environment 719:137146.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>Heaviside et al., 2017</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Heaviside</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Macintyre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Vardoulakis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The urban heat island: implications for health in a changing environment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Current Environmental Health Reports</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>296</sb:first-page>
+                              <sb:last-page>305</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0045">Heaviside C, Macintyre H, Vardoulakis S. 2017. The urban heat island: Implications for health in a changing environment. Current Environmental Health Reports 4:296-305.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>Howden-Chapman et al., 2020</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Howden-Chapman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Keall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Whitwell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chapman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluating natural experiments to measure the co-benefits of urban policy interventions to reduce carbon emissions in New Zealand</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>700</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134408</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0050">Howden-Chapman P, Keall M, Whitwell K, Chapman R. 2020. Evaluating natural experiments to measure the co-benefits of urban policy interventions to reduce carbon emissions in new zealand. Science of The Total Environment 700:134408.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>Jamei et al., 2019</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Jamei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Seyedmahmoudian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Horan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Stojcevski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Verification of a bioclimatic modeling system in a growing suburb in Melbourne</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>689</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>883</sb:first-page>
+                              <sb:last-page>898</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0055">Jamei E, Seyedmahmoudian M, Horan B, Stojcevski A. 2019. Verification of a bioclimatic modeling system in a growing suburb in melbourne. Science of The Total Environment 689:883-898.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>Macmillan et al., 2020</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Macmillan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Witten</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Woodward</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hosking</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wild</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Suburb-level changes for active transport to meet the SDGs: causal theory and a New Zealand case study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>714</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>136678</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0060">Macmillan A, Smith M, Witten K, Woodward A, Hosking J, Wild K, et al. 2020. Suburb-level changes for active transport to meet the sdgs: Causal theory and a new zealand case study. Science of The Total Environment 714:136678.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb2020">
+                     <ce:label>Mazorra et al., 2020</ce:label>
+                     <sb:reference id="rf2020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mazorra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Sánchez-Jacob</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>De La Sota</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fernández</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lumbreras</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A comprehensive analysis of cooking solutions co-benefits at household level: healthy lives and well-being, gender and climate change</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>707</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>135968</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.scitotenv.2019.135968</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se1240">Mazorra J, Sánchez-Jacob E, De La Sota C, Fernández L, Lumbreras J. 2020. A comprehensive analysis of cooking solutions co-benefits at household level: Healthy lives and well-being, gender and climate change. Science of The Total Environment 707:135968. https://doi.org/10.1016/j.scitotenv.2019.135968</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>Park et al., 2020</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Thorne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integrating four radiant heat load mitigation strategies is an efficient intervention to improve human health in urban environments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>698</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134259</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0065">Park CY, Yoon EJ, Lee DK, Thorne JH. 2020. Integrating four radiant heat load mitigation strategies is an efficient intervention to improve human health in urban environments. Science of The Total Environment 698:134259.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>Rother, 2020</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.-A.</ce:given-name>
+                                 <ce:surname>Rother</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Controlling and preventing climate-sensitive noncommunicable diseases in urban sub-Saharan africa</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>722</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>137772</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0070">Rother H-A. 2020. Controlling and preventing climate-sensitive noncommunicable diseases in urban sub-saharan africa. Science of The Total Environment 722:137772.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>Salmond et al., 2018</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Salmond</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sabel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Vardoulakis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Towards the integrated study of urban climate, air pollution, and public health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Climate</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0075">Salmond J, Sabel C, Vardoulakis S. 2018. Towards the integrated study of urban climate, air pollution, and public health. Climate 6:14.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>Salmond et al., 2017</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Salmond</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tadaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dickson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Can big data tame a “naughty” world?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Canadian Geographer/Le Géographe canadien</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>52</sb:first-page>
+                              <sb:last-page>63</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0080">Salmond JA, Tadaki M, Dickson M. 2017. Can big data tame a “naughty” world? The Canadian Geographer / Le Géographe canadien 61:52-63.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>Symonds et al., 2019</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Symonds</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Hutchinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ibbetson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Milner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chalabi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microenv: a microsimulation model for quantifying the impacts of environmental policies on population health and health inequalities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>697</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134105</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0085">Symonds P, Hutchinson E, Ibbetson A, Taylor J, Milner J, Chalabi Z, et al. 2019. Microenv: A microsimulation model for quantifying the impacts of environmental policies on population health and health inequalities. Science of The Total Environment 697:134105.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>UN, 2018</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UN</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>News: 68% of the world population projected to live in urban areas by 2050</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Available:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0010" xlink:href="https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html" xlink:type="simple">https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html</ce:inter-ref>
+                              <sb:date>2018</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0090">UN. 2018. News: 68% of the world population projected to live in urban areas by 2050. Available: https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>UN, 2020</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UN</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable development goals - decade of action</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Available:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0015" xlink:href="https://www.un.org/sustainabledevelopment/decade-of-action/" xlink:type="simple">https://www.un.org/sustainabledevelopment/decade-of-action/</ce:inter-ref>
+                              <sb:date>2020</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0095">UN. 2020. Sustainable development goals - decade of action. Available: https://www.un.org/sustainabledevelopment/decade-of-action/.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>Vardoulakis and Kinney, 2019</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Vardoulakis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kinney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Grand challenges in sustainable cities and health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Frontiers in Sustainable Cities</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0100">Vardoulakis S, Kinney P. 2019. Grand challenges in sustainable cities and health. Frontiers in Sustainable Cities 1.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>Vardoulakis et al., 2016</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Vardoulakis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Dear</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wilkinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Challenges and opportunities for urban environmental health and sustainability: the healthy-polis initiative</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0105">Vardoulakis S, Dear K, Wilkinson P. 2016. Challenges and opportunities for urban environmental health and sustainability: The healthy-polis initiative. Environmental Health 15.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>Vardoulakis et al., 2018</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Vardoulakis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kettle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Cosford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lincoln</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Holgate</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Grigg</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Local action on outdoor air pollution to improve public health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Public Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>557</sb:first-page>
+                              <sb:last-page>565</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0110">Vardoulakis S, Kettle R, Cosford P, Lincoln P, Holgate S, Grigg J, et al. 2018. Local action on outdoor air pollution to improve public health. International Journal of Public Health 63:557-565.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>Vommaro et al., 2020</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Vommaro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Menezes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.D.L.</ce:given-name>
+                                 <ce:surname>Barata</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Contributions of municipal vulnerability map of the population of the state of Maranhão (Brazil) to the sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>706</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134629</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0115">Vommaro F, Menezes JA, Barata MMDL. 2020. Contributions of municipal vulnerability map of the population of the state of maranhão (brazil) to the sustainable development goals. Science of The Total Environment 706:134629.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>WRI, 2020</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>WRI</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>After the crisis: how covid-19 can drive transformational change in cities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Available:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0020" xlink:href="https://thecityfix.com/blog/covid-19-can-drive-transformational-change-cities/" xlink:type="simple">https://thecityfix.com/blog/covid-19-can-drive-transformational-change-cities/</ce:inter-ref>
+                              <sb:date>2020</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0120">WRI. 2020. After the crisis: How covid-19 can drive transformational change in cities. Available: https://thecityfix.com/blog/covid-19-can-drive-transformational-change-cities/.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>Wu et al., 2019</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Fitzgerald</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Planned sheltering as an adaptation strategy to climate change: lessons learned from the severe flooding in Anhui province of China in 2016</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>694</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>133586</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0125">Wu J, Huang C, Pang M, Wang Z, Yang L, Fitzgerald G, et al. 2019. Planned sheltering as an adaptation strategy to climate change: Lessons learned from the severe flooding in anhui province of china in 2016. Science of The Total Environment 694:133586.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>Xue et al., 2020</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Satellite-derived spatiotemporal PM<ce:inf loc="post">2.5</ce:inf> concentrations and variations from 2006 to 2017 in China</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>712</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134577</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0130">Xue W, Zhang J, Zhong C, Ji D, Huang W. 2020. Satellite-derived spatiotemporal pm2.5 concentrations and variations from 2006 to 2017 in china. Science of The Total Environment 712:134577.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>Zhen et al., 2019</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simulation analysis of natural lighting of residential buildings in Xi’an, China</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>690</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>197</sb:first-page>
+                              <sb:last-page>208</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0135">Zhen M, Du Y, Hong F, Bian G. 2019. Simulation analysis of natural lighting of residential buildings in xi'an, china. Science of The Total Environment 690:197-208.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

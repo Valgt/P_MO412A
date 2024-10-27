@@ -1,0 +1,900 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2214109X20301030</prism:url><dc:identifier>doi:10.1016/S2214-109X(20)30103-0</dc:identifier><eid>1-s2.0-S2214109X20301030</eid><prism:doi>10.1016/S2214-109X(20)30103-0</prism:doi><pii>S2214-109X(20)30103-0</pii><dc:title>A new vehicle to accelerate the UN Sustainable Development Goals </dc:title><prism:publicationName>The Lancet Global Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>2214109X</prism:issn><prism:volume>8</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>e637</prism:startingPage><prism:endingPage>e638</prism:endingPage><prism:pageRange>e637-e638</prism:pageRange><prism:number>5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2020-05-31</prism:coverDate><prism:coverDisplayDate>May 2020</prism:coverDisplayDate><prism:copyright>© 2020 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Sherr, Lorraine</dc:creator><dc:creator>Cluver, Lucie</dc:creator><dc:creator>Desmond, Chris</dc:creator><dc:creator>Toska, Elona</dc:creator><dc:creator>Aber, Larry</dc:creator><dc:creator>Dhaliwal, Mandeep</dc:creator><dc:creator>Webb, Douglas</dc:creator><dc:creator>Dugbazah, Justina</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2214109X20301030" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2214109X20301030" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="228956">https://api.elsevier.com/content/object/eid/1-s2.0-S2214109X20301030-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85083635997</scopus-id><scopus-eid>2-s2.0-85083635997</scopus-eid><pubmed-id>32353307</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85083635997" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>286970</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291904</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Global Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETGLOBALHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200427">2020-04-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200427">2020-04-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200427">2020-04-27</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200427">2020-04-27</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-09-17T20:54:03</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2214109X20301030</xocs:eid>
+      <xocs:pii-formatted>S2214-109X(20)30103-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2214109X20301030</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2214-109X(20)30103-0</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2214109X20X00064</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20220622">2022-06-22T04:39:50.536374Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200501</xocs:date-search-begin>
+      <xocs:date-search-end>20200531</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1588030145">2020-04-27T23:29:05.40758Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav table body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2214-109X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>2214109X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>8</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>8</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 8, Issue 5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>e637</xocs:first-fp>
+      <xocs:last-lp>e638</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>e637</xocs:first-page>
+         <xocs:last-page>e638</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202005</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>May 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-05-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-05-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>ANEWVEHICLEACCELERATEUNSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SHERR</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>REPORTSECRETARYGENERALSDGPROGRESS2019SPECIALEDITION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20"/>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SDGACCELERATORBOTTLENECKASSESSMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>CLUVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e362</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e370</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>SHERR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>CLUVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>245</xocs:ref-first-fp>
+            <xocs:ref-last-lp>254</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>MANNEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>25380</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>REMME</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>425</xocs:ref-first-fp>
+            <xocs:ref-last-lp>434</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SHERRX2020Xe637</xocs:refkey3>
+         <xocs:refkey4lp>SHERRX2020Xe637Xe638</xocs:refkey4lp>
+         <xocs:refkey4ai>SHERRX2020Xe637XL</xocs:refkey4ai>
+         <xocs:refkey5>SHERRX2020Xe637Xe638XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2020-03-10T16:43:47Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-06-11T20:44:17.012Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Janssen Pharmaceutica (PTY) LTS South Africa</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>DFID</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>DFID</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Department for International Development, UK Government</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000278</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2635167/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>UK Research and Innovation</xocs:funding-agency-matched-string>
+            <xocs:funding-id>ES/S008101/1</xocs:funding-id>
+            <xocs:funding-agency-acronym>UKRI</xocs:funding-agency-acronym>
+            <xocs:funding-agency>UK Research and Innovation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100014013</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2635167/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>International AIDS Society</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>IAS</xocs:funding-agency-acronym>
+            <xocs:funding-agency>International AIDS Society</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100007936</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2658434/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Janssen Pharmaceutica NV</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Nuffield Foundation</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Nuffield Foundation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000279</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2635167/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Medical Research Council</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>MRC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Medical Research Council</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000265</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2635167/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>UNICEF Eastern and Southern Africa</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>European Research Council</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>ERC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>European Research Council</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000781</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6695072/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Economic and Social Research Council</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>ESRC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Economic and Social Research Council</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000269</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2635167/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Institutes of Health</xocs:funding-agency-matched-string>
+            <xocs:funding-id>K43TW011434</xocs:funding-id>
+            <xocs:funding-agency-acronym>NIH</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Institutes of Health</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000002</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Institutes of Health Research</xocs:funding-agency-matched-string>
+            <xocs:funding-id>MR/R022372/1</xocs:funding-id>
+            <xocs:funding-agency-acronym>NHRI</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Health Research Institutes</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004737</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1668284/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Leverhulme Trust</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Leverhulme Trust</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000275</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2635167/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>John Fell Fund</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>John Fell Fund, University of Oxford</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004789</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2635167/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Department of Health Social Care</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>DH</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Department of Health and Social Care</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000276</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2635167/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Fogarty International Center</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>FIC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Fogarty International Center</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000061</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>European Union&amp;apos;s Horizon 2020 research and innovation programme</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2018/625-TOS</xocs:funding-id>
+            <xocs:funding-id>771468</xocs:funding-id>
+            <xocs:funding-agency>Horizon 2020</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100007601</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6695072/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Institute on Mental Health</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>NIMH</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Institute of Mental Health</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000025</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was funded by UK Research and Innovation Global Challenges Research Fund Accelerating Achievement for Africa&amp;apos;s Adolescents Hub (grant ref: ES/S008101/1). CD reports personal fees from University of KwaZulu-Natal during the conduct of the study. LC reports editorial fees from Taylor and Francis; and grants from the UK Research and Innovation Global Challenges Research Fund, Nuffield Foundation, UK AID, Janssen Pharmaceutica NV and Janssen Pharmaceutica (PTY) LTS South Africa, International AIDS Society, UNICEF Eastern and Southern Africa, John Fell Fund, European Research Council, Philip Leverhulme Trust, and the UK Economic and Social Research Council. ET reports funding from UK Medical Research Council (MRC) and the UK Department for International Development (DFID) under the MRC/DFID Concordat agreement, and by the Department of Health Social Care through its National Institutes of Health Research [MR/R022372/1]; the European Research Council under the European Union&amp;apos;s Horizon 2020 research and innovation programme (grant agreement number 771468); and the International AIDS Society through the CIPHER grant [2018/625-TOS]. The paper arises from the Global Challenges Research Fund Hub on accelerating achievements for Africa&amp;apos;s adolescents (principal investigator LC, co-directors LS and CD). All other authors sit on the hub strategic advisory committee. The views expressed in written materials or publications do not necessarily reflect the official policies of the International AIDS society. Research reported in this publication was supported by the Fogarty International Center, National Institute on Mental Health, and National Institutes of Health under award number K43TW011434. The content is solely the responsibility of the authors and does not represent the official views of the US National Institutes of Health.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2214-109X(20)30103-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2214109X20301030</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2214109X20301030</xocs:eid>
+         <xocs:doi>10.1016/S2214-109X(20)30103-0</xocs:doi>
+         <xocs:cid>286970</xocs:cid>
+         <xocs:timestamp>2021-09-17T20:31:40.154118Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-05-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-05-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2214109X20301030-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X20301030/MAIN/application/pdf/2f4a8f2f23e615d4fea5d3ec2629257b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>50134</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2214109X20301030-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214109X20301030/PREVIEW/image/png/c261869dd79cccc2f7d1432742a65d08/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>75582</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2214109X20301030-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10NWZC208M9/MAIN/application/pdf/68294105c3ccb57d0592fba4bff30893/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>228956</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>LANGLO</jid>
+            <aid>1609</aid>
+            <ce:pii>S2214-109X(20)30103-0</ce:pii>
+            <ce:doi>10.1016/S2214-109X(20)30103-0</ce:doi>
+            <ce:copyright type="other" year="2020">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <ce:floats>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table</ce:label>
+               <ce:caption id="cecap10">
+                  <ce:simple-para id="spara10" role="caption" view="all">Structure of the UK Research and Innovation Global Challenges Research Fund Accelerate Hub for Africa's adolescents</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Work package aim and methodology</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Desired outcome</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Work package tasks</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Leads</bold>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Work package 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Impact, co-creation, and capacity building</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Improved policy and services for 20 million African adolescents and their children</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Adolescent co-design, policy consultation, and engagement; trained service providers (34 countries); capacity-sharing for early-career African researchers</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Evelyn Gitau (African Population and Health Research Center Kenya); Prof Kevin Marsh (African Academy of Sciences; Africa Oxford Initiative)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Work package 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Observational cohorts across Africa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Identification of accelerators and combinations</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Quasi-experimental analyses, new data generation, and cost-effectiveness analyses</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Elona Toska (University of Cape Town); Heidi Stöckl (London School of Hygiene &amp; Tropical Medicine)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Work package 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Innovation laboratory</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Identification of cross-context transportability, sequencing, and merging</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Interdisciplinary workshops and collaborative projects; merging existing interventions</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Chris Desmond (University of KwaZulu-Natal); Prof Elleke Boehmer (University of Oxford)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Work package 4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Randomised trials</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Identification of accelerator combinations through experimental and moderator studies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Accelerator synergies across child developmental stages</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Kate Orkin (University of Oxford; Busara Kenya); Prof Alan Stein (University of Oxford; University of Witwatersrand)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Work package 5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">From evidence to scale</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Cost-effectiveness and investment cases, scaling and adapting actions across Africa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Costing and cost-effectiveness analysis of identified interventions; facilitating adolescent engagement and examining adolescent acceptability</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Marisa Casale (University of the Western Cape); Prof Olayinka Omigbodun (University of Ibadan)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">A new vehicle to accelerate the UN Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S2214109X20301030-bf87775ebac796f157f1e657ea3751ac">
+                  <ce:given-name>Lorraine</ce:given-name>
+                  <ce:surname>Sherr</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20" author-id="S2214109X20301030-e280a094e2316facce81f8901792ba9c">
+                  <ce:given-name>Lucie</ce:given-name>
+                  <ce:surname>Cluver</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref30" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30" author-id="S2214109X20301030-e942f2542b89cd45802f6049a62a3cd5">
+                  <ce:given-name>Chris</ce:given-name>
+                  <ce:surname>Desmond</ce:surname>
+                  <ce:cross-ref id="cecref40" refid="aff5">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au40" author-id="S2214109X20301030-88d4a6fd23bbf544b8d2d6ad530c2d26">
+                  <ce:given-name>Elona</ce:given-name>
+                  <ce:surname>Toska</ce:surname>
+                  <ce:cross-ref id="cecref50" refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au50" author-id="S2214109X20301030-67c93e46877167ed309b176825580146">
+                  <ce:given-name>Larry</ce:given-name>
+                  <ce:surname>Aber</ce:surname>
+                  <ce:cross-ref id="cecref60" refid="aff6">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au60" author-id="S2214109X20301030-79b95f2f246e4a878ab17399a08b162d">
+                  <ce:given-name>Mandeep</ce:given-name>
+                  <ce:surname>Dhaliwal</ce:surname>
+                  <ce:cross-ref id="cecref70" refid="aff7">
+                     <ce:sup loc="post">g</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au70" author-id="S2214109X20301030-360ca8d1a0326f093a46a55e6bfe87ff">
+                  <ce:given-name>Douglas</ce:given-name>
+                  <ce:surname>Webb</ce:surname>
+                  <ce:cross-ref id="cecref80" refid="aff7">
+                     <ce:sup loc="post">g</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au80" author-id="S2214109X20301030-c903c24e9c0bcccdc9faf3b7533f0cbe">
+                  <ce:given-name>Justina</ce:given-name>
+                  <ce:surname>Dugbazah</ce:surname>
+                  <ce:cross-ref id="cecref90" refid="aff8">
+                     <ce:sup loc="post">h</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2214109X20301030-9652367647f11591ad51b3631b818b79">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Health Psychology Unit, Institute of Global Health, University College London, London NW3 2PF, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Health Psychology Unit</sa:organization>
+                     <sa:organization>Institute of Global Health</sa:organization>
+                     <sa:organization>University College London</sa:organization>
+                     <sa:city>London</sa:city>
+                     <sa:postal-code>NW3 2PF</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext10">Health Psychology Unit, Institute of Global Health, University College London, London NW3 2PF, UK</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2214109X20301030-b9ab6f16e1ea78e6da1a1a9ef49d68d9">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Social Policy and Intervention, University of Oxford, Oxford, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Social Policy and Intervention</sa:organization>
+                     <sa:organization>University of Oxford</sa:organization>
+                     <sa:city>Oxford</sa:city>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext20">Department of Social Policy and Intervention, University of Oxford, Oxford, UK</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S2214109X20301030-5387c5507947ee843decae3e13c6a670">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Psychiatry and Mental Health, University of Cape Town, Cape Town, South Africa</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Psychiatry and Mental Health</sa:organization>
+                     <sa:organization>University of Cape Town</sa:organization>
+                     <sa:city>Cape Town</sa:city>
+                     <sa:country>South Africa</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext30">Department of Psychiatry and Mental Health, University of Cape Town, Cape Town, South Africa</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff4" affiliation-id="S2214109X20301030-4a4ddf90845ec9ee921056d9dd41e13e">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Centre for Social Science Research, University of Cape Town, Cape Town, South Africa</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Centre for Social Science Research</sa:organization>
+                     <sa:organization>University of Cape Town</sa:organization>
+                     <sa:city>Cape Town</sa:city>
+                     <sa:country>South Africa</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext40">Centre for Social Science Research, University of Cape Town, Cape Town, South Africa</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff5" affiliation-id="S2214109X20301030-500f6a0c71802e6124f85b4dccca26a8">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>FXB Centre for Health and Human Rights, Harvard University, Boston, MA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>FXB Centre for Health and Human Rights</sa:organization>
+                     <sa:organization>Harvard University</sa:organization>
+                     <sa:city>Boston</sa:city>
+                     <sa:state>MA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext50">FXB Centre for Health and Human Rights, Harvard University, Boston, MA, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff6" affiliation-id="S2214109X20301030-83000a25da3adf6fe7d94d3bb51d1a84">
+                  <ce:label>f</ce:label>
+                  <ce:textfn>Department of Applied Psychology, New York University Steinhardt, New York, NY, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Applied Psychology</sa:organization>
+                     <sa:organization>New York University Steinhardt</sa:organization>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext60">Department of Applied Psychology, New York University Steinhardt, New York, NY, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff7" affiliation-id="S2214109X20301030-d8497c468717365d14711d876087f15a">
+                  <ce:label>g</ce:label>
+                  <ce:textfn>HIV, Health and Development Group, UNDP, New York, NY, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>HIV, Health and Development Group, UNDP</sa:organization>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext70">HIV, Health and Development Group, UNDP, New York, NY, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff8" affiliation-id="S2214109X20301030-9bcc18af6806eab9c78a098213d9cfbb">
+                  <ce:label>h</ce:label>
+                  <ce:textfn>Education and Social Development, African Union Development Agency, Midrand, South Africa</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Education and Social Development</sa:organization>
+                     <sa:organization>African Union Development Agency</sa:organization>
+                     <sa:city>Midrand</sa:city>
+                     <sa:country>South Africa</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sourcetext80">Education and Social Development, African Union Development Agency, Midrand, South Africa</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">The UN Sustainable Development Goals (SDGs) are unquestionably visionary. But with only a decade left until 2030, the UN Secretary General has announced that we are at a crossroads in the achievement of the 2030 agenda for sustainable development,<ce:cross-ref id="cecref100" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> and member states have released a political declaration to demand accelerated implementation.<ce:cross-ref id="cecref110" refid="bib2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref> Yet delivering 169 targets across 17 interconnected goals is a major challenge for any government. For low-resource and humanitarian settings, the challenge is even more acute. Additionally, clear mechanisms for delivering solutions that can address an integrated agenda do not exist.</ce:para>
+               <ce:para id="para20" view="all">This crisis in delivery could have severe consequences for the next generation. Africa's adolescents (aged 11–18 years) are the fastest growing population group in the world, estimated to reach half a billion by 2050. This population group represents huge potential and future capacity but is among those most left behind by the SDGs—as such it is an excellent case for investment. Achieving a range of global goals for adolescents in Africa would have widespread effects, but a new vehicle is needed to implement these goals. Use of development accelerators might be this fundamental change in approach. Promoted by the UNDP, accelerators are conceptualised as pragmatic actions that have a simultaneous cumulative effect across a range of goals.<ce:cross-ref id="cecref120" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> Emerging evidence shows that accelerators can be a reality for adolescents—for example, in South Africa, cash transfers to poor households reduced sexual risk behaviour in adolescents (SDG 5) as well as a range of other SDGs.<ce:cross-ref id="cecref130" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para30" view="all">Evidence suggests even greater potential for beneficial effects by use of accelerator synergies (combinations of two or three accelerators that deliver greater reach and resonance) compared with singular accelerators. When good parenting or school feeding were combined with cash transfers, beneficial effects were magnified for nutrition, cognitive development, education, and safety.<ce:cross-ref id="cecref140" refid="bib5">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref> A 2019 demonstration-of-concept paper tested whether multiple SDGs could be improved simultaneously in one of Africa's most left-behind populations—adolescents living with HIV. The paper noted that three accelerators taken together (safe schools, good parenting, and cash transfers) had a combination effect across seven SDG targets within the goals of health (SDG 3), education (SDG 4), gender equality (SDG 5), and violence prevention (SDG 16).<ce:cross-refs id="cecrefs10" refid="bib6 bib7">
+                     <ce:sup loc="post">6,7</ce:sup>
+                  </ce:cross-refs>
+               </ce:para>
+               <ce:para id="para40" view="all">The next global priorities are to find accelerator synergies for the SDGs, appraise cost-effectiveness, provide pragmatic objectives with high value for money, and feed directly into country-level strategies for implementing the SDGs.<ce:cross-ref id="cecref150" refid="bib8">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref> The <ce:inter-ref id="interrefs10" xlink:href="https://www.acceleratehub.org/" xlink:type="simple">UK Research and Innovation Global Challenges Research Fund Accelerate Hub</ce:inter-ref> has been set up to achieve these priorities. The hub is a shared research initiative across UN agencies, the African Union, non-governmental organisations, and donors, with joint south–north academic leadership. The hub follows previous successful approaches, such as the joint learning initiatives, by incorporating a wide range of global agencies but being free-standing to ensure generation of independent evidence. This approach incorporates an early career development section so that countries will benefit not only from the findings but also from the human resources created in the process. Importantly, the hub is co-led by adolescents in advisory groups across west, east, south, and central Africa (<ce:cross-ref id="cecref160" refid="tbl1">table</ce:cross-ref>
+                  <ce:float-anchor refid="tbl1"/>).<ce:cross-ref id="cecref170" refid="bib6">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para50" view="all">This initiative is the first to identify development accelerators with data-driven insight. The nature of looking at outcomes across SDGs requires a new way of working: across academic disciplines and beyond single sectors of government operating independently. These new collaborations have the potential to identify innovative and unexpected combination interventions. The UK Research and Innovation Global Challenges Research Fund Accelerate Hub will also examine further questions to support national policy provision. Are accelerators grouped by type (such as individual-level and community-level provision), and do combinations need to be built across or within these groups? What actions or additions are needed to make an intervention into an accelerator, to understand deceleration, and to apply the evidence at scale? For example, at another stage of life, early childhood nutrition interventions might not work in isolation, but when combined with improved quality of childcare these interventions have long-term benefits on employment, achievement, and health.</ce:para>
+               <ce:para id="para60" view="all">Putting the accelerator framework into operation has implications far beyond Africa's adolescents. In 2020, the 75th anniversary of the UN includes a commitment to identify solutions that close the gap between the aspirations of the SDGs and current trajectories. This commitment recognises that, for many countries, the SDGs are currently unreachable because the so-called decade of action demands that integrated approaches be scaled up; however, financial and structural barriers and diverting challenges, such as the COVID-19 outbreak, impede action. By enabling member states to achieve as many SDG targets as possible in a cost-effective way, accelerators could be a workable vehicle to get them there.</ce:para>
+               <ce:para id="para70" role="acknowledgement" view="all">This work was funded by UK Research and Innovation Global Challenges Research Fund Accelerating Achievement for Africa's Adolescents Hub (grant ref: ES/S008101/1). CD reports personal fees from University of KwaZulu-Natal during the conduct of the study. LC reports editorial fees from Taylor and Francis; and grants from the UK Research and Innovation Global Challenges Research Fund, Nuffield Foundation, UK AID, Janssen Pharmaceutica NV and Janssen Pharmaceutica (PTY) LTS South Africa, International AIDS Society, UNICEF Eastern and Southern Africa, John Fell Fund, European Research Council, Philip Leverhulme Trust, and the UK Economic and Social Research Council. ET reports funding from UK Medical Research Council (MRC) and the UK Department for International Development (DFID) under the MRC/DFID Concordat agreement, and by the Department of Health Social Care through its National Institutes of Health Research [MR/R022372/1]; the European Research Council under the European Union's Horizon 2020 research and innovation programme (grant agreement number 771468); and the International AIDS Society through the CIPHER grant [2018/625-TOS]. The paper arises from the Global Challenges Research Fund Hub on accelerating achievements for Africa's adolescents (principal investigator LC, co-directors LS and CD). All other authors sit on the hub strategic advisory committee. The views expressed in written materials or publications do not necessarily reflect the official policies of the International AIDS society. Research reported in this publication was supported by the Fogarty International Center, National Institute on Mental Health, and National Institutes of Health under award number K43TW011434. The content is solely the responsibility of the authors and does not represent the official views of the US National Institutes of Health.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Report of the secretary general on SDG progress 2019: special edition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext90">UN. Report of the secretary general on SDG progress 2019: special edition. New York: United Nations, 2019.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resolution adopted by the general assembly on 15 October 2019—political declaration of the high-level political forum on sustainable development convened under the auspices of the general assembly</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="https://undocs.org/en/A/RES/74/4" xlink:type="simple">https://undocs.org/en/A/RES/74/4</ce:inter-ref>
+                              <sb:date>2019</sb:date>
+                              <sb:date-accessed day="31" month="10" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext100">UN. Resolution adopted by the general assembly on 15 October 2019—political declaration of the high-level political forum on sustainable development convened under the auspices of the general assembly. 2019. https://undocs.org/en/A/RES/74/4 (accessed Oct 31, 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UNDP</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG accelerator and bottleneck assessment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations Development Programme</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext110">UNDP. SDG accelerator and bottleneck assessment. New York: United Nations Development Programme, 2017.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Cluver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Boyes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Orkin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Pantelic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Molwena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Sherr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Child-focused state cash transfers and adolescent risk of HIV infection in South Africa: a propensity-score-matched case-control study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e362</sb:first-page>
+                              <sb:last-page>e370</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext120">Cluver L, Boyes M, Orkin M, Pantelic M, Molwena T, Sherr L. Child-focused state cash transfers and adolescent risk of HIV infection in South Africa: a propensity-score-matched case-control study. Lancet Glob Health 2013; 1: e362–70.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Sherr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Macedo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Tomlinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Skeen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Cluver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Could cash and good parenting affect child cognitive development? A cross-sectional study in South Africa and Malawi</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMC Pediatr</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>123</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext130">Sherr L, Macedo A, Tomlinson M, Skeen S, Cluver L. Could cash and good parenting affect child cognitive development? A cross-sectional study in South Africa and Malawi. BMC Pediatr 2017; 17: 123.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Cluver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F</ce:given-name>
+                                 <ce:surname>Orkin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Campeau</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improving lives by accelerating progress towards the UN sustainable development goals for adolescents living with HIV: a prospective cohort study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Child Adolesc Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>245</sb:first-page>
+                              <sb:last-page>254</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext140">Cluver L, Orkin F, Campeau L, et al. Improving lives by accelerating progress towards the UN sustainable development goals for adolescents living with HIV: a prospective cohort study. Lancet Child Adolesc Health 2019; 3: 245–54.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Mannel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Willan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Shahmanesh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Seeley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Sherr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Gibbs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Why interventions to prevent intimate partner violence and HIV have failed young women in southern Africa</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Int AIDS Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>25380</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext150">Mannel J, Willan S, Shahmanesh M, Seeley J, Sherr L, Gibbs A. Why interventions to prevent intimate partner violence and HIV have failed young women in southern Africa. J Int AIDS Soc 2019; 22: 25380.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Remme</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Vassall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B</ce:given-name>
+                                 <ce:surname>Lutz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Luna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Watts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Financing structural interventions: going beyond HIV-only value for money assessments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>AIDS</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>425</sb:first-page>
+                              <sb:last-page>434</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sourcetext160">Remme M, Vassall A, Lutz B, Luna J, Watts C. Financing structural interventions: going beyond HIV-only value for money assessments. AIDS 2014; 28: 425–34.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

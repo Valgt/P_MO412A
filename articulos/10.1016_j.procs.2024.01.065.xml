@@ -1,0 +1,1211 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1877050924000656</prism:url><dc:identifier>doi:10.1016/j.procs.2024.01.065</dc:identifier><eid>1-s2.0-S1877050924000656</eid><prism:doi>10.1016/j.procs.2024.01.065</prism:doi><pii>S1877-0509(24)00065-6</pii><dc:title>An indicator scheme for improving measurability of Sustainable Development Goals in manufacturing enterprises </dc:title><prism:publicationName>Procedia Computer Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>18770509</prism:issn><prism:volume>232</prism:volume><prism:startingPage>655</prism:startingPage><prism:endingPage>664</prism:endingPage><prism:pageRange>655-664</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2024-12-31</prism:coverDate><prism:coverDisplayDate>2024</prism:coverDisplayDate><prism:copyright>© 2024 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><prism:issueName>5th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2023)</prism:issueName><dc:creator>Nowak, Maximilian</dc:creator><dc:creator>Martineau, Stephan</dc:creator><dc:creator>Sobottka, Thomas</dc:creator><dc:creator>Ansari, Fazel</dc:creator><dc:creator>Schlund, Sebastian</dc:creator><dc:description>
+                  Recently, sustainability guidelines such as the Corporate Sustainability Reporting Directive (CSRD) or the EU Taxonomy Regulation have become legally binding, thus requiring enterprises to monitor, control and report their contributions in compliance with sustainable development goals (SDGs). Comprehensive sustainability assessment methods are, therefore, crucial for ensuring competitive advantages of enterprises in the near future. Yet, lack of tailor-made methods particularly for manufacturing SMEs is evident. To address this pathway of research, this paper proposes a comprehensive indicator scheme for measuring and monitoring sustainability performance of manufacturing SMEs aligned with the SDGs. The proposed method is based on a literature analysis of existing measurement approaches. It combines methods from quality and innovation management in a sustainability evaluation scheme especially designed for manufacturing SMEs. The method is demonstrated in excerpts from an industry case study. The preliminary results reveal plausibility of the approach towards enabling enterprises to systematically define sustainability roadmaps and conduct progress monitoring.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Sustainable manufacturing</dcterms:subject><dcterms:subject>SDGs</dcterms:subject><dcterms:subject>sustainablity monitoring</dcterms:subject><dcterms:subject>metrics</dcterms:subject><dcterms:subject>measurability</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1877050924000656" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1877050924000656" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="979470">https://api.elsevier.com/content/object/eid/1-s2.0-S1877050924000656-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85189814912</scopus-id><scopus-eid>2-s2.0-85189814912</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85189814912" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>280203</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291871</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia Computer Science</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIACOMPUTERSCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240320">2024-03-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240320">2024-03-20</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240320">2024-03-20</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240320">2024-03-20</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-05-22T15:58:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1877050924000656</xocs:eid>
+      <xocs:pii-formatted>S1877-0509(24)00065-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1877050924000656</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.procs.2024.01.065</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.6</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1877050924X00022</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240522">2024-05-22T15:33:46.226776Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20240101</xocs:date-search-begin>
+      <xocs:date-search-end>20241231</xocs:date-search-end>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1710945286">2024-03-20T14:34:46.348577Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1877-0509</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18770509</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>232</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>232</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 232</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>66</xocs:sort-order>
+      <xocs:first-fp>655</xocs:first-fp>
+      <xocs:last-lp>664</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>655</xocs:first-page>
+         <xocs:last-page>664</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2024</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2024-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title id="tt001">5th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2023)</ce:title>
+            <ce:editors>
+               <ce:author-group id="aag001">
+                  <ce:author author-id="S1877050924X00022-fa17ceca4d43967e8d307285579ee498" id="aa002">
+                     <ce:given-name>Francesco</ce:given-name>
+                     <ce:surname>Longo</ce:surname>
+                     <ce:degrees>Dr</ce:degrees>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group id="aag002">
+                  <ce:author author-id="S1877050924X00022-b4efd3dc8642d108e23a781587aea0d9" id="aa003">
+                     <ce:given-name>Weiming</ce:given-name>
+                     <ce:surname>Shen</ce:surname>
+                     <ce:degrees>Professor</ce:degrees>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group id="aag003">
+                  <ce:author author-id="S1877050924X00022-9cd76751552669e7b0a23b629dbd704e" id="aa004">
+                     <ce:given-name>Antonio</ce:given-name>
+                     <ce:surname>Padovano</ce:surname>
+                     <ce:degrees>Dr.</ce:degrees>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>INDICATORSCHEMEFORIMPROVINGMEASURABILITYSUSTAINABLEDEVELOPMENTGOALSINMANUFACTURINGENTERPRISES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>NOWAK</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001"/>
+         <xocs:ref-info refid="sbref0002"/>
+         <xocs:ref-info refid="sbref0003"/>
+         <xocs:ref-info refid="sbref0004"/>
+         <xocs:ref-info refid="sbref0005"/>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>FETTING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ESDNREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007"/>
+         <xocs:ref-info refid="sbref0008"/>
+         <xocs:ref-info refid="sbref0009"/>
+         <xocs:ref-info refid="sbref0010"/>
+         <xocs:ref-info refid="sbref0011"/>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>BECCHETTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>131915</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013">
+            <xocs:ref-normalized-surname>BIERMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>795</xocs:ref-first-fp>
+            <xocs:ref-last-lp>800</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0014">
+            <xocs:ref-normalized-surname>CALZOLARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>100160</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>CONTINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11004</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016">
+            <xocs:ref-normalized-surname>IBANEZFORES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>115784</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0017">
+            <xocs:ref-normalized-surname>HRISTOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0018">
+            <xocs:ref-normalized-surname>PERELLOMARIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>121744</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-normalized-surname>BANELIENE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>399</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>GONCALVES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3032</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0021">
+            <xocs:ref-normalized-surname>TORBACKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>534</xocs:ref-first-fp>
+            <xocs:ref-last-lp>543</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0022">
+            <xocs:ref-normalized-surname>MURAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1342</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1352</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0023">
+            <xocs:ref-normalized-surname>MORELLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8629</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0024">
+            <xocs:ref-normalized-surname>BARNI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2602</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>FAVI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>118671</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0026">
+            <xocs:ref-normalized-surname>CRAVENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0027">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1117</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1130</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0028"/>
+         <xocs:ref-info refid="sbref0029">
+            <xocs:ref-normalized-surname>HRISTOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>126075</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030"/>
+         <xocs:ref-info refid="sbref0031"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>NOWAKX2024X655</xocs:refkey3>
+         <xocs:refkey4lp>NOWAKX2024X655X664</xocs:refkey4lp>
+         <xocs:refkey4ai>NOWAKX2024X655XM</xocs:refkey4ai>
+         <xocs:refkey5>NOWAKX2024X655X664XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-01-30T00:50:04Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-04-26T12:24:47.201Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>European Commission</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>EC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>European Commission</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000780</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6695072/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>EP IC</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>H2020</xocs:funding-agency-matched-string>
+            <xocs:funding-id>739592</xocs:funding-id>
+            <xocs:funding-agency-acronym>H2020</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Horizon 2020 Framework Programme</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100010661</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6695072/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>The authors gratefully acknowledge the financial support from the European Commission through the H2020 project EPIC under grant No. 739592.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1877-0509(24)00065-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1877050924000656</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1877050924000656</xocs:eid>
+         <xocs:doi>10.1016/j.procs.2024.01.065</xocs:doi>
+         <xocs:cid>280203</xocs:cid>
+         <xocs:timestamp>2024-05-22T15:33:46.226776Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2024-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1877050924000656-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877050924000656/MAIN/application/pdf/bf8e5ebd7c1f4f292a3a8a22da9becf2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1115017</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1877050924000656-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877050924000656/PREVIEW/image/png/9993ef3b9dd9c6d540d151592f827812/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>45519</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1877050924000656-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:101K17VH1NR/MAIN/application/pdf/2ca7efa250e8b708906ad0c6d426516d/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>979470</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">ScienceDirect Available online at www.sciencedirect.com Procedia Computer Science 232 (2024) 655â€“664 1877-0509 Â© 2024 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 5th International Conference on Industry 4.0 and  Smart Manufacturing 10.1016/j.procs.2024.01.065 10.1016/j.procs.2024.01.065 1877-0509 Â© 2024 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 5th International Conference on Industry 4.0 and Smart Manufacturing   Available online at www.sciencedirect.com  ScienceDirect  Procedia Computer Science 00 (2023) 000â€“000   www.elsevier.com/locate/procedia    1877-0509 Â© 2023 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license  (https://creativecommons.org/licenses/by-nc-nd/4.0)  Peer-review under responsibility of the scientific committee of the 5th International Conference on Industry 4.0 and Smart Manufacturing  5th International Conference on Industry 4.0 and Smart Manufacturing  An indicator scheme for improving measurability of Sustainable  Development Goals in manufacturing enterprises  Maximilian Nowaka,*, Stephan Martineaua, Thomas Sobottkaa,b, Fazel Ansaria,b,  Sebastian Schlunda,b   aFraunhofer Austria Research GmbH, Theresianumgasse 7, Vienna 1040, Austria  bTU Wien, Institute of Management Science, Theresianumgasse 27, 1040 Vienna, Austria  Abstract  Recently, sustainability guidelines such as the Corporate Sustainability Reporting Directive (CSRD) or the EU  Taxonomy Regulation have become legally binding, thus requiring enterprises to monitor, control and report their  contributions in compliance with sustainable development goals (SDGs). Comprehensive sustainability assessment  methods are, therefore, crucial for ensuring competitive advantages of enterprises in the near future. Yet, lack of tailor- made methods particularly for manufacturing SMEs is evident. To address this pathway of research, this paper  proposes a comprehensive indicator scheme for measuring and monitoring sustainability performance of  manufacturing SMEs aligned with the SDGs. The proposed method is based on a literature analysis of existing  measurement approaches. It combines methods from quality and innovation management in a sustainability evaluation  scheme especially designed for manufacturing SMEs. The method is demonstrated in excerpts from an industry case  study. The preliminary results reveal plausibility of the approach towards enabling enterprises to systematically define  sustainability roadmaps and conduct progress monitoring.    Â© 2023 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license  (https://creativecommons.org/licenses/by-nc-nd/4.0)  Peer-review under responsibility of the scientific committee of the 5th International Conference on Industry 4.0 and Smart  Manufacturing  Keywords: Sustainable manufacturing; SDGs; sustainablity monitoring; metrics; measurability      * Corresponding author. Tel.: +43 676 888 616 86  E-mail address: maximilian.nowak@fraunhofer.at    Available online at www.sciencedirect.com  ScienceDirect  Procedia Computer Science 00 (2023) 000â€“000   www.elsevier.com/locate/procedia    1877-0509 Â© 2023 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license  (https://creativ commons.org/licenses/by-nc-nd/4.0)  Peer-review under responsibility of the scientific committee of the 5th International Conference on Industry 4.0 and Smart Manufacturing  5th International Conference on Industry 4.0 and Smart Manufacturing  An indicator scheme for improving measurability of Sustainable  Development Goals in manufacturing enterprises  Maximilian Nowaka,*, Stephan Martineaua, Thomas Sobottkaa,b, Fazel Ansaria,b,  Sebastian Schlunda,b   aFraunhofer Austria Research GmbH, Theresianumgasse 7, Vienna 1040, Austria  bTU Wien, Institute of Management Science, Theresianumgasse 27, 1040 Vienna, Austria  Abstract  Recently, sustainability guidelines such as the Corporate Sustainability Reporting Directive (CSRD) or the EU  Taxonomy Regulation have become legally binding, thus requiring enterprises to monitor, control and report their  contributions in compliance with sustainable development goals (SDGs). Comprehensive sustainability assessment  ethods are, therefore, crucial for ensuring competitive advantages of enterprises in the near future. Yet, lack of tailor- made methods particularly for manufacturing SMEs is evident. To address this pathway of research, this paper  proposes a comprehensive indicator scheme for measuring and monitoring sustainability performance of  anufacturing SMEs aligned with the SDGs. The proposed method is based on a literature analysis of existing  measurement approaches. It combines methods from quality and innovation management in a sustainability evaluation  scheme especially designed for manufacturing SMEs. The method is demonstrated in excerpts from an industry case  study. The preliminary results reveal plausibility of the approach towards enabling enterprises to systematically define  sustainability roadmaps and conduct progress monitoring.    Â© 2023 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license  (https://creativ commons.org/licenses/by-nc-nd/4.0)  Peer-review under responsibility of the scientific committee of the 5th International Conference on Industry 4.0 and Smart  Manufacturing  Keywords: Sustainable manufacturing; SDGs; sustainablity monitoring; metrics; measurability      * Corresponding author. Tel.: +43 676 888 616 86  E-mail address: maximilian.nowak@fraunhofer.at  656 Maximilian Nowak  et al. / Procedia Computer Science 232 (2024) 655â€“6642 Maximilian Nowak et al. / Procedia Computer Science 00 (2023) 000â€“000  1. Introduction  The relevance of sustainability in all its dimensions is becoming a key factor for enterprises, especially when it  comes to achieving the Sustainable Development Goals (SDGs) of the United Nations (UN) [1]. There are further  global initiatives focusing on sustainable transformation, inter alia, the Paris Agreement [2], the IPBES Global  Assessment on Biodiversity and Ecosystem Services [3], the Sixth Assessment Report of the Intergovernmental Panel  on Climate Change (IPCC) [4] or the Addis Ababa Action Agenda [5]. In the European Union (EU), there are further  legal framework conditions that either currently apply to the member states or will gradually come into force in the  upcoming years. Based on the EU Green Deal published in 2019, which calls for, among other things, climate  neutrality by 2050 and sustainable growth, Europe has a clear strategic objective to achieve its ambitious sustainability  targets by the year 2050 [6]. More importantly, the introduction of the Corporate Sustainability Reporting Directive  (CSRD) for the first time legally obligates enterprises to report standardized sustainability performance [7]. Within  the scope of this reporting, the declaration of EU taxonomy conformity is required. Metrics such as CO2-equivalent or  energy consumption are used for this purpose [8]. The clear commitment of the EU to quantify sustainability with  measurable values and with those indicators set goals for enterprises to achieve, shows that sustainability metrics are  increasingly important for competitive businesses in the near future.   Moreover, its large number of SMEs characterizes the manufacturing industry in Central Europe. In Germany,  France, Italy, Switzerland, Hungary, and Austria, over 96% [9] of the enterprises fall into this category, according to  the European SMEs definition [10]. This has implications for the implementation of sustainability reporting, i.e. the  Global Reporting Initiative (GRI) provides a procedure for introducing sustainability in enterprises. However, large  corporations primarily implement the regulations. As Neri et al. conclude [11], the main reason is that it requires  resources and capabilities that SMEs may not have, such as time, money, knowledge, skills, support, and guidance.  The GRI procedure may also not consider the specifics and needs of SMEs, e.g., their stakeholders, impacts, and  motivations for sustainability reporting. Hence, a holistic, tailor-made approach for SMEs is needed to steer the way  towards a sustainable transformation, especially in the European manufacturing landscape [12].  To accomplish this goal, this paper aims to provide an indicator scheme for SMEs aligned with UNâ€™s SDGs, as  these have a major impact at both local and global level [13]. The main objective is to design an indicator-based  assessment approach, similar to existing benchmark evaluation schemes from adjacent domains such as quality  management (EFQM) [14]. Pursuing this line of research, the key research question (RQ) is "How can an indicator  scheme be set up, to enable manufacturing SMEs to measure and monitor their sustainability performance, based on  the UNâ€™s 17 SDGs?â€�. A review of selected publications shows that extensive research in the field of sustainability  metrics or KPIs has already been conducted and the allocation to the three pillars of sustainability has taken place  (e.g., Contini and Peruzzini [15]; Calzolari [14]). However, its instantiation regarding the 17 SDGs has yet to be  presented in sufficient detail in the literature. This paper, therefore, contributes to this evolving research area with a  specific focus towards the needs of manufacturing SMEs.  The rest of the paper is structured as follows: In section 2, the state of the art is described, focusing on relevant  approaches and methods to define metrics and KPIs in connection with the SDGs. Section 3 introduces the approach  developed to define SDG-metrics and how they are used in a process driven sustainability monitoring. Finally, Section  4 discusses the main findings, potential limitations, and indicates future research avenues.  2. State of the Art  The literature research (cf. Table 1) shows that there are already various models to measure enterprise-specific  metrics in the field of sustainability. Despite merits, there is a major attention to economic factors [16] as the focus  historically had mostly been on competitiveness. Most of the reviewed papers share the common goal of measuring  and assessing organizational sustainability performance. Differences between these methodologies include i) specific  focus areas (inter alia circular economy, industrial supply chains, performance management systems, and SDGs in the  automotive industry), ii) research approach and underlying methodology (e.g. three-step methodology, literature  review, and survey), and iii) application context (e.g. forest and paper sector organization, different decision-making  levels, broad range of industries, and European automotive enterprises). The table additionally classifies the extent to  which the SME relevance of each approach is fulfilled.   Maximilian Nowak  et al. / Procedia Computer Science 232 (2024) 655â€“664 657  Maximilian Nowak et al. / Procedia Computer Science 00 (2023) 000â€“000  3  Table 1: Literature review   Author &amp; Year Comprehensiveness of Indicator scheme Industry  Focus/Sector  &amp; Location  Organization Focus  (SME/Large scale  enterprise  Addressing the  SDGs  1 IbÃ¡Ã±ez-ForÃ©s V.  et al. (2022)  [16]  Measuring the level of circularity of organizations  based on indicators commonly used in Corporate  Sustainability Reports.  Forestry and  paper sector  Spain   Does not focus on a  specific type of  enterprise size  Not directly  2 Hristov et al.  (2022) [17]  Comprehensive five-dimensional framework for  adopting key performance indicators to integrate  sustainability into business strategy.  Not on a  specific sector  Does not focus on a  specific type of  enterprise size  Only as  background  information  3 Neri et al.  (2021) [11]  Balanced Scorecard - Supply Chain Operations  Reference integrated framework.  Not on a  specific sector  Does not focus on a  specific type of  enterprise size  No directly  4 Perello-Marin et  al. (2022) [18]  Classification of the main sustainability metrics  and their frequency amongst the leading car  manufacturers' reports.  Automotive  sector  Europe  Large automotive  enterprises  Yes  5 BanelienÄ—  (2021) [19]  Based on the management of past, present, and  future operations.  Industrial  Sector  SMEs No  6 GonÃ§alves,  Silva (2021)  [20]    Review sustainability evaluation methods,  including enterprise reporting, audits,  certifications, Transparency Index, Higg Module,  and consumer perspective.  Textile and  apparel  Does not focus on a  specific type of  enterprise size  No  7 Witold and  Kijewska  (2019) [21]  Provide a holistic approach to evaluating  sustainable logistics in metropolitan areas.  Not on a  specific sector  Does not focus on a  specific type of  enterprise size  Not directly  8 MÃ¡rcio de  Queiroz et al.  (2021) [22]  Provide a comprehensive indicator scheme that  includes the development of sustainability  indicators (KPI) that can be applied flexibly  regardless of the type of process.  Not on a  specific sector  Does not focus on a  specific type of  enterprise size  No  9 Morella et al.  (2020) [23]  Key Performance Indicator (KPI) e to measure the  sustainability of machining processes in a green  supply chain (GSC) from the perspective of energy  consumption.  Not on a  specific sector  Does not focus on a  specific type of  enterprise size  Not directly  10 Barni et al.  (2022) [24]  55 KPIs are used for evaluating environmental and  economic management practices in mechanical  manufacturing. Further, they were categorized  based on industry perceptions and objective  information using a bottom-up approach.   Mechanical  manufac- turing  industry  Does not focus on a  specific type of  enterprise size  Not directly  11 Calzolari et al.  (2022) [14]  Based on academic literature and industrial  practices, the proposed indicators cover a range of  environmental, economic, and social dimensions of  circularity with a strong limitation to traditional  environmental and economic impacts.  Not on a  specific  sector, but  with a focus  on supply  chains  Does not focus on a  specific type of  enterprise size  No  12 Contini and  Peruzzini  (2022) [15]  Sustainability performance is measured along the  entire life cycle and value chain, considering  environmental, economic and social impacts.   Manufac- turing  enterprises.  Does not focus on a  specific type of  enterprise size  Not directly  13 Favi et al.  (2022) [25]  The system is based on Energy Material Flow  Analysis (EMFA) and Life Cycle Assessment  (LCA), which are combined with a Multi-Criteria  Decision Method (MCDM) to help enterprises  optimize their production processes to reduce  energy/material flows.  Not on a  specific, but a  focus on  discrete  manufactu- ring plants  Does not focus on a  specific type of  enterprise size  Not directly    658 Maximilian Nowak  et al. / Procedia Computer Science 232 (2024) 655â€“6644 Maximilian Nowak et al. / Procedia Computer Science 00 (2023) 000â€“000  The literature analysis shows that the implementation of a sustainability management method applicable for  manufacturing SMEs, combining SDGs and an indicator scheme for measuring sustainability metrics, has not been  developed yet. In the above-listed references, that are categorized as "Not directly", SDGs are not directly addressed,  but can only be inferred. For example, GonÃ§alves [20] mentions â€œCarbon footprint per unit of productâ€�, that can be  referred to SDG 13 (i.e. Climate Action). However, not all SDGs are covered in this approach. Perello Marin [18]  identifies the SDGs most commonly reported by the car manufacturing industry with assembly plants in Europe. This  method also does not consider all SDGs. Further, it is not tailored towards SMEs as it is based on the fixed GRI system.  BanelienÃ¨ [19] offers a starting point for the field of SMEs with a nine-stage value chain model. The value chain  element of this approach is a suitable basis for the method developed in the paper at hand. In particular, sustainability  assessment of the value-stream-based approach can be extended using SDGs. Further, the approach of Perello Marin  can base the SDG-oriented metrics on elements of the SDG approach, with an added SME component. Considering  these limitations in existing frameworks, the present paper contributes to introducing a novel approach offering a  comprehensive and tailor-made method for assessing SDG achievement in SMEs through the integration of value- stream-based sustainability assessment, SDGs, and SME-specific components. In the following section, this approach  will be outlined.   3. Sustainability Check and Quantification Approach   3.1. Sustainability-Check approach  The "Sustainability Check" approach presented in this paper records the status quo of sustainability in  manufacturing enterprises in accordance with the SDGs. The focus is on enterprises that are categorized as SMEs. The  approach comprises the following three main steps, picking up suitable starting points from the literature analysis,  namely i) flexible value-stream aspect for a better SME fit, ii) sustainability metric approach for assessment, as well  as iii) road mapping technique from innovation management. The steps are implemented in a workshop format,  involving as many departments of an enterprise as possible, including but not limited to human resources, production,  maintenance, and management.  3.1.1. Step 1: Value stream mapping  Value stream mapping of an enterprise facilitates gaining deeper understanding of the overall production system  and associated process towards identifying improvement measures. The value stream mapping is carried out on a  meta-level to consider all processes from gate to gate. Performing this for each product, as in the standard value stream  design approach, is not necessary within this procedure to identify potential fields of action. By having the enterprise's  employees map, relevant SDGs along the value chain, every process step within the system boundaries can basically  be taken into account. Through the moderation of an external, independent domain expert, holding knowledge of  production systems, value stream design and sustainability, the process of self-evaluation is monitored and supported.  This ensures that the group of employees does their best (critical) thinking [26] and fields of action are not intentionally  defined, thus trying to avoid bias and aiming for a realistic and fair evaluation. Figure 1 illustrates the process model,  the value chain created, and an exemplary assignment of the SDGs to the respective sections in the process chain.  With the production processes defined and linked to the 17 impact areas of the SDGs, the impact fields are discussed  in a workshop with internal stakeholders to highlight challenges along the value chain.   3.1.2. Step 2: Identifying &amp; Assessing Sustainability Projects and Measures  Systematic recording of past and current projects and associated sustainability measures enables identifying the  status quo. This shows in which areas of the SDGs, projects have been realized in the enterprise and where there are  still unexhausted potentials. Quantitative evaluation of these projects requires an indicator scheme, which is discussed  in more detail in Section 3.2. Notably, in order to gain a comprehensive overview, a manageable but relevant  stakeholder group covering employees across the departments and hierarchy levels of the enterprise is involved. This  promotes diverse perspectives regarding the developed measures and projects, as well as the reduction of biases.    Maximilian Nowak  et al. / Procedia Computer Science 232 (2024) 655â€“664 659  Maximilian Nowak et al. / Procedia Computer Science 00 (2023) 000â€“000  5  3.1.3. Step 3: Road-mapping sustainability measures  To implement enterprise's sustainability goals in the long term, it is important to set short-/midterm goals towards  long-term success [27]. For this reason, the chronological order of the activities is shown in a roadmap to determine  the path for the enterpriseâ€™s short- and long-term future. Measurable values should, therefore, be developed to identify  required efforts and benefits of individual fields of activity within the enterprise. This is achieved using the SDG  metrics approach, described in more detail in the section 3.2. With the identification of sustainability drivers in the  value streams, challenges related to the SDGs can be raised. Figure 1 shows an example from an enterprise in the field  of injection molding. The analysis highlights the high consumption of water in the cleaning process (cf. SDG 6 â€“  Clean water and sanitation) or the lack of assistance systems in the assembly line (cf. SDG 8 â€“ Decent work). The  system boundary of the method presented here is the production site. This is because individual production sites can  be compared better than several enterprises' combined sites.    3.2. Quantification Approach - Developing an SDG metric  The SDG metric is needed to evaluate and assess the status of sustainability measures from step 2 of the  sustainability check, and also for the definition of concrete goals for measures in the roadmap in step 3. Based on the  presented literature review, specific SME requirements have been considered and an approach to match sustainability  metrics with the SDGs has been chosen. For the evaluation of such a SDG metric, an example from the social  dimension is presented, cf. section 3.2.2. Notably, the complete evaluation of all 17 SDGs is not the scope of this  paper and is part of further and ongoing research. Further, the industrial evaluation is part of an ongoing research  project that aims to build a specific SDG metric system focusing on 20 industrial partners in Austria and Germany  specialized in the production and use of injection molding tools for the plastics industry.    3.2.1. Step 1: Allocation of the SDGs to the dimensions of sustainability  The 17 SDGs are assigned to the respective economic, ecological, and social dimensions of sustainability. The  SDG-classification is based on the "SDG Wedding Cake" classification of the 17 SDGs into the categories economy,  society and environment/biosphere [28]. The wedding cake model organizes the 17 SDGs in different tiers, with the  most basic needs and priorities at the bottom (e.g., eradicating poverty, no hunger) and more complex goals at the top  (e.g., climate action, peace and justice). This classification facilitates understanding and communicating the overall  structure and hierarchy of the SDGs, making them more accessible to a wider audience, including policymakers,  businesses, and the public. Notably, the â€œSDG Wedding Cakeâ€� should be used carefully to avoid oversimplification,  misinterpretation, and neglection of the interconnectedness among SDGs. It is, therefore, important to recognize that  Figure 1: Mapping SDGs to production system in a value stream  660 Maximilian Nowak  et al. / Procedia Computer Science 232 (2024) 655â€“6646 Maximilian Nowak et al. / Procedia Computer Science 00 (2023) 000â€“000  all SDGs are important and mutually reinforcing. In other words, efforts should be made to address them  comprehensively and in an integrated manner for sustainable and inclusive development.  3.2.2. Step 2: Linking metrics with the SDGs    In order to achieve a comparable value for each SDG based on its respective metrics, units of individual metrics  are set to a comparable basis. For the SDG 3 (Good Health and Well-being) this normalization approach is exemplified  while identifying associated challenges. From the literature review, the following metrics (cf. Table 2) have been  identified, that can be linked to the SDG 3. The selection of a limited number of KPIs is particularly relevant when it  comes to measuring sustainability goals in manufacturing SMEs. An excessive number of KPIs can lead to increased  administrative effort and make it more complex to implement sustainable measures [29].   Table 2: Set of metrics for SDG 3 â€“ Good Health and Well-Being  Description Unit Label  Ratio of employees to management at the site % Metric 1.3  Days per year employees commit to social institutions Days per year Metric 2.3  Days per year on sick leave per employee Days per year Metric 3.3  Amount disinfection stations Amount per /employee Metric 4.3  Daylight on the shop floor lm/m2 Metric 5.3  Average temperature over the year in production Â°C/m2*a Metric 6.3  Percentage of burnout in sick leave % Metric 7.3  Blood drives each year amount/year Metric 8.3    It is worth noting that the units of the respective metrics are very different and difficult to compare. Following this  step, steps 3 and 4 deal with metrics weighting and assigning scores.   3.2.3. Step 3: Metrics Weighting  Based on a method from quality management, a pairwise comparison is adopted [30]. Table 3 shows the procedure  as an example for SDG 3. The pairwise comparison of each metric to the others indicates the highest prioritization in  the context of investigation (aka the pilot enterprise). The resulting weights are then transferred to Table 4 for  assigning scores. As stated in the description of step 2 (cf. section 3.1), employing an external moderator attempts to  make sure that the group of employees is able to achieve comparable and realistic results.     Table 3: Pairwise comparison - metrics for SDG 3  Metric 1.3 2.3 3.3 4.3 5.3 6.3 7.3 8.3 Sum Weighing  Factor  1.3 X 0 1 0,5 1 0 0 0 2,5 0,089  2.3 1 X 1 0,5 0,5 1 1 1 6 0,214  3.3 0 0 X 1 0 0,5 0,5 0 2 0,071  4.3 0,5 0,5 0 X 0 1 0 0 2 0,071  5.3 0 0,5 1 1 X 0 0,5 0,5 3,5 0,125  6.3 1 0 0,5 0 1 X 0,5 1 4 0,143  7.3 1 0 0,5 1 0,5 0,5 X 0 3,5 0,125  8.3 1 0 1 1 0,5 0 1 X 4,5 0,161  Sum         28 1,0   Maximilian Nowak  et al. / Procedia Computer Science 232 (2024) 655â€“664 661  Maximilian Nowak et al. / Procedia Computer Science 00 (2023) 000â€“000  7  3.2.4. Step 4: Assigning Points  A method from innovation management is adopted for this step, the so-called innovation scorecard [31]. This  facilitates assigning points (scores) to each indicator, including their relative weights defined in the previous step. The  evaluation of the individual metrics is meant to reveal the current status of the enterprise in this action filed. Hence,  assigning 0 indicates that the metric is not yet measured, whereas 1 indicates an already implemented solution for the  measurement. The values in the middle [0, 1] indicate that the metric is already on the enterprise's agenda but is not  yet systematically measured. The method is again self-evaluation combined with an external moderator. The result is  a factor between 0-100, representing the degree to which metrics are measured, grouped under a SDG. Table 4  provides an example of the method for SDG 3 by incorporating the results presented in Table 3. Applying the method  to the other SDGs can also define a weighted score for a larger set of metrics.   Table 4: Approach weighing metrics for SDG 3  Metric Weighing  Factor  No (0), Partly (0,5),  Yes (1)  Weighted Score  1.3 0,089 0,5 =0,089*0,5=0,0445  2.3 0,214 1 0,214  3.3 0,071 0,5 0,0355  4.3 0,071 0,5 0,0355  5.3 0,125 0,5 0,0625  6.3 0,143 1 0,143  7.3 0,125 0 0  8.3 0,161 0,5 0,0805   1,0 SDG 3 - KPI 0,6155=61,55%    Figure 2 depicts the proposed process for the entire SDGs. Comparing values of different units is only possible to  a limited extent since the units express the value in relation to a specific measured factor or standard. Furthermore,  due to the evaluation by the weighting factor and the evaluation according to the points (0; 0,5;1) there is an evident   Figure 2: The overall indicator scheme for improving measurability of SDGs in manufacturing enterprises  662 Maximilian Nowak  et al. / Procedia Computer Science 232 (2024) 655â€“6648 Maximilian Nowak et al. / Procedia Computer Science 00 (2023) 000â€“000  inaccuracy. However, with the collection of sustainability metrics, the presented method lays the ground for measuring   attainment of SMEs towards SDGs. The indicator system enables quantitative recording of several metrics linked to  a defined SDG. The enterprise employees involved in the process conduct the evaluation of weighting and assigned  scores. This can potentially lead to vagueness and an internal enterprise bias. Based on the percentages, it is now  possible to determine which SDGs are already being monitored well. This is an indicator of which SDGs metrics still  need to be collected and which projects should be prioritized following step 3 (cf. section 3.1) to improve sustainability  performance. In step 2 of the sustainability check, the current state of sustainability projects and measures is evaluated  using these metrics, thus providing two views on sustainability readiness of an enterprise, i.e. i) assessing how well  the sustainability aspects are already monitored and ii) how the sustainability dimensions, according to the SDGs, are  developed comparing to an industry benchmark. Details of the latter evaluation and associated results will be reported  in the future works.  4. Conclusion and Future Research Agenda  This paper addresses the research question of how a systematic process-driven indicator scheme can be set up for  manufacturing SMEs. The goal is to measure and monitor sustainability performance, based on the SDGs, while  considering the limited resources of small and medium sized enterprises. Following a literature review on related  methods, a three-step approach is proposed to implement a sustainability check for manufacturing SMEs, involving  mapping SDGs to the enterpriseâ€™s value stream, identifying sustainability projects, and road-mapping sustainability  measures. The approach of combining and normalizing multi-dimension metrics creates better comparability between  enterprises. The method has been initially evaluated in a case study in a manufacturing enterprise in the field of  injection molding. Despite promising findings, this paper does not yet report an evaluation of the entire method.  In  the current state of research, the prioritization is in the foreground. This comprises the definition of the status quo, the  identification of fields of action, and the inclusion of all 17 SDGs. The intermediate findings suggest that the approach  and indicator scheme can help manufacturing SMEs to contextualize and match the requirements of the SDGs for  their specific production processes and businesses. The proposed approach can also help identifying SMEâ€™s strengths  and weaknesses in terms of sustainability performance, as well as opportunities and challenges for improvements.  Furthermore, the indicator scheme can provide a quantitative and comparable measure of sustainability performance,  as well as a basis for reporting and benchmarking. In sum, the paper contributes to the literature on sustainability  measurement and management in manufacturing SMEs by providing a comprehensive indicator scheme based on the  SDGs and a practice-oriented, systematic approach to implement it.  Despite merits, the proposed approach faces certain limitations. First, the indicator scheme has far only been tested  in part, i.e., for exemplary SDGs. The full evaluation of the method in a case-study has not been completed. Future  research will, therefore, demonstrate the method for all SDGs and for a complete SME use-case. A further aspect is  evaluating the approach with multiple SME partners, in particular to assess its generalizability. Third, the approach  neither considers potential trade-offs or  synergies among different SDGs or metrics, nor the dynamic and complex  nature of sustainability performance over time. Future research should incorporate these aspects into our approach  and indicator scheme by using more advanced methods such as multi-criteria decision analysis, system dynamics, or  agent-based modeling. Future research should also focus on testing and comparing the presented approach with other  methods and frameworks for sustainability measurement and management in manufacturing SMEs. In addition, the  feedback from the use-cases and the stakeholders involved should be systematically analyzed to ensure the method is  adjusted well enough for most SMEs and their preferences. This will likely result in iterative updates and fine-tuning  of the approach. Last but not least, an important field of research is to investigate how implementation of the approach  can result in better and more effective sustainability measures â€“ ideally, resulting in guidelines in how to systematically  convert the method findings to a more effective sustainability transition for SMEs.      Maximilian Nowak  et al. / Procedia Computer Science 232 (2024) 655â€“664 663  Maximilian Nowak et al. / Procedia Computer Science 00 (2023) 000â€“000  9  Acknowledgement  The authors gratefully acknowledge the financial support from the European Commission through the H2020  project EPIC under grant No. 739592.    References  [1] United Nations, â€œTransforming our world: the 2030 Agenda for Sustainable Development: Seventieth session  Agenda items 15 and 116,â€� 2015.  [2] United Nations, â€œParis Agreement,â€� 2015.  [3] IPBES, â€œGlobal assessment report on biodiversity and ecosystem services of the Intergovernmental Science- Policy Platform on Biodiversity and Ecosystem Services: Version 1,â€� 2019.  [4] IPCC, â€œClimate Change 2022: Impacts, Adaptation and Vulnerability: Working Group II Contribution to the  Sixth Assessment Report of the Intergovernmental Panel on Climate Change,â€� 2022.  [5] U. Nations, â€œAddis Ababa Action Agenda of the Third International Conference on Financing for  Development: A/RES/69/313:,â€� Sixty-ninth session, 2015.  [6] C. L. Fetting, â€œThe European Green Deel,â€� ESDN Report, 2020.  [7] European Comission, â€œ. Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE  COUNCIL amending Directive 2013/34/EU Directive 2004/109/EC, Directive 2006/43/EC and Regulation  (EU) No 537/2014, as regards corporate sustainability reporting,â€� 2021.  [8] European Parlieament and Council, â€œRegulation (EU) 2020/852,â€� 2020.  [9] Eurostat, Industrie nach BeschÃ¤ftigtengrÃ¶ÃŸenklassen (NACE Rev. 2, B-E). [Online]. Available: https:// ec.europa.eu/eurostat/databrowser/explore/all/icts?lang=de&amp;subtheme=sbs.sbs_ind_co&amp;display=list&amp;sort= category&amp;extractionId=SBS_IS_2K_SUB99 (accessed: Feb. 26 2023).  [10] European Comission, â€œCommission recommendation of 6 May 2003 concerning the definition of micro, small  and medium-sized enterprises,â€� 2003.  [11] A. Neri, E. Cagno, M. Lepri, and A. Trianni, â€œA triple bottom line balanced set of key performance indicators  to measure the sustainability performance of industrial supply chains,â€� Sustainable Production and  Consumption, vol. 26, pp. 648â€“691, 2021, doi: 10.1016/j.spc.2020.12.018.  [12] L. Becchetti, M. Cordella, and P. Morone, â€œMeasuring investments progress in ecological transition: The  Green Investment Financial Tool (GIFT) approach,â€� Journal of Cleaner Production, vol. 357, p. 131915,  2022, doi: 10.1016/j.jclepro.2022.131915.  [13] F. Biermann et al., â€œScientific evidence on the political impact of the Sustainable Development Goals,â€� Nat  Sustain, vol. 5, no. 9, pp. 795â€“800, 2022, doi: 10.1038/s41893-022-00909-5.  [14] T. Calzolari, A. Genovese, and A. Brint, â€œCircular Economy indicators for supply chains: A systematic  literature review,â€� Environmental and Sustainability Indicators, vol. 13, p. 100160, 2022, doi:  10.1016/j.indic.2021.100160.  [15] G. Contini and M. Peruzzini, â€œSustainability and Industry 4.0: Definition of a Set of Key Performance  Indicators for Manufacturing Companies,â€� Sustainability, vol. 14, no. 17, p. 11004, 2022, doi:  10.3390/su141711004.  [16] V. IbÃ¡Ã±ez-ForÃ©s, V. MartÃ­nez-SÃ¡nchez, K. Valls-Val, and M. D. Bovea, â€œSustainability reports as a tool for  measuring and monitoring the transition towards the circular economy of organisations: Proposal of indicators  and metrics,â€� Journal of environmental management, vol. 320, p. 115784, 2022, doi:  10.1016/j.jenvman.2022.115784.  [17] I. Hristov, A. Appolloni, and A. Chirico, â€œThe adoption of the key performance indicators to integrate  sustainability in the business strategy: A novel fiveâ€�dimensional framework,â€� Bus Strat Env, 2022, doi:  10.1002/bse.3072.  [18] M. R. Perello-Marin, R. RodrÃ­guez-RodrÃ­guez, and J.-J. Alfaro-Saiz, â€œAnalysing GRI reports for the disclosure  of SDG contribution in European car manufacturers,â€� Technological Forecasting and Social Change, vol. 181,  p. 121744, 2022, doi: 10.1016/j.techfore.2022.121744.  [19] R. BanelienÄ—, â€œKey performance indicators: contemporary challenges to industrial small and medium  enterprises,â€� PEAS, vol. 70, no. 4, p. 399, 2021, doi: 10.3176/proc.2021.4.05.  664 Maximilian Nowak  et al. / Procedia Computer Science 232 (2024) 655â€“66410 Maximilian Nowak et al. / Procedia Computer Science 00 (2023) 000â€“000  [20] A. GonÃ§alves and C. Silva, â€œLooking for Sustainability Scoring in Apparel: A Review on Environmental  Footprint, Social Impacts and Transparency,â€� Energies, vol. 14, no. 11, p. 3032, 2021, doi:  10.3390/en14113032.  [21] W. Torbacki and K. Kijewska, â€œIdentifying Key Performance Indicators to be used in Logistics 4.0 and  Industry 4.0 for the needs of sustainable municipal logistics by means of the DEMATEL method,â€�  Transportation Research Procedia, vol. 39, pp. 534â€“543, 2019, doi: 10.1016/j.trpro.2019.06.055.  [22] M. d. Q. Murad, W. F. Sales, and V. A. Feraressi, â€œMetric-based approach to assess sustainable manufacturing  performance at manufacturing process levels,â€� International Journal of Sustainable Engineering, vol. 14, no.  6, pp. 1342â€“1352, 2021, doi: 10.1080/19397038.2021.1978588.  [23] P. Morella, M. P. LambÃ¡n, J. Royo, J. C. SÃ¡nchez, and L. C. Del Ng Corrales, â€œDevelopment of a New Green  Indicator and Its Implementation in a Cyberâ€“Physical System for a Green Supply Chain,â€� Sustainability, vol.  12, no. 20, p. 8629, 2020, doi: 10.3390/su12208629.  [24] A. Barni et al., â€œDesign of a Lifecycle-Oriented Environmental and Economic Indicators Framework for the  Mechanical Manufacturing Industry,â€� Sustainability, vol. 14, no. 5, p. 2602, 2022, doi: 10.3390/su14052602.  [25] C. Favi, M. Marconi, M. Mandolini, and M. Germani, â€œSustainable life cycle and energy management of  discrete manufacturing plants in the industry 4.0 framework,â€� Applied Energy, vol. 312, p. 118671, 2022, doi:  10.1016/j.apenergy.2022.118671.  [26] A. E. Cravens, M. S. Jones, C. Ngai, J. Zarestky, and H. B. Love, â€œScience facilitation: navigating the  intersection of intellectual and interpersonal expertise in scientific collaboration,â€� Humanit Soc Sci Commun,  vol. 9, no. 1, 2022, doi: 10.1057/s41599-022-01217-1.  [27] L. Wu, N. Subramanian, A. Gunasekaran, M. D.-A. Abdulrahman, K. S. Pawar, and Des Doran, â€œA two- dimensional, two-level framework for achieving corporate sustainable development: Assessing the return on  sustainability initiatives,â€� Bus Strat Env, vol. 27, no. 8, pp. 1117â€“1130, 2018, doi: 10.1002/bse.2055.  [28] B. Friess and T. Arnold, â€œA Positive Journesy Beyond The Comfort Zone,â€� 2019.  [29] I. Hristov, A. Appolloni, A. Chirico, and W. Cheng, â€œThe role of the environmental dimension in the  performance management system: A systematic review and conceptual framework,â€� Journal of Cleaner  Production, vol. 293, p. 126075, 2021, doi: 10.1016/j.jclepro.2021.126075.  [30] F. J. Brunner and K. W. Wagner, Taschenbuch QualitÃ¤tsmanagement: Leitfaden fÃ¼r Studium und Praxis, 4th  ed. MÃ¼nchen, Wien: Hanser, 2008. [Online]. Available: http://d-nb.info/990518124/04  [31] O. Eckelmann, Die Innovation Scorecard als Instrument des Innovations- und Technologiemanagements:  MÃ¶glichkeiten und Grenzen, 1st ed. Hamburg: Diplom.de, 2002. [Online]. Available: http://epub.sub.uni- hamburg.de/epub/volltexte/campus/2017/62562/  ng and monitoring the transition towards the circular economy of organisations: Proposal of indicators  and metrics,â€� Journal of environmental management, vol. 320, p. 115784, 2022, doi:  10.1016/j.jenvman.2022.115784.  [17] I. Hristov, A. Appolloni, and A. Chirico, â€œThe adoption of the key performance indicators to in</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>PROCS</jid>
+            <aid>46329</aid>
+            <ce:pii>S1877-0509(24)00065-6</ce:pii>
+            <ce:doi>10.1016/j.procs.2024.01.065</ce:doi>
+            <ce:copyright type="unknown" year="2024"/>
+         </item-info>
+         <head>
+            <ce:title id="tte0002">An indicator scheme for improving measurability of Sustainable Development Goals in manufacturing enterprises</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S1877050924000656-d714c92500378fd7538ff57f04d70b31">
+                  <ce:given-name>Maximilian</ce:given-name>
+                  <ce:surname>Nowak</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0002" author-id="S1877050924000656-cadb1ca3d5e5269cffe77c29f648f225">
+                  <ce:given-name>Stephan</ce:given-name>
+                  <ce:surname>Martineau</ce:surname>
+                  <ce:cross-ref id="crf0002" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0003" author-id="S1877050924000656-1ccba9d68b9aee3e6d2f06f31901f447">
+                  <ce:given-name>Thomas</ce:given-name>
+                  <ce:surname>Sobottka</ce:surname>
+                  <ce:cross-ref id="crf0003" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0004" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0004" author-id="S1877050924000656-bb1979003d9f41c31bdeafa2a44715fd">
+                  <ce:given-name>Fazel</ce:given-name>
+                  <ce:surname>Ansari</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0006" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0005" author-id="S1877050924000656-375f353b10098afe3818872435548835">
+                  <ce:given-name>Sebastian</ce:given-name>
+                  <ce:surname>Schlund</ce:surname>
+                  <ce:cross-ref id="crf0007" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0008" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S1877050924000656-02a5a38c4175685316f07d31b71b9c28">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">Fraunhofer Austria Research GmbH, Theresianumgasse 7, Vienna 1040, Austria</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Fraunhofer Austria Research GmbH</sa:organization>
+                     <sa:address-line>Theresianumgasse 7</sa:address-line>
+                     <sa:city>Vienna</sa:city>
+                     <sa:postal-code>1040</sa:postal-code>
+                     <sa:country>Austria</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">aFraunhofer Austria Research GmbH, Theresianumgasse 7, Vienna 1040, Austria</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S1877050924000656-5fd0f66e48c75e9aa3d23012556f4fe6">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">TU Wien, Institute of Management Science, Theresianumgasse 27, 1040 Vienna, Austria</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>TU Wien</sa:organization>
+                     <sa:organization>Institute of Management Science</sa:organization>
+                     <sa:address-line>Theresianumgasse 27</sa:address-line>
+                     <sa:city>Vienna</sa:city>
+                     <sa:postal-code>1040</sa:postal-code>
+                     <sa:country>Austria</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0002">bTU Wien, Institute of Management Science, Theresianumgasse 27, 1040 Vienna, Austria</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="3" month="1" year="2022"/>
+            <ce:date-revised day="10" month="6" year="2022"/>
+            <ce:date-accepted day="12" month="6" year="2022"/>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara001" view="all">Recently, sustainability guidelines such as the Corporate Sustainability Reporting Directive (CSRD) or the EU Taxonomy Regulation have become legally binding, thus requiring enterprises to monitor, control and report their contributions in compliance with sustainable development goals (SDGs). Comprehensive sustainability assessment methods are, therefore, crucial for ensuring competitive advantages of enterprises in the near future. Yet, lack of tailor-made methods particularly for manufacturing SMEs is evident. To address this pathway of research, this paper proposes a comprehensive indicator scheme for measuring and monitoring sustainability performance of manufacturing SMEs aligned with the SDGs. The proposed method is based on a literature analysis of existing measurement approaches. It combines methods from quality and innovation management in a sustainability evaluation scheme especially designed for manufacturing SMEs. The method is demonstrated in excerpts from an industry case study. The preliminary results reveal plausibility of the approach towards enabling enterprises to systematically define sustainability roadmaps and conduct progress monitoring.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0001">Sustainable manufacturing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0002">SDGs</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0003">sustainablity monitoring</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0004">metrics</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0005">
+                  <ce:text id="cetext0005">measurability</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0003">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="sbref0001">
+                        <ce:textref>United Nations, “Transforming our world: the 2030 Agenda for Sustainable Development: Seventieth session Agenda items 15 and 116,” 2015.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="sbref0002">
+                        <ce:textref>United Nations, “Paris Agreement,” 2015.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="sbref0003">
+                        <ce:textref>IPBES, “Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services: Version 1,” 2019.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="sbref0004">
+                        <ce:textref>IPCC, “Climate Change 2022: Impacts, Adaptation and Vulnerability: Working Group II Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change,” 2022.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="sbref0005">
+                        <ce:textref>U. Nations, “Addis Ababa Action Agenda of the Third International Conference on Financing for Development: A/RES/69/313:,” Sixty-ninth session, 2015.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Fetting</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>ESDN Report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2020</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">C. L. Fetting, “The European Green Deel,” ESDN Report, 2020.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="sbref0007">
+                        <ce:textref>European Comission, “. Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directive 2013/34/EU Directive 2004/109/EC, Directive 2006/43/EC and Regulation (EU) No 537/2014, as regards corporate sustainability reporting,” 2021.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="sbref0008">
+                        <ce:textref>European Parlieament and Council, “Regulation (EU) 2020/852,” 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="sbref0009">
+                        <ce:textref>Eurostat, Industrie nach Beschäftigtengrößenklassen (NACE Rev. 2, B-E). [Online]. Available: <ce:inter-ref id="interref0001" xlink:href="https://ec.europa.eu/eurostat/databrowser/explore/all/icts?lang=de&amp;subtheme=sbs.sbs_ind_co&amp;display=list&amp;sort=category&amp;extractionId=SBS_IS_2K_SUB99" xlink:type="simple">https://ec.europa.eu/eurostat/databrowser/explore/all/icts?lang=de&amp;subtheme=sbs.sbs_ind_co&amp;display=list&amp;sort=category&amp;extractionId=SBS_IS_2K_SUB99</ce:inter-ref> (accessed: Feb. 26 2023).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref id="sbref0010">
+                        <ce:textref>European Comission, “Commission recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises,” 2003.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref id="sbref0011">
+                        <ce:textref>A. Neri, E. Cagno, M. Lepri, and A. Trianni, “A triple bottom line balanced set of key performance indicators to measure the sustainability performance of industrial supply chains,” Sustainable Production and Consumption, vol. 26, pp. 648–691, 2021, doi: <ce:inter-ref id="interref0002" xlink:href="http://10.1016/j.spc.2020.12.018" xlink:type="simple">10.1016/j.spc.2020.12.018</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Becchetti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cordella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Morone</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring investments progress in ecological transition: The Green Investment Financial Tool (GIFT) approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Cleaner Production</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>357</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>131915</sb:article-number>
+                           <ce:doi>10.1016/j.jclepro.2022.131915</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">L. Becchetti, M. Cordella, and P. Morone, “Measuring investments progress in ecological transition: The Green Investment Financial Tool (GIFT) approach,” Journal of Cleaner Production, vol. 357, p. 131915, 2022, doi: 10.1016/j.jclepro.2022.131915.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Biermann</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Scientific evidence on the political impact of the Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat Sustain</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>795</sb:first-page>
+                              <sb:last-page>800</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/s41893-022-00909-5</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0013">F. Biermann et al., “Scientific evidence on the political impact of the Sustainable Development Goals,” Nat Sustain, vol. 5, no. 9, pp. 795–800, 2022, doi: 10.1038/s41893-022-00909-5.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Calzolari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Genovese</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brint</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Circular Economy indicators for supply chains: A systematic literature review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environmental and Sustainability Indicators</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100160</sb:article-number>
+                           <ce:doi>10.1016/j.indic.2021.100160</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0014">T. Calzolari, A. Genovese, and A. Brint, “Circular Economy indicators for supply chains: A systematic literature review,” Environmental and Sustainability Indicators, vol. 13, p. 100160, 2022, doi: 10.1016/j.indic.2021.100160.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Contini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Peruzzini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainability and Industry 4.0: Definition of a Set of Key Performance Indicators for Manufacturing Companies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>17</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11004</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/su141711004</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0015">G. Contini and M. Peruzzini, “Sustainability and Industry 4.0: Definition of a Set of Key Performance Indicators for Manufacturing Companies,” Sustainability, vol. 14, no. 17, p. 11004, 2022, doi: 10.3390/su141711004.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0016">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Ibáñez-Forés</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Martínez-Sánchez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Valls-Val</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Bovea</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainability reports as a tool for measuring and monitoring the transition towards the circular economy of organisations: Proposal of indicators and metrics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of environmental management</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>320</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>115784</sb:article-number>
+                           <ce:doi>10.1016/j.jenvman.2022.115784</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0016">V. Ibáñez-Forés, V. Martínez-Sánchez, K. Valls-Val, and M. D. Bovea, “Sustainability reports as a tool for measuring and monitoring the transition towards the circular economy of organisations: Proposal of indicators and metrics,” Journal of environmental management, vol. 320, p. 115784, 2022, doi: 10.1016/j.jenvman.2022.115784.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Hristov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Appolloni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chirico</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The adoption of the key performance indicators to integrate sustainability in the business strategy: A novel five-dimensional framework</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bus Strat Env</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/bse.3072</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0017">I. Hristov, A. Appolloni, and A. Chirico, “The adoption of the key performance indicators to integrate sustainability in the business strategy: A novel five-dimensional framework,” Bus Strat Env, 2022, doi: 10.1002/bse.3072.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Perello-Marin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Rodríguez-Rodríguez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-J.</ce:given-name>
+                                 <ce:surname>Alfaro-Saiz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Analysing GRI reports for the disclosure of SDG contribution in European car manufacturers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Technological Forecasting and Social Change</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>181</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>121744</sb:article-number>
+                           <ce:doi>10.1016/j.techfore.2022.121744</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0018">M. R. Perello-Marin, R. Rodríguez-Rodríguez, and J.-J. Alfaro-Saiz, “Analysing GRI reports for the disclosure of SDG contribution in European car manufacturers,” Technological Forecasting and Social Change, vol. 181, p. 121744, 2022, doi: 10.1016/j.techfore.2022.121744.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Banelienė</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Key performance indicators: contemporary challenges to industrial small and medium enterprises</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PEAS</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>399</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3176/proc.2021.4.05</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0019">R. Banelienė, “Key performance indicators: contemporary challenges to industrial small and medium enterprises,” PEAS, vol. 70, no. 4, p. 399, 2021, doi: 10.3176/proc.2021.4.05.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gonçalves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Silva</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Looking for Sustainability Scoring in Apparel: A Review on Environmental Footprint, Social Impacts and Transparency</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energies</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3032</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/en14113032</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0020">A. Gonçalves and C. Silva, “Looking for Sustainability Scoring in Apparel: A Review on Environmental Footprint, Social Impacts and Transparency,” Energies, vol. 14, no. 11, p. 3032, 2021, doi: 10.3390/en14113032.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0021">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Torbacki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kijewska</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Identifying Key Performance Indicators to be used in Logistics 4.0 and Industry 4.0 for the needs of sustainable municipal logistics by means of the DEMATEL method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Transportation Research Procedia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>534</sb:first-page>
+                              <sb:last-page>543</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.trpro.2019.06.055</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0021">W. Torbacki and K. Kijewska, “Identifying Key Performance Indicators to be used in Logistics 4.0 and Industry 4.0 for the needs of sustainable municipal logistics by means of the DEMATEL method,” Transportation Research Procedia, vol. 39, pp. 534–543, 2019, doi: 10.1016/j.trpro.2019.06.055.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0022">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0022">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.d.Q.</ce:given-name>
+                                 <ce:surname>Murad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Sales</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Feraressi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metric-based approach to assess sustainable manufacturing performance at manufacturing process levels</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Sustainable Engineering</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1342</sb:first-page>
+                              <sb:last-page>1352</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1080/19397038.2021.1978588</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0022">M. d. Q. Murad, W. F. Sales, and V. A. Feraressi, “Metric-based approach to assess sustainable manufacturing performance at manufacturing process levels,” International Journal of Sustainable Engineering, vol. 14, no. 6, pp. 1342–1352, 2021, doi: 10.1080/19397038.2021.1978588.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0023">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0023">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Morella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Lambán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Royo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Sánchez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Del Ng Corrales</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a New Green Indicator and Its Implementation in a Cyber–Physical System for a Green Supply Chain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>20</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8629</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/su12208629</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0023">P. Morella, M. P. Lambán, J. Royo, J. C. Sánchez, and L. C. Del Ng Corrales, “Development of a New Green Indicator and Its Implementation in a Cyber–Physical System for a Green Supply Chain,” Sustainability, vol. 12, no. 20, p. 8629, 2020, doi: 10.3390/su12208629.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0024">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0024">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Barni</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Design of a Lifecycle-Oriented Environmental and Economic Indicators Framework for the Mechanical Manufacturing Industry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2602</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/su14052602</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0024">A. Barni et al., “Design of a Lifecycle-Oriented Environmental and Economic Indicators Framework for the Mechanical Manufacturing Industry,” Sustainability, vol. 14, no. 5, p. 2602, 2022, doi: 10.3390/su14052602.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Favi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Marconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mandolini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Germani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable life cycle and energy management of discrete manufacturing plants in the industry 4.0 framework</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Applied Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>312</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>118671</sb:article-number>
+                           <ce:doi>10.1016/j.apenergy.2022.118671</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0025">C. Favi, M. Marconi, M. Mandolini, and M. Germani, “Sustainable life cycle and energy management of discrete manufacturing plants in the industry 4.0 framework,” Applied Energy, vol. 312, p. 118671, 2022, doi: 10.1016/j.apenergy.2022.118671.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0026">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0026">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Cravens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ngai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zarestky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Love</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Science facilitation: navigating the intersection of intellectual and interpersonal expertise in scientific collaboration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Humanit Soc Sci Commun</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1057/s41599-022-01217-1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0026">A. E. Cravens, M. S. Jones, C. Ngai, J. Zarestky, and H. B. Love, “Science facilitation: navigating the intersection of intellectual and interpersonal expertise in scientific collaboration,” Humanit Soc Sci Commun, vol. 9, no. 1, 2022, doi: 10.1057/s41599-022-01217-1.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0027">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0027">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Subramanian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gunasekaran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.-A.</ce:given-name>
+                                 <ce:surname>Abdulrahman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Pawar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Des</ce:given-name>
+                                 <ce:surname>Doran</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A two-dimensional, two-level framework for achieving corporate sustainable development: Assessing the return on sustainability initiatives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bus Strat Env</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1117</sb:first-page>
+                              <sb:last-page>1130</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/bse.2055</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0027">L. Wu, N. Subramanian, A. Gunasekaran, M. D.-A. Abdulrahman, K. S. Pawar, and Des Doran, “A two-dimensional, two-level framework for achieving corporate sustainable development: Assessing the return on sustainability initiatives,” Bus Strat Env, vol. 27, no. 8, pp. 1117–1130, 2018, doi: 10.1002/bse.2055.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0028">
+                     <ce:label>[28]</ce:label>
+                     <ce:other-ref id="sbref0028">
+                        <ce:textref>B. Friess and T. Arnold, “A Positive Journesy Beyond The Comfort Zone,” 2019.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0029">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref0029">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Hristov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Appolloni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chirico</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of the environmental dimension in the performance management system: A systematic review and conceptual framework</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Cleaner Production</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>293</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>126075</sb:article-number>
+                           <ce:doi>10.1016/j.jclepro.2021.126075</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0029">I. Hristov, A. Appolloni, A. Chirico, and W. Cheng, “The role of the environmental dimension in the performance management system: A systematic review and conceptual framework,” Journal of Cleaner Production, vol. 293, p. 126075, 2021, doi: 10.1016/j.jclepro.2021.126075.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[30]</ce:label>
+                     <ce:other-ref id="sbref0030">
+                        <ce:textref>F. J. Brunner and K. W. Wagner, Taschenbuch Qualitätsmanagement: Leitfaden für Studium und Praxis, 4th ed. München, Wien: Hanser, 2008. [Online]. Available: <ce:inter-ref id="interref0003" xlink:href="http://d-nb.info/990518124/04" xlink:type="simple">http://d-nb.info/990518124/04</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0031">
+                     <ce:label>[31]</ce:label>
+                     <ce:other-ref id="sbref0031">
+                        <ce:textref>O. Eckelmann, Die Innovation Scorecard als Instrument des Innovations- und Technologiemanagements: Möglichkeiten und Grenzen, 1st ed. Hamburg: Diplom.de, 2002. [Online]. Available: <ce:inter-ref id="interref0004" xlink:href="http://epub.sub.uni-hamburg.de/epub/volltexte/campus/2017/62562/" xlink:type="simple">http://epub.sub.uni-hamburg.de/epub/volltexte/campus/2017/62562/</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

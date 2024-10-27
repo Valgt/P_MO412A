@@ -1,0 +1,950 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167779923000604</prism:url><dc:identifier>doi:10.1016/j.tibtech.2023.02.009</dc:identifier><eid>1-s2.0-S0167779923000604</eid><prism:doi>10.1016/j.tibtech.2023.02.009</prism:doi><pii>S0167-7799(23)00060-4</pii><dc:title>Contribution of electrobiotechnology to sustainable development goals </dc:title><prism:publicationName>Trends in Biotechnology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>ssu</pubType><prism:issn>01677799</prism:issn><prism:volume>41</prism:volume><prism:issueIdentifier>9</prism:issueIdentifier><prism:startingPage>1106</prism:startingPage><prism:endingPage>1108</prism:endingPage><prism:pageRange>1106-1108</prism:pageRange><prism:number>9</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2023-09-30</prism:coverDate><prism:coverDisplayDate>September 2023</prism:coverDisplayDate><prism:copyright>© 2023 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Gizewski, Jakub</dc:creator><dc:creator>v.d. Sande, Lisa</dc:creator><dc:creator>Holtmann, Dirk</dc:creator><dc:description>
+                  The UN Sustainable Development Goals (SDGs) are 17 interlinked goals designed to be a ‘shared blueprint for peace and prosperity for people and the planet, now and into the future’. Therefore, global efforts should focus on achieving these. Herein, we discuss the contribution of electrobiotechnology to the realization of the SDGs.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>sustainable development goals</dcterms:subject><dcterms:subject>electrobiotechnology</dcterms:subject><dcterms:subject>microbial fuel cell</dcterms:subject><dcterms:subject>microbial electrosynthesis</dcterms:subject><dcterms:subject>electrobioremediation</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167779923000604" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167779923000604" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="767" height="402" size="67226">https://api.elsevier.com/content/object/eid/1-s2.0-S0167779923000604-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="115" size="7993">https://api.elsevier.com/content/object/eid/1-s2.0-S0167779923000604-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3396" height="1778" size="540724">https://api.elsevier.com/content/object/eid/1-s2.0-S0167779923000604-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="491681">https://api.elsevier.com/content/object/eid/1-s2.0-S0167779923000604-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85150775592</scopus-id><scopus-eid>2-s2.0-85150775592</scopus-eid><pubmed-id>36959083</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85150775592" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271201</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291808</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Trends in Biotechnology</xocs:srctitle>
+      <xocs:normalized-srctitle>TRENDSINBIOTECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20230322">2023-03-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20230322">2023-03-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20230809">2023-08-09</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20230809">2023-08-09</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-08-07T08:02:17.584653Z</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167779923000604</xocs:eid>
+      <xocs:pii-formatted>S0167-7799(23)00060-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167779923000604</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.tibtech.2023.02.009</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167779922X00103</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230823">2023-08-23T01:56:07.875797Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20230901</xocs:date-search-begin>
+      <xocs:date-search-end>20230930</xocs:date-search-end>
+      <xocs:year-nav>2023</xocs:year-nav>
+      <xocs:indexeddate epoch="1679465160">2023-03-22T06:06:00.572547Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-7799</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01677799</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>41</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>41</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 41, Issue 9</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>1106</xocs:first-fp>
+      <xocs:last-lp>1108</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1106</xocs:first-page>
+         <xocs:last-page>1108</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202309</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2023</xocs:cover-date-text>
+      <xocs:cover-date-start>2023-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2023-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2023</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Science &amp; Society</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>ssu</xocs:document-subtype>
+      <xocs:copyright-line>© 2023 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CONTRIBUTIONELECTROBIOTECHNOLOGYSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GIZEWSKI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>The United Nations SDGs to realize a sustainable future</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Electrobiotechnology combining electrical efficiency and biological selectivity</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Electrobiotechnological processes and their contribution to the SDGs</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>SDG 2 (Zero hunger): electrobiotechnological production of a bio-based fertilizer</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>SDG 6 (Clean water and sanitation) plus SDG 7 (Affordable and clean energy): electrobiotechnology in wastewater treatment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>SDG 13 (Climate action): electrobiotechnological production based on CO<ce:inf loc="post">2</ce:inf>
+               </xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>SDG 14 (Life below water) plus SDG 15 (Life on land): electrobioremediation of soils and water</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Concluding remarks and future perspectives</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16511</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16516</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>PANDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>24</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>40</xocs:ref-first-fp>
+            <xocs:ref-last-lp>67</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>ROSSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>118208</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>123203</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>134160</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>HIEGEMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>122227</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>LITTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>DEUTZMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16073</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16081</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>HEGNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5295</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5300</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>STOCKL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4086</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4093</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>TEETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-article-number>e202210596</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>HAAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>32</xocs:ref-first-fp>
+            <xocs:ref-last-lp>39</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>125467</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>CEBALLOSESCALERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>116748</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GIZEWSKIX2023X1106</xocs:refkey3>
+         <xocs:refkey4lp>GIZEWSKIX2023X1106X1108</xocs:refkey4lp>
+         <xocs:refkey4ai>GIZEWSKIX2023X1106XJ</xocs:refkey4ai>
+         <xocs:refkey5>GIZEWSKIX2023X1106X1108XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2024-08-09T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2024-08-09T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2023 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2023-08-11T02:59:42.647Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>German Research Foundation</xocs:funding-agency-matched-string>
+            <xocs:funding-id>422694804</xocs:funding-id>
+            <xocs:funding-agency-acronym>DFG</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Deutsche Forschungsgemeinschaft</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001659</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2921044/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Federal Ministry of Education and Research</xocs:funding-agency-matched-string>
+            <xocs:funding-id>33RC031A</xocs:funding-id>
+            <xocs:funding-agency-acronym>BMBF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Bundesministerium für Bildung und Forschung</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100002347</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2921044/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>Parts of the work are based on the projects ‘Bioelectrochemical and engineering fundamentals to establish electrobiotechnology for biosynthesis – Power to value-added products (eBiotech)’, which is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – Project number 422694804 and ‘GAMES’ funded by German Federal Ministry of Education and Research (grant 33RC031A ). </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-7799(23)00060-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167779923000604</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167779923000604</xocs:eid>
+         <xocs:doi>10.1016/j.tibtech.2023.02.009</xocs:doi>
+         <xocs:cid>271201</xocs:cid>
+         <xocs:timestamp>2023-08-23T01:56:07.875797Z</xocs:timestamp>
+         <xocs:cover-date-start>2023-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2023-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167779923000604-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779923000604/MAIN/application/pdf/5690a0a6310c2c8fb1d74368fb49b073/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>518319</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167779923000604-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779923000604/PREVIEW/image/png/7245997483b2c41183cf53db6e0c20cd/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>99186</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167779923000604-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779923000604/gr1/DOWNSAMPLED/image/jpeg/d7ed2f20d1d37c15e6616da80e3d0d90/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>67226</xocs:filesize>
+               <xocs:pixel-height>402</xocs:pixel-height>
+               <xocs:pixel-width>767</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167779923000604-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779923000604/gr1/THUMBNAIL/image/gif/643bb6779c100a2cb221542659831a16/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7993</xocs:filesize>
+               <xocs:pixel-height>115</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167779923000604-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167779923000604/HIGHRES/image/jpeg/784a88d6d75dfa0fc13a4b26ff5112bf/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>540724</xocs:filesize>
+               <xocs:pixel-height>1778</xocs:pixel-height>
+               <xocs:pixel-width>3396</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167779923000604-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>491681</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10J6VPR9C92/MAIN/application/pdf/510be05a03071db614c04a95385a29e8/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" docsubtype="ssu" xml:lang="en">
+         <item-info>
+            <jid>TIBTEC</jid>
+            <aid>2319</aid>
+            <ce:pii>S0167-7799(23)00060-4</ce:pii>
+            <ce:doi>10.1016/j.tibtech.2023.02.009</ce:doi>
+            <ce:copyright type="full-transfer" year="2023">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Figure 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">Electrobiotechnological applications and their contribution towards sustainable development goals (SDGs).</ce:simple-para>
+                  <ce:simple-para id="sp0010" view="all">A broad range of substrates (e.g., renewable energy, CO<ce:inf loc="post">2</ce:inf>, waste water, waste) can be used in electrobiotechnological applications, which are characterized by high selectivity of the biocatalysts (enzymes or whole cells) and efficient electricity usage. Affected SDGs: 2 (Zero hunger), 3 (Good health and well-being), 6 (Clean water and sanitation), 7 (Affordable and clean energy), 9 (Industry, innovation, and infrastructure), 11 (Sustainable cities and communities), 12 (Responsible consumption and production), 13 (Climate action), 14 (Life below water), and 15 (Life on land). Due to the multiple interactions between the SDGs and complex relations, this presentation is intentionally exemplary and does not claim to cover all opportunities. Abbreviation: BES, bioelectrochemical system.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Figure 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S0167779923000604/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dh0005">
+               <ce:textfn id="tn0005">Science &amp; Society</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0005">Contribution of electrobiotechnology to sustainable development goals</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0167779923000604-aeecd14553740b6fc8d0ff5ae13163d5">
+                  <ce:given-name>Jakub</ce:given-name>
+                  <ce:surname>Gizewski</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010" author-id="S0167779923000604-abf337aa882b06c196f4e1cefc23f504">
+                  <ce:given-name>Lisa</ce:given-name>
+                  <ce:surname>v.d. Sande</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0010">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0167779923000604-d829e8517e8d7a2944476376047e7023">
+                  <ce:given-name>Dirk</ce:given-name>
+                  <ce:surname>Holtmann</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0015">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0020">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S0167779923000604-b396f0197c3e389e16dc122c4233b2ef">
+                  <ce:label>1</ce:label>
+                  <ce:textfn id="tn0010">Institute of Bioprocess Engineering and Pharmaceutical Technology, University of Applied Sciences Mittelhessen, Wiesenstrasse 14, 35390 Giessen, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Bioprocess Engineering and Pharmaceutical Technology, University of Applied Sciences Mittelhessen</sa:organization>
+                     <sa:address-line>Wiesenstrasse 14</sa:address-line>
+                     <sa:city>Giessen</sa:city>
+                     <sa:postal-code>35390</sa:postal-code>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">Institute of Bioprocess Engineering and Pharmaceutical Technology, University of Applied Sciences Mittelhessen, Wiesenstrasse 14, 35390 Giessen, Germany</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Correspondence:</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0015" view="all">The UN Sustainable Development Goals (SDGs) are 17 interlinked goals designed to be a ‘shared blueprint for peace and prosperity for people and the planet, now and into the future’. Therefore, global efforts should focus on achieving these. Herein, we discuss the contribution of electrobiotechnology to the realization of the SDGs.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0005">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">sustainable development goals</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">electrobiotechnology</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">microbial fuel cell</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">microbial electrosynthesis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0030">electrobioremediation</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:section-title id="st0010">The United Nations SDGs to realize a sustainable future</ce:section-title>
+                  <ce:para id="p0005" view="all">The SDGs (<ce:inter-ref id="ir0005" xlink:href="https://sdgs.un.org/goals" xlink:type="simple">https://sdgs.un.org/goals</ce:inter-ref>), set up by the United Nations General Assembly in 2015, are a blueprint for today’s environmental, social, and economic challenges. The implementation requires a collaboration between different actors in government, industry, civil society, and science. Some SDGs are more, some less directly linked to R&amp;D projects in biotechnology. However, most SDGs can only be achieved through novel, sustainable processes in industry, the municipal sector, and domestic households. This article highlights electrobiotechnology processes and focuses on their contribution to the SDGs.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:section-title id="st0015">Electrobiotechnology combining electrical efficiency and biological selectivity</ce:section-title>
+                  <ce:para id="p0010" view="all">The main objective of electrobiotechnology is to combine the strengths of electrochemistry and biotechnology to develop efficient processes. Therefore, the high selectivity and stability of biocatalysts (microorganisms or enzymes) are combined with the high energy efficiency of electrochemical reaction steps. Either integration of the reactions into one reactor or separation into two steps can be advantageous. The importance of electrochemical processes has come to the fore because of the need for increased electricity supply as well as power grid and electrical energy storage expansion due to increased green energy production. Electrobiotechnological processes may replace existing chemical ones or lead to new processes or products. Their main applications are the purification of water or soil and the generation of electrical energy as well as the production of chemicals. Furthermore, the possibility to utilize CO<ce:inf loc="post">2</ce:inf> for the production of carbon-based materials or the fixation of nitrogen are also beneficial applications of electrobiotechnology. In order to meet the SDGs, it is elementary that energy and substrates come from renewable and sustainable sources.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:section-title id="st0020">Electrobiotechnological processes and their contribution to the SDGs</ce:section-title>
+                  <ce:para id="p0015" view="all">Electrobiotechnology contributes mainly to the SDGs referring to environmental and technical issues and less to social and economic ones (<ce:cross-ref id="cf0025" refid="f0005">Figure 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>). The relevance of electrobiotechnological processes to SDG 9 (Industry, innovation, and infrastructure) is almost universal since electrobiotechnology is a part of the bioeconomy and enables innovative industrial production processes and contributes to infrastructural aspects (e.g., generation of electrical energy, water treatment).</ce:para>
+                  <ce:section id="s0020" view="all">
+                     <ce:section-title id="st0025">SDG 2 (Zero hunger): electrobiotechnological production of a bio-based fertilizer</ce:section-title>
+                     <ce:para id="p0020" view="all">The Haber-Bosch process for artificial nitrogen fixation is the most common way for today’s production of ammonia. In this process, atmospheric N<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf> are converted to NH<ce:inf loc="post">3</ce:inf> by using a metal catalyst at high temperatures and pressures. Ammonia is a chemical mainly used for production of urea, ammonium nitrate, ammonium sulfate, and ammonium phosphate. These substances are used as fertilizers and contribute to the nutrition of a large part of the world's population. The naturally occurring enzyme, nitrogenase, catalyzes the similar reduction of nitrogen to ammonia at ambient pressure and temperature and thus is highly energy efficient. The Minteer group developed an electroenzymatic ammonia-producing system with a nitrogenase immobilized within a specifically designed neutral-red-modified redox polymer [<ce:cross-ref id="cf0030" refid="bb0005">1</ce:cross-ref>]. Certainly, the productivity of the Haber-Bosch and the electroenzymatic process are currently not comparable. Nevertheless, in case of success, such an electrobiotechnological process might contribute to achieve SDG 2 (Zero hunger) by providing a sustainable, bio-based fertilizer. Furthermore, the electrobiotechnological process development for ammonia production could have a strong impact on SDG 12 (Responsible consumption and production) and 13 (Climate action) by replacing high energy-consuming procedures like the Haber-Bosch process. Coupled bioelectrochemical processes are also capable of producing single cell proteins from air [<ce:cross-ref id="cf0035" refid="bb0010">2</ce:cross-ref>] and contributing to SDGs 2, 12, and 13.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:section-title id="st0030">SDG 6 (Clean water and sanitation) plus SDG 7 (Affordable and clean energy): electrobiotechnology in wastewater treatment</ce:section-title>
+                     <ce:para id="p0025" view="all">Water is the basis of life on our planet and thus a precious commodity. Maintaining good water quality is therefore not only important for our health and well-being but also for the life on earth and below water. To achieve clean water and sanitation (SDG 6), wastewater as well as drinking water must be treated, particularly with increasing water scarcity. Here, electrobiotechnology might contribute to a circular water economy. Thereby, research focuses on the development of a sustainable and energy efficient process [<ce:cross-ref id="cf0040" refid="bb0015">3</ce:cross-ref>]. The degradation of wastewater components, in particular carbon [<ce:cross-ref id="cf0045" refid="bb0020">4</ce:cross-ref>,<ce:cross-ref id="cf0050" refid="bb0025">5</ce:cross-ref>], nitrate [<ce:cross-ref id="cf0055" refid="bb0025">5</ce:cross-ref>], as well as removal of antibiotic resistance genes [<ce:cross-ref id="cf0060" refid="bb0030">6</ce:cross-ref>], can be improved through bioelectrochemical systems. This organic waste still has a high energy content. Microbial fuel cells (MFCs) are bioelectrochemical systems that use this energy to generate electricity. This process is enabled by the ability of microbes to oxidize organic matter and emit electrons directly to an electrode. MFCs are used in sewage treatment plants on a technical scale [<ce:cross-ref id="cf0065" refid="bb0035">7</ce:cross-ref>]. An MFC was coupled with a biofilter in a pilot-scale application for simultaneous wastewater treatment and energy recovery [<ce:cross-ref id="cf0070" refid="bb0020">4</ce:cross-ref>]. Such an efficient energy and carbon recovery contributes to a responsible consumption and production (SDG 12) as well as to an additional, affordable, and clean energy source (SDG 7). Through the purification ability, the process also contributes to the clean water and sanitation (SDG 6) goal and to the good health and well-being (SDG 3) goal because potential pathogens (e.g., fecal coliforms) are also removed [<ce:cross-ref id="cf0075" refid="bb0020">4</ce:cross-ref>].</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:section-title id="st0035">SDG 13 (Climate action): electrobiotechnological production based on CO<ce:inf loc="post">2</ce:inf>
+                     </ce:section-title>
+                     <ce:para id="p0030" view="all">CO<ce:inf loc="post">2</ce:inf> is a greenhouse gas, which is accumulating in the atmosphere and is a frequent byproduct of industrial processes. Minimizing the amount of CO<ce:inf loc="post">2</ce:inf> produced by any process is hence an SDG. To reduce or avoid CO<ce:inf loc="post">2</ce:inf> emissions released for energy generation by the combustion of fossil fuels, renewable energy sources can be used. Nevertheless, for some processes, such as biogas generation or lime production (necessary for concrete manufacturing), CO<ce:inf loc="post">2</ce:inf> is an unavoidable byproduct. Here, conversion of the emitted CO<ce:inf loc="post">2</ce:inf> with a bioelectrochemical system might be a sustainable alternative. CO<ce:inf loc="post">2</ce:inf> has been converted directly or via an intermediate to different industrial relevant chemicals, such as methane [<ce:cross-ref id="cf0080" refid="bb0040">8</ce:cross-ref>], acetate [<ce:cross-ref id="cf0085" refid="bb0045">9</ce:cross-ref>], polymer bricks [<ce:cross-ref id="cf0090" refid="bb0050">10</ce:cross-ref>], or bioplastic [polyhydroxybutyrate (PHB)] [<ce:cross-ref id="cf0095" refid="bb0055">11</ce:cross-ref>]. In the majority of these processes, high energy and carbon efficiencies are the main features. Recently, the coupling of an anodic electrochemical synthesis of the fuel additive n-octane and a microbial conversion of the cathodically produced coproducts hydrogen and CO<ce:inf loc="post">2</ce:inf> to isopropanol was developed with Faradaic efficiencies up to 80% [<ce:cross-ref id="cf0100" refid="bb0060">12</ce:cross-ref>]. Stöckl <ce:italic>et al.</ce:italic> presented a two-step process for the production of bioplastic, first converting CO<ce:inf loc="post">2</ce:inf> electrochemically to formate and then in a second step using microorganisms to produce PHB [<ce:cross-ref id="cf0105" refid="bb0055">11</ce:cross-ref>]. The advantage of this drop-in synthesis is that after the electrosynthesis no downstream processing is necessary [<ce:cross-ref id="cf0110" refid="bb0055">11</ce:cross-ref>]. Since CO<ce:inf loc="post">2</ce:inf> is stored chemically in PHB, this process contributes to the reduction of greenhouse gas emissions (SDG 13, Climate action). Haas <ce:italic>et al</ce:italic>. developed a similar industrial system, where CO<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf>O were reduced electrochemically to syngas, which was converted to butanol and hexanol through fermentation [<ce:cross-ref id="cf0115" refid="bb0065">13</ce:cross-ref>].</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:section-title id="st0040">SDG 14 (Life below water) plus SDG 15 (Life on land): electrobioremediation of soils and water</ce:section-title>
+                     <ce:para id="p0035" view="all">The pollution of land, water, and air is a major concern confronted by the SDGs. Regarding the life on land (SDG 15), a major challenge is persistent substances such as polycyclic aromatic hydrocarbons (PAH). In addition, these substances often also threaten good health and well-being (SDG 3) and must therefore be degraded before reusing contaminated land. Li <ce:italic>et al</ce:italic>. showed a 70% decrease of PAH over 182 days with electrobioremediation in a 160 l pilot-scale plant [<ce:cross-ref id="cf0120" refid="bb0070">14</ce:cross-ref>]. This is 30–45% more than using bioremediation alone [<ce:cross-ref id="cf0125" refid="bb0070">14</ce:cross-ref>]. For remediation, electrodes with 1 m distance to each other are built up on the contaminated area and a supply of water and nutrients is established, as well as a system to prevent further contamination. This kind of process can also be used for groundwater treatment, as shown by Ceballos-Escalera <ce:italic>et al</ce:italic>. [<ce:cross-ref id="cf0130" refid="bb0075">15</ce:cross-ref>]. In this case an electrobioremediation system was used for nitrate and arsenite removal from groundwater. This coupled reaction allows reduction of nitrate to nitrogen at the cathode and oxidation of arsenite with an efficiency of more than 95% [<ce:cross-ref id="cf0135" refid="bb0075">15</ce:cross-ref>].</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:section-title id="st0045">Concluding remarks and future perspectives</ce:section-title>
+                  <ce:para id="p0040" view="all">The potential contribution of electrobiotechnology to the SDGs was shown by different studies. Nevertheless, up-to-date technology has not been used at an industrial scale since there is still R&amp;D necessary (e.g., scale-up, integration in existing production plants, optimization of the biocatalysts). The most important challenges are the long-term stability and the scalability of electrobiotechnological systems. Overcoming these challenges opens the way for electrobiotechnology to help achieve a prosperous and sustainable future.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section id="s0045" view="all">
+                  <ce:section-title id="st0050">Acknowledgments</ce:section-title>
+                  <ce:para id="p0045" view="all">Parts of the work are based on the projects ‘Bioelectrochemical and engineering fundamentals to establish electrobiotechnology for biosynthesis – Power to value-added products (eBiotech)’, which is funded by the <ce:grant-sponsor id="gts0005" sponsor-id="https://doi.org/10.13039/501100001659" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Deutsche Forschungsgemeinschaft</ce:grant-sponsor> (DFG, German Research Foundation) – Project number <ce:grant-number id="gtn0005" refid="gts0005">422694804</ce:grant-number> and ‘GAMES’ funded by <ce:grant-sponsor id="gts0010" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">German Federal Ministry of Education and Research</ce:grant-sponsor> (grant <ce:grant-number id="gtn0010" refid="gts0010">33RC031A</ce:grant-number>).</ce:para>
+               </ce:section>
+               <ce:section role="conflict-of-interest" id="s0050" view="all">
+                  <ce:section-title id="st0055">Declaration of interests</ce:section-title>
+                  <ce:para id="p0050" view="all">No interests are declared.</ce:para>
+               </ce:section>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0060">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>1.</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electroenzymatic nitrogen fixation using a MoFe protein system immobilized in an organic redox polymer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed. Engl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16511</sb:first-page>
+                              <sb:last-page>16516</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0010">Lee, Y.S. et al. (2020) Electroenzymatic nitrogen fixation using a MoFe protein system immobilized in an organic redox polymer. Angew. Chem. Int. Ed. Engl. 59, 16511–16516</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>2.</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Pander</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen oxidising bacteria for production of single-cell protein and other food and feed ingredients</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eng. Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>24</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0015">Pander, B. et al. (2020) Hydrogen oxidising bacteria for production of single-cell protein and other food and feed ingredients. Eng. Biol. 4, 21–24</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>3.</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Critical review of bioelectrochemical systems integrated with membrane-based technologies for desalination, energy self-sufficiency, and high-efficiency water and wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Desalination</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>452</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>40</sb:first-page>
+                              <sb:last-page>67</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0020">Yang, E. et al. (2019) Critical review of bioelectrochemical systems integrated with membrane-based technologies for desalination, energy self-sufficiency, and high-efficiency water and wastewater treatment. Desalination 452, 40–67</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>4.</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Rossi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pilot scale microbial fuel cells using air cathodes for producing electricity while treating wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>215</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>118208</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0025">Rossi, R. et al. (2022) Pilot scale microbial fuel cells using air cathodes for producing electricity while treating wastewater. Water Res. 215, 118208</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>5.</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simultaneous electricity generation and nitrogen and carbon removal in single-chamber microbial fuel cell for high-salinity wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>276</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>123203</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0030">Zhang, L. et al. (2020) Simultaneous electricity generation and nitrogen and carbon removal in single-chamber microbial fuel cell for high-salinity wastewater treatment. J. Clean. 276, 123203</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>6.</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microbial electro-Fenton: a promising system for antibiotics resistance genes degradation and energy generation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>699</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134160</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0035">Li, S. et al. (2020) Microbial electro-Fenton: a promising system for antibiotics resistance genes degradation and energy generation. Sci. Total Environ. 699, 134160</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>7.</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hiegemann</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance and inorganic fouling of a submergible 255 L prototype microbial fuel cell module during continuous long-term operation with real municipal wastewater under practical conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>294</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>122227</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">Hiegemann, H. et al. (2019) Performance and inorganic fouling of a submergible 255 L prototype microbial fuel cell module during continuous long-term operation with real municipal wastewater under practical conditions. Bioresour. Technol 294, 122227</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>8.</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.V.</ce:given-name>
+                                 <ce:surname>Litti</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electromethanogenesis: a promising biotechnology for the anaerobic treatment of organic waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Biochem. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19</sb:first-page>
+                              <sb:last-page>36</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0045">Litti, Y.V. et al. (2022) Electromethanogenesis: a promising biotechnology for the anaerobic treatment of organic waste. Appl. Biochem. Microbiol. 58, 19–36</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>9.</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Deutzmann</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microbial electrosynthesis of acetate powered by intermittent electricity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16073</sb:first-page>
+                              <sb:last-page>16081</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0050">Deutzmann, J.S. et al. (2022) Microbial electrosynthesis of acetate powered by intermittent electricity. Environ. Sci. Technol. 56, 16073–16081</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>10.</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Hegner</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coupled electrochemical and microbial catalysis for the production of polymer bricks</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemSusChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5295</sb:first-page>
+                              <sb:last-page>5300</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0055">Hegner, R. et al. (2020) Coupled electrochemical and microbial catalysis for the production of polymer bricks. ChemSusChem 13, 5295–5300</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>11.</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Stöckl</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>From CO<ce:inf loc="post">2</ce:inf> to bioplastic - coupling the electrochemical CO<ce:inf loc="post">2</ce:inf> reduction with a microbial product generation by drop-in electrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemSusChem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4086</sb:first-page>
+                              <sb:last-page>4093</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0060">Stöckl, M. et al. (2020) From CO2 to bioplastic - coupling the electrochemical CO2 reduction with a microbial product generation by drop-in electrolysis. ChemSusChem 13, 4086–4093</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>12.</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Teetz</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Upgrading Kolbe electrolysis-highly efficient production of green fuels and solvents by coupling biosynthesis and electrosynthesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed. Engl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e202210596</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0065">Teetz, N. et al. (2022) Upgrading Kolbe electrolysis-highly efficient production of green fuels and solvents by coupling biosynthesis and electrosynthesis. Angew. Chem. Int. Ed. Engl. 61, e202210596</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>13.</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Haas</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Technical photosynthesis involving CO<ce:inf loc="post">2</ce:inf> electrolysis and fermentation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>32</sb:first-page>
+                              <sb:last-page>39</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0070">Haas, T. et al. (2018) Technical photosynthesis involving CO2 electrolysis and fermentation. Nat. Catal. 1, 32–39</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>14.</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pilot-scale electro-bioremediation of heavily PAH-contaminated soil from an abandoned coking plant site</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>244</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>125467</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0075">Li, F. et al. (2020) Pilot-scale electro-bioremediation of heavily PAH-contaminated soil from an abandoned coking plant site. Chemosphere 244, 125467</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>15.</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ceballos-Escalera</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electro-bioremediation of nitrate and arsenite polluted groundwater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>116748</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0080">Ceballos-Escalera, A. et al. (2021) Electro-bioremediation of nitrate and arsenite polluted groundwater. Water Res. 190, 116748</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

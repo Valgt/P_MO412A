@@ -1,0 +1,1169 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0140673615009496</prism:url><dc:identifier>doi:10.1016/S0140-6736(15)00949-6</dc:identifier><eid>1-s2.0-S0140673615009496</eid><prism:doi>10.1016/S0140-6736(15)00949-6</prism:doi><pii>S0140-6736(15)00949-6</pii><dc:title>Primary health care and the Sustainable Development Goals </dc:title><prism:publicationName>The Lancet</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>01406736</prism:issn><prism:volume>386</prism:volume><prism:issueIdentifier>10009</prism:issueIdentifier><prism:startingPage>2119</prism:startingPage><prism:endingPage>2121</prism:endingPage><prism:pageRange>2119-2121</prism:pageRange><prism:number>10009</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2015-12-04</prism:coverDate><prism:coverDisplayDate>28 November–4 December 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Pettigrew, Luisa M</dc:creator><dc:creator>De Maeseneer, Jan</dc:creator><dc:creator>Anderson, Maria-Inez Padula</dc:creator><dc:creator>Essuman, Akye</dc:creator><dc:creator>Kidd, Michael R</dc:creator><dc:creator>Haines, Andy</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0140673615009496" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0140673615009496" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="143" size="35788">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673615009496-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="670" height="436" size="147225">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673615009496-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1779" height="1159" size="639340">https://api.elsevier.com/content/object/eid/1-s2.0-S0140673615009496-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84948807220</scopus-id><scopus-eid>2-s2.0-84948807220</scopus-eid><pubmed-id>26638948</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84948807220" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271074</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCET</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20151127">2015-11-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20151127">2015-11-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20151127">2015-11-27</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20151127">2015-11-27</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2015-11-27T20:22:28</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0140673615009496</xocs:eid>
+      <xocs:pii-formatted>S0140-6736(15)00949-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0140673615009496</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0140-6736(15)00949-6</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0140673615X00171</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160829">2016-08-29T17:37:33.207913-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20151128</xocs:date-search-begin>
+      <xocs:date-search-end>20151204</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1448659559">2015-11-27T21:25:59.361514Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0140-6736</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01406736</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>386</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>386</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10009</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10009</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 386, Issue 10009</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>2119</xocs:first-fp>
+      <xocs:last-lp>2121</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>2119</xocs:first-page>
+         <xocs:last-page>2121</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20151128</xocs:start-date>
+         <xocs:end-date>20151204</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>28 November–4 December 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-11-28</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-12-04</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PRIMARYHEALTHCARESUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PETTIGREW</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>BHUTTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>972</xocs:ref-first-fp>
+            <xocs:ref-last-lp>989</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>BEAGLEHOLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>940</xocs:ref-first-fp>
+            <xocs:ref-last-lp>949</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>KANER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>CD004148</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>KRUK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>904</xocs:ref-first-fp>
+            <xocs:ref-last-lp>911</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>GIBBONS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>422</xocs:ref-first-fp>
+            <xocs:ref-last-lp>428</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>LEWIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>928</xocs:ref-first-fp>
+            <xocs:ref-last-lp>939</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>STARFIELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>457</xocs:ref-first-fp>
+            <xocs:ref-last-lp>502</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>RAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23693</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-normalized-surname>WALLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1001</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1007</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref100">
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDHEALTHREPORT2008PRIMARYHEALTHCARENOWMORE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref110">
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORLDHEALTHASSEMBLYRESOLUTION6212PRIMARYHEALTHCAREINCLUDINGHEALTHSYSTEMSTRENGTHENING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref120">
+            <xocs:ref-normalized-surname>CAMPBELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>590</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref130">
+            <xocs:ref-normalized-surname>DEMAESENEER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>507</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref140">
+            <xocs:ref-normalized-surname>KIDD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>737</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref150"/>
+         <xocs:ref-info refid="sbref160">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>BUILDINGPRIMARYCAREINACHANGINGEUROPE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref170">
+            <xocs:ref-normalized-surname>SCHAFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>67</xocs:ref-first-fp>
+            <xocs:ref-last-lp>79</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref180">
+            <xocs:ref-normalized-surname>HARZHEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>274</xocs:ref-first-fp>
+            <xocs:ref-last-lp>284</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref190">
+            <xocs:ref-normalized-surname>DEMAESENEER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1860</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1861</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PETTIGREWX2015X2119</xocs:refkey3>
+         <xocs:refkey4lp>PETTIGREWX2015X2119X2121</xocs:refkey4lp>
+         <xocs:refkey4ai>PETTIGREWX2015X2119XL</xocs:refkey4ai>
+         <xocs:refkey5>PETTIGREWX2015X2119X2121XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-embargo-status>Open</xocs:sa-embargo-status>
+         <xocs:sa-start-date>2016-05-27T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0140-6736(15)00949-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0140673615009496</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0140673615009496</xocs:eid>
+         <xocs:doi>10.1016/S0140-6736(15)00949-6</xocs:doi>
+         <xocs:cid>271074</xocs:cid>
+         <xocs:timestamp>2015-11-27T15:25:59.361514-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-11-28</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-12-04</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0140673615009496-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615009496/MAIN/application/pdf/cc8612d451db900f72b2a70687ee7bde/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615009496/MAIN/application/pdf/cc8612d451db900f72b2a70687ee7bde/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>575448</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0140673615009496-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615009496/PREVIEW/image/png/afd80b4eb06018ea98592d96d9715573/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615009496/PREVIEW/image/png/afd80b4eb06018ea98592d96d9715573/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>85975</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673615009496-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615009496/fx1/THUMBNAIL/image/gif/50d7486f99a015148331c7c172dd6e1e/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615009496/fx1/THUMBNAIL/image/gif/50d7486f99a015148331c7c172dd6e1e/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>35788</xocs:filesize>
+               <xocs:pixel-height>143</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673615009496-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615009496/fx1/DOWNSAMPLED/image/jpeg/d0cdf19bc0b696ab029b72017ae69e28/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615009496/fx1/DOWNSAMPLED/image/jpeg/d0cdf19bc0b696ab029b72017ae69e28/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>147225</xocs:filesize>
+               <xocs:pixel-height>436</xocs:pixel-height>
+               <xocs:pixel-width>670</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0140673615009496-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0140673615009496/fx1/HIGHRES/image/jpeg/2ba571158d18d22d9a877bbeac956b7d/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0140673615009496/fx1/HIGHRES/image/jpeg/2ba571158d18d22d9a877bbeac956b7d/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>639340</xocs:filesize>
+               <xocs:pixel-height>1159</xocs:pixel-height>
+               <xocs:pixel-width>1779</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>LANCET</jid>
+            <aid>779</aid>
+            <ce:pii>S0140-6736(15)00949-6</ce:pii>
+            <ce:doi>10.1016/S0140-6736(15)00949-6</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Primary health care and the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10">
+                  <ce:given-name>Luisa M</ce:given-name>
+                  <ce:surname>Pettigrew</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au20">
+                  <ce:given-name>Jan</ce:given-name>
+                  <ce:surname>De Maeseneer</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au30">
+                  <ce:given-name>Maria-Inez Padula</ce:given-name>
+                  <ce:surname>Anderson</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au40">
+                  <ce:given-name>Akye</ce:given-name>
+                  <ce:surname>Essuman</ce:surname>
+                  <ce:cross-ref id="cecref40" refid="aff5">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au50">
+                  <ce:given-name>Michael R</ce:given-name>
+                  <ce:surname>Kidd</ce:surname>
+                  <ce:cross-ref id="cecref50" refid="aff6">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au60">
+                  <ce:given-name>Andy</ce:given-name>
+                  <ce:surname>Haines</ce:surname>
+                  <ce:cross-ref id="cecref60" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Health Services Research and Policy, Faculty of Public Health and Policy, London School of Hygiene &amp; Tropical Medicine, London WC1 9SH, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Health Services Research and Policy</sa:organization>
+                     <sa:organization>Faculty of Public Health and Policy</sa:organization>
+                     <sa:organization>London School of Hygiene &amp; Tropical Medicine</sa:organization>
+                     <sa:city>London</sa:city>
+                     <sa:postal-code>WC1 9SH</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Social and Environmental Health Research, Faculty of Public Health and Policy, London School of Hygiene &amp; Tropical Medicine, London WC1 9SH, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Social and Environmental Health Research</sa:organization>
+                     <sa:organization>Faculty of Public Health and Policy</sa:organization>
+                     <sa:organization>London School of Hygiene &amp; Tropical Medicine</sa:organization>
+                     <sa:city>London</sa:city>
+                     <sa:postal-code>WC1 9SH</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Family Medicine and Primary Health Care, Ghent University, Ghent, Belgium</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Family Medicine and Primary Health Care</sa:organization>
+                     <sa:organization>Ghent University</sa:organization>
+                     <sa:city>Ghent</sa:city>
+                     <sa:country>Belgium</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff4">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Department of Family and Community Medicine, Rio de Janeiro State University, Rio de Janeiro, Brasil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Family and Community Medicine</sa:organization>
+                     <sa:organization>Rio de Janeiro State University</sa:organization>
+                     <sa:city>Rio de Janeiro</sa:city>
+                     <sa:country>Brasil</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff5">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Family Medicine Unit, Department of Community Health, School of Public Health, University of Ghana, Accra, Ghana</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Family Medicine Unit</sa:organization>
+                     <sa:organization>Department of Community Health</sa:organization>
+                     <sa:organization>School of Public Health</sa:organization>
+                     <sa:organization>University of Ghana</sa:organization>
+                     <sa:city>Accra</sa:city>
+                     <sa:country>Ghana</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff6">
+                  <ce:label>f</ce:label>
+                  <ce:textfn>Faculty of Medicine, Nursing and Health Sciences, Flinders University, Adelaide, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Faculty of Medicine</sa:organization>
+                     <sa:organization>Nursing and Health Sciences</sa:organization>
+                     <sa:organization>Flinders University</sa:organization>
+                     <sa:city>Adelaide</sa:city>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">After the eight Millennium Development Goals that have shaped progress in the past 15 years, 17 <ce:inter-ref id="interrefs10" xlink:href="https://sustainabledevelopment.un.org/topics" xlink:type="simple">Sustainable Development Goals (SDGs)</ce:inter-ref> were adopted by governments at the UN General Assembly in September, 2015. SDG3 explicitly relates to health—to “Ensure healthy lives and promote well-being for all at all ages”. This goal is translated into 13 targets: three relate to reproductive and child health; three to communicable diseases, non-communicable diseases, and addiction; two to environmental health; and one to achieving universal health coverage (UHC). Four further targets relate to tobacco control, vaccines and medicines, health financing and workforce, and global health risk preparedness.</ce:para>
+               <ce:para id="para20" view="all">When supported by strong public health policies and with aligned efforts across social, economic, and political domains, primary health care has a central role in achievement of sustainable development. Although differences are inevitable between countries in the organisation of primary health care and the human resources available, many of the challenges outlined in SDG3—related to reproductive and child health, communicable diseases, chronic illnesses (including multimorbidity), addiction, and other mental health problems—can be addressed through a person-centred and population-based approach to primary health care.<ce:cross-refs id="cecrefs10" refid="bib1 bib2 bib3 bib4 bib5">
+                     <ce:sup loc="post">1–5</ce:sup>
+                  </ce:cross-refs> Delivery of vaccines and drugs needs a functioning primary care system. Well integrated and prepared primary health care has a key role in health emergency responsiveness, and it is essential for the achievement of UHC equitably and cost-effectively.<ce:cross-refs id="cecrefs20" refid="bib6 bib7 bib8">
+                     <ce:sup loc="post">6–8</ce:sup>
+                  </ce:cross-refs>
+               </ce:para>
+               <ce:para id="para30" view="all">Moreover, primary health care can contribute to the achievement of many of the 16 other SDGs; for example, its role in addressing the social determinants of health was underlined in the <ce:inter-ref id="interrefs20" xlink:href="http://www.who.int/social_determinants/thecommission/finalreport/en/" xlink:type="simple">report <ce:italic>Closing the Gap in a Generation</ce:italic>
+                  </ce:inter-ref>. Primary care teams worldwide can provide examples from daily practice that illustrate their contribution across the SDGs, including helping to end poverty, improve nutrition, provide health education and promote lifelong learning, empower individuals and communities to reduce inequities and promote justice, enable access to safe water and sanitation, encourage productive and sustainable employment, foster innovation, advocate for healthy and sustainable living environments, and promote peaceful communities.</ce:para>
+               <ce:para id="para40" view="all">Yet investment in realising the full potential of primary health care still seems elusive to many governments, policy makers, funders, and health-care providers. Therefore, 7 years after the <ce:inter-ref id="interrefs30" xlink:href="http://www.thelancet.com/series/alma-ata-rebirth-and-revision" xlink:type="simple">World Health Report and <ce:italic>The Lancet</ce:italic> Series on primary health care</ce:inter-ref>, and 37 years since the Alma-Ata declaration, the absence of reference to primary health care in the SDGs and their targets seems a serious oversight. Two conclusions could be drawn: first, that primary health care is dispensable and peripheral to achieving sustainable development; or, second, that primary health care is so integral to the path towards the SDGs that reference in a goal or target would undermine its cross-cutting role.</ce:para>
+               <ce:para id="para50" view="all">We opt for the second conclusion, yet do so with apprehension, because one of the contributing factors to the documented failure of primary health care in many settings since the Alma-Ata declaration was “the scarcity of a proposed strategy for implementation and its monitoring for accountability and scale-up purposes”.<ce:cross-ref id="cecref70" refid="bib9">
+                     <ce:sup loc="post">9</ce:sup>
+                  </ce:cross-ref> This issue needs to be addressed in the development of implementation strategies for the SDGs. If the agenda is not explicit about how health systems with good-quality comprehensive primary care can be achieved, or how to measure progress towards this goal, we risk repeating the failures of the past.</ce:para>
+               <ce:para id="para60" view="all">National governments and other stakeholders need to be ambitious in measuring progress towards delivery of primary health care that will address the SDGs. This monitoring includes the use of indicators that can capture the principles of equity, community participation, prevention, appropriate technology, and inter-sectoral collaboration underpinning the Alma-Ata declaration, and which can also document the elements of first contact, continuity, comprehensiveness, coordination, and family and community orientation which, evidence suggests, make primary care services successful.<ce:cross-refs id="cecrefs30" refid="bib7 bib10">
+                     <ce:sup loc="post">7,10</ce:sup>
+                  </ce:cross-refs> Health financing indicators need to track government expenditure in this area and provide information on the economic accessibility of primary care services.</ce:para>
+               <ce:para id="para70" view="all">
+                  <ce:display>
+                     <ce:figure id="f10">
+                        <ce:copyright type="other" year="2015">Matthew Oldfield/Science Photo Library</ce:copyright>
+                        <ce:link locator="fx1"/>
+                     </ce:figure>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="para80" view="all">At the interface between the community, the health system, and other sectors, the primary care workforce is arguably the backbone of the entire health system. The density, distribution, and performance of this workforce, which includes community health workers, nurses, midwives, family doctors, and allied health professionals, should be monitored.<ce:cross-ref id="cecref80" refid="bib11">
+                     <ce:sup loc="post">11</ce:sup>
+                  </ce:cross-ref> Meanwhile, addressing the underfunding of the research agenda for primary health care within health systems research will help us to understand how to best scale-up the primary care workforce, taking available national resources into account, as well as how to halt and reverse the brain drain of health professionals.<ce:cross-refs id="cecrefs40" refid="bib12 bib13">
+                     <ce:sup loc="post">12,13</ce:sup>
+                  </ce:cross-refs>
+               </ce:para>
+               <ce:para id="para90" view="all">Countries need strong political will, sound economic policies, and coordinated international efforts to achieve UHC. Measuring progress towards the implementation of primary health care is no easy task, yet it is the lynchpin to achieving UHC and is pivotal across the SDGs.<ce:cross-ref id="cecref90" refid="bib14">
+                     <ce:sup loc="post">14</ce:sup>
+                  </ce:cross-ref> Instruments that assess the strength of primary health care<ce:cross-refs id="cecrefs50" refid="bib15 bib16 bib17">
+                     <ce:sup loc="post">15–17</ce:sup>
+                  </ce:cross-refs> can be used to measure many of the dimensions described here, and have been successfully used in some countries.<ce:cross-ref id="cecref100" refid="bib18">
+                     <ce:sup loc="post">18</ce:sup>
+                  </ce:cross-ref> At present, the challenge is in enhancing their appropriate application worldwide, and for stakeholders to respond to their findings.</ce:para>
+               <ce:para id="para100" view="all">As the UN Inter-agency and Expert Group continues to deliberate on the SDG indicators, the Gates Foundation, World Bank Group, and WHO have stepped into the spotlight with the launch of <ce:inter-ref id="interrefs40" xlink:href="http://phcperformanceinitiative.org/" xlink:type="simple">the Primary Health Care Performance Initiative</ce:inter-ref>. This initiative, alongside <ce:inter-ref id="interrefs50" xlink:href="http://www.who.int/servicedeliverysafety/areas/people-centred-care/global-strategy/en/" xlink:type="simple">the upcoming WHO People-Centred and Integrated Health Services Strategy</ce:inter-ref> and <ce:inter-ref id="interrefs60" xlink:href="http://www.who.int/hrh/resources/globstrathrh-2030/en/" xlink:type="simple">the Global Strategy on Human Resource for Health: Workforce 2030</ce:inter-ref>, will be important in shaping how primary health care develops in the next 15 years and in steering the associated research agenda. These initiatives should encourage governments to invest in and measure progress towards good-quality comprehensive and integrated primary health care that is based on sound evidence. The risk at this juncture of not doing so is that the pursuit of vertical disease-oriented programmes will prevail.<ce:cross-ref id="cecref110" refid="bib19">
+                     <ce:sup loc="post">19</ce:sup>
+                  </ce:cross-ref> Such a pursuit will be at the cost of equitable UHC and the realisation of the full potential of primary health care's contribution to sustainable development.</ce:para>
+               <ce:para id="para110" role="acknowledgement" view="all">LMP is an executive committee member of the World Organization of Family Doctors (WONCA); M-IPA is a regional president of WONCA Iberoamericana-CIMF; and MRK is president of WONCA. JDM, AE, and AH declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>ZA</ce:given-name>
+                                 <ce:surname>Bhutta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Cousens</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interventions to address maternal, newborn, and child survival: what difference can integrated primary health care strategies make?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>372</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>972</sb:first-page>
+                              <sb:last-page>989</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Beaglehole</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Epping-Jordan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V</ce:given-name>
+                                 <ce:surname>Patel</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improving the prevention and management of chronic disease in low-income and middle-income countries: a priority for primary health care</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>372</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>940</sb:first-page>
+                              <sb:last-page>949</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Kaner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F</ce:given-name>
+                                 <ce:surname>Beyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Dickinson</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effectiveness of brief alcohol interventions in primary care populations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cochrane Database Syst Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>CD004148</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>ME</ce:given-name>
+                                 <ce:surname>Kruk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Porignon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>PC</ce:given-name>
+                                 <ce:surname>Rockers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W</ce:given-name>
+                                 <ce:surname>Van Lerberghe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The contribution of primary care to health and health systems in low- and middle-income countries: a critical review of major primary care initiatives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Soc Sci Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>904</sb:first-page>
+                              <sb:last-page>911</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DC</ce:given-name>
+                                 <ce:surname>Gibbons</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AB</ce:given-name>
+                                 <ce:surname>Bindman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>MA</ce:given-name>
+                                 <ce:surname>Soljak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Millett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Majeed</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Defining primary care sensitive conditions: a necessity for effective primary care delivery?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J R Soc Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>422</sb:first-page>
+                              <sb:last-page>428</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Lewin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JN</ce:given-name>
+                                 <ce:surname>Lavis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AD</ce:given-name>
+                                 <ce:surname>Oxman</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Supporting the delivery of cost-effective interventions in primary health-care systems in low-income and middle-income countries: an overview of systematic reviews</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>372</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>928</sb:first-page>
+                              <sb:last-page>939</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B</ce:given-name>
+                                 <ce:surname>Starfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Macinko</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Contribution of primary care to health systems and health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Milbank Q</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>457</sb:first-page>
+                              <sb:last-page>502</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Pilot</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The missing link—the role of primary care in global health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glob Health Action</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23693</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Walley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JE</ce:given-name>
+                                 <ce:surname>Lawn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Tinker</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Primary health care: making Alma-Ata a reality</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>372</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1001</sb:first-page>
+                              <sb:last-page>1007</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>The World Health Report 2008. Primary health care: now more than ever</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sbref110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>World Health Assembly Resolution—62.12. Primary health care, including health system strengthening</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Admasu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Soucat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Tlou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Maximizing the impact of community-based practitioners in the quest for universal health coverage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bull World Health Organ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>590</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sbref130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>De Maeseneer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Scaling up family medicine and primary health care in Africa: statement of the primafamed network, Victoria Falls, Zimbabwe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Afr J Prim Health Care Fam Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>507</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="sbref140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>MR</ce:given-name>
+                                 <ce:surname>Kidd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>MIP</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>EM</ce:given-name>
+                                 <ce:surname>Obazee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>PN</ce:given-name>
+                                 <ce:surname>Prasad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>LM</ce:given-name>
+                                 <ce:surname>Pettigrew</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The need for global primary care development indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>386</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>737</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>15</ce:label>
+                     <sb:reference id="sbref150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Johns Hopkins Primary Care Policy Centre</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Primary care assessment tools</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs70" xlink:href="http://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-primary-care-policy-center/pca_tools.html" xlink:type="simple">http://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-primary-care-policy-center/pca_tools.html</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Oct 28, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>16</ce:label>
+                     <sb:reference id="sbref160">
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>DS</ce:given-name>
+                                    <ce:surname>Kringos</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>WG</ce:given-name>
+                                    <ce:surname>Boerma</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>A</ce:given-name>
+                                    <ce:surname>Hutchinson</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>R</ce:given-name>
+                                    <ce:surname>Saltman</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Building primary care in a changing Europe</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>European Observatory on Health Systems and Policies</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs80" xlink:href="http://www.euro.who.int/__data/assets/pdf_file/0018/271170/BuildingPrimaryCareChangingEurope.pdf?ua=1" xlink:type="simple">www.euro.who.int/__data/assets/pdf_file/0018/271170/BuildingPrimaryCareChangingEurope.pdf?ua=1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed Oct 28, 2015).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="sbref170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>WL</ce:given-name>
+                                 <ce:surname>Schäfer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>WG</ce:given-name>
+                                 <ce:surname>Boerma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DS</ce:given-name>
+                                 <ce:surname>Kringos</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measures of quality, costs and equity in primary health care instruments developed to analyse and compare primary care in 35 countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Qual Prim Care</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>67</sb:first-page>
+                              <sb:last-page>79</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="sbref180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E</ce:given-name>
+                                 <ce:surname>Harzheim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Oliveira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Agostinho</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Validation of the primary care assessment tool: PCATool-Brazil for adults</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev Bras Med Fam Comunidade</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>274</sb:first-page>
+                              <sb:last-page>284</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>(in Portuguese).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>19</ce:label>
+                     <sb:reference id="sbref190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>De Maeseneer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>RG</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Demarzo</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tackling NCDs: a different approach is needed</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>379</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1860</sb:first-page>
+                              <sb:last-page>1861</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

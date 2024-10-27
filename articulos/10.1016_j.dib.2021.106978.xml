@@ -1,0 +1,1504 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2352340921002626</prism:url><dc:identifier>doi:10.1016/j.dib.2021.106978</dc:identifier><eid>1-s2.0-S2352340921002626</eid><prism:doi>10.1016/j.dib.2021.106978</prism:doi><pii>S2352-3409(21)00262-6</pii><dc:title>Data describing the relationship between world news and sustainable development goals </dc:title><prism:publicationName>Data in Brief</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dat</pubType><prism:issn>23523409</prism:issn><prism:volume>36</prism:volume><prism:startingPage>106978</prism:startingPage><prism:pageRange>106978</prism:pageRange><articleNumber>106978</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-06-30</prism:coverDate><prism:coverDisplayDate>June 2021</prism:coverDisplayDate><prism:copyright>© 2021 The Author(s). Published by Elsevier Inc.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Inc.</prism:publisher><dc:creator>Honti, Gergely</dc:creator><dc:creator>Czvetkó, Tímea</dc:creator><dc:creator>Sebestyén, Viktor</dc:creator><dc:creator>Abonyi, János</dc:creator><dc:description>
+                  The data article presents a dataset and a tool for news-based monitoring of sustainable development goals defined by the United Nations. The presented dataset was created by structured queries of the GDELT database based on the categories of the World Bank taxonomy matched to sustainable development goals. The Google BigQuery SQL scripts and the results of the related network analysis are attached to the data to provide a toolset for the strategic management of sustainability issues. The article demonstrates the dataset on the 6th sustainable development goal (Clean Water and Sanitation). The network formed based on how countries appear in the same news can be used to explore the potential international cooperation. The network formed based on how topics of World Bank taxonomy appear in the same news can be used to explore how the problems and solutions of sustainability issues are interlinked.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Hungary institutions 2021</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Sustainable development goals (SDGs)</dcterms:subject><dcterms:subject>News analysis</dcterms:subject><dcterms:subject>GDELT global knowledge graph</dcterms:subject><dcterms:subject>Network analysis</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2352340921002626" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2352340921002626" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="318" size="75809">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="440" size="46553">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="123" size="12631">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="210" height="164" size="7131">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="1406" size="630072">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="1949" size="426315">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="4709">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="7015">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-si3.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="8598">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-si2.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="570078">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340921002626-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85103723434</scopus-id><scopus-eid>2-s2.0-85103723434</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85103723434" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>311593</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291806</xocs:ssid>
+         <xocs:ssid type="subj">291848</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Data in Brief</xocs:srctitle>
+      <xocs:normalized-srctitle>DATAINBRIEF</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210324">2021-03-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210324">2021-03-24</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210403">2021-04-03</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210403">2021-04-03</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-01-24T07:57:37</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2352340921002626</xocs:eid>
+      <xocs:pii-formatted>S2352-3409(21)00262-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2352340921002626</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.dib.2021.106978</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.4</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2352340921X00030</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230124">2023-01-24T08:12:19.470181Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210601</xocs:date-search-begin>
+      <xocs:date-search-end>20210630</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1616603031">2021-03-24T16:23:51.025641Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2352-3409</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>23523409</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>EISZ2021</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>36</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>36</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 36</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>144</xocs:sort-order>
+      <xocs:first-fp>106978</xocs:first-fp>
+      <xocs:article-number>106978</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>106978</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202106</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Environmental Science</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>dat</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 The Author(s). Published by Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>DATADESCRIBINGRELATIONSHIPBETWEENWORLDNEWSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HONTI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/j.heliyon.2021.e06174</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S2405844021002796</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Value of the Data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Data Description</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental Design, Materials and Methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Validation of the applicability of the data</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Ethics Statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT Author Statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>MANIOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004a"/>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ROADMAPFORLOCALISINGSDGSIMPLEMENTATIONMONITORINGSUBNATIONALLEVEL</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004"/>
+         <xocs:ref-info refid="sbref0005"/>
+         <xocs:ref-info refid="sbref0006"/>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>CZVETKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>FULLMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1423</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1459</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>HONTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DATADESCRIBINGRELATIONSHIPBETWEENWORLDNEWSSUSTAINABLEDEVELOPMENTGOALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HONTIX2021X106978</xocs:refkey3>
+         <xocs:refkey4ai>HONTIX2021X106978XG</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2021-03-16T16:58:23Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Hungary institutions 2021</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 The Author(s). Published by Elsevier Inc.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-06-11T14:10:40.356Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2352-3409(21)00262-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2352340921002626</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2352340921002626</xocs:eid>
+         <xocs:doi>10.1016/j.dib.2021.106978</xocs:doi>
+         <xocs:cid>311593</xocs:cid>
+         <xocs:timestamp>2023-01-24T08:12:19.470181Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-06-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>EISZ2021</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/MAIN/application/pdf/84e4ddc3c8c2d6a671dc1a7948d39f0d/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>920803</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2352340921002626-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/PREVIEW/image/png/a7e77675a517e74b0f7b444077144cb9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>46695</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/gr1/DOWNSAMPLED/image/jpeg/dbb56ed38fca35b3816db8ec15b86141/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>75809</xocs:filesize>
+               <xocs:pixel-height>318</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/gr2/DOWNSAMPLED/image/jpeg/ca6132880636e156f3e6493251432bb4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46553</xocs:filesize>
+               <xocs:pixel-height>440</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/gr1/THUMBNAIL/image/gif/0edec5bf21452f24572b92dc7476a98f/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12631</xocs:filesize>
+               <xocs:pixel-height>123</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/gr2/THUMBNAIL/image/gif/ebc5d72915c277f38ee9142987991823/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7131</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>210</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/HIGHRES/image/jpeg/7887f944a9a285456b5f4dc4f229469b/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>630072</xocs:filesize>
+               <xocs:pixel-height>1406</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/DOWNSAMPLED/image/jpeg/afea2134028154fe5a2acf691b12750b/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>426315</xocs:filesize>
+               <xocs:pixel-height>1949</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/STRIPIN/image/svg+xml/7d9dadfc3302da57628a158f89490438/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>4709</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-si3.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/STRIPIN/image/svg+xml/9139632a49fd3ad58ca619bdbc16e30c/si3.svg</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>7015</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340921002626/STRIPIN/image/svg+xml/e0a6336e0d034b80b8406f1812b804b3/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>8598</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340921002626-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1032S2BZW9Z/MAIN/application/pdf/e876ed3d3441026c94960e4eeb79c076/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>570078</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dat" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>DIB</jid>
+            <aid>106978</aid>
+            <ce:article-number>106978</ce:article-number>
+            <ce:pii>S2352-3409(21)00262-6</ce:pii>
+            <ce:doi>10.1016/j.dib.2021.106978</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="ref0001">
+                  <ce:pii>S2405-8440(21)00279-6</ce:pii>
+                  <ce:doi>10.1016/j.heliyon.2021.e06174</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="unknown" year="2021"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara001" view="all">Choropleth of the SDG6 in the world. The darker color of the country represents more central Clean Water and Sanitation issue. The abbreviations and the modelled values of the cutouts are: Antigua and Barbuda ATG (0.201%), St. Vincent and the Grenadines VCT (0.110%), Barbados BRB (0.115%), Comoro Islands KMF (0.119%), Dominica DMA (0.284%), Grenada GRD (0.138%), Maldives MDV (0.135%), Mauritius MUS (0.157%), St. Lucia LCA (0.083%), Trinidad and Tobago TTO (0.093%), Timor-Leste TLS (0.181%), Seychelles SYC (0.225%), Malta MLT (0.099%), Singapore SGP (0.184%), Marshall Islands MHL (0.354%), Kiribati KIR (0.222%), Solomon Islands SLB (0.203%), Micronesia (Federated States of) FSM (0.113%), Vanuatu VUT (0.139%), Samoa WSM (0.061%), Fiji FJI (0.108%), Tonga TON (0.061%).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Fig 1</ce:alt-text>
+               <ce:link id="celink0001" locator="gr1" xlink:href="pii:S2352340921002626/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig0002">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0002">
+                  <ce:simple-para id="spara002" view="all">Network of the SDG6 related topics. The edges are colored with red if the sustainability news tends to be negative and green if the sustainability news tends to be positive. The edges are as thick as the normalized counts of articles between the categories. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0002" role="short">Fig 2</ce:alt-text>
+               <ce:link id="celink0002" locator="gr2" xlink:href="pii:S2352340921002626/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Data Article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Data describing the relationship between world news and sustainable development goals</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S2352340921002626-fc36ecb2f7997501b9bd7504f76607c4">
+                  <ce:given-name>Gergely</ce:given-name>
+                  <ce:surname>Honti</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0002" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0002" author-id="S2352340921002626-ae826186c286d4c43e18b73b221f6708">
+                  <ce:given-name>Tímea</ce:given-name>
+                  <ce:surname>Czvetkó</ce:surname>
+                  <ce:cross-ref id="crf0003" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0003" author-id="S2352340921002626-0b8261c43b7dcc67497d80bb322598b4">
+                  <ce:given-name>Viktor</ce:given-name>
+                  <ce:surname>Sebestyén</ce:surname>
+                  <ce:cross-ref id="crf0004" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0005" refid="aff0003">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0004" author-id="S2352340921002626-08066d74d3846eb7f89010744460c7cb">
+                  <ce:given-name>János</ce:given-name>
+                  <ce:surname>Abonyi</ce:surname>
+                  <ce:cross-ref id="crf0007" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0006" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S2352340921002626-0c0f728d9b71c6ad78bfb622ffab12f8">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">MTA-PE “Lendület” Complex Systems Monitoring Research Group, University of Pannonia, Veszprém, Hungary</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>MTA-PE “Lendület” Complex Systems Monitoring Research Group</sa:organization>
+                     <sa:organization>University of Pannonia</sa:organization>
+                     <sa:city>Veszprém</sa:city>
+                     <sa:country>Hungary</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">aMTA-PE Complex Systems Monitoring Research Group, University of Pannonia, Veszprém, Hungary</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S2352340921002626-fc360876d4466253d39f4b9134e576e5">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">Institute of Advanced Studies Kőszeg, Chernel str. 14, H9730 Kőszeg, Hungary</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Advanced Studies Kőszeg</sa:organization>
+                     <sa:address-line>Chernel str. 14</sa:address-line>
+                     <sa:city>Kőszeg</sa:city>
+                     <sa:postal-code>H9730</sa:postal-code>
+                     <sa:country>Hungary</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0002">bInstitute of Advanced Studies Kőszeg, Chernel str. 14, H9730 Kőszeg, Hungary</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0003" affiliation-id="S2352340921002626-20363c08868e693fbac8f408a1ece168">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="cetextfn0003">Sustainability Solutions Research Lab, University of Pannonia, Egyetem str. 10, H8200 Veszprém, Hungary</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Sustainability Solutions Research Lab</sa:organization>
+                     <sa:organization>University of Pannonia</sa:organization>
+                     <sa:address-line>Egyetem str. 10</sa:address-line>
+                     <sa:city>Veszprém</sa:city>
+                     <sa:postal-code>H8200</sa:postal-code>
+                     <sa:country>Hungary</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0003">cSustainability Solutions Research Lab, University of Pannonia, Egyetem str. 10, H8200 Veszprém, Hungary</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author at: MTA-PE “Lendület” Complex Systems Monitoring Research Group, University of Pannonia, Veszprém, Hungary.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>MTA-PE “Lendület” Complex Systems Monitoring Research Group</sa:organization>
+                     <sa:organization>University of Pannonia</sa:organization>
+                     <sa:city>Veszprém</sa:city>
+                     <sa:country>Hungary</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="13" month="2" year="2021"/>
+            <ce:date-revised day="4" month="3" year="2021"/>
+            <ce:date-accepted day="15" month="3" year="2021"/>
+            <ce:abstract class="author" id="abs0001" view="all"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara003" view="all">The data article presents a dataset and a tool for news-based monitoring of sustainable development goals defined by the United Nations. The presented dataset was created by structured queries of the GDELT database based on the categories of the World Bank taxonomy matched to sustainable development goals. The Google BigQuery SQL scripts and the results of the related network analysis are attached to the data to provide a toolset for the strategic management of sustainability issues. The article demonstrates the dataset on the 6th sustainable development goal (Clean Water and Sanitation). The network formed based on how countries appear in the same news can be used to explore the potential international cooperation. The network formed based on how topics of World Bank taxonomy appear in the same news can be used to explore how the problems and solutions of sustainability issues are interlinked.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="keys0001" view="all">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0002">Sustainable development goals (SDGs)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0003">News analysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0004">GDELT global knowledge graph</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0005">Network analysis</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para0001" view="all">
+                  <ce:bold>Specifications Table</ce:bold>
+                  <ce:display>
+                     <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" colsep="0" frame="topbot" id="utbl0001" rowsep="0">
+                        <tgroup cols="2">
+                           <colspec align="left" colname="col1" colnum="1"/>
+                           <colspec align="left" colname="col2" colnum="2"/>
+                           <tbody>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0001" role="rowhead" valign="top">Subject</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0002" valign="top">Management, Monitoring, Policy and Law</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0003" role="rowhead" valign="top">Specific subject area</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0004" valign="top">Dataset for news-based monitoring of sustainable development goals</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0005" role="rowhead" valign="top">Type of data</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0006" valign="top">Statistics of sustainability news (Data table)<br/>Network for category analysis (Data table)<br/>Network for country co-occurrence analysis (Data table)<br/>World Bank taxonomy used for the categorization of the news mapped to sustainable development goals by experts (Data table)<br/>Google Big Query SQL code (Program Code)</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0007" role="rowhead" valign="top">How data were acquired</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0008" valign="top">BigQuery SQL queries of the GDELT Global Knowledge Graph based on World Bank taxonomy matched to sustainable development goals</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0009" role="rowhead" valign="top">Data format</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0010" valign="top">Raw data are in CSV format<br/>BigQuery SQL queries in plain text format<br/>Analyzed networks in Gephi format</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0011" role="rowhead" valign="top">Parameters for data collection</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0012" valign="top">News appeared in 2019 and were categorised to topics of sustainability according to the World Bank taxonomy.</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0013" role="rowhead" valign="top">Description of data collection</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0014" valign="top">Data is collected by running SQL queries, which are available on Mendeley <cross-ref id="crf0008s" refid="bib0010">[9]</cross-ref>
+                                 </entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0015" role="rowhead" valign="top">Data source location</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0016" valign="top">GDELT Global Knowledge Graph at Google Cloud contains categorised news from all of the countries of the world updated every 15 min (<inter-ref id="interref0001" xlink:href="http://www.gdeltproject.org" xlink:type="simple">www.gdeltproject.org</inter-ref>)</entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0017" role="rowhead" valign="top">Data accessibility</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0018" valign="top">The data is available on Mendeley <cross-ref id="crf0008" refid="bib0010">[9]</cross-ref>
+                                    <br/> 
+                                    <inter-ref id="interref0002" xlink:href="https://data.mendeley.com/datasets/xjzztkh7gt/1" xlink:type="simple">https://data.mendeley.com/datasets/xjzztkh7gt/1</inter-ref>
+                                 </entry>
+                              </row>
+                              <row>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" id="en0019" role="rowhead" valign="top">Related research article</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" id="en0020" valign="top">T. Czvetkó, G. Honti, V. Sebestyén, J. Abonyi. The intertwining of world news and Sustainable Development Goals: an effective monitoring tool, Heliyon, 7(2), 2021, doi: 10.1016/j.heliyon.2021.e06174 <cross-ref id="crf0009" refid="bib0007">[7]</cross-ref>.</entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </ce:table>
+                  </ce:display>
+               </ce:para>
+               <ce:section id="sec0001" view="all">
+                  <ce:section-title id="cesectitle0004">Value of the Data</ce:section-title>
+                  <ce:para id="para0002" view="all">
+                     <ce:list id="celist0001a">
+                        <ce:list-item id="celistitem0001a">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0008a" view="all">The pre-processed and categorised data of the number and tone of the news can be used for strategic management and monitoring of sustainability issues.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0001b">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0003" view="all">The dataset supports the comparison of the sensitivity of the media to sustainability issues in different countries.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0001c">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0004" view="all">The network formed based on how countries appear in the same news can be used to explore the potential international cooperation.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0001d">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0005" view="all">The network formed based on how topics of World Bank taxonomy appear in the same news can be used to explore how the problems and solutions of sustainability issues are interlinked.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="cesectitle0005">Data Description</ce:section-title>
+                  <ce:para id="para0006" view="all">Sustainable development goals (SDGs) are the basic principles for achieving economic, industrial development goals while maintaining the ability to preserve the natural systems on which our civilizations depend. Therefore, monitoring and analyzing the multiple indices to intervene is critical. News play a significant part in conveying objectives and major focus areas of both governmental as well as public interests <ce:cross-ref id="crf0010" refid="bib0001">[1]</ce:cross-ref>. News analysis can play an active role in terms of defining the status of the roadmap for implementing the SDGs <ce:cross-ref id="crf0011" refid="bib0002">[2]</ce:cross-ref>. The localization of the SDGs is critical as social spaces are vital factors of the successful implementation and preservation of the goals <ce:cross-ref id="crf0012" refid="bib0003">[3]</ce:cross-ref>. GDELT uses natural language processing, data mining, and deep learning algorithms to extract and monitor news of the world. The Global Knowledge Graph (GKG) is a part of GDELT which records people, organizations, locations, themes and taxonomies, sources, tone and events of news into a network storage.</ce:para>
+                  <ce:para id="para0007" view="all">Included tables will be listed as: name of the table, description of the table, value of dataset, name of the column in the table, type of column and the description of the column.<ce:list id="celist0001">
+                        <ce:list-item id="celistitem0001">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0008" view="all">
+                              <ce:bold>world_bank_to_sdg.csv:</ce:bold> World Bank categories have been matched with the keywords of sustainable development goals. The matching was done manually by the authors who are experts of the field. One element can be matched to more sustainable development goals. All other results are dependent on this matching. This dataset provides the base for SQL Queries of the news as the World Bank identifier matches the category identifier in GDELT database.<ce:list id="celist0002">
+                                 <ce:list-item id="celistitem0002">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0009" view="all">WB_NUM (<ce:italic>int</ce:italic>) – World Bank identifier of the element. It matches the category identifier in the GDELT database.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0003">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0010" view="all">SDG (<ce:italic>int</ce:italic>) – A sustainable development goal, numbered according to the UN declaration <ce:cross-ref id="crf0013" refid="bib0004">[4]</ce:cross-ref>.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0004">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0011" view="all">WB_SHORT (<ce:italic>string</ce:italic>) – World Bank taxonomy element identifier.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0005">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0012" view="all">WB_NAME (<ce:italic>string</ce:italic>) – Full name of the topic based on World Bank classification.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0006">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0013" view="all">WB_LVL (<ce:italic>int</ce:italic>) – Represents the ontological level of the World Bank identifier.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0007">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0014" view="all">
+                              <ce:bold>country_topic.csv</ce:bold>: Contains the country wise topics, average tone, total news count and the news percent of the topics. This dataset enables to create and analyze country profiles in regard to the sustainable development related news appearing.<ce:list id="celist0003">
+                                 <ce:list-item id="celistitem0008">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0015" view="all">COUNTRY (<ce:italic>string</ce:italic>) – Country identified with FIPS <ce:cross-ref id="crf0014" refid="bib0005">[5]</ce:cross-ref>.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0009">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0016" view="all">TOPIC (<ce:italic>string</ce:italic>) – World Bank taxonomy element.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0010">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0017" view="all">NEWS_COUNT (<ce:italic>int</ce:italic>) – Count of topic matching articles.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0011">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0018" view="all">TOTAL_NEWS_COUNT (<ce:italic>int</ce:italic>) – Number of total news in the country.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0012">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0019" view="all">NEWS_PERCENT (<ce:italic>float</ce:italic>) – Percent of the matching articles.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0013">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0020" view="all">LEVEL (<ce:italic>int</ce:italic>) – Level of taxonomy element.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0014">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0021" view="all">
+                              <ce:bold>country_topics_pivot.xlsx</ce:bold>:The pivot table of the news at different levels of the world bank ontology. This dataset shows the number of news stories appeared in a country and also measures its average tone.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                     <ce:list id="celist0004">
+                        <ce:list-item id="celistitem0015">
+                           <ce:para id="para0022" view="all">The “PIVOT” contains the following information:</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="para0023" view="all">
+                     <ce:list id="celist0006">
+                        <ce:list-item id="celistitem0017">
+                           <ce:label>○</ce:label>
+                           <ce:para id="para0024" view="all">The first column represents the topics.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0018">
+                           <ce:label>○</ce:label>
+                           <ce:para id="para0025" view="all">The last column represents the average tone of a topic across all countries.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0019">
+                           <ce:label>○</ce:label>
+                           <ce:para id="para0026" view="all">The other columns are the enumerated countries, and the average tone of the category in the category according the topic.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0020">
+                           <ce:label>○</ce:label>
+                           <ce:para id="para0027" view="all">The last row represents the average tone of the country according the selected topics.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="para0023a" view="all">
+                     <ce:list id="celist0005">
+                        <ce:list-item id="celistitem0021">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0028" view="all">
+                              <ce:bold>news_analysis_countries_topics.csv</ce:bold>: The file contains the numeric aggregation of the news by countries. This dataset defines country profiles in regard to their attitude towards the sustainable development goals (tone of news – average, very positive, very negative) in counts and in percentage.<ce:list id="celist0007">
+                                 <ce:list-item id="celistitem0022">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0029" view="all">COUNTRY (<ce:italic>string</ce:italic>) – Country identified with ISO_A3.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0023">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0030" view="all">TOPIC (<ce:italic>string</ce:italic>) – World Bank category.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0024">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0031" view="all">NEWS_COUNT (<ce:italic>int</ce:italic>) – Count of the articles matching the category.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0025">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0032" view="all">TOTAL_NEWS_COUNT (<ce:italic>int</ce:italic>) – Total number of articles in the country.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0026">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0033" view="all">TONE (<ce:italic>float</ce:italic>) – Average tone of the articles in the country, which are matching the topic.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0027">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0034" view="all">NEWS_PERCENT (<ce:italic>float</ce:italic>) – Percent of the news matching the topic in the selected country.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0028">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0035" view="all">NEWS_POS_COUNT (<ce:italic>int</ce:italic>) – Very positive news count, based on the overall tone, where it is ≥ 10</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0029">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0036" view="all">NEWS_NEG_COUNT (<ce:italic>int</ce:italic>) – Very negative news count, based on the overall tone, where it is ≤ −10</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0030">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0037" view="all">NEWS_POS_PERCENT (<ce:italic>float</ce:italic>) – Very positive news in percent (NEWS_POS_COUNT / NEWS_COUNT)</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0031">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0038" view="all">NEWS_NEG_PRECENT (float) – Very negative news in percent (NEWS_ NEG _COUNT / NEWS_COUNT)</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0032">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0039" view="all">
+                              <ce:bold>country_network.csv</ce:bold>: News category-based co-occurrences of the countries in sustainability news. This dataset is the base of a multilayered network representing countries co-occurrence in regard to a news category and its tone. The data table contains the fields described below:<ce:list id="celist0008">
+                                 <ce:list-item id="celistitem0033">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0040" view="all">Source (<ce:italic>string</ce:italic>) – A node, representing the source country encoded in ISO_A3.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0034">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0041" view="all">Target (<ce:italic>string</ce:italic>) – A node, representing the target country encoded in ISO_A3.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0035">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0042" view="all">Layer (<ce:italic>string</ce:italic>) – World Bank category in numeric format.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0036">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0043" view="all">Layer Name (<ce:italic>string</ce:italic>) – World Bank category name in readable format.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0037">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0044" view="all">Weight (<ce:italic>int</ce:italic>) – The weight of the described edge, representing the number of co-occurrences in the articles of the countries.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0038">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0045" view="all">Weight_POS (<ce:italic>int</ce:italic>) – alternative edge description, representing the number of very positive co-occurrences of the countries, based on overall tone ≥ 10.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0039">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0046" view="all">Weight_NEG (<ce:italic>int)</ce:italic> – alternative edge description, representing the number of very negative co-occurrences of the countries, based on overall tone ≤ −10.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0040">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0047" view="all">
+                              <ce:bold>country_network_SDG.csv</ce:bold>: SDG-based co-occurrences of countries in sustainability news. This dataset is the base of a multilayered network representing countries co-occurrence in regard to the sustainable development goals and their tone. The data table has the fields described below:<ce:list id="celist0009">
+                                 <ce:list-item id="celistitem0041">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0048" view="all">Source (<ce:italic>string</ce:italic>) – A node, representing the source country encoded in ISO_A3.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0042">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0049" view="all">Target (<ce:italic>string</ce:italic>) – A node, representing the target country encoded in ISO_A3.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0043">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0050" view="all">Layer (<ce:italic>int</ce:italic>) – Represents a sustainable development goal as a layer in the network.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0044">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0051" view="all">Weight (<ce:italic>int</ce:italic>) – The weight of the described edge, representing the number of co-occurrences in the articles of the countries.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0045">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0052" view="all">Weight_POS (<ce:italic>int</ce:italic>) – alternative edge description, representing the number of very positive co-occurrences of the countries, based on overall tone ≥ 10.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0046">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0053" view="all">Weight_NEG (<ce:italic>int)</ce:italic> – alternative edge description, representing the number of very negative co-occurrences of the countries, based on overall tone ≤ −10.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0047">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0054" view="all">
+                              <ce:bold>wb1_un_net.csv</ce:bold>: Undirected network of World Bank topics on taxonomy level 1 and based on the United Nations My World Survey topics. This network shows how different topic occur together in the news. Networks can be formed based on the average tone and frequency of the co-occurrence of the topics.<ce:list id="celist0010">
+                                 <ce:list-item id="celistitem0048">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0055" view="all">Source (<ce:italic>string</ce:italic>) – Represents the source node topic. Eighter from the United Nations My World Survey topics or from the World Bank.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0049">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0056" view="all">Target (<ce:italic>string</ce:italic>) – Represents the target node topic. Eighter from the United Nations My World Survey topics or from the World Bank.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0050">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0057" view="all">AVG_TONE (<ce:italic>float</ce:italic>) – Represents the average tone between the topics.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0051">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0058" view="all">Record_Count (<ce:italic>int</ce:italic>) – Represents the total co-occurring record count. Both nodes appearing same time in an article.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0052">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0059" view="all">SOURCE_TOTAL_RECORD (<ce:italic>int</ce:italic>) – Total record count of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0053">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0060" view="all">TARGET_TOTAL_RECORD (<ce:italic>int</ce:italic>) – Total record count of the target node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0054">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0061" view="all">SOURCE_POSNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total record count of positive news (tone ≥ 10) from the source category.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0055">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0062" view="all">TARGET_POSNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total record count of positive news (tone ≥ 10) from the target category.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0056">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0063" view="all">SOURCE_POSNEWS_PERCENT (<ce:italic>float</ce:italic>) – Shows the percentage of the positive news in the source topic.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0057">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0064" view="all">TARGET_POSNEWS_PERCENT (<ce:italic>float</ce:italic>) – Shows the percentage of the positive news in the target topic.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0058">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0065" view="all">SOURCE_NEGNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total record count of negative news (tone ≤ −10) from the source category.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0059">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0066" view="all">TARGET_NEGNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total record count of negative news (tone ≤ −10) from the target category.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0060">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0067" view="all">SOURCE_NEGNEWS_PERCENT (<ce:italic>float</ce:italic>) – Shows the percentage of the negative news in the source topic.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0061">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0068" view="all">TARGET_NEGNEWS_PERCENT (<ce:italic>float</ce:italic>) – Shows the percentage of the negative news in the target topic.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0062">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0069" view="all">
+                              <ce:bold>world_bank_taxonomy.csv:</ce:bold> The file contains the whole World Bank taxonomy <ce:cross-ref id="crf0015" refid="bib0006">[6]</ce:cross-ref>. This dataset defines the categories of the news and their hierarch based on the World Bank taxonomy. The table includes the following fields:<ce:list id="celist0011">
+                                 <ce:list-item id="celistitem0063">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0070" view="all">WB_NUM (<ce:italic>int</ce:italic>) – World Bank identifier of the element. It matches the category identifier in the GDELT database.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0064">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0071" view="all">Name (<ce:italic>string</ce:italic>) – The full name of the category.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0065">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0072" view="all">Level (<ce:italic>int</ce:italic>) – Ontological level of the category. In World Bank database, there are five levels of the domains.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0066">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0073" view="all">
+                              <ce:bold>country_ISO_A3.csv</ce:bold>: A table for ISO_A3 codes. This dataset is used to encode countries.<ce:list id="celist0012">
+                                 <ce:list-item id="celistitem0067">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0074" view="all">ADMIN (<ce:italic>string</ce:italic>) – Country name.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0068">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0075" view="all">ISO_A3 (<ce:italic>string</ce:italic>) – ISO_A3 encoding of the country.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0069">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0076" view="all">
+                              <ce:bold>country_FIPS.csv:</ce:bold> A lookup table for FIPS codes. To display data on a map, this separate data table shows the GPS coordinates of the countries.<ce:list id="celist0013">
+                                 <ce:list-item id="celistitem0070">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0077" view="all">FIPS (<ce:italic>string</ce:italic>) – FIPS encoding of the country.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0071">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0078" view="all">ADMIN (<ce:italic>string</ce:italic>) – Country name.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0072">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0079" view="all">LATITUDE (<ce:italic>float</ce:italic>) – Latitude of the middle of the country.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0073">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0080" view="all">LONGITUDE (<ce:italic>float</ce:italic>) – Longitude of the middle of the country.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="para0081" view="all">The data was generated by the following Google BigQuery SQL scripts that can be easily modified to study specific time periods. The SQL scripts are commented to highlight how the code can be tailored for specific analysis. All scripts have the following setting options:<ce:list id="celist0015">
+                        <ce:list-item id="celistitem0075">
+                           <ce:label>○</ce:label>
+                           <ce:para id="para0083" view="all">TIMEFRAME_START (<ce:italic>datetime</ce:italic>) – Starting time</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0076">
+                           <ce:label>○</ce:label>
+                           <ce:para id="para0084" view="all">TIMEFRAME_END (<ce:italic>datetime</ce:italic>) – Ending time</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0077">
+                           <ce:label>○</ce:label>
+                           <ce:para id="para0085" view="all">TOPICS (<ce:italic>list</ce:italic>) – List for categories enumerated in this filter. The filter is an OR separated list, for the where statement.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                     <ce:list id="celist0015a">
+                        <ce:list-item id="celistitem0078">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0086" view="all">
+                              <ce:bold>1_query_fulldatabase.sql:</ce:bold> To query raw data, we recommend the following Google BigQuery script, which returns the articles, the related countries, topics and tone of news. Google BigQuery SQL script that returns the following data:<ce:list id="celist0016">
+                                 <ce:list-item id="celistitem0079">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0087" view="all">GKGRECORDID (<ce:italic>string</ce:italic>) – Unique identifier of an article</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0080">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0088" view="all">V2SOURCECOMMONNAME (<ce:italic>string</ce:italic>) – URL to the original medium published the article.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0081">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0089" view="all">V2DOCUMENTIDENTIFIER (<ce:italic>string</ce:italic>) – Full URL to the article.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0082">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0090" view="all">COUNTRYCODE (<ce:italic>string</ce:italic>) – Countries mentioned in the article.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0083">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0091" view="all">THEME (<ce:italic>string</ce:italic>) – World Bank identifiers for the categories of the article.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0084">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0092" view="all">TONE (<ce:italic>float</ce:italic>) – Overall tone of the article.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0085">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0093" view="all">
+                              <ce:bold>2_country_topic_statistics.sql:</ce:bold> To compile comprehensive statistics, this script is suggested to use. This Google BigQuery SQL script generates statistics of the selected themes by country and return the following values:<ce:list id="celist0017">
+                                 <ce:list-item id="celistitem0086">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0094" view="all">COUNTRY (<ce:italic>string</ce:italic>) – Countries mentioned in the article.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0087">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0095" view="all">TOPIC (<ce:italic>string</ce:italic>) – World Bank identifiers for the categories of the article.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0088">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0096" view="all">NEWS_COUNT (<ce:italic>int</ce:italic>) – The count of the articles, mentioning the country and the topic.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0089">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0097" view="all">AVG_TONE (<ce:italic>float</ce:italic>) – Average tone of the articles in the category mentioning the country.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0090">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0098" view="all">TOTAL_NEWS_COUNT (<ce:italic>int</ce:italic>) – The total count of the articles mentioning the country.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0091">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0099" view="all">NEWS_PERCENT (<ce:italic>int</ce:italic>) – Percent of the category mentioning the country, according to the total news count of the country.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0092">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0100" view="all">POSITIVE_NEWS_COUNT (<ce:italic>int</ce:italic>) – Number of the positive articles (overall tone ≥ 10) in the topic.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0093">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0101" view="all">NEGATIVE_NEWS_COUNT (<ce:italic>int</ce:italic>) - Number of the negative articles (overall tone ≤ −10) in the topic.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0094">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0102" view="all">POSITIVE_NEWS_PERCENT (<ce:italic>float</ce:italic>) – Percent of the positive articles.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0095">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0103" view="all">NEGATIVE_NEWS_PERCENT (<ce:italic>float</ce:italic>) - Percent of the negative articles.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0096">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0104" view="all">
+                              <ce:bold>3_country_network_incl_stat.sql:</ce:bold> News articles often refer to multiple countries, therefore to display the link between countries, we recommend to use this Google BigQuery SQL script that creates the network of countries and return the following values:<ce:list id="celist0018">
+                                 <ce:list-item id="celistitem0097">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0105" view="all">Source (<ce:italic>string</ce:italic>) – Country representing the source node in the network.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0098">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0106" view="all">Target (string) – Country topic representing the target node in the network.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0099">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0107" view="all">AVG_TONE (<ce:italic>float</ce:italic>) – Average tone between the two countries, based on the co-occurring documents.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0100">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0108" view="all">Weight (<ce:italic>int</ce:italic>) – Represents the number of co-occurrences of the topics.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0101">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0109" view="all">SOURCE_TOTAL_RECORD (<ce:italic>int</ce:italic>) – Represents the total number of occurrences of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0102">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0110" view="all">TARGET_TOTAL_RECORD (<ce:italic>int</ce:italic>) – Represents the total number of occurrences of the target node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0103">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0111" view="all">SOURCE_POSNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total number of very positive news occurrences of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0104">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0112" view="all">TARGET_POSNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total number of very positive news occurrences of the target node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0105">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0113" view="all">SOURCE_POSNEWS_PERCENT (<ce:italic>float</ce:italic>) – The percent of the positive news of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0106">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0114" view="all">TARGET_POSNEWS_PERCENT (<ce:italic>float</ce:italic>) – The percent of the positive news of the target node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0107">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0115" view="all">SOURCE_NEGNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total number of very negative news occurrences of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0108">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0116" view="all">TARGET_NEGNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total number of very negative news occurrences of the target node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0109">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0117" view="all">SOURCE_NEGNEWS_PERCENT (<ce:italic>float</ce:italic>) – The percent of the negative news of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0110">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0118" view="all">TARGET_NEGNEWS_PERCENT (<ce:italic>float</ce:italic>) – The percent of the negative news of the target node.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0111">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0119" view="all">
+                              <ce:bold>4_topic_network_incl_stat.sql:</ce:bold> To analyze the relationship between topics, this query is recommended to use as it creates the undirected network of topics and their statistical attributes. The following values are returned:<ce:list id="celist0019">
+                                 <ce:list-item id="celistitem0112">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0120" view="all">Source (<ce:italic>string</ce:italic>) – World Bank topic representing the source node in the network</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0113">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0121" view="all">Target (string) – World Bank topic representing the target node in the network</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0114">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0122" view="all">AVG_TONE (<ce:italic>float</ce:italic>) – Average tone between the two topics, based on the co-occurring documents.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0115">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0123" view="all">Weight (<ce:italic>int</ce:italic>) – Represents the number of co-occurrences of the topics.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0116">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0124" view="all">SOURCE_TOTAL_RECORD (<ce:italic>int</ce:italic>) – Represents the total number of occurrences of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0117">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0125" view="all">TARGET_TOTAL_RECORD (<ce:italic>int</ce:italic>) – Represents the total number of occurrences of the target node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0118">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0126" view="all">SOURCE_POSNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total number of very positive news occurrences of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0119">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0127" view="all">TARGET_POSNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total number of very positive news occurrences of the target node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0120">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0128" view="all">SOURCE_POSNEWS_PERCENT (<ce:italic>float</ce:italic>) – The percent of the positive news of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0121">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0129" view="all">TARGET_POSNEWS_PERCENT (<ce:italic>float</ce:italic>) – The percent of the positive news of the target node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0122">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0130" view="all">SOURCE_NEGNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total number of very negative news occurrences of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0123">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0131" view="all">TARGET_NEGNEWS_RECORD_COUNT (<ce:italic>int</ce:italic>) – Represents the total number of very negative news occurrences of the target node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0124">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0132" view="all">SOURCE_NEGNEWS_PERCENT (<ce:italic>float</ce:italic>) – The percent of the negative news of the source node.</ce:para>
+                                 </ce:list-item>
+                                 <ce:list-item id="celistitem0125">
+                                    <ce:label>○</ce:label>
+                                    <ce:para id="para0133" view="all">TARGET_NEGNEWS_PERCENT (<ce:italic>float</ce:italic>) – The percent of the negative news of the target node.</ce:para>
+                                 </ce:list-item>
+                              </ce:list>
+                           </ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="para0134" view="all">Included Gephi files that contain the networks generated based on the presented data<ce:list id="celist0020">
+                        <ce:list-item id="celistitem0126">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0135" view="all">
+                              <ce:bold>topic_net_sdg6.gephi</ce:bold> – Contains the network of World Bank taxonomy elements from the SDG6 matching. It defines the connections (co-occurrence) of the SDG6-related WB taxonomy elements and their tone.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0127">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0136" view="all">
+                              <ce:bold>topic_net_all_sdg.gephi</ce:bold> – Contains the network of World Bank taxonomy elements from all SDGs matching. It defines the connections (co-occurrence) of the SDG-related WB taxonomy elements and their tone.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0128">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0137" view="all">
+                              <ce:bold>countries_net_sdg13.gephi</ce:bold> – Contains the network of the countries interconnected by the mentions about SDG13. It defines the connections (co-occurrence) of countries in regard to the SDG13-related news and their tone.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="sec0003" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="cesectitle0006">Experimental Design, Materials and Methods</ce:section-title>
+                  <ce:para id="para0138" view="all">Governmental policies are operated in long-term planning horizon by reflecting socioeconomic as well as environmental development focused visions. We aim to combine the advantage of the news analysis through The GDELT Project as well as the network analysis models to reveal interconnection.</ce:para>
+                  <ce:para id="para0139" view="all">The following steps of news-centered network analysis of sustainability issues can be distinguished:<ce:list id="celist0021">
+                        <ce:list-item id="celistitem0129">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0140" view="all">
+                              <ce:bold>Determination of search words connected to SDGs:</ce:bold> Search words are basis on the World Bank Group's Topical Taxonomy <ce:cross-ref id="crf0016" refid="bib0005">[5]</ce:cross-ref> and the My World 2015 <ce:cross-ref id="crf0017" refid="bib0006">[6]</ce:cross-ref> survey contributed to the formulation of Agenda 2030. The selection of search words and their association with the sustainable development goals (see table <ce:italic>world_bank_to_sdg.csv</ce:italic>) was done manually by the authors who are experts of the field, however, the methodology allows them to validate through the joint occurrences of the topics.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0130">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0141" view="all">
+                              <ce:bold>Development of the related SQL (Structured Query Language) Queries:</ce:bold> GDELT Global Knowledge Graph (GKG) database records people, organizations, locations, themes, taxonomies, sources, tone and events of news and makes this huge amount of data available as a quaryable dataset in the Google BigQuery (GBQ). Therefore, the systematic queries are based on a schematic SELECT query which captures the main details of the GKG database, namely location, date, topics and tone of news.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="celistitem0131">
+                           <ce:label>-</ce:label>
+                           <ce:para id="para0142" view="all">
+                              <ce:bold>Generation of networks:</ce:bold> A labelled multilayer network is created, which enables to identify the profiles of countries or regions as well as examine their overreaching national relationships based solely on news appearing. The network is generated using GDELT geolocation, topic recognition and sentiment analysis. Based on the location mentioned in the article GDELT geolocates the articles to countries and cities. The multidimensional network can be defined as nodes (V), edges (E) and dimensions (D). The edge represents the connection between two nodes (u and v) in a dimension (d). It is express as the following:<ce:display>
+                                 <ce:formula id="ueqn0001">
+                                    <mml:math altimg="si1.svg">
+                                       <mml:mrow>
+                                          <mml:mi>G</mml:mi>
+                                          <mml:mo linebreak="goodbreak">=</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mo stretchy="true">(</mml:mo>
+                                             <mml:mrow>
+                                                <mml:mi>V</mml:mi>
+                                                <mml:mo>,</mml:mo>
+                                                <mml:mi>E</mml:mi>
+                                                <mml:mo>,</mml:mo>
+                                                <mml:mi>D</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo stretchy="true">)</mml:mo>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                    </mml:math>
+                                 </ce:formula>
+                              </ce:display>
+                              <ce:display>
+                                 <ce:formula id="ueqn0002">
+                                    <mml:math altimg="si2.svg">
+                                       <mml:mrow>
+                                          <mml:mi>E</mml:mi>
+                                          <mml:mo linebreak="goodbreak">=</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mo stretchy="true">{</mml:mo>
+                                             <mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mo stretchy="true">(</mml:mo>
+                                                   <mml:mrow>
+                                                      <mml:mi>u</mml:mi>
+                                                      <mml:mo>,</mml:mo>
+                                                      <mml:mi>v</mml:mi>
+                                                      <mml:mo>,</mml:mo>
+                                                      <mml:mi>d</mml:mi>
+                                                   </mml:mrow>
+                                                   <mml:mo stretchy="true">)</mml:mo>
+                                                </mml:mrow>
+                                                <mml:mo>,</mml:mo>
+                                                <mml:mi>u</mml:mi>
+                                                <mml:mo>,</mml:mo>
+                                                <mml:mi>v</mml:mi>
+                                                <mml:mo>∈</mml:mo>
+                                                <mml:mi>V</mml:mi>
+                                                <mml:mo>,</mml:mo>
+                                                <mml:mi>d</mml:mi>
+                                                <mml:mo>∈</mml:mo>
+                                                <mml:mi>D</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo stretchy="true">}</mml:mo>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                    </mml:math>
+                                 </ce:formula>
+                              </ce:display>
+                           </ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="para0143" view="all">Furthermore, the categories of the article define which layer the previously mentioned edge appears in. An article includes characteristics as article's id (i), publication date (t<ce:inf loc="post">i</ce:inf>), the identified set of locations mentioned within it (L<ce:inf loc="post">i</ce:inf>), the dimensions and tags of the article (D<ce:inf loc="post">i</ce:inf>) and also its sentiment (s<ce:inf loc="post">i</ce:inf>).<ce:display>
+                        <ce:formula id="ueqn0003">
+                           <mml:math altimg="si3.svg">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>a</mml:mi>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:msub>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">〈</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mi>i</mml:mi>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:msub>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>L</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:msub>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>D</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:msub>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mo stretchy="true">〉</mml:mo>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="para0144" view="all">Two types of networks are built, one is when the nodes are the topics, the edges are the news and the dimension of the edges is the countries or groups of countries and the weight of the edges is the number of pieces and/or tone. The other option is when the nodes represent the countries and edges are the news of a topic and the weight of the edges can be determined from the number of articles.</ce:para>
+                  <ce:para id="para0145" view="all">This methodological development allows continuous monitoring throughout the world through online queries, therefore measuring the social acceptance of SDGs and encouraging participation in terms of their implementation, as well as helping countries around the world to share experiences concerning their problems and successes, which is essential for the implementation of the Agenda <ce:cross-ref id="crf0018" refid="bib0007">[7]</ce:cross-ref>.</ce:para>
+                  <ce:section id="sec0004" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="cesectitle0007">Validation of the applicability of the data</ce:section-title>
+                     <ce:para id="para0146" view="all">We categorized the news gained about according to the 17 sustainable development goals. In the following we will only consider for an example analysis the 6th goal of the UN sustainable development goals, which is the “Clean Water and Sanitation” goal. This covers 5 624 192 articles, from 226 countries.</ce:para>
+                     <ce:para id="para0147" view="all">The overview of the top 10 most mentioned countries by the news already creates an impression that this topic in these countries is fairly natural, tone is around 0, however, there are certain outliers in the number of positive and negative articles. An article is positive if the overall tone is above 10 and negative if it is below −10.</ce:para>
+                     <ce:para id="para0148" view="all">The distribution of global news related to SDG6 (Ensure availability and sustainable management of water and sanitation for all) is shown in <ce:cross-ref id="crf0019" refid="fig0001">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0001"/>. The map cutouts were selected based on the Global Burden of Disease Study by Fullman et al. <ce:cross-ref id="crf0020" refid="bib0009">[8]</ce:cross-ref>.</ce:para>
+                     <ce:para id="para0149" view="all">
+                        <ce:cross-ref id="crf0021" refid="fig0001">Fig. 1</ce:cross-ref> shows the darker countries are discussed the Clean Water and Sanitation topic more detailed. It can be seen, that in Norfolk Island (NFK) from the overall news is occupied 0,8% percent of the news related to SDG6. In Pitcairn Islands (PCN), the 0,75% of news talks about Clean Water and Sanitation.</ce:para>
+                     <ce:para id="para0150" view="all">
+                        <ce:cross-ref id="crf0022" refid="fig0002">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0002"/> shows the connection between the topics of SDG6. The edges are colored with red having bad tone when connecting two topics, and green with good tone connecting them. The thickness represents the number of connections between the topics. It can be seen, that “Water Treatment” and “Water, Sanitation and Hygiene” are the most common topics appearing together in the news, with an overall bad tone. While “Water, Sanitation and Hygiene” is connecting to Ecosystems with an overall good tone.</ce:para>
+                     <ce:para id="para0151" view="all">The ever increasing social participation and environmental awareness can be achieved primarily through news, therefore, their monitoring is essential. We presented a dataset that supports the news-based analysis of sustainable development goals. We have demonstrated the applicability of the data by presenting how the news related to the 6th SDG “Clean Water and Sanitation” goal are distributed among the countries and how the topics of World Bank taxonomy are connected to this critical issue.</ce:para>
+                     <ce:para id="para0152" view="all">Thanks to the intelligent functions behind the studied GDELT Knowledge Graph the proposed tool overcomes the limitations of geographical coverage and language barriers. With the proposed Google BigQuery SQL scripts the global media is discoverable and thematically analyzable in terms of the SDGs, which was not possible before.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0005" view="all">
+                  <ce:section-title id="cesectitle0008">Ethics Statement</ce:section-title>
+                  <ce:para id="para0153" view="all">Not applicable.</ce:para>
+               </ce:section>
+               <ce:section id="sec0007" view="all">
+                  <ce:section-title id="cesectitle0010">CRediT Author Statement</ce:section-title>
+                  <ce:para id="para0155" view="all">
+                     <ce:bold>Viktor Sebestyén:</ce:bold> Conceptualization, Validation, Investigation, Formal analysis, Writing Original Draft, Visualization; <ce:bold>Gergely Honti:</ce:bold> Software, Formal analysis, Data Curation, Writing - Original Draft; <ce:bold>Tímea Czvetkó:</ce:bold> Writing - Original Draft, Investigation, Validation; <ce:bold>János Abonyi:</ce:bold> Methodology, Validation, Resources, Writing - Review &amp; Editing, Supervision, Project administration, Funding acquisition.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0001" view="all">
+               <ce:section-title id="cesectitle0012">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="para0157" view="all">The authors declare that they have no known competing financial interests or personal relationships which have, or could be perceived to have, influenced the work reported in this article.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0001" view="all">
+               <ce:section-title id="cesectitle0011">Acknowledgments</ce:section-title>
+               <ce:para id="para0156" view="all">This research was funded by the <ce:grant-sponsor id="gs0001" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">National Laboratory for Climate Change</ce:grant-sponsor> (<ce:grant-number id="gn0001" refid="gs0001">NKFIH-872</ce:grant-number> project). We acknowledge the financial support of <ce:grant-sponsor id="gs0002" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Széchenyi 2020</ce:grant-sponsor> under the <ce:grant-number id="gn0002" refid="gs0002">GINOP-2.3.2-15-2016-00016</ce:grant-number>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0013">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Maniou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Photiou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Eteokleous</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Seitanidis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The utilization of journalistic sources in the national press: communicating the transition from economic crisis 1to sustainable growth</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Central Eur. J. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.19195/1899-5101.10.1(18).7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">T. Maniou, I. Photiou, N. Eteokleous, I. Seitanidis, The utilization of journalistic sources in the national press: communicating the transition from economic crisis 1to sustainable growth, Central Eur. J. Commun.10(1) (2017) 10.19195/1899-5101.10.1(18).7.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="sbref0004a">
+                        <ce:textref>T. Czvetkó, G. Honti, V. Sebestyén, J. Abonyi, The intertwining of world news and sustainable development goals: an effective monitoring tool, J. Environ. Manag. Submitted.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Cities, United, and Local Governments</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Roadmap for Localising the SDGs: Implementation and Monitoring at Subnational Level</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>UCLG</sb:name>
+                                 <sb:location>Barcelona</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0003">Cities, United, and Local Governments., Roadmap for Localising the SDGs: Implementation and Monitoring at Subnational Level, Barcelona: UCLG, 2016.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="sbref0004">
+                        <ce:textref>Standard, F.I.P. Federal Information Processing Standard (FIPS) for Country Encoding. 2020; Available online: <ce:inter-ref id="interref0003" xlink:href="https://www.nationsonline.org/oneworld/countrycodes.htm" xlink:type="simple">https://www.nationsonline.org/oneworld/countrycodes.htm</ce:inter-ref>. Accessed June 4, 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="sbref0005">
+                        <ce:textref>World Bank, World Bank Taxonomy. 2020; Available online: <ce:inter-ref id="interref0004" xlink:href="https://vocabulary.worldbank.org/taxonomy.visual" xlink:type="simple">https://vocabulary.worldbank.org/taxonomy.visual</ce:inter-ref>. Accessed June 4, 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="sbref0006">
+                        <ce:textref>United Nations, My World 2015. The United Nations Global Survey For a Better World, 2015; Available online: <ce:inter-ref id="interref0005" xlink:href="http://data.myworld2015.org/" xlink:type="simple">http://data.myworld2015.org/</ce:inter-ref>. Accessed May 22, 2020.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Czvetkó</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Honti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sebestyén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Abonyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The intertwining of world news and sustainable development goals: an effective monitoring tool</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Heliyon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.heliyon.2021.e06174</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">T. Czvetkó, G. Honti, V. Sebestyén, J. Abonyi, The intertwining of world news and sustainable development goals: an effective monitoring tool, Heliyon, 7(2), 2021, doi: doi:10.1016/j.heliyon.2021.e06174</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Fullman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Barber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Abajobir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Abate</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Abbafati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Abbas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Aboyans</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring progress and projecting attainment on the basis of past trends of the health-related sustainable development goals in 188 countries: an analysis from the Global Burden of Disease Study 2016</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>390</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10100</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1423</sb:first-page>
+                              <sb:last-page>1459</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">N. Fullman, R.M. Barber, A.A. Abajobir, K.H. Abate, C. Abbafati, K.M. Abbas, ... &amp; V. Aboyans, Measuring progress and projecting attainment on the basis of past trends of the health-related sustainable development goals in 188 countries: an analysis from the Global Burden of Disease Study 2016, Lancet, 390(10100) (2017) 1423–1459.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Honti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Czvetkó</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sebestyén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Abonyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Data Describing the Relationship Between World News and Sustainable Development Goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Mendeley Data</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                           <ce:doi>10.17632/xjzztkh7gt.1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">G. Honti, T. Czvetkó, V. Sebestyén, J. Abonyi, Data Describing the Relationship Between World News and Sustainable Development Goals, Mendeley Data, 2020, 10.17632/xjzztkh7gt.1.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

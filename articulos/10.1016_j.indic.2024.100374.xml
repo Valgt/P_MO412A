@@ -1,0 +1,2547 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2665972724000424</prism:url><dc:identifier>doi:10.1016/j.indic.2024.100374</dc:identifier><eid>1-s2.0-S2665972724000424</eid><prism:doi>10.1016/j.indic.2024.100374</prism:doi><pii>S2665-9727(24)00042-4</pii><dc:title>Application of machine learning in sanitation management prediction: Approaches for achieving sustainable development goals </dc:title><prism:publicationName>Environmental and Sustainability Indicators</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>26659727</prism:issn><prism:volume>22</prism:volume><prism:startingPage>100374</prism:startingPage><prism:pageRange>100374</prism:pageRange><articleNumber>100374</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-06-30</prism:coverDate><prism:coverDisplayDate>June 2024</prism:coverDisplayDate><prism:copyright>© 2024 The Author(s). Published by Elsevier Inc.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Inc.</prism:publisher><dc:creator>Taweesan, Achara</dc:creator><dc:creator>Koottatep, Thammarat</dc:creator><dc:creator>Kanabkaew, Thongchai</dc:creator><dc:creator>Polprasert, Chongrak</dc:creator><dc:description>
+                  Due to lack of understanding about the different conditions of sanitation systems and complexity, mostly in Asia and Africa, the occurrence of unsafely managed sanitation still exists, leading to severe environmental and health impacts. Because of the complexity of this problem, machine learning tools were applied to develop an effective model for health protection and safe sanitation management as a promising way to approach sustainable development goals. This study aimed to examine the incidences of ineffective sanitation management on the prevalence of diarrhea infections using machine learning tools. The prevailing conditions for safely sanitation management were identified, and the effective model to protect the impacts of ineffective sanitation management on the prevalence of diarrhea infections was proposed. Based on information collected from about 1000 households with relatively high diarrhea infections during the period of 2017–2021, factors relating to sanitation facilities for health protection and safe sanitation management were examined. Diarrhea infections and no diarrhea infection were recognized based on actual conditions of the surveyed households and incidences from ground-based observation. Classification tree model as J48 in WEKA was applied for analytic predictive tool using 70:30 ratio of training and validating dataset. The findings showed that the tree model obtained from the training data was with 73% accuracy prediction, while that from the validation data was with 70% accuracy. The correlation of personal hygiene (such as washing hand before meal and drinking water from natural water sources) and sanitation facilities (such as open defecation and distance from on-site sanitation facilities to open drains or storm sewer) was significant with inverse relationship for safely sanitation management and public health protection.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Faecal pathogen infections</dcterms:subject><dcterms:subject>Machine learning</dcterms:subject><dcterms:subject>Sanitation effectiveness model</dcterms:subject><dcterms:subject>Sustainable development goals</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2665972724000424" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2665972724000424" rel="scidir"/></coredata><objects><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="351" size="86838">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="446" size="142591">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="314" size="104923">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="691" height="504" size="148440">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="144" size="69699">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="141" size="74476">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="128" size="71758">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="77439">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="1555" size="205593">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3059" height="1976" size="555244">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2371" height="1390" size="303701">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3060" height="2232" size="583276">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="34865">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-si1.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="566453">https://api.elsevier.com/content/object/eid/1-s2.0-S2665972724000424-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85186989690</scopus-id><scopus-eid>2-s2.0-85186989690</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85186989690" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>321202</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291823</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Environmental and Sustainability Indicators</xocs:srctitle>
+      <xocs:normalized-srctitle>ENVIRONMENTALSUSTAINABILITYINDICATORS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240303">2024-03-03</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240303">2024-03-03</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240307">2024-03-07</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240307">2024-03-07</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-08-23T10:57:08</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2665972724000424</xocs:eid>
+      <xocs:pii-formatted>S2665-9727(24)00042-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2665972724000424</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.indic.2024.100374</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2665972723X00051</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240823">2024-08-23T10:31:36.276185Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20240601</xocs:date-search-begin>
+      <xocs:date-search-end>20240630</xocs:date-search-end>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1709481012">2024-03-03T15:50:12.276765Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor grantsponsorid highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2665-9727</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>26659727</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>22</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>22</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 22</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>32</xocs:sort-order>
+      <xocs:first-fp>100374</xocs:first-fp>
+      <xocs:article-number>100374</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>100374</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202406</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2024-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Author(s). Published by Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>APPLICATIONMACHINELEARNINGINSANITATIONMANAGEMENTPREDICTIONAPPROACHESFORACHIEVINGSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TAWEESAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Research methodology</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Study area (Thamlot city, Pangmapha District, Mae Hong Son province)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Data collection</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Data analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Current status of sanitation facilities in Thamlot city, Pangmapha District, Mae Hong Son province</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Impact of unsafe management of fecal sludge on the prevalence of diarrheal infections in Thamlot city, Mae Hong Son province</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effective sanitation management model</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>ABBASI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-last-lp>22</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ADHIKARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3264</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3271</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>ALREFAIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>ARPHACHARUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>UNIVERSALACCESSSAFESANITATIONBEYONDTHAILANDSEXPERIENCES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>AYELERU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-article-number>125671</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>BARAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PREVALENCEINTESTINALPARASITEINFECTIONASSOCIATEDFACTORSAMONGFOODHANDLERSINEATINGDRINKINGESTABLISHMENTSINCHAGNITOWNNORTHWESTETHIOPIA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>BINDRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4594</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4613</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ASSESSMENTONSITESANITATIONPRACTICESCONTAMINATIONGROUNDWATERINRURALAREASFATEHGARHSAHIBPUNJABINDIA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>CUBILLOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>DEARDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>110</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>DEPARTMENTOFDISEASECONTROL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GUIDELINEFORPREVENTIONCONTROLDISEASEHEALTHHAZARDSFORAREA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>FREEMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>928</xocs:ref-first-fp>
+            <xocs:ref-last-lp>949</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>FUHRIMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>475</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>FUKUSHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>53</xocs:ref-first-fp>
+            <xocs:ref-last-lp>57</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>HOSSEINZADEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>122926</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>JAYATHILAKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>GUIDELINESREGULATIONSFORFAECALSLUDGEMANAGEMENTONSITESANITATIONFACILITIESCGIARRESEARCHPROGRAMWATERLANDECOSYSTEMS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>KANNANGARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>KOOTTATEP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>239</xocs:ref-first-fp>
+            <xocs:ref-last-lp>245</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>KOOTTATEP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1062</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1070</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INCONVENIENTTRUTHUNSAFELYMANAGEDFECALSLUDGEAFTERACHIEVINGMDGFORDECADESINTHAILANDJOURNALWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>121458</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>LINDBERG</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>MANGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>113670</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>MENSAH</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>MILLS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>MDG7ENSUREENVIRONMENTALSUSTAINABILITY6JUNE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTGOALS20162030NATIONALPRELIMINARYREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>PENAKALAPATI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>928</xocs:ref-first-fp>
+            <xocs:ref-last-lp>949</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>SABOGAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>99</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>TAWEESAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>TAWEESAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>483</xocs:ref-first-fp>
+            <xocs:ref-last-lp>492</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>UNHABITAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ENDLINESURVEYREPORTASHORTSTEPIMPROVEDWASHHEALTHIERCOMMUNITIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref32">
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WATERSANITATIONUNICEFSUPPLYDIVISION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref33">
+            <xocs:ref-normalized-surname>WELDEYOHANNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref34">
+            <xocs:ref-normalized-surname>WESTSTRATE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>795</xocs:ref-first-fp>
+            <xocs:ref-last-lp>810</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref35">
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>PROGRESSHOUSEHOLDDRINKINGWATERSANITATIONHYGIENE20002020</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref36">
+            <xocs:ref-normalized-surname>WOLF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>270</xocs:ref-first-fp>
+            <xocs:ref-last-lp>282</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref37">
+            <xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>134279</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref38">
+            <xocs:ref-normalized-surname>YOSHIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-last-lp>41</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TAWEESANX2024X100374</xocs:refkey3>
+         <xocs:refkey4ai>TAWEESANX2024X100374XA</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-02-29T19:30:43Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Author(s). Published by Elsevier Inc.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-03-10T05:47:30.202Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Sub-district Health Promotion Hospital in Thamlot city, Pangmapha District, Mae Hong Son Province</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ministry of Public Health, Thailand</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>MOPH</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Ministry of Public Health</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004397</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1605651/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Department of Disease Control</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ramkhamhaeng University</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Thailand Science Research and Innovation</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>TSRI</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Thailand Science Research and Innovation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100017170</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1605651/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>Special thanks are due to the Thailand Science Research and Innovation (TSRI) and Ramkhamhaeng University for financial support of this study. Additionally, the authors appreciate the support of the Sub-district Health Promotion Hospital in Thamlot city, Pangmapha District, Mae Hong Son Province and local government authorities where this study was carried out as well as Department of Disease Control, Ministry of Public Health, Thailand for supporting the information used in this research.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2665-9727(24)00042-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2665972724000424</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2665972724000424</xocs:eid>
+         <xocs:doi>10.1016/j.indic.2024.100374</xocs:doi>
+         <xocs:cid>321202</xocs:cid>
+         <xocs:timestamp>2024-08-23T10:31:36.276185Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2024-06-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/MAIN/application/pdf/1dcff2038dd258d62680276b567644d4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2200664</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2665972724000424-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/PREVIEW/image/png/fb496452b331a00c59badeee586dcc3c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58823</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/gr4/DOWNSAMPLED/image/jpeg/f7ffa0d06de222f7762ed48a66684e4b/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>86838</xocs:filesize>
+               <xocs:pixel-height>351</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/gr3/DOWNSAMPLED/image/jpeg/66fbae4a8e12035a06039f5a820471d5/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>142591</xocs:filesize>
+               <xocs:pixel-height>446</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/gr2/DOWNSAMPLED/image/jpeg/a944cb8474c1a25db3c8c1cbd231a605/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>104923</xocs:filesize>
+               <xocs:pixel-height>314</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/gr1/DOWNSAMPLED/image/jpeg/c49fb9d96eae7fbde357009955a21db9/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>148440</xocs:filesize>
+               <xocs:pixel-height>504</xocs:pixel-height>
+               <xocs:pixel-width>691</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/gr4/THUMBNAIL/image/gif/551998da89b923ee6fa1a373c5019d05/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>69699</xocs:filesize>
+               <xocs:pixel-height>144</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/gr3/THUMBNAIL/image/gif/d75f33f5ec7f48e85116151c4398f6e8/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>74476</xocs:filesize>
+               <xocs:pixel-height>141</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/gr2/THUMBNAIL/image/gif/6fb91fe5e5778246cb2a61db413f355b/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>71758</xocs:filesize>
+               <xocs:pixel-height>128</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/gr1/THUMBNAIL/image/gif/e2c1d6fd3bcbea7d163bed72d1cd925d/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>77439</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/HIGHRES/image/jpeg/722d1e519c8c9ce4b0cb07b32e5dd82d/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>205593</xocs:filesize>
+               <xocs:pixel-height>1555</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/HIGHRES/image/jpeg/03b17d1cba8d59340a98cecd72f30a6a/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>555244</xocs:filesize>
+               <xocs:pixel-height>1976</xocs:pixel-height>
+               <xocs:pixel-width>3059</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/HIGHRES/image/jpeg/a14576002b556fa541284889ff997522/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>303701</xocs:filesize>
+               <xocs:pixel-height>1390</xocs:pixel-height>
+               <xocs:pixel-width>2371</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/HIGHRES/image/jpeg/5e2f80b22217393cbd330bdd2fd9e774/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>583276</xocs:filesize>
+               <xocs:pixel-height>2232</xocs:pixel-height>
+               <xocs:pixel-width>3060</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2665972724000424/image/svg+xml/5e1d615590b7c07f77454369cb2ae070/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>34865</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2665972724000424-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10GL3V2MJ4T/MAIN/application/pdf/b77f9c6780dbe10643e6f1963e0bf619/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>566453</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>INDIC</jid>
+            <aid>100374</aid>
+            <ce:article-number>100374</ce:article-number>
+            <ce:pii>S2665-9727(24)00042-4</ce:pii>
+            <ce:doi>10.1016/j.indic.2024.100374</ce:doi>
+            <ce:copyright type="other" year="2024">The Author(s)</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Study area (Thamlot city, Mae Hong Son Province) and the prevalence of diarrhea infections during the period of 2017–2021.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0010">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2665972724000424/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Research conceptual framework.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2665972724000424/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Status of sanitation facilities in Thamlot city, Mae Hong Son Province.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2665972724000424/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Sanitation effectiveness model to protect the impacts of ineffective sanitation management on the prevalence of diarrhea infections.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2665972724000424/gr4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="tspara0010" view="all">General information of the Thamlot city, Pangmapha District in Mae Hong Son province.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Table 1</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Category</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Details</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Total areas</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">260 km<sup loc="post">2</sup>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Major land use</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Residential</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2" align="left" role="rowgroup">Types of sanitation facilities in use</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">One cesspool and soakage pits (70%)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pits (29%)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Open defecation (1%)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left" role="rowgroup">FSM in their households</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Closed when full and relocated (89%)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Unlicensed informal operators (1 truck = 3–4 m<sup loc="post">3</sup>) (11%)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">FS disposal/treatment method</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Neighboring FS treatment site</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left" role="rowgroup">Sources of water supply</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Natural water sources 84%</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Tap water 16%</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2" align="left" role="rowgroup">Sources of drinking water</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Natural water sources 66%</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Tap water 10%</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Bottled water 7%</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="tspara0015" view="all">Remark: The data are from survey results.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="tspara0020" view="all">Summary of <ce:italic>Salmonella</ce:italic> spp. results.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Table 2</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Items</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sampling points</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">No. of samples</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Prevalence of <italic>Salmonella</italic> spp. in the collected sample (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Households</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Effluent from containment systems</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">60</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Vacuum trucks</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Tank</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">40</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2" align="left" role="rowgroup">Natural water sources</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Upstream</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">30</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Midstream</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">20</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Downstream</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">50</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Application of machine learning in sanitation management prediction: Approaches for achieving sustainable development goals</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S2665972724000424-efd2a0f9a64203f6cdf17d641f7eb3f4">
+                  <ce:given-name>Achara</ce:given-name>
+                  <ce:surname>Taweesan</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S2665972724000424-8f890e31e78882ec790b5b78c13cc9aa">
+                  <ce:given-name>Thammarat</ce:given-name>
+                  <ce:surname>Koottatep</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:cross-ref refid="aff2" id="crosref0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S2665972724000424-6f843ef0131afc74c9cda4bd1fc2c25b">
+                  <ce:given-name>Thongchai</ce:given-name>
+                  <ce:surname>Kanabkaew</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="aff3" id="crosref0020">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0025">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au4" author-id="S2665972724000424-59a1c606fcb67b27f40ca5f47785dcd7">
+                  <ce:given-name>Chongrak</ce:given-name>
+                  <ce:surname>Polprasert</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:cross-ref refid="aff4" id="crosref0030">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2665972724000424-75d37fe95ced61f398131436472d0e22">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Environmental Science, Faculty of Science, Ramkhamhaeng University, Bangkok, Thailand</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Environmental Science</sa:organization>
+                     <sa:organization>Faculty of Science</sa:organization>
+                     <sa:organization>Ramkhamhaeng University</sa:organization>
+                     <sa:city>Bangkok</sa:city>
+                     <sa:country>Thailand</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Department of Environmental Science, Faculty of Science, Ramkhamhaeng University, Bangkok, Thailand</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2665972724000424-3d3fa06c20bb0d68582aaa9730f839e5">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>School of Environment, Resources and Development, Asian Institute of Technology, Pathumthani, Thailand</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Environment</sa:organization>
+                     <sa:organization>Resources and Development</sa:organization>
+                     <sa:organization>Asian Institute of Technology</sa:organization>
+                     <sa:state>Pathumthani</sa:state>
+                     <sa:country>Thailand</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">School of Environment, Resources and Development, Asian Institute of Technology, Pathumthani, Thailand</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S2665972724000424-bfd7ba14aad885fdb930e641e6013268">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Occupational and Environmental Health Program, Faculty of Public Health, Thammasat University, Pathumthani, Thailand</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Occupational and Environmental Health Program</sa:organization>
+                     <sa:organization>Faculty of Public Health</sa:organization>
+                     <sa:organization>Thammasat University</sa:organization>
+                     <sa:state>Pathumthani</sa:state>
+                     <sa:country>Thailand</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0020">Occupational and Environmental Health Program, Faculty of Public Health, Thammasat University, Pathumthani, Thailand</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff4" affiliation-id="S2665972724000424-e001d80308f468884023fe93d64744ec">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Department of Civil Engineering, Faculty of Engineering, Thammasat University, Pathumthani, Thailand</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Civil Engineering</sa:organization>
+                     <sa:organization>Faculty of Engineering</sa:organization>
+                     <sa:organization>Thammasat University</sa:organization>
+                     <sa:state>Pathumthani</sa:state>
+                     <sa:country>Thailand</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0025">Department of Civil Engineering, Faculty of Engineering, Thammasat University, Pathumthani, Thailand</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="1" month="8" year="2023"/>
+            <ce:date-revised day="28" month="2" year="2024"/>
+            <ce:date-accepted day="29" month="2" year="2024"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Due to lack of understanding about the different conditions of sanitation systems and complexity, mostly in Asia and Africa, the occurrence of unsafely managed sanitation still exists, leading to severe environmental and health impacts. Because of the complexity of this problem, machine learning tools were applied to develop an effective model for health protection and safe sanitation management as a promising way to approach sustainable development goals. This study aimed to examine the incidences of ineffective sanitation management on the prevalence of diarrhea infections using machine learning tools. The prevailing conditions for safely sanitation management were identified, and the effective model to protect the impacts of ineffective sanitation management on the prevalence of diarrhea infections was proposed. Based on information collected from about 1000 households with relatively high diarrhea infections during the period of 2017–2021, factors relating to sanitation facilities for health protection and safe sanitation management were examined. Diarrhea infections and no diarrhea infection were recognized based on actual conditions of the surveyed households and incidences from ground-based observation. Classification tree model as J48 in WEKA was applied for analytic predictive tool using 70:30 ratio of training and validating dataset. The findings showed that the tree model obtained from the training data was with 73% accuracy prediction, while that from the validation data was with 70% accuracy. The correlation of personal hygiene (such as washing hand before meal and drinking water from natural water sources) and sanitation facilities (such as open defecation and distance from on-site sanitation facilities to open drains or storm sewer) was significant with inverse relationship for safely sanitation management and public health protection.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Faecal pathogen infections</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Machine learning</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Sanitation effectiveness model</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Sustainable development goals</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da0010" view="all">
+               <ce:section-title id="sectitle0025">Data availability</ce:section-title>
+               <ce:para id="p0025" view="all">The authors do not have permission to share data.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0030">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Due to the complexity of sanitation systems, the applications of machine learning tools have been increasingly applied to address this problem. Several studies nowadays recognize the applications of machine learning tools to increase the power of near-term prediction and to generate optimal conditions for sanitation management development (<ce:cross-ref id="crosref0035" refid="bib3">Al-Refaie et al., 2020</ce:cross-ref>; <ce:cross-ref refid="bib6" id="crosref0040">Ayeleru et al., 2012</ce:cross-ref>; <ce:cross-ref refid="bib9" id="crosref0045">Cubillos, 2020</ce:cross-ref>; <ce:cross-ref refid="bib15" id="crosref0050">Hosseinzadeh et al., 2020</ce:cross-ref>). <ce:cross-ref refid="bib1" id="crosref0055">Abbasi and ElHanandeh (2016)</ce:cross-ref> applied artificial intelligence for municipal solid waste generation forecasting, and <ce:cross-ref refid="bib17" id="crosref0060">Kannangara et al. (2018)</ce:cross-ref> developed machine learning to predict the incidences of municipal solid waste generation in Canada. <ce:cross-ref refid="bib20" id="crosref0065">Li et al. (2020)</ce:cross-ref> utilized 57 studies published during the period of 2000–2019 relating to information technologies for waste management application. A similar study was mentioned by <ce:cross-ref refid="bib37" id="crosref0070">Ye et al. (2020)</ce:cross-ref>, which stated the several artificial intelligence models for waste management. Being a crucial aspect in achieving the SDG6 targets, sanitation management has garnered heightened attention. In this context, predictive models can play a pivotal role in examining the incidences of ineffective sanitation management and its impact on the prevalence of fecal pathogen infections. Ineffectiveness in sanitation management encompasses various aspects of sanitation, including the collection, treatment, and disposal of waste, as well as the provision of hygiene practices. Ineffective sanitation management may arise from issues such as poor infrastructure, insufficient resources, lack of proper planning, or failure to enforce regulations.</ce:para>
+                  <ce:para id="p0035" view="all">Several published studies have documented shortages of decentralized management practices which mainly focused on household-level inventories of latrine services (<ce:cross-ref refid="bib16" id="crosref0075">Jayathilake et al., 2019</ce:cross-ref>; <ce:cross-ref refid="bib24" id="crosref0080">Mills et al., 2018</ce:cross-ref>; <ce:cross-ref refid="bib34" id="crosref0085">Weststrate et al., 2019</ce:cross-ref>), but ignoring the access to ensure safe sanitation management and prevent fecal pathogen infections. In urban Thailand, for example, 100% of people in urban areas have access to basic sanitation facilities such as latrine facilities, but only 20% of the faecal sludge (FS) generated from decentralized systems are safely managed (<ce:cross-refs refid="bib18 bib19" id="crosrefs0010">Koottatep et al., 2021a,b</ce:cross-refs>; <ce:cross-ref refid="bib35" id="crosref0090">WHO/UNICEF, 2021</ce:cross-ref>). These challenges persist, posing a significant hurdle to the attainment of SDG6 targets in various countries. These problems are still a challenge towards achieving the SDG6 targets in various countries (such as Ethiopia, Cambodia, India, Nepal, and Vietnam), resulting in outbreaks of diseases such as diarrhea infections and contamination of the water resources (<ce:cross-ref refid="bib10" id="crosref0095">Dearden et al., 2017</ce:cross-ref>; <ce:cross-ref refid="bib26" id="crosref0100">National Planning Comission, 2015</ce:cross-ref>; <ce:cross-ref refid="bib25" id="crosref0105">United Nations MDG Monitor, 2017</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0040" view="all">At present, there are lack of applications of machine learning tools to assess the factors affecting the prevalence of faecal pathogen infections, such as distance from on-site sanitation facilities to open drains or storm sewer for faecal pathogen protection and safe sanitation management. Although there are several factors affecting sanitation management practices, modeled relationships between each factor on the prevalence of faecal pathogen infections are not available yet. In this aspect, with the demand for health risk protection and safe sanitation management, machine learning tools were developed to examine the incidences of ineffective sanitation management on the prevalence of diarrhea infections.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0035">Research methodology</ce:section-title>
+                  <ce:para id="p0045" view="all">Although there is a large number of studies on factors affecting prevalence of faecal pathogen infections in different cities worldwide (<ce:cross-ref refid="bib12" id="crosref0110">Freeman et al., 2017</ce:cross-ref>; <ce:cross-ref refid="bib27" id="crosref0115">Penakalapati et al., 2017</ce:cross-ref>; <ce:cross-ref refid="bib29" id="crosref0120">Taweesan et al., 2015a</ce:cross-ref>; <ce:cross-ref refid="bib30" id="crosref0125">2015b</ce:cross-ref>; <ce:cross-ref refid="bib36" id="crosref0130">Wolf et al., 2019</ce:cross-ref>; <ce:cross-ref refid="bib38" id="crosref0135">Yoshida et al., 2019</ce:cross-ref>), there are no predictive models addressing the relationships between each factor on the prevalence of these faecal pathogen infections. Reliable model prediction of sanitation management to improve sanitation facilities is very important towards achieving the SDG6 goals. In this study, a machine learning tool which is a classification tree model was applied to find an appropriate model to protect the environmental and health risk impacts of ineffective sanitation management.</ce:para>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0040">Study area (Thamlot city, Pangmapha District, Mae Hong Son province)</ce:section-title>
+                     <ce:para id="p0050" view="all">The study area for this study encompasses Thamlot City in Pangmapha District, Mae Hong Son Province, situated in the northern regions of Thailand, as illustrated in <ce:cross-ref refid="fig1" id="crosref0140">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>. Thamlot City was chosen as the focal point due to its significance in reflecting the sanitation management practices and associated health risks prevalent in this specific geographic location. The region has experienced a notable surge in diarrhea infections, particularly between 2017 and 2021, with a heightened occurrence during the rainy season (<ce:cross-ref refid="bib11" id="crosref0145">Department of Disease Control, 2020</ce:cross-ref>). General information about Thamlot city, Pangmapha District in Mae Hong Son province is given in <ce:cross-ref refid="tbl1" id="crosref0150">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>. The decision to select approximately 1000 households for data collection was determined as detailed below (<ce:cross-ref refid="bib23" id="crosref0155">Mensah, 2014</ce:cross-ref>).<ce:display>
+                           <ce:formula id="ufd1">
+                              <mml:math altimg="si1.svg">
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">n</mml:mi>
+                                    <mml:mo linebreak="badbreak">=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msup>
+                                             <mml:mi mathvariant="normal">Z</mml:mi>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:msup>
+                                          <mml:mmultiscripts>
+                                             <mml:mspace width="0.25em"/>
+                                             <mml:mprescripts/>
+                                             <mml:mo>*</mml:mo>
+                                             <mml:none/>
+                                          </mml:mmultiscripts>
+                                          <mml:mi mathvariant="normal">p</mml:mi>
+                                          <mml:mmultiscripts>
+                                             <mml:mrow>
+                                                <mml:mspace width="0.25em"/>
+                                                <mml:mo stretchy="true">(</mml:mo>
+                                                <mml:mn>1</mml:mn>
+                                             </mml:mrow>
+                                             <mml:mprescripts/>
+                                             <mml:mrow>
+                                                <mml:mo>*</mml:mo>
+                                                <mml:mspace width="0.25em"/>
+                                             </mml:mrow>
+                                             <mml:none/>
+                                          </mml:mmultiscripts>
+                                          <mml:mrow>
+                                             <mml:mo>−</mml:mo>
+                                             <mml:mi mathvariant="normal">p</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mo stretchy="true">)</mml:mo>
+                                       </mml:mrow>
+                                       <mml:msup>
+                                          <mml:mi mathvariant="normal">E</mml:mi>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:msup>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>Where: n is the required sample size.</ce:para>
+                     <ce:para id="p0055" view="all">Z is the Z-value corresponding to the desired confidence level (1.96 for 95% confidence).</ce:para>
+                     <ce:para id="p0060" view="all">p is the estimated proportion of the population with the characteristic of interest (0.5 for maximum variability).</ce:para>
+                     <ce:para id="p0065" view="all">E is the margin of error (precision) desired for the estimate (0.3).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0045">Data collection</ce:section-title>
+                     <ce:para id="p0070" view="all">Data related to sanitation management areas, crucial for health risk protection and the promotion of safe sanitation practices spanning from containment to treatment, were sourced from published literature (<ce:cross-ref refid="bib5" id="crosref0160">Arphacharus, 2016</ce:cross-ref>; <ce:cross-ref refid="bib7" id="crosref0165">Baraki et al., 2019</ce:cross-ref>; <ce:cross-ref refid="bib11" id="crosref0170">Department of Disease Control, 2020</ce:cross-ref>) and key informant interviews. These informants included central government authorities, local government authorities, and private FSM companies. The gathered information covered various aspects: (i) containment, such as the proximity of on-site sanitation facilities to open drains or storm sewers, the types of sanitation facilities, and instances of open defecation; (ii) emptying and transport, including the frequency of FS collection services, number of vacuum trucks, and the number of households connected to sewerage systems or local sewers per city; (iii) treatment facilities, encompassing the type and capacity of sanitation treatment facilities; and (iv) personal hygiene practices, such as handwashing before meals, consumption of treated water, and the sourcing of drinking water from natural water sources. The instances of diarrhea in this study were obtained from the Sub-district Health Promotion Hospital in Tham Lot City and were compared with the recent nationwide survey conducted by the Department of Disease Control, Ministry of Public Health of Thailand spanning from 2017 to 2021. The majority of the data were derived from field investigations, consultations with key informants, and the questionnaire survey conducted in the study area from January to June 2021.</ce:para>
+                     <ce:para id="p0075" view="all">A total of 1000 questionnaires were specifically distributed to community leaders; then, filled-in questionnaires were collected two months after the distribution date. In addition to the questionnaire survey, data were gathered through field investigations and key informant interviews. The key informants contributing to this study included administrators (27 or 19%), utilities providers (8 or 5%), local leaders (14 or 10%), concerned households (55 or 39%), and others (38 or 27%). Administrators, such as central government authorities and local government authorities (e.g., municipality), are actively engaged in FSM services, with the municipality playing a pivotal role in providing FSM facilities as part of sanitation management areas. Utilities providers typically participate through contractual arrangements. Local leaders, concerned households, and others (e.g. village health volunteers, and NGOs) have played essential roles in participating and supporting FSM services.</ce:para>
+                     <ce:para id="p0080" view="all">The analysis of the relationship between FSM and the occurrence of diarrhea involves investigating the presence of <ce:italic>Salmonella</ce:italic> spp. in various containment systems (such as septic tanks and cesspools), vacuum trucks, sanitation treatment facilities, and natural water sources. <ce:italic>Salmonella</ce:italic> spp. serves as a pertinent indicator in the analysis of the connection between waste management practices and the incidence of diarrhea due to its pathogenic nature, fecal-oral transmission, and its ability to reflect contamination in diverse environmental settings (<ce:cross-ref refid="bib13" id="crosref0175">Fuhrimann et al., 2015</ce:cross-ref>; <ce:cross-ref refid="bib14" id="crosref0180">Fukushi et al., 2003</ce:cross-ref>; <ce:cross-ref refid="bib22" id="crosref0185">Manga et al., 2021</ce:cross-ref>). The detection of <ce:italic>Salmonella</ce:italic> spp. in containment systems, vacuum trucks, sanitation treatment facilities, and natural water sources offers insights into the effectiveness of waste management strategies and potential public health risks associated with inadequate sanitation.</ce:para>
+                     <ce:para id="p0085" view="all">For <ce:italic>Salmonella</ce:italic> spp. analysis, monthly water sampling was conducted for containment systems (such as septic tanks and cesspools), vacuum trucks, and natural water sources, spanning from February to June 2021. In household containment systems, 20 samples were directly collected from the effluent in containment systems, ensuring representation from different households. Additionally, 10 samples were collected directly from the tanks of FS vacuum trucks operating in Thamlot City, capturing variations in content during routine operations. Thirty samples were collected from natural water sources at upstream, midstream and downstream at a depth of 30 cm. All samples were collected using sterilized 500 mL bottles. The collected bottle samples were promptly transported to the laboratory and stored at 4 °C. Subsequent microbiological analysis was conducted within 8 h of sample collection, employing a modified APHA standard method for <ce:italic>Salmonella</ce:italic> spp. recovery from both water and FS samples (<ce:cross-ref refid="bib4" id="crosref0190">APHA, 2017</ce:cross-ref>). The comprehensive approach aimed to provide a detailed understanding of <ce:italic>Salmonella</ce:italic> spp. prevalence dynamics and its correlation with sanitation practices in Thamlot City, as depicted in <ce:cross-ref refid="fig2" id="crosref0195">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> of the research conceptual framework.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0050">Data analysis</ce:section-title>
+                     <ce:para id="p0090" view="all">Descriptive statistics were applied and generated for preliminary evaluation of current sanitation practices along with the sanitation service chain from containment to treatment. Machine learning technique which is the classification tree model (J48) in WEKA was applied using 70:30 ratio of training and validating data. This split strikes a balance between providing enough data for the model to learn patterns effectively and reserving a subset for independent validation. This approach prevents potential overfitting, ensuring that the model generalizes well to new, unseen data. The choice of a common split ratio like 70:30 is practical, efficient, and aligns with standard practices, making it a straightforward yet effective method for evaluating the performance of the classification model on both training and validation datasets.</ce:para>
+                     <ce:para id="p0095" view="all">In this study, supervised data (or labeled data), encompassing instances of both diarrhea infections (categorized as “Yes”) and the absence of diarrhea infection (categorized as “No”), along with influencing factors like personal hygiene and sanitation facilities, were utilized as inputs for constructing an effective model. The aim was to employ a supervised learning approach in machine learning, specifically a classification tree model (J48) in WEKA, to correlate instances of ineffective sanitation management with the prevalence of diarrhea infections. By leveraging this labeled dataset, the model is trained to discern patterns and associations between influencing factors and the occurrence of diarrhea infections, ultimately providing insights into the impact of sanitation practices on public health in Thamlot City.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0055">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0060">Current status of sanitation facilities in Thamlot city, Pangmapha District, Mae Hong Son province</ce:section-title>
+                     <ce:para id="p0100" view="all">The status of sanitation practices from containment to treatment of about 1000 households in Thamlot city, Pangmapha District, Mae Hong Son Province is illustrated in <ce:cross-ref refid="fig3" id="crosref0200">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>. About 1% of the surveyed households still practiced open defecation, while 99% employed on-site sanitation systems to treat toilet wastewaters. Only 1% of the FS generated from on-site sanitation systems was emptied by unlicensed informal operators who subsequently dumped the collected FS to the nearby environment. More than 90% of the FS (69% from supernatant and 29% from solids) were not emptied, but were connected or overflowed to nearby open drains or local sewers. This result implied that safely managed sanitation was still a challenge to achieve the SDG6 targets and affecting the prevalence of diarrhea infections. Similar results by <ce:cross-refs id="optwlZxREfjdS" refid="bib18 bib19">Koottatep et al., 2021a,b</ce:cross-refs> reported that unsafely managed FS, unsafe drinking water, and poor personal hygiene had direct impacts on the prevalence of faecal pathogen infections such as diarrhea and liver fluke infections.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0065">Impact of unsafe management of fecal sludge on the prevalence of diarrheal infections in Thamlot city, Mae Hong Son province</ce:section-title>
+                     <ce:para id="p0105" view="all">The prevalence of <ce:italic>Salmonella</ce:italic> spp. across various sources, including containment systems (such as septic tanks and cesspools), vacuum trucks, and natural water sources, is summarized in <ce:cross-ref refid="tbl2" id="crosref0205">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>. The results reveal that all 20 samples collected from households exhibited a <ce:italic>Salmonella</ce:italic> spp. prevalence of approximately 60% in the collected samples before direct discharge into nearby storm drains or watercourses. This indicates a considerable presence of <ce:italic>Salmonella</ce:italic> spp. in the collected samples from household effluent. From the survey results, the majority utilized one cesspool and soakage pits (70%) and pit latrines (29%). Additionally, it was observed that wastewater discharge from cesspools in all households followed a direct infiltration into the soil, potentially leading to direct environmental contamination with pollutants. The findings underscore the potential risk of contamination when such effluent is discharged directly into the surrounding environment, emphasizing the importance of effective FSM practices to mitigate public health risks associated with waterborne pathogens like <ce:italic>Salmonella</ce:italic> spp. These results were confirmed by <ce:cross-ref refid="bib2" id="crosref0210">Adhikari et al. (2017)</ce:cross-ref> and <ce:cross-refs refid="bib29 bib30" id="crosrefs0015">Taweesan et al. (2015a,b)</ce:cross-refs>, who emphasized the necessity of safe sanitation management from containment to adequate treatment facilities for achieving sustainable development targets.</ce:para>
+                     <ce:para id="p0110" view="all">The prevalence of <ce:italic>Salmonella</ce:italic> spp. in the vacuum truck samples is approximately 40% based on 10 samples. This finding implies that there might be a potential source or pathway for <ce:italic>Salmonella</ce:italic> spp. contamination associated with the use of these trucks in collecting FS. This could be due to various factors such as inadequate cleaning and sanitation of the trucks, cross-contamination during the collection process, or other operational practices that contribute to the persistence and spread of <ce:italic>Salmonella</ce:italic> spp. Additionally, addressing this issue is crucial for ensuring the safety of both the workers involved in FSM and the broader community, as <ce:italic>Salmonella</ce:italic> spp. poses a potential health risk when present in the environment (<ce:cross-ref refid="bib21" id="crosref0215">Lindberg and Rost, 2018</ce:cross-ref>; <ce:cross-ref refid="bib28" id="crosref0220">Sabogal et al., 2014</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0115" view="all">Samples of natural water source were collected from three distinct locations along the Mae Lang River in the administrative region of Thamlot City, encompassing upstream, midstream, and downstream areas. The Mae Lang River, being a crucial water source for community consumption, was chosen for this sampling. The analysis for <ce:italic>Salmonella</ce:italic> spp. indicated infection rates of 30%, 20%, and 50% at the upstream, midstream, and downstream locations, respectively. Notably, the highest prevalence of <ce:italic>Salmonella</ce:italic> spp. was observed at the downstream site, suggesting a potential link to the accumulation and contamination of waterborne pathogens as the water progresses downstream. Additional insights from the survey indicate a correlation between the detection of <ce:italic>Salmonella</ce:italic> spp. at the downstream area of the Mae Lang River and the prevailing water flow direction in the administrative region of Thamlot City. This correlation underscores the importance of understanding water dynamics in relation to pathogen distribution, providing valuable insights for targeted water quality management strategies in the area (<ce:cross-ref refid="bib33" id="crosref0225">Weldeyohannes et al., 2016</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0070">Effective sanitation management model</ce:section-title>
+                     <ce:para id="p0120" view="all">An effective sanitation management model was developed in this study and tested with actual data of about 1000 households having different sanitation practices in Thamlot city, Mae Hong Son Province. The incidences of ineffective sanitation management on the prevalence of diarrhea infections were utilized in developing the effectiveness model by using machine learning technique as shown in <ce:cross-ref refid="fig4" id="crosref0230">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>. It can be seen that the correlation of personal hygiene (such as washing hand before meal and drinking water from natural water sources) and sanitation facilities (such as open defecation and distance from on-site sanitation facilities to open drains or storm sewer) was significant with inverse relationship. Among the 765 cases of contact with FS (personal hygiene), 218 cases were the wrong prediction while the rest (547) were the right prediction of having diarrhea infections (“Yes”). If personal hygiene has no contact with FS, the prediction could be made into two categories which are: (1) if water consumption is unsafe (consume drinking water and use water supply from natural water sources without any treatment), it will be predicted as diarrhea infections (48 wrong cases of total 163 cases) and (2) if water consumption is safe, the prediction will consider the status of open defecation. If open defecation is no, the prediction will be made into two categories which are: (1) if distance from on-site sanitation facilities to open drains or storm sewer is less than or equal to 200 m, it will be predicted as diarrhea infections (12 wrong cases of total 28 cases) and (2) if distance of on-site sanitation facilities into open drains or storm sewer is more than 200 m, it will be predicted as no diarrhea infections (“No”) (11 wrong cases of total 21 cases). Lastly, if open defecation is yes, it will be predicted as diarrhea infections (14 wrong cases of total 23 cases).</ce:para>
+                     <ce:para id="p0125" view="all">From the model performance, the accuracy of model prediction was 73% while precision and recall were 76% and 70%, respectively. Precision is the percentage of correct prediction (predicted and actual diarrhea infections) to the total predicted diarrhea infections while recall is the percentage of correct prediction (predicted and actual diarrhea infections) to the total actual diarrhea infections. The model was tested with the validation data and resulting in the accuracy of 70%. With these accuracies, this tree model could be used to identify conditions to achieve effective sanitation management practices in the study area which should be applicable to other areas having similar sanitation facilities conditions.</ce:para>
+                     <ce:para id="p0130" view="all">From the survey results, the most prevalent on-site sanitation systems in the study areas (more than 90%) were cesspools, a large of number of these systems are located closely to water courses (less than 200 m). Most of untreated FS is directly discharged into watercourses or open drains. Households who consumed drinking water and used water supply from natural water sources without any treatment had high potentials for the prevalence of diarrhea infections.</ce:para>
+                     <ce:para id="p0135" view="all">From the classification tree model prediction (<ce:cross-ref refid="fig4" id="crosref0235">Fig. 4</ce:cross-ref>), it is clear that improved personal hygiene and designing appropriate on-site sanitation systems are strongly recommended to reduce the prevalence of diarrhea infections. To address these problems, distance from on-site sanitation facilities into open drains or storm sewer should be more than 200 m to prevent infections of water-borne diseases and natural water sources contamination (<ce:cross-ref refid="bib31" id="crosref0240">UN-HABITAT, 2018</ce:cross-ref>). These findings were confirmed by <ce:cross-ref refid="bib32" id="crosref0245">UNICEF (2021)</ce:cross-ref> who documented that, to achieve the SDG6 targets, personal hygiene and safely managed sanitation facilities from containment to treatment should be considered. Similar results by <ce:cross-ref refid="bib8" id="crosref0250">Bindra et al. (2021)</ce:cross-ref> and <ce:cross-refs refid="bib18 bib19" id="crosrefs0020">Koottatep et al. (2021a,b)</ce:cross-refs> confirmed that the prevalence of diarrhea infections was correlated with a lack of personal hygiene and safely managed sanitation.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0075">Conclusions</ce:section-title>
+                  <ce:para id="p0140" view="all">Based on data collected from approximately 1000 households, key performance interviews, and field investigations, we identified ineffective sanitation management in the selected city, posing a challenge to achieving sustainable development goals. Results of disease transmission pathways in household FS containment, treatment facilities, and natural water sources reveal interconnections among these environmental settings. The prevalence of <ce:italic>Salmonella</ce:italic> spp. in collected samples was 60%, 40%, and 50% for households, vacuum trucks, and downstream natural water sources, respectively. This finding underscores the association between waterborne pathogen prevalence and natural water sources, emphasizing targeted water quality management for consumption.</ce:para>
+                  <ce:para id="p0145" view="all">To mitigate the impacts of ineffective sanitation management, a machine learning model was employed. Using the WEKA data mining tool and a training dataset, a classification tree model was developed, achieving a 73% accuracy rate in predicting diarrhea infection, with precision and recall rates of 76% and 70%, respectively. This model underscores the significance of personal hygiene and appropriate on-site sanitation systems in mitigating the prevalence of diarrhea infections. It identifies key factors such as safe water consumption, distance from on-site sanitation facilities to open drains, and the practice of open defecation. The prevalence of cesspools in close proximity to watercourses highlights the urgency of addressing these issues to prevent untreated FS discharge into natural water sources.</ce:para>
+                  <ce:para id="p0150" view="all">These findings align with global initiatives, emphasizing the importance of personal hygiene and safely managed sanitation facilities to achieve Sustainable Development Goal 6 targets. Recommended measures include improved personal hygiene practices, strategic design of on-site sanitation systems, and ensuring a distance of more than 200 m from such facilities to open drains or storm sewers to prevent water contamination.</ce:para>
+                  <ce:para id="p0155" view="all">However, additional research is required to investigate the factors influencing the model accuracy. The acquired model should be employed across various domains to explore and expand the potential applications of the proposed analysis.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:section-title id="sectitle0080">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0160" view="all">
+                     <ce:bold>Achara Taweesan:</ce:bold> Writing – original draft, Methodology, Investigation, Funding acquisition, Formal analysis, Conceptualization. <ce:bold>Thammarat Koottatep:</ce:bold> Writing – review &amp; editing, Supervision, Funding acquisition. <ce:bold>Thongchai Kanabkaew:</ce:bold> Writing – original draft, Methodology, Funding acquisition, Formal analysis, Conceptualization. <ce:bold>Chongrak Polprasert:</ce:bold> Writing – review &amp; editing, Supervision, Funding acquisition.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0085">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0165" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0090">Acknowledgements</ce:section-title>
+               <ce:para id="p0170" view="all">Special thanks are due to the <ce:grant-sponsor id="gs2" sponsor-id="https://doi.org/10.13039/501100017170" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Thailand Science Research and Innovation (TSRI)</ce:grant-sponsor> and <ce:grant-sponsor id="gs4" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Ramkhamhaeng University</ce:grant-sponsor> for financial support of this study. Additionally, the authors appreciate the support of the Sub-district Health Promotion Hospital in Thamlot city, Pangmapha District, Mae Hong Son Province and local government authorities where this study was carried out as well as Department of Disease Control, <ce:grant-sponsor id="gs6" sponsor-id="https://doi.org/10.13039/501100004397" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Ministry of Public Health, Thailand</ce:grant-sponsor> for supporting the information used in this research.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0095">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Abbasi and ElHanandeh, 2016</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Abbasi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>El Hanandeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Forecasting municipal solid waste generation using artificial intelligence modelling approaches</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                              <sb:last-page>22</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Abbasi, M., El Hanandeh, A., 2016. Forecasting municipal solid waste generation using artificial intelligence modelling approaches. Waste Management. 56,13-22.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Adhikari et al., 2017</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Adhikari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Cosby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Cox</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of dietary bacteriophage supplementation on internal organs, fecal excretion, and ileal immune response in laying hens challenged by <ce:italic>Salmonella</ce:italic> Enteritidis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Poultry Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3264</sb:first-page>
+                              <sb:last-page>3271</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Adhikari, P.A., Cosby, D.E., Cox, N.A., Lee, J.H. &amp; Kim, W.K., 2017. Effect of dietary bacteriophage supplementation on internal organs, fecal excretion, and ileal immune response in laying hens challenged by Salmonella Enteritidis. Poultry Science, 96(9): 3264-3271.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Al-Refaie et al., 2020</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Al-Refaie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Al-Hawadi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fraij</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optimization models for clustering of solid waste collection process. engineering optimization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Epubahead of print</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1080/0305215X.2020.1843165</ce:doi>
+                        </sb:host>
+                        <sb:comment>November, 2020</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Al-Refaie, A., Al-Hawadi, A., Fraij, S., 2020. Optimization models for clustering of solid waste collection process. engineering optimization. Epubahead of print 23 November, 2020. DOI: 10.1080/0305215X.2020.1843165.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>APHA-AWWA-WEF, 2017</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:surname>APHA-AWWA-WEF</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Standard Methods for the Examination of Water and Wastewater</sb:maintitle>
+                              </sb:title>
+                              <sb:edition>23rd ed.</sb:edition>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Public Health Association</sb:name>
+                                 <sb:location>Washington, DC, USA</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">APHA-AWWA-WEF (Ed.), 2017. Standard methods for the examination of water and wastewater, 23rd ed.; American Public Health Association: Washington, DC, USA.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Arphacharus, 2016</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Arphacharus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Universal Access to Safe Sanitation and beyond-Thailand’s Experiences</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Bureau of Environmental Health, Department of Health, Ministry of Public Health</sb:name>
+                                 <sb:location>Thailand</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">Arphacharus, N. 2016. Universal access to safe sanitation and beyond-Thailand’s experiences. Bureau of Environmental Health, Department of Health, Ministry of Public Health, Thailand.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Ayeleru et al., 2012</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.O.</ce:given-name>
+                                 <ce:surname>Ayeleru</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.I.</ce:given-name>
+                                 <ce:surname>Fajimi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.O.</ce:given-name>
+                                 <ce:surname>Oboirien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Olubambi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Forecasting municipal solid waste quantity using artificial neural network and supported vector machine techniques: a case study of Johannesburg, South Africa</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>289</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:article-number>125671</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">Ayeleru, O.O., Fajimi, L.I., Oboirien, B.O., Olubambi, P.A., 2012. Forecasting municipal solid waste quantity using artificial neural network and supported vector machine techniques: a case study of Johannesburg, South Africa. Journal of Cleaner Production. 289, 125671.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Baraki et al., 2019</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Baraki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Alemu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Alemayehu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Yenit</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Prevalence of Intestinal Parasite Infection and Associated Factors Among Food Handlers in Eating and Drinking Establishments in Chagni Town. Northwest Ethiopia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Baraki, A. G., Alemu, A. S., Alemayehu, M., Yenit, M. K., 2019. The prevalence of intestinal parasite infection and associated factors among food handlers in eating and drinking establishments in Chagni Town. Northwest Ethiopia.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Bindra et al., 2021</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bindra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Khaiwal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Chanana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Assessment of On-Site Sanitation Practices and Contamination of Groundwater in Rural Areas of Fatehgarh Sahib, Punjab, India</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>vol. 23</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2021</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Environment Development and Sustainability</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>4594</sb:first-page>
+                              <sb:last-page>4613</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Bindra, D., Khaiwal, R., Chanana, N., Mor, S., 2021. Assessment of on-site sanitation Practices and contamination of groundwater in rural areas of Fatehgarh Sahib, Punjab, India. Environment Development and Sustainability. 23, 4594-4613.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Cubillos, 2020</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cubillos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multi-site household waste generation forecasting using a deep learning approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8</sb:first-page>
+                              <sb:last-page>14</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">Cubillos, M., 2020. Multi-site household waste generation forecasting using a deep learning approach. Waste Management. 115, 8-14.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Dearden et al., 2017</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Dearden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Schott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.T.</ce:given-name>
+                                 <ce:surname>Crookston</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Humphries</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Penny</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Behrman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Children with access to improved sanitation but not improved water are at lower risk of stunting compared to children without sccess: a cohort study in Ethiopia, India, Peru, and Vietnam</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMC Publ. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>110</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">Dearden, K.A., Schott, W., Crookston, B.T., Humphries D.L., Penny M.E., Behrman J.R., 2017. Children with access to improved sanitation but not improved water are at lower risk of stunting compared to children without sccess: a cohort study in Ethiopia, India, Peru, and Vietnam. BMC Public Health. 17, 110.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Department of Disease Control, 2020</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Department of Disease Control</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Guideline for the Prevention and Control of Disease and Health Hazards for the Area</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ddc.moph.go.th/dsp</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">Department of Disease Control, 2020. Guideline for the prevention and control of disease and health hazards for the area. https://doi.org/ddc.moph.go.th/dsp.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Freeman et al., 2017</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Freeman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.V.</ce:given-name>
+                                 <ce:surname>Garn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Sclar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Boisson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Medlicott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Alexander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Penakalapati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Mahtani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.T.</ce:given-name>
+                                 <ce:surname>Grimes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Rehfuess</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.F.</ce:given-name>
+                                 <ce:surname>Clasen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impact of sanitation on infectious disease and nutritional status: a systematic review and meta-analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hyg Environ. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>220</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>928</sb:first-page>
+                              <sb:last-page>949</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">Freeman, M.C., Garn, J.V., Sclar, G.D., Boisson, S., Medlicott, K., Alexander, K.T., Penakalapati, G., Anderson, D., Mahtani, A.G., Grimes, J.E.T., Rehfuess, E.A., Clasen, T.F., 2017. The impact of sanitation on infectious disease and nutritional status: a systematic review and meta-analysis. International Journal of Hygiene and Environmental Health. 220, 928-949.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Fuhrimann et al., 2015</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fuhrimann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Stalder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Winkler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Niwagaba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Masaba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.B.</ce:given-name>
+                                 <ce:surname>Kabatereine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Halage</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.H.</ce:given-name>
+                                 <ce:surname>Schneeberger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Utzinger</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microbial and chemical contamination of water, sediment and soil in the Nakivubo Wetland Area in Kampala, Uganda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Monit. Assess.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>187</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>475</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">Fuhrimann, S., Stalder, M., Winkler, M.S., Niwagaba, C.B., Babu, M., Masaba, G., Kabatereine, N.B., Halage, A.A., Schneeberger, P.H.H., Utzinger, J., et al., 2015. Microbial and chemical contamination of water, sediment and soil in the Nakivubo Wetland Area in Kampala, Uganda. Environmental Monitoring and Assessment. 187, 475.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Fukushi et al., 2003</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fukushi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Babel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Burakrai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Survival of <ce:italic>Salmonella</ce:italic> spp. in a simulated acid—phase anaerobic digester treating sewage sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>53</sb:first-page>
+                              <sb:last-page>57</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Fukushi, K., Babel, S., Burakrai, S., 2003. Survival of Salmonella spp. in a simulated acid-phase anaerobic digester treating sewage sludge. Bioresource Technology. 86, 53-57.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Hosseinzadeh et al., 2020</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hosseinzadeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Baziar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Alidadi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Altaee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Najafpoor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jafarpour</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of artificial neural network and multiple linear regression in modeling nutrient recovery in vermicompost under different conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>303</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>122926</sb:article-number>
+                           <ce:doi>10.1016/j.biortech.2020.122926</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">Hosseinzadeh, A., Baziar, M., Alidadi, H., Zhou, JL., Altaee, A., Najafpoor, A.A., Jafarpour, S., 2020. Application of artificial neural network and multiple linear regression in modeling nutrient recovery in vermicompost under different conditions. Bioresource Technology. 303, 122926. DOI: 10.1016/j.biortech.2020.122926</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Jayathilake et al., 2019</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Jayathilake</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Drechsel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Keraita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fernanado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Hanjra</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Guidelines and Regulations for Faecal Sludge Management from On-Site Sanitation Facilities. CGIAR Research Program on Water, Land and Ecosystems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>International Water Management Institute (IWMI)</sb:name>
+                                 <sb:location>Sri Lanka</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">Jayathilake, N., Drechsel, P., Keraita, B., Fernanado, S., Hanjra, M.A., 2019. Guidelines and regulations for faecal sludge management from on-site sanitation facilities. CGIAR Research Program on Water, Land and Ecosystems, International Water Management Institute (IWMI), Sri Lanka.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Kannangara et al., 2018</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kannangara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ahmadi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bensebaa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling and prediction of regional municipal solid waste generation and diversion in Canada using machine learning approaches</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Kannangara, M., Dua, R., Ahmadi, L., Bensebaa, F., 2018. Modeling and prediction of regional municipal solid waste generation and diversion in Canada using machine learning approaches. Waste Management. 74, 3-15.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Koottatep et al., 2021a</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Koottatep</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Taweesan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Thongchai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Polprasert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Factors affecting the prevalence of fecal pathogen infections: approaches for health risk protection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Nat. Res. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>239</sb:first-page>
+                              <sb:last-page>245</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">Koottatep, T., Taweesan, A., Thongchai, K., Polprasert, C., 2021. Factors affecting the prevalence of fecal pathogen infections: approaches for health risk protection. Environment and Natural Resources Journal. 19, 239-245.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>Koottatep et al., 2021b</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Koottatep</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Taweesan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kanabkaew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Polprasert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Inconvenient Truth: Unsafely Managed Fecal Sludge after Achieving MDG for Decades in Thailand. Journal of Water</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:volume-nr>vol. 6</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2021</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Sanitation and Hygiene for Development</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>1062</sb:first-page>
+                              <sb:last-page>1070</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">Koottatep, T., Taweesan, A., Kanabkaew, T., Polprasert, C., 2021. Inconvenient truth: unsafely managed fecal sludge after achieving MDG for decades in Thailand. Journal of Water, Sanitation and Hygiene for Development. 6, 1062-1070.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>Li et al., 2020</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.W.Y.</ce:given-name>
+                                 <ce:surname>Tam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ya</ce:given-name>
+                                 <ce:surname>Yingyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Research trend of the application of information technologies in construction and demolition waste management</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clean. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>263</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>121458</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">Li, C.Z., Zhao, Y., Xiao, B., Yu, B., Tam, V.W.Y., Chen, Z., Yingyi, Ya., 2020. Research trend of the application of information technologies in construction and demolition waste management. Journal of Cleaner Production. 263, 121458.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>Lindberg and Rost, 2018</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Lindberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rost</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Treatment of faecal sludge from pit latrines and septic tanks using lime and urea : pathogen die-off with respect to time of storage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>48. Available from:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://ltu.diva-portal.org/smash/get/diva2:1242729/FULLTEXT01.pdf" id="intref0010" xlink:type="simple">https://ltu.diva-portal.org/smash/get/diva2:1242729/FULLTEXT01.pdf</ce:inter-ref>
+                              <sb:date>2018</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">Lindberg, E., Rost, A., 2018 Treatment of faecal sludge from pit latrines and septic tanks using lime and urea : Pathogen die-off with respect to time of storage, p. 48. Available from: https://ltu.diva-portal.org/smash/get/diva2:1242729/FULLTEXT01.pdf.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>Manga et al., 2021</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Manga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Camargo-Valero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Anthonj</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.E.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fate of faecal pathogen indicators during faecal sludge composting with different bulking agents in tropical climate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hyg Environ. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>232</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>113670</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">Manga, M., Camargo-Valero, M.A., Anthonj, C., Evans, B.E., 2021. Fate of faecal pathogen indicators during faecal sludge composting with different bulking agents in tropical climate. International Journal of Hygiene and Environmental Health. 232, 113670.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>Mensah, 2014</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Mensah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How can we determine the sample size from an unknown population?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Retrieved from</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://www.researchgate.net/post/How-can-we-determine-the-sample-size-from-an-unknown" id="intref0015" xlink:type="simple">https://www.researchgate.net/post/How-can-we-determine-the-sample-size-from-an-unknown</ce:inter-ref>
+                              <sb:date>2014</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>population/54012a91d3df3ed4388b4567/citation/download</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">Mensah, I., 2014. How can we determine the sample size from an unknown population? Retrieved from: https://www.researchgate.net/post/How-can-we-determine-the-sample-size-from-an-unknown population/54012a91d3df3ed4388b4567/citation/download.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>Mills et al., 2018</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Mills</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Willetts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Petterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Norman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Faecal pathogen flows and their public health risks in urban environments: a proposed approach to inform sanitation planning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Environ. Res. Publ. Health</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.3390/ijerph15020181</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0145">Mills, F., Willetts, J., Petterson, J., Mitchell, C., Norman, G., 2018. Faecal pathogen flows and their public health risks in urban environments: a proposed approach to inform sanitation planning. International Journal of Environmental Research and Public Health. doi:10.3390/ijerph15020181.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>United Nations MDG Monitor, 2017</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>United Nations MDG Monitor</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>MDG 7: Ensure Environmental Sustainability. 6 June</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>2017, from</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.mdgmo%20nitor%20.org/mdg-7-ensur%20e-envir%20onmen%20tal-susta%20inabi%20lity/" id="intref0020" xlink:type="simple">http://www.mdgmo nitor .org/mdg-7-ensur e-envir onmen tal-susta inabi lity/</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0150">United Nations MDG Monitor, 2017. MDG 7: Ensure environmental sustainability. 6 June, 2017, from http://www.mdgmo nitor .org/mdg-7-ensur e-envir onmen tal-susta inabi lity/.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>National Planning Comission, 2015</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>National Planning Commission</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development Goals 2016-2030, National (Preliminary) Report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Government of Nepal</sb:name>
+                                 <sb:location>Kathmandu</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0155">National Planning Comission, 2015. Sustainable development goals 2016-2030, National (preliminary) report. Kathmandu: Government of Nepal.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>Penakalapati et al., 2017</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Penakalapati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Mahtani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.T.</ce:given-name>
+                                 <ce:surname>Grimes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Rehfuess</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.F.</ce:given-name>
+                                 <ce:surname>Clasen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impact of sanitation on infectious disease and nutritional status: a systematic review and meta-analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hyg Environ. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>220</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>928</sb:first-page>
+                              <sb:last-page>949</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0160">Penakalapati, G., Anderson, D., Mahtani, A.G., Grimes, J.E.T., Rehfuess, E.A., Clasen, T.F., 2017. The impact of sanitation on infectious disease and nutritional status: a systematic review and meta-analysis. International Journal of Hygiene and Environmental Health. 220, 928-949.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>Sabogal et al., 2014</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.I.</ce:given-name>
+                                 <ce:surname>Sabogal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Medlin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Aquino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gelting</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainability of water, sanitation and hygiene interventions in Central America</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Water, Sanit. Hyg. Dev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>99</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0165">Sabogal, R. I., Medlin, E., Aquino, G., Gelting, R. J., 2014 Sustainability of water, sanitation and hygiene interventions in Central America. Journal of Water, Sanitation and Hygiene for Development 4 (1), 89-99.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>Taweesan et al., 2015a</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Taweesan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Koottatep</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Dongo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Factors influencing the performance of faecal sludge management services: case study in Thailand municipalities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Dev. Sustain.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1007/s10668-015-9719-x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0170">Taweesan, A., Koottatep, T., Dongo, K., 2015. Factors influencing the performance of faecal sludge management services: case study in Thailand municipalities. Environment, Development and Sustainability. doi:10.1007/s10668-015-9719-x.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>Taweesan et al., 2015b</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Taweesan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Koottatep</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Polprasert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effective faecal sludge management measures for on-site sanitation systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Water</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>483</sb:first-page>
+                              <sb:last-page>492</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Sanitation and Hygiene for Development</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0175">Taweesan, A., Koottatep, T., Polprasert, C., 2015. Effective faecal sludge management measures for on-site sanitation systems. Journal of Water, Sanitation and Hygiene for Development. 5, 483-492.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>UN-HABITAT, 2018</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>UN-HABITAT</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>End-line Survey Report, A Short Step from Improved WASH to Healthier Communities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2018</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0180">UN-HABITAT, 2018. End-line Survey Report, A Short Step from Improved WASH to Healthier Communities.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>UNICEF, 2021</ce:label>
+                     <sb:reference id="sref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UNICEF</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Water and Sanitation/UNICEF Supply Division</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2021</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://www.unicef.org/supply/water-and-sanitation" id="intref0025" xlink:type="simple">https://www.unicef.org/supply/water-and-sanitation</ce:inter-ref>
+                              <sb:date-accessed day="15" month="1" year="2021"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0185">UNICEF, 2021. Water and sanitation/ UNICEF supply division. https://www.unicef.org/supply/water-and-sanitation (accessed 15 January 2021).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>Weldeyohannes et al., 2016</ce:label>
+                     <sb:reference id="sref33">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.O.</ce:given-name>
+                                 <ce:surname>Weldeyohannes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dyck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kachanoski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrologic response to effluent infiltrating from At-Grade line sources to shallow groundwater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Vadose Zone J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.2136/vzj2015.10.0141</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0190">Weldeyohannes, A.O., Dyck, M., and Kachanoski, G.. 2016. Hydrologic response to effluent infiltrating from At-Grade line sources to shallow groundwater. Vadose Zone Journal . 15 (3). doi: https://doi.org/10.2136/vzj2015.10.0141</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>Weststrate et al., 2019</ce:label>
+                     <sb:reference id="sref34">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Weststrate</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Dijkstra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Eshuis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gianoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rusca</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The sustainable development goal on water and sanitation: learning from the millennium development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Soc. Indicat. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>795</sb:first-page>
+                              <sb:last-page>810</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0195">Weststrate, J., Dijkstra, G., Eshuis, J., Gianoli, A., Rusca, M. 2019. The sustainable development goal on water and sanitation: learning from the millennium development goals. Social Indicators Research. 143, 795-810.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>WHO/UNICEF, 2021</ce:label>
+                     <sb:reference id="sref35">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO/UNICEF</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progress on Household Drinking Water, Sanitation and Hygiene 2000–2020</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2021</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva, Switzerland</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0200">WHO/UNICEF, 2021. Progress on household drinking water, sanitation and hygiene 2000-2020. World Health Organization, Geneva, Switzerland.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib36">
+                     <ce:label>Wolf et al., 2019</ce:label>
+                     <sb:reference id="sref36">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wolf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Johnston</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Hunter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Gordon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Medlicott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Prüss-Ustün</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A fecal contamination index for interpreting heterogeneous diarrhea impacts of water, sanitation, and hygiene interventions and overall, regional and country estimates of community sanitation coverage with a focus on low- and middle-income countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hyg Environ. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>222</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>270</sb:first-page>
+                              <sb:last-page>282</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0205">Wolf, J., Johnston, R., Hunter, P.R., Gordon, B., Medlicott, K., Pruss-Ustun, A., 2019. A fecal contamination index for interpreting heterogeneous diarrhea impacts of water, sanitation, and hygiene interventions and overall, regional and country estimates of community sanitation coverage with a focus on low- and middle-income countries. International Journal of Hygiene and Environmental Health. 222, 270-282.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib37">
+                     <ce:label>Ye et al., 2020</ce:label>
+                     <sb:reference id="sref37">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zhong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tackling environmental challenges in pollution controls using artificial intelligence: a Review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Total Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>699</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>134279</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0210">Ye, Z., Yang, J., Zhong, N., Tu, X., Jia, J., Wang, J., 2020. Tackling environmental challenges in pollution controls using artificial intelligence: A Review. Science of the Total Environment. 699,134279.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib38">
+                     <ce:label>Yoshida et al., 2019</ce:label>
+                     <sb:reference id="sref38">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Horie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Akkhavong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Predictors of hookworm and opisthorchis viverrini infection among adolescents in urban Laos: a cross-sectional study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Res. Rep. Trop. Med.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                              <sb:last-page>41</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0215">Yoshida, I., Horie, O., Akkhavong, K., 2019. Predictors of hookworm and opisthorchis viverrini infection among adolescents in urban Laos: a cross-sectional study. Research and Report in Tropical Medicine. 10, 31-41.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

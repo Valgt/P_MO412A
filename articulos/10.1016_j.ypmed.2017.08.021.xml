@@ -1,0 +1,793 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0091743517303079</prism:url><dc:identifier>doi:10.1016/j.ypmed.2017.08.021</dc:identifier><eid>1-s2.0-S0091743517303079</eid><prism:doi>10.1016/j.ypmed.2017.08.021</prism:doi><pii>S0091-7435(17)30307-9</pii><dc:title>Contributing to helping to achieve the UN Sustainable Development Goals: Truly shifting from niche to norm </dc:title><prism:publicationName>Preventive Medicine</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>00917435</prism:issn><prism:volume>103</prism:volume><prism:startingPage>S1</prism:startingPage><prism:endingPage>S2</prism:endingPage><prism:pageRange>S1-S2</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-10-31</prism:coverDate><prism:coverDisplayDate>October 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><prism:issueName>Supplement: Promoting Physical Activity in Public Spaces to Advance a Culture of Health</prism:issueName><dc:creator>Giles-Corti, Billie</dc:creator><dc:creator>Kerr, Jacqueline</dc:creator><dc:creator>Pratt, Michael</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0091743517303079" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0091743517303079" rel="scidir"/></coredata><scopus-id>85029486715</scopus-id><scopus-eid>2-s2.0-85029486715</scopus-eid><pubmed-id>28882746</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85029486715" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272375</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291897</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Preventive Medicine</xocs:srctitle>
+      <xocs:normalized-srctitle>PREVENTIVEMEDICINE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170905">2017-09-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170905">2017-09-05</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20171117">2017-11-17</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20171117">2017-11-17</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-09-09T12:43:02</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0091743517303079</xocs:eid>
+      <xocs:pii-formatted>S0091-7435(17)30307-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0091743517303079</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ypmed.2017.08.021</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0091743517X00121</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200909">2020-09-09T12:09:57.995914Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20171001</xocs:date-search-begin>
+      <xocs:date-search-end>20171031</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1504574067">2017-09-05T01:14:27.867812Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0091-7435</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00917435</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>103</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>103</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>S</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 103, Supplement</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>S1</xocs:first-fp>
+      <xocs:last-lp>S2</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>S1</xocs:first-page>
+         <xocs:last-page>S2</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201710</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>October 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-10-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-10-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Supplement: Promoting Physical Activity in Public Spaces to Advance a Culture of Health</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S0091743517X00121-8ee5da8e14dc009b8160464ab2212db1">
+                     <ce:given-name>Billie</ce:given-name>
+                     <ce:surname>Giles-Corti</ce:surname>
+                     <ce:cross-ref refid="aff1">
+                        <ce:sup loc="post">a</ce:sup>
+                     </ce:cross-ref>
+                  </ce:author>
+                  <ce:author author-id="S0091743517X00121-18d9ea98d380e62fdf618788aa0ed52d">
+                     <ce:given-name>Jacqueline</ce:given-name>
+                     <ce:surname>Kerr</ce:surname>
+                  </ce:author>
+                  <ce:author author-id="S0091743517X00121-b21cc3ade9451629d9d38eaeec4a4d82">
+                     <ce:given-name>Michael</ce:given-name>
+                     <ce:surname>Pratt</ce:surname>
+                  </ce:author>
+                  <ce:affiliation id="aff1" affiliation-id="S0091743517X00121-8ee5da8e14dc009b8160464ab1111db1">
+                     <ce:label>a</ce:label>
+                     <ce:textfn>billie.giles-corti@rmit.edu.au</ce:textfn>
+                     <ce:source-text id="src01">billie.giles-corti@rmit.edu.au</ce:source-text>
+                  </ce:affiliation>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Guest Editorial</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CONTRIBUTINGHELPINGACHIEVEUNSUSTAINABLEDEVELOPMENTGOALSTRULYSHIFTINGNICHENORM</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GILESCORTI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>ADLAKHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>ALBERICO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>BAUMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>DIAZDELCASTILLO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>JAUREGUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>MONSUR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>SARMIENTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>UNITEDNATIONSGENERALASSEMBLY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>RESOLUTIONADOPTEDBYGENERALASSEMBLYTRANSFORMINGWORLD2030AGENDAFORSUSTAINABLEDEVELOPMENTARES701</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>WORLDHEALTHORGANISATION</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GLOBALAGEFRIENDLYCITIESAGUIDE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>WORLDHEALTHORGANISATIONCOMMISSIONONTHESOCIALDETERMINANTSOFHEALTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>CLOSINGGAPINAGENERATIONHEALTHEQUITYTHROUGHACTIONSOCIALDETERMINANTSHEALTHFINALREPORTCOMMISSIONSOCIALDETERMINANTSHEALTH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>WORLDHEALTHORGANISATIONUNHABITAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>HIDDENCITIESUNMASKINGOVERCOMINGHEALTHINEQUITIESINURBANSETTINGS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>YOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GILESCORTIX2017XS1</xocs:refkey3>
+         <xocs:refkey4lp>GILESCORTIX2017XS1XS2</xocs:refkey4lp>
+         <xocs:refkey4ai>GILESCORTIX2017XS1XB</xocs:refkey4ai>
+         <xocs:refkey5>GILESCORTIX2017XS1XS2XB</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-11-17T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier Inc. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0091-7435(17)30307-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0091743517303079</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0091743517303079</xocs:eid>
+         <xocs:doi>10.1016/j.ypmed.2017.08.021</xocs:doi>
+         <xocs:cid>272375</xocs:cid>
+         <xocs:timestamp>2020-09-09T12:09:57.995914Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-10-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-10-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0091743517303079-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0091743517303079/MAIN/application/pdf/1e08304f6de2deda464afd970f6d1037/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>357517</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0091743517303079-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0091743517303079/PREVIEW/image/png/a6f622b518ab444c0b0798604d3d7273/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68287</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" docsubtype="edi" xml:lang="en">
+         <item-info>
+            <jid>YPMED</jid>
+            <aid>5133</aid>
+            <ce:pii>S0091-7435(17)30307-9</ce:pii>
+            <ce:doi>10.1016/j.ypmed.2017.08.021</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="dh0005">
+               <ce:textfn id="tn0005">Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0005">Contributing to helping to achieve the UN Sustainable Development Goals: Truly shifting from niche to norm</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0091743517303079-8ee5da8e14dc009b8160464ab2212db1">
+                  <ce:given-name>Billie</ce:given-name>
+                  <ce:surname>Giles-Corti</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf1005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S0091743517303079-18d9ea98d380e62fdf618788aa0ed52d">
+                  <ce:given-name>Jacqueline</ce:given-name>
+                  <ce:surname>Kerr</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf5005">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0091743517303079-b21cc3ade9451629d9d38eaeec4a4d82">
+                  <ce:given-name>Michael</ce:given-name>
+                  <ce:surname>Pratt</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf6005">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S0091743517303079-9126a9794ad176c90b488feebdf698ce">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0010">NHMRC Centre for Research Excellence in Healthy Liveable Communities, Centre for Urban Research, RMIT University</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>NHMRC Centre for Research Excellence in Healthy Liveable Communities</sa:organization>
+                     <sa:organization>Centre for Urban Research</sa:organization>
+                     <sa:organization>RMIT University</sa:organization>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S0091743517303079-b81fa2c6978f5bbdede5ac37d8285ce0">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0020">Department of Family Medicine and Public Health, University of California, San Diego</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Family Medicine and Public Health</sa:organization>
+                     <sa:organization>University of California</sa:organization>
+                     <sa:country>San Diego</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="14" month="7" year="2017"/>
+            <ce:date-revised day="22" month="8" year="2017"/>
+            <ce:date-accepted day="27" month="8" year="2017"/>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0005" view="all">This editorial was written at the first anniversary of the launch of the UN's Sustainable Development Goals (<ce:cross-ref id="cf0010" refid="bb0045">United Nations General Assembly, 2015</ce:cross-ref>). Active living research sits at the intersection of Goal 3 devoted to ensuring ‘healthy lives and promoting well-being for all at all ages’, and Goal 11 which focuses on the creation of ‘safe, inclusive and sustainable cities’.</ce:para>
+               <ce:para id="p0010" view="all">The way we build cities and live in them has a profound impact on the health and wellbeing of its residents. Safe, inclusive, sustainable and liveable cities foster physically and socially active lifestyles, and encourage active forms of transport. Such behaviours can reduce the risk of chronic disease and reduce environmental and social risk factors so detrimental to the health of individuals and the planet.</ce:para>
+               <ce:para id="p0015" view="all">Importantly for our field, target 11.7 (<ce:cross-ref id="cf0015" refid="bb0045">United Nations General Assembly, 2015</ce:cross-ref>) specifically focuses on greening of the city and the provision of public open space: “By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities” (p22). Greening can be considered a climate change action and have benefits for physical activity. Placing physical activity within a broader economic and climate change agenda is important as such targets have more immediate penalties and implications for policy makers than arguments for public health benefits.</ce:para>
+               <ce:para id="p0020" view="all">The question for the active living research field, is what role will we each play in helping to deliver the UN's Sustainable Development Goals? Will we be highly relevant, or will we be on the fringe of this critical international agenda? There is a real opportunity for active living research field to be at the forefront of research that will provide evidence that will help deliver at least two of the 17 Sustainable Development Goals. In this issue, we examine emerging evidence and experience across five continents addressing how research on physical activity and the environment can influence the health of people around the globe.</ce:para>
+               <ce:para id="p0025" view="all">The focus of this special issue is on from ‘Niche to Norm’. As you read through these papers, we encourage you to ask yourself to think through whether our field is delivering on the promise of active living research of creating evidence that will influence policies and practice? There is no doubt, we are making progress and are well placed to contribute. We use ecological models that recognise multiple levels of influence on individual behaviour; we understand that policy sets the framework for community-wide outcomes; that programming is more proximal and creates opportunities to participate; and there also needs to be efforts to change individuals.</ce:para>
+               <ce:para id="p0030" view="all">However, do we know enough about translational science, about the politics of changing policy; and conducting natural experimental studies of environment and policy changes to benchmark, monitor and influence policy and practice interventions?</ce:para>
+               <ce:para id="p0035" view="all">We have excellent examples in this special issue: Bogota's Ciclovía (<ce:cross-ref id="cf0020" refid="bb0040">Sarmiento et al., 2016</ce:cross-ref>) and Recreovía (<ce:cross-ref id="cf0025" refid="bb0020">Díaz Del Castillo et al., 2016</ce:cross-ref>) provide success stories for repurposing existing space to encourage physical activity and reducing traffic exposure and hence improving air quality. This special issue also includes examples of programs targeting different age and population groups (e.g., connecting with older adults) and encouraging individuals to change which have the potential to contribute to Goal 3 of the UN Sustainable Goals (healthier lives for all) (<ce:cross-refs id="cf0030" refid="bb0010 bb0035 bb0025 bb0065">Alberico et al., 2016, Monsur et al., 2016, Jáuregui et al., 2016, Yoo and Kim, 2016</ce:cross-refs>). Importantly, for the first time we see five studies examining the built environment and physical activity in Asia, the most populous continent but not the focus of much previous published work in this field (<ce:cross-refs id="cf0035" refid="bb0065 bb0035 bb0005 bb0030 bb0015">Yoo and Kim, 2016; Monsur et al., 2016; Adlakha et al., 2016; Lu et al., 2016; Bauman et al., 2017</ce:cross-refs>).</ce:para>
+               <ce:para id="p0040" view="all">However, have we gone far enough? As a field, are we truly going from ‘Niche to Norm’, or is there more we can do? For example, how will our field support city planners to deliver on the target of providing ‘universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons, persons with disabilities, and those living in low and middle-income countries. How can we meet the challenging targets of reducing air pollution? What evidence can we produce that might assist?</ce:para>
+               <ce:para id="p0045" view="all">Capacity building is key to changing a niche to a norm. The Active Living Research program has trained a new generation of transdisciplinary researchers. Many of them are working directly with local planning agencies, have community advisory boards, and include policy stakeholders in their teams. As these young investigators take on leadership roles the norm in universities and for community partnerships will change. Further, as we investigate ways to train community members to engage in advocacy efforts for built environment and policy change we will grow. Both youth and older adults are key targets for such efforts.</ce:para>
+               <ce:para id="p0050" view="all">We can also investigate what, if any, policies are being delivered in our cities on the creation of public open space. Australian research shows a considerable gap between the aspirations of policy and what is delivered on-the-ground. Implementation requires resources and funded mandates for continued evaluation. As implementation science strengthens through clear frameworks and valid measures we will be able to provide stronger evidence of effective approaches.</ce:para>
+               <ce:para id="p0055" view="all">We can also actively disseminate the data many of us simply store on our computers. For example, we can produce GIS maps that show that distribution of different types of public open space across cities. We can create public open space spatial indicators and highlight areas across cities where there are inequities in the delivery of public open space. Is public open space spatially patterned? Are there particular inequities in disadvantaged areas? We can also create exposure measures based on current policies in our cities, and assess whether GIS measures created based on government policies for the delivery of public open space are associated with health and wellbeing outcomes (e.g., levels of recreational physical activity and mental health). If there are no associations, we can propose alternative evidence-based measures, and propose alternative indicators to inform better public open space policy. We can also tackle transport indicators: most transportation plans, for example, are based on outputs from models. These models do not often include walking or bicycling data. Collecting GPS data on active transportation can improve transport models and provide local data on the use of transport infrastructure.</ce:para>
+               <ce:para id="p0060" view="all">Using evidence and working with knowledge brokers and advocates, we can then advocate for better policy: policy that will create health and wellbeing (UN Sustainable Development Goal 3) (<ce:cross-ref id="cf0040" refid="bb0045">United Nations General Assembly, 2015</ce:cross-ref>); and also create more sustainable and resilient cities (UN Sustainable Development Goal 7) (<ce:cross-ref id="cf0045" refid="bb0045">United Nations General Assembly, 2015</ce:cross-ref>) and ensure universal access to green space.</ce:para>
+               <ce:para id="p0065" view="all">The need for this type of research is highlighted by UN Habitat and World Health Organisation. These international organizations argue for the creation of indicators that will identify areas of inequities (<ce:cross-ref id="cf0050" refid="bb0060">World Health Organisation, UN Habitat, 2010</ce:cross-ref>) and the need for health equity to be at the heart of city planning (<ce:cross-ref id="cf0055" refid="bb0055">World Health Organisation, Commission on the Social Determinants of Health, 2008</ce:cross-ref>). The World Health Organisation's Age Friendly Cities initiative (<ce:cross-ref id="cf0060" refid="bb0050">World Health Organisation, 2007</ce:cross-ref>) also provides a helpful framework and when large national organizations such the AARP in the US adopt such initiatives the chance of success, sustainability and scale are much greater.</ce:para>
+               <ce:para id="p0070" view="all">This special issue of Preventive Medicine focused on global aspects of active living research demonstrates that physical activity and the built environment are important in a wide variety of cities and countries of varying economic development, culture and geography. While the exact nature of the relationships between physical activity and the environment appear to differ significantly based on country, culture, and context, key principles are found across all of these dimensions. It is evident that urban form affects the choices made by people of all ages regarding physical activity and this impacts their health. The way we build cities is therefore important to health, and the capacity to carefully assess these relationships is critical to the health of people around the world. This capacity must be country, culture and context specific as well, if our research is to capture the nuances of different places. The good news as seen in the papers that follow is that early career researchers in diverse countries are actively investigating these issues and publishing their work. However, important gaps remain in both our understanding of physical activity and the environment, and in the capacity to conduct that work. Important, no studies in this issue come from either Africa or the Middle East.</ce:para>
+               <ce:para id="p0075" view="all">The task ahead may seem a little daunting. However, as many have challenged over the years: ‘if not now, when?’ and ‘if not us, who?’ Globally, we are facing seemingly insurmountable challenges with rapid population growth, urbanisation and climate change. Creating healthy liveable sustainable cities is a major challenge, and the time for us to act is now. The active living field has a real opportunity to shift from Niche to Norm: however, the question for each of us, is are we up for it?</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0005">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>Adlakha et al., 2016</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Adlakha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Hipp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Brownson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Eyler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>Lesorogol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Raghavan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Can we walk?” environmental supports for physical activity in India</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prev. Med.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ypmed.2016.09.020</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print, this issue]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>Alberico et al., 2016</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.O.</ce:given-name>
+                                 <ce:surname>Alberico</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schipperijn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Reis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Use of Global Positioning System for Physical Activity Research in Youth: ESPAÇOS Adolescentes, Brazil</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prev. Med.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ypmed.2016.12.026</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print, this issue]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>Bauman et al., 2017</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bauman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Crane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Drayton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Titze</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The unrealised potential of bike share schemes to influence population physical activity levels – a narrative review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prev. Med.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ypmed.2017.02.015</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print, this issue]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>Díaz Del Castillo et al., 2016</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Díaz Del Castillo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>González</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Ríos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Páez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Torres</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Díaz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pratt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.L.</ce:given-name>
+                                 <ce:surname>Sarmiento</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Start small, dream big: experiences of physical activity in public spaces in Colombia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prev. Med.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ypmed.2016.08.028</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print, this issue]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>Jáuregui et al., 2016</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Jáuregui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Salvo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lamadrid-Figueroa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hernández</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Rivera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pratt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Perceived neighborhood environmental attributes associated with leisure-time and transport physical activity in Mexican adults</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prev. Med.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ypmed.2016.11.014</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print, this issue]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>Lu et al., 2016</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Urban density, diversity and design: is more always better for walking? A study from Hong Kong</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prev. Med.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ypmed.2016.08.042</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print, this issue]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>Monsur et al., 2016</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Monsur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mansur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.Z.</ce:given-name>
+                                 <ce:surname>Islam</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Are children living on dead-end streets more active? Near-home street patterns and school-going children's time spent outdoors in Dhaka, Bangladesh</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prev. Med.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ypmed.2016.11.016</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print, this issue]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>Sarmiento et al., 2016</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.L.</ce:given-name>
+                                 <ce:surname>Sarmiento</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Díaz Del Castillo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Triana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Acevedo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Gonzalez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pratt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reclaiming the streets for people: insights from Ciclovías Recreativas in Latin America</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prev. Med.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ypmed.2016.07.028</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print, this issue]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>United Nations General Assembly, 2015</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations General Assembly</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resolution Adopted by the General Assembly: Transforming Our World: The 2030 Agenda for Sustainable Development A/RES/70/1</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United Nations</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>World Health Organisation, 2007</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>World Health Organisation</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global Age-friendly Cities: A Guide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2007</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organisation</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>World Health Organisation, Commission on the Social Determinants of Health, 2008</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>World Health Organisation, Commission on the Social Determinants of Health</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Closing the Gap in a Generation: Health Equity Through Action on the Social Determinants of Health. Final Report of the Commission on the Social Determinants of Health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organisation</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>World Health Organisation, UN Habitat, 2010</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>World Health Organisation, UN Habitat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hidden Cities: Unmasking and Overcoming Health Inequities in Urban Settings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organisation</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>Yoo and Kim, 2016</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yoo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Perceived urban neighborhood environment for physical activity of older adults in Seoul, Korea: a multimethod qualitative study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prev. Med.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.ypmed.2016.12.033</ce:doi>
+                        </sb:host>
+                        <sb:comment>[Epub ahead of print, this issue]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

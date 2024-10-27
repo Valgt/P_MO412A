@@ -1,0 +1,1284 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1877050923016526</prism:url><dc:identifier>doi:10.1016/j.procs.2023.10.494</dc:identifier><eid>1-s2.0-S1877050923016526</eid><prism:doi>10.1016/j.procs.2023.10.494</prism:doi><pii>S1877-0509(23)01652-6</pii><dc:title>Application of VMCM method to assess the implementation of Sustainable Development Goal 7 in EU countries </dc:title><prism:publicationName>Procedia Computer Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>18770509</prism:issn><prism:volume>225</prism:volume><prism:startingPage>4943</prism:startingPage><prism:endingPage>4951</prism:endingPage><prism:pageRange>4943-4951</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2023-12-31</prism:coverDate><prism:coverDisplayDate>2023</prism:coverDisplayDate><prism:copyright>© 2023 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><prism:issueName>27th International Conference on Knowledge Based and Intelligent Information and Engineering Sytems (KES 2023)</prism:issueName><dc:creator>Ogonowski, Piotr</dc:creator><dc:description>
+                  Everyday life and the workings of the economy depend on reliable and affordable energy services, such as electricity supply. Guaranteeing universal access to sustainable energy services is fundamental for socioeconomic development. This paper assessed the implementation of the sustainable development goal in the European Union countries in the seventh area "Affordable and clean energy" out of seventeen Sustainable Development Goals (SDG7) formulated in the document “Transforming our world: the 2030 Agenda for Sustainable Development”. To assess the implementation of the seventh objective, the VMCM method was used, which allows for the ranking and classification of objects described with many features as representing the dynamics of changes in the studied phenomenon. As a result, each EU country was assigned to one of four classes appointed by the level of goal achievement SDG7. The country with the highest value of level of goal were assigned to Class 1, while those measured the lowest were assigned to Class 4. It presented in dynamic perspective comparing changes over 9 years (since year 2012 to 2021).
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Sustainable Development Goals</dcterms:subject><dcterms:subject>Affordable and Clean Energy</dcterms:subject><dcterms:subject>Vector Measure Construction Methods (VMCM)</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1877050923016526" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1877050923016526" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="488571">https://api.elsevier.com/content/object/eid/1-s2.0-S1877050923016526-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85183533492</scopus-id><scopus-eid>2-s2.0-85183533492</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85183533492" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>280203</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291871</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia Computer Science</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIACOMPUTERSCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20231208">2023-12-08</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20231208">2023-12-08</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20231208">2023-12-08</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20231208">2023-12-08</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-03-02T12:00:23</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1877050923016526</xocs:eid>
+      <xocs:pii-formatted>S1877-0509(23)01652-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1877050923016526</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.procs.2023.10.494</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.6</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1877050923X0009X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240302">2024-03-02T12:48:00.759105Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20230101</xocs:date-search-begin>
+      <xocs:date-search-end>20231231</xocs:date-search-end>
+      <xocs:year-nav>2023</xocs:year-nav>
+      <xocs:indexeddate epoch="1702018081">2023-12-08T06:48:01.018594Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1877-0509</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18770509</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>225</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>225</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 225</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>513</xocs:sort-order>
+      <xocs:first-fp>4943</xocs:first-fp>
+      <xocs:last-lp>4951</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>4943</xocs:first-page>
+         <xocs:last-page>4951</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2023</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2023</xocs:cover-date-text>
+      <xocs:cover-date-start>2023-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2023-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2023</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title id="tt001">27th International Conference on Knowledge Based and Intelligent Information and Engineering Sytems (KES 2023)</ce:title>
+            <ce:editors>
+               <ce:author-group id="aag001">
+                  <ce:author author-id="S1877050923X0009X-f97752ab39e500f6fd9a61134563fca9" id="aa002">
+                     <ce:given-name>Robert</ce:given-name>
+                     <ce:surname>Howlett</ce:surname>
+                     <ce:degrees>Dr.</ce:degrees>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2023 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>APPLICATIONVMCMMETHODASSESSIMPLEMENTATIONSUSTAINABLEDEVELOPMENTGOAL7INEUCOUNTRIES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>OGONOWSKI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>CARADONNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SUSTAINABILITYAHISTORY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>MEADOWS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>LIMITSGROWTH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003"/>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>SCHLEICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>83</xocs:ref-first-fp>
+            <xocs:ref-last-lp>98</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>ARROW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>504</xocs:ref-first-fp>
+            <xocs:ref-last-lp>516</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>FLEURBAEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MEASURINGWELFAREASSESSINGSUSTAINABILITY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>COSTANZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>283</xocs:ref-first-fp>
+            <xocs:ref-last-lp>285</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008"/>
+         <xocs:ref-info refid="sbref0009"/>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>BEISHEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>32</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>MACFEELY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>65</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013"/>
+         <xocs:ref-info refid="sbref0014">
+            <xocs:ref-normalized-surname>JAHANSHAHLOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1137</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1142</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>JAHANSHAHLOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1375</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1384</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016">
+            <xocs:ref-normalized-surname>OPRICOVIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>455</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0017">
+            <xocs:ref-normalized-surname>OPRICOVIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0018">
+            <xocs:ref-normalized-surname>PIWOWARSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1683</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1692</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-normalized-surname>KASZTELAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>29THINTERNATIONALBUSINESSINFORMATIONMANAGEMENTASSOCIATION</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>USEHELLWIGSPATTERNMODELFOREVALUATIONGREENGROWTHINOECDCOUNTRIES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>PIWOWARSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2858</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0021">
+            <xocs:ref-normalized-surname>PIWOWARSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2404</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2413</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0022">
+            <xocs:ref-normalized-surname>OGONOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3182</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0023"/>
+         <xocs:ref-info refid="sbref0024">
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>NERMEND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>VECTORCALCULUSINREGIONALDEVELOPMENTANALYSISCOMPARATIVEREGIONALANALYSISUSINGEXAMPLEPOLAND</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0026">
+            <xocs:ref-normalized-surname>NERMEND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0027">
+            <xocs:ref-normalized-surname>NERMEND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>VECTORCALCULUSINREGIONALDEVELOPMENTANALYSISCOMPARATIVEREGIONALANALYSISUSINGEXAMPLEPOLAND</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0028">
+            <xocs:ref-normalized-surname>NERMEND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0029">
+            <xocs:ref-normalized-surname>NERMEND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>127</xocs:ref-first-fp>
+            <xocs:ref-last-lp>130</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>OGONOWSKIX2023X4943</xocs:refkey3>
+         <xocs:refkey4lp>OGONOWSKIX2023X4943X4951</xocs:refkey4lp>
+         <xocs:refkey4ai>OGONOWSKIX2023X4943XP</xocs:refkey4ai>
+         <xocs:refkey5>OGONOWSKIX2023X4943X4951XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2023-10-10T01:25:10Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2023 Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1877-0509(23)01652-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1877050923016526</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1877050923016526</xocs:eid>
+         <xocs:doi>10.1016/j.procs.2023.10.494</xocs:doi>
+         <xocs:cid>280203</xocs:cid>
+         <xocs:timestamp>2024-03-02T12:48:00.759105Z</xocs:timestamp>
+         <xocs:cover-date-start>2023-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2023-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1877050923016526-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877050923016526/MAIN/application/pdf/09e6cf23ffacab5ef666c9650ff2ff67/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>653567</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1877050923016526-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877050923016526/PREVIEW/image/png/f82cf890c40b860f67180f7aa3549dd7/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>46078</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1877050923016526-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10D8QL0M43H/MAIN/application/pdf/ad0ad909d23752f76adde440cded4c69/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>488571</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">ScienceDirect Available online at www.sciencedirect.com Procedia Computer Science 225 (2023) 4943â€“4951 1877-0509 Â© 2023 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 27th International Conference on Knowledge Based  and Intelligent Information and Engineering Systems 10.1016/j.procs.2023.10.494 10.1016/j.procs.2023.10.494 1877-0509 Â© 2023 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 27th International Conference on Knowledge Based and  Intelligent Information and Engineering Systems    Available online at www.sciencedirect.com  ScienceDirect  Procedia Computer Science 00 (2023) 000â€“000   www.elsevier.com/locate/procedia    1877-0509 Â© 2023 The Authors. Published by ELSEVIER B.V.   This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0)  Peer-review under responsibility of the scientific committee of KES International  27th International Conference on Knowledge-Based and Intelligent Information &amp; Engineering  Systems (KES 2023)  Application of VMCM method to assess the implementation of  Sustainable Development Goal 7 in EU countries  Piotr Ogonowski a*  a Institute Management, University of Szczecin, Cukrowa 8, 71 004 Szczecin, Poland   Abstract  Everyday life and the workings of the economy depend on reliable and affordable energy services, such as electricity  supply. Guaranteeing universal access to sustainable energy services is fundamental for socioeconomic development.  This paper assessed the implementation of the sustainable development goal in the European Union countries in the  seventh area "Affordable and clean energy" out of seventeen Sustainable Development Goals (SDG7) formulated in  the document â€œTransforming our world: the 2030 Agenda for Sustainable Developmentâ€�. To assess the  implementation of the seventh objective, the VMCM method was used, which allows for the ranking and classification  of objects described with many features as representing the dynamics of changes in the studied phenomenon. As a  result, each EU country was assigned to one of four classes appointed by the level of goal achievement SDG7. The  country with the highest value of level of goal were assigned to Class 1, while those measured the lowest were assigned  to Class 4. It presented in dynamic perspective comparing changes over 9 years (since year 2012 to 2021).        Â© 2023 The Authors. Published by ELSEVIER B.V.   This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0)  Peer-review under responsibility of the scientific committee of KES International  Keywords: Sustainable Development Goals, Affordable and Clean Energy, Vector Measure Construction Methods (VMCM)      * Corresponding author. Tel.: +0-000-000-0000 ; fax: +0-000-000-0000 .  E-mail address: piotr.ogonowski@usz.edu.pl    Available online at www.sciencedirect.com  ScienceDirect  Procedia Computer Science 00 (2023) 000â€“000   www.elsevier.com/locate/procedia    1877-0509 Â© 2023 The Authors. Published by ELSEVIER B.V.   This is an ope  acces  article under CC BY-NC-ND lic nse (https://cre tivecommons.org/licenses/by-nc-nd/4.0)  Peer-review under responsibility of the scientific committee of KES International  27th International Conference on Knowledge-Based and Intelligent Information &amp; Engineering  Systems (KES 2023)  Application of VMCM method to assess the implementation of  Sustainable Development Goal 7 in EU countries  Piotr Ogonowski a*  a Institute Management, University of Szczecin, Cukrowa 8, 71 004 Szczecin, Poland   Abstract  Everyday life and the workings of the economy depend on reliable and affordable energy services, such as lectricity  supply. Guaranteeing universal access to sustainable energy services is fundamental for socioeco mi  development.  This paper ssessed the implem ntation of the sustainable development goal in the Europe n Union countries in the  seventh area "Affordable and clean energy" out of seventeen Sustainable Development Goals (SDG7) formulated in  the document â€œTransforming our world: the 2030 Agenda for Sustainable Developmentâ€�. To assess the  implementation of the seventh obj ctiv , the VMCM method was used, whi  allows for the ranking and classification  of objects described with many features as representing the dynamics of c anges in the studied phenomenon. As a  result, each EU country was assign d to one of four classes appointed by the level of goal achievement SDG7. The  country with th  highest value of level of goal were assig ed to Class 1, while those measured the lowest were assigned  to Class 4. It presented in dynamic perspective comparing changes over 9 years (since year 2012 to 2021).      Â© 2023 The Authors. Published by ELSEVIER B.V.   This is an ope  acces  article under CC BY-NC-ND lic nse (https://cre tivecommons.org/licenses/by-nc-nd/4.0)  P er-review under r sponsibility of the scientific committee of KES International Keywords: Sustainable Development Goals, Affordable and Clean Energy, Vector Measure Construction Methods (VMCM)      * Corresponding author. Tel.: +0-000-000-0000 ; fax: +0-000-000-0000 .  E-mail address: piotr.ogonowski@usz.edu.pl  4944 Piotr Ogonowski  et al. / Procedia Computer Science 225 (2023) 4943â€“49512 Piotr Ogonowski/ Procedia Computer Science 00 (2023) 000â€“000  1. Introduction  At the turn of the 1970s and 1980s, the idea of sustainable development was born [1,2]. The concept of sustainable  development was first comprehensively described in the report 1987 entitled â€œOur Common Futureâ€�, developed by  the United Nations World Commission on Environment and Development, also referred to as â€œBrundtland  Commissionâ€�[3]. The main direction in the concept of sustainable development is the well-being of the current and  future generations [4-7], which is why this concept is the basis for estimating the level of human development in  various economies, as well as assessing the effectiveness of programs and development policies applied in them. At  the Sustainable Development Summit, which took place in 25 September 2015 in New York, during the plenary session  of the UN General Assembly, representatives of the governments of 193 member states reached an agreement on the  final document: "Transforming our world: The 2030 Agenda for Sustainable Development"[8]. It contains 17  Sustainable Development Goals (SDGs). and 169 tasks to eradicate poverty and build a more sustainable world over  the next dozen or so years. The SDGs address key systemic barriers to sustainable development such as inequality,  unsustainable consumption patterns, weak institutional capacity and environmental degradation [9]. SDGs are called  global goals and are treated as road signs valid until 2030 to lead all entities to a more prosperous, just and peaceful  world. Using the definition from the report of the Bruntland Commission [3], sustainable development in 2030, the  Agenda is understood as intergenerational solidarity consisting in finding such solutions that guarantee further growth,  which allow all social groups to be actively involved in development processes, while giving them the opportunity to  benefit from economic growth. To achieve sustainable development, therefore, the coherence of three key elements is  required: economic growth, social inclusion and environmental protection, which are interconnected and extremely  important for achieving the well-being of individuals and entire societies [10,11].  Since 2001, the European Union Strategy for Sustainable Development has been implemented. Sustainable  development has officially become one of the European Union's long-term objectives under Article 3(3) of the Treaty  on European Union. The European Union (EU) has fully committed itself to delivering on the 2030 Agenda, and the  SDGs form an intrinsic part of the European Commissionâ€™s work programme. The European Union countries have  adjusted the indicators for monitoring development progress, approved in May 2017, to the 17 SDGs.   Based on these indicators, a report was prepared in October 2017, which is the beginning of Eurostat's regular  monitoring of progress towards the Sustainable Development Goals in the context of the EU. The set of indicators  includes 100 indicators organized according to 17 Sustainable Development Goals, but for each of the SDGs, the  focus is on aspects relevant to the EU [12].  Monitoring is an essential component in realising the 2030 Agendaâ€™s vision, both globally and in the EU, by assessing  and visualising the progress made so far towards the 17 SDGs. Since 2017, Eurostat has been preparing annual reports  monitoring the progress towards the SDGs in the EU context.   The concept of sustainable development takes on special importance during the scarcity of fossil fuels and the  disruption of the global energy market caused by the Russian invasion of Ukraine. On 8 March 2022, the European  Commission proposed the outline of a plan to make Europe independent from Russian fossil fuels well before 2030,  in light of Russia's invasion of Ukraine [13]. There is a double urgency to transform Europe's energy system: ending  the EU's dependence on Russian fossil fuels, which are used as an economic and political weapon, and tackling the  climate crisis. Guaranteeing universal access to energy services is strategical for socioeconomic development. There  can be no sustainable development without universal access to affordable, reliable and sustainable energy. Sustainable  Development Goal 7 called â€žAffordable and clean energyâ€� calls for ensuring universal access to modern energy  services, improving energy efficiency and increasing the share of renewable Energy. In this context, of energy  transformation has unusual dimensions: legal and political, technological, economic and, above all, social.   Therefore, this problem should be treated as a multidimensional issues described by many indicators.  Multidimensional Comparative Analysis (MCA) is an adequate approach, which can have the possibility for an  objective with automated analysis and finding solutions for the problem under consideration. This group of methods  include also, for example: TOPSIS (The Technique for Order of Preference by Similarity to Ideal Solution) TOPSIS  [14-15], VIKOR (Vlse Kriterijumska Optimizacija Kompromisno Resenje) which means multicriteria optimization  and compromise solution, in Serbian [16-18], HELLWIG [19], and VMCM (Vector Measure Construction Methods)  [20-22].  The aim of the article is to examine the possibility of using and usefulness of the VMCM method to assess the  implementation of SDG 7 â€œAffordable and clean energyâ€�. The example used in this study concerns the assessment  of 28 EU countries in terms of Affordable and clean energy. The analysis with using VMCM method will be based   Piotr Ogonowski  et al. / Procedia Computer Science 225 (2023) 4943â€“4951 4945  Piotr Ogonowski/ Procedia Computer Science 00 (2019) 000â€“000  3  on the Eurostat database. Selected indicators of SDG 7 â€“ (affordable and clean energy) from the year 2012 - 2021  will be taken into account and analysed [23].  2. Materials and Methods  In this research the VMCM (Vector Measure Construction Method) method used was applied as a methodical tool  to assess Sustainable Development - Goal 7. A group of SDGs indicators obtained from the Eurostat database [23],  covering the time horizon of 2012-2021, was analyzed. They are related to the 7th Sustainable Development Goal in  the context of the EU. This group (one of seventeen) marked as "Affordable and clean energy" includes the following  indicators [24]:  x1 â€“ final energy consumption in households per capita (in KGOE - Kilogram of oil equivalent);  x2 â€“ energy productivity (ii Euro per kilogram of oil equivalent (KGOE));  x3 â€“ population unable to keep home adequately warm by poverty status (in %);  x4 â€“ renewable energy sources in heating and cooling (in %);  x5 â€“ renewable energy sources in transport (in %);  x6â€“ renewable energy sources in electricity (in %);  x7â€“ final energy consumption (in Million tonnes of oil equivalent);  x8â€“ primary energy consumption (in Million tonnes of oil equivalent);  x9â€“ energy import dependency by products (in %);  Analyzed countries (variants) were: Austria (AT), Belgium(BE), Bulgaria(BG), Croatia(HR), Cyprus(CY),  Czechia(CZ), Denmark(DK), Estonia(EE), Finland(FI), France(FR), Germany(DE), Greece(EL), Hungary(HU),  Ireland(IE), Italy(IT), Iceland(IS), Latvia(LV), Lithuania(LT), Luxembourg(LU), Malta(MT), Netherlands(NL),  Norway(NO), Poland(PL), Portugal(PT) Romania(RO), Slovakia(SK), Slovenia(SI), Spain(ES), Sweden(SE). Data  referred to the year 2012-2021 and were obtained from the Eurostat database.  2.1. Vector Measure Construction Method  The VMCM method utilizes the vector calculus properties in order to build vector synthetic measure (basing on  the definition of the scalar product) [25]. Such an approach enables for making ranking, classification of objects and  study of change dynamics. The procedure of VMCM comprises 8 stages [26]:  Stage 1-2. Selection and elimination of variables   In the paper the diagnostic variables was selected as expert judgment (substantive) method. Elimination of variables  is carried out by using significance coefficient of features [27-29]:  i i x x V i ï�³ï€½  ,   (1)  where:   ix â€“ i-th variable,  iï�³ â€“ standard deviation of the i-th variable,  ix â€“ mean value of the i-th variable,  whereas:  n x x n j j i i ïƒ¥ ï€½ï€½ 1  ,   (2)  and  4946 Piotr Ogonowski  et al. / Procedia Computer Science 225 (2023) 4943â€“4951 4 Piotr Ogonowski/ Procedia Computer Science 00 (2023) 000â€“000  1 2 1 ï€­ ïƒ· ïƒ¸ ïƒ¶ ïƒ§ ïƒ¨ ïƒ¦ ï€­ ï€½ ïƒ¥ ï€½ n xx n j i j i iï�³   .   (3)  The significance coefficient values of the variables must be within the range &lt;0;0,1&gt; the variable which is outside  of this range should be eliminated from the set of diagnostic variables [27-29].  Stage 3. Defining the diagnostic variables character  The diagnostic variables character may have: (stimulants, destimulants and nominants). Stimulants are such  variables, which greater values mean the higher level of development of complex socio-economic studied process. In  the research the variables which has stimulants character are: x1 â€“ final energy consumption in households per capita;  x2 â€“ energy productivity; x4 â€“ renewable energy sources in heating and cooling; x5 â€“ renewable energy sources in  transport; x6â€“ renewable energy sources in electricity; x7â€“ final energy consumption;  Destimulants are such variables which smaller values mean the higher level of development of complex socio- economic studied process. In the research x3 â€“ population unable to keep home adequately warm by poverty status ;  x8â€“ primary energy consumption; x9â€“ energy import dependency by products has destimulant character.     While nominants are such variables, which desired values are within a specific range.  Stage 4. Defining the diagnostic variables weight  In the research problem such of variables was non-statistical information used, in which the weights are usually  determined by the expert assessment method, they are so-called substantive weights.  Stage 5. Normalization of variables  The variables can occur in the data base in different units of measure, which additionally hinder any arithmetic  operations. Therefore, the next stage in the construction of the measure of development is normalizing variables. In  the research the variables was normalized according of formula:    ?Ì�?ï¿½ï¿½ = ï¿½ï¿½ ï¿½ï¿½ ,   (4)  ð�‘Žï¿½ = ð�‘¥ï¿½ï¿½ âˆ’ ?Ì…?,   (5)  Stage 6. Determination of pattern and anti-pattern  In the research the pattern and anti-pattern was automatically determined. For the variables which has stimulant  character the pattern was constructed based on the first quartiles and third quartile for variable values which have  destimulants character. For the anti-pattern was third quartile for variable values which have stimulants and first  quartiles for destimulans.  Stage 7-8. Construction of the aggregate measure and Classification of objects  The last two stages of the VMCM method is construction of the aggregate measure and classification of objects. The  value of the aggregate measure is within the range from zero to one. The aggregate measure value equal to zero for  anti-pattern and value equal to one for the pattern. The object's which have the value of measure more than one are  better than the pattern. Objects that are worse than the anti-pattern will have a negative value of measure. In order to  better visualize the results of calculations, objects can be divided into classes with similar measurement values. In the  research we have four class: class number I is for best object, class II for a good object, class III is for object which  have mean value of the aggregate measure and class IV for the lowest value of the aggregate measure.   Piotr Ogonowski  et al. / Procedia Computer Science 225 (2023) 4943â€“4951 4947  Piotr Ogonowski/ Procedia Computer Science 00 (2019) 000â€“000  5  3. Results and discussion   Experiment - estimation of the implementation of SDG 7 Affordable and Clean Energy on the example of ranking  of 29 EU countries  The study used data from the Eurostat database to estimate the of the implementation of SDG 7 Affordable and  Clean Energy. As the case study in the paper assessed of the SDG 7 was made according to nine indicators: x1 â€“ final  energy consumption in households per capita; x2 â€“ energy productivity; x3 â€“ population unable to keep home  adequately warm by poverty status; x4 â€“ renewable energy sources in heating and cooling; x5 â€“ renewable energy  sources in transport; x6 â€“ renewable energy sources in electricity; x7 â€“ final energy consumption; x8 â€“ primary energy  consumption; x9 â€“ energy import dependency by products. All nine indicators were collected from Eurostat, for the  analysis. In the analysis ware included 27 countries from European Union and two which are not from EU but are in  Schengen zone (Norway and Iceland). Longitudinal data also from 9 years (2012 â€“ 2021) was analyzed, which allows  to answer the question, whether of the implementation of SDG 7 is changing over time.                            Fig. 1 Result of ranking the first class of EU countries, for the data from (2012-2021) year, in terms realization of SDG 7 with the use of  VMCM  From the figure 1, it can be concluded that the situation in Norway (NO) end Iceland (IS) in terms of development,  the implementation of SDG 7 has been stable since, because since 2015 they have been in the top position in the  ranking among 29 given analyzes of EU countries in first class among the best. In 2014 Norway's position dropped in  the ranking from first place to secend but only for a year. This change results from the fact that of indicator x1 - final  energy consumption in households per capita of the nature of stimulants decreased end Sweden there was a one-off  increase of 50%. The highest class 1 is observed in 5 EU countries: Norway, Sweden, Denmark, Iceland, Austria.                            Fig. 2. Result of ranking the second class of EU countries, for the data from (2012-2021) year, in terms realization of SDG 7 with the use of  VMCM.  2,5 3 3,5 4 4,5 5 5,5 6 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 M ea su re Sweden Norway Austria Iceland Denmark 0,5 1 1,5 2 2,5 3 3,5 4 4,5 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 M ea su re Finland Germany France Luxembourg Ireland Latvia Italy Slovenia 4948 Piotr Ogonowski  et al. / Procedia Computer Science 225 (2023) 4943â€“49516 Piotr Ogonowski/ Procedia Computer Science 00 (2023) 000â€“000  From the second graphs it can be concluded that the situation in the second class is stable, most of the objects have  not changed their position in the ranking except Finland. In 2013-2017 Finland increased position in the ranking from  second class to first class among the best. This change in results is may be due to the fact that the percentage of x4 â€“  renewable energy sources in heating and cooling (in %) having the stimulants character, increased. Moreover, of 2017  the values of variable, x9 â€“ energy import dependency by products, having the destimulants character, increased. The  position of Finland in the ranking decreased (2017-2021) to the second class.                                  Fig. 3. Result of ranking the third class of EU countries, for the data from (2012-2021) year, in terms realization of SDG 7 with the use of  VMCM.  From the third graph it can be concluded that the situation in the third class is stable, most of the objects have not  changed their position in the ranking. In 2019-2021, a slight increase in Estonia can be noticed. This change in results  is may be due to the fact that the percentage of x5 â€“ renewable energy sources in transport (in %) having the stimulants  character, increased about 95%. Detailed data in this respect are presented in Graph 3.                                  Fig. 4. Result of ranking the fourth class of EU countries, for the data from (2012-2021) year, in terms realization of SDG 7 with the use of  VMCM.  In class 4 are four EU countries: Cyprus, Bulgaria, Marta and Greece illustrated in graph 4. Form the figure 4 it can  be concluded that the value of the aggregate measure for Bulgaria is decreased. This fact may be due to the high level  he percentage of x3 â€“ population unable to keep home adequately warm by poverty status (29th position in 2012- 2021). Detailed data in this respect are presented in graph 4.  0 0,5 1 1,5 2 2,5 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 M ea su re Netherlands Belgium Czechia Croatia Estonia Hungary Romania Poland Slovakia Spain Portugal Lithuania -1,2 -1 -0,8 -0,6 -0,4 -0,2 0 0,2 0,4 0,6 0,8 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 M ea su re Greece Cyprus Malta Bulgaria  Piotr Ogonowski  et al. / Procedia Computer Science 225 (2023) 4943â€“4951 4949 Piotr Ogonowski/ Procedia Computer Science 00 (2019) 000â€“000  7                                  Fig. 5 (a) and (b). Result of ranking the first and second class of UE countries, for the data from (2012-2021) year, in terms of the dynamics of  realization of SDG 7 with the use of VMCM                                    Fig. 6 (a) and (b). Result of ranking the third and fourth class of UE countries, for the data from (2012-2021) year, in terms of the dynamics of  realization of SDG 7 with the use of VMCM  Figures 5 and 6 present the results of the dynamics of realization of SDG 7 in 29 European countries. As a reference  point was artificial pattern based on the data from 2012. Form the figures it can be concluded the goal achievement in  each countries has tends to increase. Figure 5a and 5b shows that Finland, Norway and Sweden has the highest  dynamics of realization of SDG 7 compared to 2012 year.  4. Conclusions  Energy is one of important elements of socio-economic development, and its availability has a significant impact on  improving the quality of life. Energy enables the smooth functioning of all economic sectors, from micro-enterprises  to large business, from agriculture to mining, manufacturing, construction and services. SDG 7 calls for ensuring  universal access to modern energy services, improving energy efficiency and increasing the share of renewable energy.   To assess the complex socio-economic issue described by many indicators usually we use the multidimensional  comparative analysis method. The VMCM method, as other multi-criteria methods, makes it possible to evaluate  3 4 5 6 7 8 9 10 20 12 20 13 20 14 20 15 20 16 20 17 20 18 20 19 20 20 20 21 M ea su re Sweden Norway Austria Iceland Denmark 1 2 3 4 5 6 7 20 12 20 13 20 14 20 15 20 16 20 17 20 18 20 19 20 20 20 21 M ea su re Finland Germany France Luxembourg Ireland Latvia Italy Slovenia a) b)  -1,5 -1 -0,5 0 0,5 1 1,5 2 2,5 20 12 20 13 20 14 20 15 20 16 20 17 20 18 20 19 20 20 20 21 M ea su re Greece Cyprus Malta Bulgaria b) 0,5 1 1,5 2 2,5 3 3,5 4 4,5 20 12 20 13 20 14 20 15 20 16 20 17 20 18 20 19 20 20 20 21 M ea su re Netherlands Belgium Czechia Croatia Estonia Hungary Romania Poland Slovakia Spain Portugal Lithuania a)  4950 Piotr Ogonowski  et al. / Procedia Computer Science 225 (2023) 4943â€“49518 Piotr Ogonowski/ Procedia Computer Science 00 (2023) 000â€“000  variants based on defined criteria and conduct a ranking process. In the experiment, the Vector Measure Construction  Methods will be used to assess the realization of SDG7 for the European Union countries. In the analysis ware included  29 countries from European countries. The study used data from the Eurostat database to estimate the of the  implementation of SDG 7 â€“ (affordable and clean energy). Longitudinal data from 9 years (2012 â€“ 2021) was analysed,  which allows to answer the question, whether of the implementation of SDG 7 is changing over time. In order to  assess the of the implementation of SDG 7 of the European Union countries, studies were conducted based on 9  selected indicators.   Research has shown in terms of the implementation of SDG 7 indicators, Norway, Sweden, Denmark, Iceland,  Austria with the highest value of the aggregate measurements and were in the first class. In 2014 Norway's position  dropped in the ranking from first place to secend but only for a year. This change results from the fact that of indicator  x1 - final energy consumption in households per capita of the nature of stimulants decreased and Sweden there was a  one-off increase of 50%. In additional it can be concluded that the situation has changed in the second class, in 2013- 2017. Finland increased position in the ranking from second class to first class among the best. This change in results  is may be due to the fact that the percentage of x4 â€“ renewable energy sources in heating and cooling (in %) having  the stimulants character, increased. Whereas of 2017 the values of variable, x9 â€“ energy import dependency by  products, having the destimulants character, increased. The position of Finland in the ranking decreased (2017-2021)  to the second class. In 2019-2021, in the third class, a slight increase Estonia can be noticed. This change in results is  may be due to the fact that the percentage of x5 â€“ renewable energy sources in transport, (in %) having the stimulants  character, increased about 95%. An additional it can be concluded that in class 4 the value of the aggregate measure  for Bulgaria is decreased. This fact may be due to the high level he percentage of x3 â€“ population unable to keep home  adequately warm by poverty status (29 th position in 2012-2021).  The goal-level assessment of SDG 7 â€“ (affordable and clean energy) is strongly influenced by the measures taken  in response to the COVID-19 pandemic and the related restrictions (schools, cinemas, shopping centers closed) on  public life and lower economic activity. In contrast, the Russian-Western standoff due to the invasion of Ukraine has  produced an unprecedented increase in energy prices, especially in Europe. It is important to note that the increase in  energy prices already observed in 2021 is not yet reflected in these data the Eurostat.  The results of the analysis showed that applying VMCM method to assess the of the implementation SDG 7 is very  useful and provides better understanding of multidimensional data.  References  [1] Caradonna, J. L. (2014). Sustainability: A history. New York: Oxford University Press.  [2] Meadows DH, Meadows DL, Randers J, Behrens, (1972) The limits to growth. Universe Books, New York,   [3] Report of the World Commission on Environment and Development: Our Common Future, (1987),  https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf, (accessed on 26 April 2023).  [4] Schleicher, J.; Schaafsma, M.; Burgess, N. D.; Sandbrook, C.; Danks, F.; Cowie, C.; Vira, B. ( 2018) â€œPoorer without It? The Neglected Role  of the Natural Environment in Poverty and Wellbeingâ€�. Sustainable Development, 26, 83â€“98, doi:10.1002/sd.1692.  [5] Arrow, K. J.; Dasgupta, P.; Goulder, L. H.; Mumford, K. J.; Oleson, K. (2013) Sustainability and the measurement of wealth: further  reflections. Environment and Development Economics, 18, 504â€“516, doi:10.1017/S1355770X13000193.  [6] Fleurbaey, M.; Blanchet, D. Beyond GDP: Measuring Welfare and Assessing Sustainability; Oxford University Press, 2013; ISBN 978-0-19- 976719-9.  [7] Costanza, R.; Kubiszewski, I.; Giovannini, E.; Lovins, H.; McGlade, J.; Pickett, K. E.; RagnarsdÃ³ttir, K. V.; Roberts, D.; De Vogli, R.;  Wilkinson, R. (2014) Development: Time to leave GDP behind. Nature, 505, 283â€“285, doi:10.1038/505283a.  [8] Agenda: Transforming our world: the 2030 Agenda for Sustainable Development,  https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf, (accessed on 20  April 2023).  [9] UNESCO, Education for Sustainable Development Goals: learning objectives 2017, https://unesdoc.unesco.org/ark:/48223/pf0000247444,  (accessed on 20 April 2023).  [10] Beisheim, M.; LÃ¸kken, H.; aus dem Moore, N.; PintÃ©r, L.; Rickels, W. (2015) Measuring Sustainable Development: How can Science  Contribute to Realizing the SDGs?; SWP: Berlin, pp. 1â€“32;.  [11] MacFeely, S.( 2017) Measuring the Sustainable Development Goals: What does it mean for Ireland? Administration, 65, doi:10.1515/admin- 2017-0033.  [12] Sustainable development in the European Union: monitoring report on progress towards the SDGs in an EU context. Sustainable development  in the European Union 2017.  [13] REPowerEU: Joint European action for more affordable, secure and sustainable Energy,  https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1511, (accessed on 20 May 2023).  [14]  Jahanshahloo G. R., Lotfi F.H., Davoodi A.R. (2009) "Extension of TOPSIS for decision-making problems with interval data: Interval  efficiency", Mathematical and Computer Modelling, 49(5â€“6):1137â€“1142.   Piotr Ogonowski  et al. / Procedia Computer Science 225 (2023) 4943â€“4951 4951  Piotr Ogonowski/ Procedia Computer Science 00 (2019) 000â€“000  9  [15] Jahanshahloo G. R., Lotfi F.H., Izadikhah M. (2006) "An algorithmic method to extend TOPSIS for decision-making problems with interval  data", Applied Mathematics and Computation, 175(2):1375â€“1384.  [16] Opricovic S. Tzeng G. H. (2004) "Compromise solution by MCDM methods: A comparative analysis of VIKOR and TOPSIS", European  Journal of Operational Research, 156(2): 445â€“455.  [17] Opricovic S. (1982) "Multicriteria Optimization of Civil Engineering Systems", Faculty of Civil Engineering, Belgrade, 2(5):21.  [18] Piwowarski M., MiÅ‚aszewicz D., Å�atuszyÅ„ska M., Borawski M., Nermend K. (2018) TOPSIS and VIKOR methods in study of sustainable  development in the EU countries, Procedia Computer Science,126:1683-1692.  [19] Kasztelan A. (2017) The Use of the Hellwigâ€™s Pattern Model for the Evaluation Of Green Growth in OECD Countries, 29th International- Business-Information-Management-Association, At Vienna, Austria.  [20] Piwowarski M., MiÅ‚aszewicz D., Å�atuszyÅ„ska M., Borawski M., Nermend K. (2018) Application of the Vector Measure Construction  Method and Technique for Order Preference by Similarity Ideal Solution for the Analysis of the Dynamics of Changes in the Poverty Levels  in the European Union Countries, Sustainability, 10 (8), 2858.  [21] Piwowarski M., Maison D., WÄ…trÃ³bski J. (2019) Application of VMCM method (Vector Measure Construction Methods) to estimate  consumerâ€™s quality of life in EU countries â€“ dynamic perspective, Procedia Computer Science, 159: 2404â€“2413.  [22] Ogonowski P. ( 2020) Application of VMCM, to investigate, the dynamics of changes information society development Procedia Computer  Science, 176: 3182-3190.  [23] Sustainable development indicators, https://ec.europa.eu/eurostat/web/sdi/database-tbd, (accessed on 20 April 2023).  [24] Sustainable development in the European Union: monitoring report on progress towards the SDGs in an EU context. Sustainable development  in the European Union 2023, https://ec.europa.eu/eurostat/web/products-flagship-publications/w/ks-04-23-184, (accessed on 19 May 2023).  [25] Nermend K. (2009) "Vector Calculus in Regional Development Analysis. Comparative Regional Analysis Using the Example of Poland",  Berlin Heidelberg: Springer.ff  [26] Nermend K. (2017) "Metody analizy wielokryterialnej i wielowymiarowej we wspomaganiu decyzji" (in Polish), Wydawnictwo Naukowe  PWN, Warszawa.  [27] Nermend K. (2009) "Vector Calculus in Regional Development Analysis. Comparative Regional Analysis Using the Example of Poland",  Berlin Heidelberg: Springer.  [28] Nermend K. (2017) "Metody analizy wielokryterialnej i wielowymiarowej we wspomaganiu decyzji" (in Polish), Wydawnictwo Naukowe  PWN, Warszawa.   [29] Nermend K. (2006) "A synthetic measure of sea environment pollution", Polish Journal of Environmental Studies, 15(4b):127â€“130    2023).  [9] UNESCO, Education for Sustainable Development Goals: learning objectives 2017, https://unesdoc.unesco.org/ark:/48223/pf0000247444,  (accessed on 20 April 2023).  [10] Beisheim, M.; LÃ¸kken, H.; aus dem Moore, N.; PintÃ©r, L.; Rickels, W. (2015) Measuring Sustainable Development: How can Science  Contribute to Realizing the SDGs?; SWP: Berlin, pp. 1â€“32;.  [11] MacFeely, S.( 2017) Measuring the Sustainable Development Goals: What does it mean for Ireland? Administration, 65, doi:10.1515/admin- 2017-0033.  [12] Sustainable development in the European Union: monitoring report on progress towards the SDGs in an EU context. Sustainable development  in the European Union 2017.  [13] REPowerEU: Joint European action for more affordable, secure and sustainable Energy,  https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1511, (accessed on 20 May 2023).  [14]  Jahanshahloo G. R., Lotfi F.H., Davoodi A.R. (2009) "Extension of TOPSIS for decision-making problems with interval data: Interval  efficiency", Mathematical and Computer Modelling, 49(5â€“6):1137â€“1142.   Piotr Ogonowski  et al. / Procedia Computer Science 225 (2023) 4943â€“4951 4951  Piotr Ogonowski/ Procedia Computer Science 00 (2019) 000â€“000  9  [15] Jahanshahloo G. R., Lotfi F.H., Izadikhah M. (2006) "An algorithmic method to extend TOPSIS for decision-making problems with interval  data", Applied Mathematics and Computation, 175(2):1375â€“1384.  [16] Opricovic S. Tzeng G. H. (2004) "Compromise solution by MCDM methods: A comparative analysis of VIKOR and TOPSIS", European  Journal of Operational Research, 156(2): 445â€“455.  [17] Opricovic S. (1982) "Multicriteria Optimization of Civil Engineering Systems", Faculty of Civil Engineering, Belgrade, 2(5):21.  [18] Piwowarski M., MiÅ‚aszewicz D., Å�atuszyÅ„ska M., Borawski M., Nermend K. (2018) TOPSIS and VIKOR methods in study of sustainable  development in the EU countries, Procedia Computer Science,126:1683-1692.  [19] Kasztelan A. (2017) The Use of the Hellwigâ€™s Pattern Model for the Evaluation Of Green Growth in OECD Countries, 29th International- Business-Information-Management-Association, At Vienna, Austria.  [20] Piwowarski M., MiÅ‚aszewicz D., Å�atuszyÅ„ska M., Borawski M., Nermend K. (2018) Application of the Vector Measure Construction  Method and Technique for Order Preference by Similarity Ideal Solution for the Analysis of the Dynamics of Changes in the Poverty Levels  in the European Union Countries, Sustainability, 10 (8), 2858.  [21] Piwowarski M., Maison D., WÄ…trÃ³bski J. (2019) Application of VMCM method (Vector Measure Construction Methods) to estimate  consumerâ€™s quality of life in EU countries â€“ dynamic perspective, Procedia Computer Science, 159: 2404â€“2413.  [22] Ogonowski P. ( 2020) Application of VMCM, to investigate, the dynamics of changes information society development Procedia Computer  Science, 176: 3182-3190.  [23] Sustainable development indicators, https://ec.europa.eu/eurostat/web/sdi/database-tbd, (accessed on 20 April 2023).  [24] Sustainable development in the European Union: monitoring report on progress towards the SDGs in an EU context. Sustainable development  in the European Union 2023, https://ec.europa.eu/eurostat/web/products-flagship-pu</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>PROCS</jid>
+            <aid>45701</aid>
+            <ce:pii>S1877-0509(23)01652-6</ce:pii>
+            <ce:doi>10.1016/j.procs.2023.10.494</ce:doi>
+            <ce:copyright type="unknown" year="2023"/>
+         </item-info>
+         <head>
+            <ce:title id="tte0002">Application of VMCM method to assess the implementation of Sustainable Development Goal 7 in EU countries</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S1877050923016526-8897193ed37a61318d7da8ecc4b0eb2e">
+                  <ce:given-name>Piotr</ce:given-name>
+                  <ce:surname>Ogonowski</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S1877050923016526-536974850ba3fdb86bfd177b09c0e757">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">Institute Management, University of Szczecin, Cukrowa 8, 71 004 Szczecin, Poland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute Management</sa:organization>
+                     <sa:organization>University of Szczecin</sa:organization>
+                     <sa:address-line>Cukrowa 8</sa:address-line>
+                     <sa:city>Szczecin</sa:city>
+                     <sa:postal-code>71 004</sa:postal-code>
+                     <sa:country>Poland</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">aInstitute Management, University of Szczecin, Cukrowa 8, 71 004 Szczecin, Poland</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="3" month="1" year="2022"/>
+            <ce:date-revised day="10" month="6" year="2022"/>
+            <ce:date-accepted day="12" month="6" year="2022"/>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara001" view="all">Everyday life and the workings of the economy depend on reliable and affordable energy services, such as electricity supply. Guaranteeing universal access to sustainable energy services is fundamental for socioeconomic development. This paper assessed the implementation of the sustainable development goal in the European Union countries in the seventh area "Affordable and clean energy" out of seventeen Sustainable Development Goals (SDG7) formulated in the document “Transforming our world: the 2030 Agenda for Sustainable Development”. To assess the implementation of the seventh objective, the VMCM method was used, which allows for the ranking and classification of objects described with many features as representing the dynamics of changes in the studied phenomenon. As a result, each EU country was assigned to one of four classes appointed by the level of goal achievement SDG7. The country with the highest value of level of goal were assigned to Class 1, while those measured the lowest were assigned to Class 4. It presented in dynamic perspective comparing changes over 9 years (since year 2012 to 2021).</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0001">Sustainable Development Goals</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0002">Affordable and Clean Energy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0003">Vector Measure Construction Methods (VMCM)</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0003">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Caradonna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainability: A history</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oxford University Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">Caradonna, J. L. (2014). Sustainability: A history. New York: Oxford University Press.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DH</ce:given-name>
+                                 <ce:surname>Meadows</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DL</ce:given-name>
+                                 <ce:surname>Meadows</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Randers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Behrens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The limits to growth</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Universe Books</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">Meadows DH, Meadows DL, Randers J, Behrens, (1972) The limits to growth. Universe Books, New York,</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="sbref0003">
+                        <ce:textref>Report of the World Commission on Environment and Development: Our Common Future, (1987), <ce:inter-ref id="interref0001" xlink:href="https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf" xlink:type="simple">https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf</ce:inter-ref>, (accessed on 26 April 2023).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schleicher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Schaafsma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Burgess</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sandbrook</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Danks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Cowie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Vira</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Poorer without It? The Neglected Role of the Natural Environment in Poverty and Wellbeing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainable Development</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>83</sb:first-page>
+                              <sb:last-page>98</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/sd.1692</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">Schleicher, J.; Schaafsma, M.; Burgess, N. D.; Sandbrook, C.; Danks, F.; Cowie, C.; Vira, B. (2018) “Poorer without It? The Neglected Role of the Natural Environment in Poverty and Wellbeing”. Sustainable Development, 26, 83–98, doi:10.1002/sd.1692.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Arrow</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dasgupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Goulder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Mumford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Oleson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainability and the measurement of wealth: further reflections</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environment and Development Economics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>504</sb:first-page>
+                              <sb:last-page>516</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1017/S1355770X13000193</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">Arrow, K. J.; Dasgupta, P.; Goulder, L. H.; Mumford, K. J.; Oleson, K. (2013) Sustainability and the measurement of wealth: further reflections. Environment and Development Economics, 18, 504–516, doi:10.1017/S1355770X13000193.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fleurbaey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Blanchet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>GDP</ce:given-name>
+                                 <ce:surname>Beyond</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring Welfare and Assessing Sustainability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oxford University Press</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ISBN 978-0-19-976719-9</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Fleurbaey, M.; Blanchet, D. Beyond GDP: Measuring Welfare and Assessing Sustainability; Oxford University Press, 2013; ISBN 978-0-19-976719-9.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Costanza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kubiszewski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Giovannini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lovins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>McGlade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Pickett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.V.</ce:given-name>
+                                 <ce:surname>Ragnarsdóttir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>De Vogli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wilkinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development: Time to leave GDP behind</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>505</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>283</sb:first-page>
+                              <sb:last-page>285</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/505283a</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">Costanza, R.; Kubiszewski, I.; Giovannini, E.; Lovins, H.; McGlade, J.; Pickett, K. E.; Ragnarsdóttir, K. V.; Roberts, D.; De Vogli, R.; Wilkinson, R. (2014) Development: Time to leave GDP behind. Nature, 505, 283–285, doi:10.1038/505283a.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="sbref0008">
+                        <ce:textref>Agenda: Transforming our world: the 2030 Agenda for Sustainable Development, <ce:inter-ref id="interref0002" xlink:href="https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf" xlink:type="simple">https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_RES_70_1_E.pdf</ce:inter-ref>, (accessed on 20 April 2023).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="sbref0009">
+                        <ce:textref>UNESCO, Education for Sustainable Development Goals: learning objectives 2017, <ce:inter-ref id="interref0003" xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000247444" xlink:type="simple">https://unesdoc.unesco.org/ark:/48223/pf0000247444</ce:inter-ref>, (accessed on 20 April 2023).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Beisheim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Løkken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>aus dem Moore</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Pintér</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Rickels</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring Sustainable Development: How can Science Contribute to Realizing the SDGs?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>SWP</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>32</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">Beisheim, M.; Løkken, H.; aus dem Moore, N.; Pintér, L.; Rickels, W. (2015) Measuring Sustainable Development: How can Science Contribute to Realizing the SDGs?; SWP: Berlin, pp. 1–32;.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>MacFeely</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring the Sustainable Development Goals: What does it mean for Ireland?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Administration</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>65</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1515/admin-2017-0033</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">MacFeely, S.(2017) Measuring the Sustainable Development Goals: What does it mean for Ireland?Administration, 65, doi:10.1515/admin-2017-0033.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Sustainable development in the European Union: monitoring report on progress towards the SDGs in an EU context</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainable development in the European Union</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">Sustainable development in the European Union: monitoring report on progress towards the SDGs in an EU context. Sustainable development in the European Union2017.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="sbref0013">
+                        <ce:textref>REPowerEU: Joint European action for more affordable, secure and sustainable Energy, <ce:inter-ref id="interref0004" xlink:href="https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1511" xlink:type="simple">https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1511</ce:inter-ref>, (accessed on 20 May 2023).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Jahanshahloo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Lotfi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Davoodi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Extension of TOPSIS for decision-making problems with interval data: Interval efficiency</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mathematical and Computer Modelling</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5–6</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1137</sb:first-page>
+                              <sb:last-page>1142</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0014">Jahanshahloo G. R., Lotfi F.H., Davoodi A.R. (2009) "Extension of TOPSIS for decision-making problems with interval data: Interval efficiency", Mathematical and Computer Modelling, 49(5–6):1137–1142.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Jahanshahloo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Lotfi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Izadikhah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An algorithmic method to extend TOPSIS for decision-making problems with interval data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Applied Mathematics and Computation</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1375</sb:first-page>
+                              <sb:last-page>1384</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0015">Jahanshahloo G. R., Lotfi F.H., Izadikhah M. (2006) "An algorithmic method to extend TOPSIS for decision-making problems with interval data", Applied Mathematics and Computation, 175(2):1375–1384.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0016">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Opricovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Tzeng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Compromise solution by MCDM methods: A comparative analysis of VIKOR and TOPSIS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>European Journal of Operational Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                              <sb:last-page>455</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0016">Opricovic S. Tzeng G. H. (2004) "Compromise solution by MCDM methods: A comparative analysis of VIKOR and TOPSIS", European Journal of Operational Research, 156(2): 445–455.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Opricovic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multicriteria Optimization of Civil Engineering Systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Faculty of Civil Engineering</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0017">Opricovic S. (1982) "Multicriteria Optimization of Civil Engineering Systems", Faculty of Civil Engineering, Belgrade, 2(5):21.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Piwowarski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Miłaszewicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Łatuszyńska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Borawski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nermend</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>TOPSIS and VIKOR methods in study of sustainable development in the EU countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Procedia Computer Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1683</sb:first-page>
+                              <sb:last-page>1692</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0018">Piwowarski M., Miłaszewicz D., Łatuszyńska M., Borawski M., Nermend K. (2018) TOPSIS and VIKOR methods in study of sustainable development in the EU countries, Procedia Computer Science,126:1683-1692.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kasztelan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Use of the Hellwig's Pattern Model for the Evaluation Of Green Growth in OECD Countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>29th International-Business-Information-Management-Association</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name> </sb:name>
+                                 <sb:location>At Vienna, Austria</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0019">Kasztelan A. (2017) The Use of the Hellwig's Pattern Model for the Evaluation Of Green Growth in OECD Countries, 29th International-Business-Information-Management-Association, At Vienna, Austria.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Piwowarski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Miłaszewicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Łatuszyńska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Borawski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nermend</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of the Vector Measure Construction Method and Technique for Order Preference by Similarity Ideal Solution for the Analysis of the Dynamics of Changes in the Poverty Levels in the European Union Countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2858</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0020">Piwowarski M., Miłaszewicz D., Łatuszyńska M., Borawski M., Nermend K. (2018) Application of the Vector Measure Construction Method and Technique for Order Preference by Similarity Ideal Solution for the Analysis of the Dynamics of Changes in the Poverty Levels in the European Union Countries, Sustainability, 10 (8), 2858.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0021">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Piwowarski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Maison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wątróbski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of VMCM method (Vector Measure Construction Methods) to estimate consumer's quality of life in EU countries – dynamic perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Procedia Computer Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>159</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2404</sb:first-page>
+                              <sb:last-page>2413</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0021">Piwowarski M., Maison D., Wątróbski J. (2019) Application of VMCM method (Vector Measure Construction Methods) to estimate consumer's quality of life in EU countries – dynamic perspective, Procedia Computer Science, 159: 2404–2413.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0022">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0022">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ogonowski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of VMCM, to investigate, the dynamics of changes information society development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Procedia Computer Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>176</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3182</sb:first-page>
+                              <sb:last-page>3190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0022">Ogonowski P. (2020) Application of VMCM, to investigate, the dynamics of changes information society developmentProcedia Computer Science, 176: 3182-3190.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0023">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref id="sbref0023">
+                        <ce:textref>Sustainable development indicators, <ce:inter-ref id="interref0005" xlink:href="https://ec.europa.eu/eurostat/web/sdi/database-tbd" xlink:type="simple">https://ec.europa.eu/eurostat/web/sdi/database-tbd</ce:inter-ref>, (accessed on 20 April 2023).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0024">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0024">
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Sustainable development in the European Union: monitoring report on progress towards the SDGs in an EU context</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainable development in the European Union</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0006" xlink:href="https://ec.europa.eu/eurostat/web/products-flagship-publications/w/ks-04-23-184" xlink:type="simple">https://ec.europa.eu/eurostat/web/products-flagship-publications/w/ks-04-23-184</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>accessed on 19 May 2023</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0024">Sustainable development in the European Union: monitoring report on progress towards the SDGs in an EU context. Sustainable development in the European Union2023, https://ec.europa.eu/eurostat/web/products-flagship-publications/w/ks-04-23-184, (accessed on 19 May 2023).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nermend</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Vector Calculus in Regional Development Analysis. Comparative Regional Analysis Using the Example of Poland</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin Heidelberg</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>ff</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0025">Nermend K. (2009) "Vector Calculus in Regional Development Analysis. Comparative Regional Analysis Using the Example of Poland", Berlin Heidelberg: Springer.ff</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0026">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0026">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nermend</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metody analizy wielokryterialnej i wielowymiarowej we wspomaganiu decyzji</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wydawnictwo Naukowe PWN</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0026">Nermend K. (2017) "Metody analizy wielokryterialnej i wielowymiarowej we wspomaganiu decyzji" (in Polish), Wydawnictwo Naukowe PWN, Warszawa.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0027">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0027">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nermend</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Vector Calculus in Regional Development Analysis. Comparative Regional Analysis Using the Example of Poland</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin Heidelberg</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0027">Nermend K. (2009) "Vector Calculus in Regional Development Analysis. Comparative Regional Analysis Using the Example of Poland", Berlin Heidelberg: Springer.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0028">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref0028">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nermend</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metody analizy wielokryterialnej i wielowymiarowej we wspomaganiu decyzji</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>in Polish</sb:comment>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wydawnictwo Naukowe PWN</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0028">Nermend K. (2017) "Metody analizy wielokryterialnej i wielowymiarowej we wspomaganiu decyzji" (in Polish), Wydawnictwo Naukowe PWN, Warszawa.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0029">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref0029">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nermend</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A synthetic measure of sea environment pollution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polish Journal of Environmental Studies</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4b</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>127</sb:first-page>
+                              <sb:last-page>130</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0029">Nermend K. (2006) "A synthetic measure of sea environment pollution", Polish Journal of Environmental Studies, 15(4b):127–130</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

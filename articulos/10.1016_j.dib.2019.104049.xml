@@ -1,0 +1,1157 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2352340919304020</prism:url><dc:identifier>doi:10.1016/j.dib.2019.104049</dc:identifier><eid>1-s2.0-S2352340919304020</eid><prism:doi>10.1016/j.dib.2019.104049</prism:doi><pii>S2352-3409(19)30402-0</pii><dc:title>Data-driven multilayer complex networks of sustainable development goals </dc:title><prism:publicationName>Data in Brief</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dat</pubType><prism:issn>23523409</prism:issn><prism:volume>25</prism:volume><prism:startingPage>104049</prism:startingPage><prism:pageRange>104049</prism:pageRange><articleNumber>104049</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2019-08-31</prism:coverDate><prism:coverDisplayDate>August 2019</prism:coverDisplayDate><prism:copyright>© 2019 The Author(s). Published by Elsevier Inc.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Inc.</prism:publisher><dc:creator>Sebestyén, Viktor</dc:creator><dc:creator>Bulla, Miklós</dc:creator><dc:creator>Rédey, Ákos</dc:creator><dc:creator>Abonyi, János</dc:creator><dc:description>
+                  This data article presents the formulation of multilayer network for modelling the interconnections among the sustainable development goals (SDGs), targets and includes the correlation based linking of the sustainable development indicators with the available long-term datasets of The World Bank, 2018 [1]. The spatial distribution of the time series data allows creating country-specific sustainability assessments. In the related research article “Network Model-Based Analysis of the Goals, Targets and Indicators of Sustainable Development for Strategic Environmental Assessment” [2] the similarities of SDGs for ten regions have been modelled in order to improve the quality of strategic environmental assessments. The datasets of the multilayer networks are available on Mendeley [3].
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Sustainability</dcterms:subject><dcterms:subject>Sustainable development goals</dcterms:subject><dcterms:subject>Network analysis</dcterms:subject><dcterms:subject>Data driven modelling</dcterms:subject><dcterms:subject>Evidence-based decision making</dcterms:subject><dcterms:subject>Spatial analysis</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2352340919304020" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2352340919304020" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="556" size="80229">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="348" size="62321">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="650" size="79153">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="242" size="18531">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="267" size="41331">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="170" height="164" size="8426">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="132" size="9260">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="134" height="163" size="8147">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="92" size="6880">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="101" size="7630">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2559" height="2462" size="679903">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2559" height="1539" size="516772">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2362" height="2881" size="537165">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2559" height="1072" size="179540">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2559" height="1184" size="328876">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="93786">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-mmc1.pdf?httpAccept=%2A%2F%2A</object><object ref="mmc2" category="standard" type="APPLICATION" multimediatype="ZIP file" mimetype="application/zip" size="3158">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-mmc2.zip?httpAccept=%2A%2F%2A</object><object ref="mmc3" category="standard" type="APPLICATION" multimediatype="ZIP file" mimetype="application/zip" size="2129">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-mmc3.zip?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="8109">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="6971">https://api.elsevier.com/content/object/eid/1-s2.0-S2352340919304020-si2.svg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85066434222</scopus-id><scopus-eid>2-s2.0-85066434222</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85066434222" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>311593</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291806</xocs:ssid>
+         <xocs:ssid type="subj">291848</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Data in Brief</xocs:srctitle>
+      <xocs:normalized-srctitle>DATAINBRIEF</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190523">2019-05-23</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190523">2019-05-23</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190604">2019-06-04</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190604">2019-06-04</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-12-10T07:55:36</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2352340919304020</xocs:eid>
+      <xocs:pii-formatted>S2352-3409(19)30402-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2352340919304020</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.dib.2019.104049</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.6</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2352340919X00049</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20201210">2020-12-10T08:43:49.396232Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190801</xocs:date-search-begin>
+      <xocs:date-search-end>20190831</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1558627273">2019-05-23T16:01:13.476502Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2352-3409</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>23523409</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>25</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>25</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 25</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>144</xocs:sort-order>
+      <xocs:first-fp>104049</xocs:first-fp>
+      <xocs:article-number>104049</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>104049</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201908</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Computer Science</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>dat</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 The Author(s). Published by Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>DATADRIVENMULTILAYERCOMPLEXNETWORKSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SEBESTYEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>V</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/j.jenvman.2019.02.096</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S0301479719302476</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental design, materials, and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Linking the World Bank indicators with the SDG indicators</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Exploring the internal linking the World Bank indicators</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Multilayer network formulation of SDG indicators, targets and goals</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Identification of key factors and thematic areas of SDGs</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-section-title>Transparency document</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>DATASETINDICATORS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>SEBESTYEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>126</xocs:ref-first-fp>
+            <xocs:ref-last-lp>135</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>SEBESTYEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DATADRIVENMULTILAYERCOMPLEXNETWORKSSUSTAINABLEDEVELOPMENTGOALSMENDELEYDATA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>UNITEDNATIONS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TRANSFORMINGWORLD2030AGENDAFORSUSTAINABLEDEVELOPMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>UNITEDNATIONSECONOMICANDSOCIALCOUNCIL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>62</xocs:ref-first-fp>
+            <xocs:ref-normalized-srctitle>REPORTINTERAGENCYEXPERTGROUPSUSTAINABLEDEVELOPMENTGOALINDICATORSECN320162REV1</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>INTERNATIONALCOUNCILFORSCIENCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>239</xocs:ref-first-fp>
+            <xocs:ref-normalized-srctitle>AGUIDESDGINTERACTIONSSCIENCEIMPLEMENTATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SEBESTYENX2019X104049</xocs:refkey3>
+         <xocs:refkey4ai>SEBESTYENX2019X104049XV</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2019-05-17T01:18:25Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 The Author(s). Published by Elsevier Inc.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-05-22T14:04:30.193Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2352-3409(19)30402-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2352340919304020</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2352340919304020</xocs:eid>
+         <xocs:doi>10.1016/j.dib.2019.104049</xocs:doi>
+         <xocs:cid>311593</xocs:cid>
+         <xocs:timestamp>2020-12-10T08:43:49.396232Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-08-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/MAIN/application/pdf/178c2b69cd5d045f69fcf6ce947297d9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1430016</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2352340919304020-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/PREVIEW/image/png/194d895f6ec7da9284587cebda6d7c13/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>38964</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr1/DOWNSAMPLED/image/jpeg/5e53d4186ed582a28615f55e44a5bf7d/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>80229</xocs:filesize>
+               <xocs:pixel-height>556</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr2/DOWNSAMPLED/image/jpeg/a8d539f5dd271d91fafdb3113c4f0e1a/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>62321</xocs:filesize>
+               <xocs:pixel-height>348</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr3/DOWNSAMPLED/image/jpeg/9278353e26c0a3a642eaa33466d29762/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>79153</xocs:filesize>
+               <xocs:pixel-height>650</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr4/DOWNSAMPLED/image/jpeg/67cd9b6750551c361a4240521d025909/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18531</xocs:filesize>
+               <xocs:pixel-height>242</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr5/DOWNSAMPLED/image/jpeg/239c69214f124a8677d10cc1ee9fdeec/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41331</xocs:filesize>
+               <xocs:pixel-height>267</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr1/THUMBNAIL/image/gif/80f28761360ba67a60cab9f9d83d2ce0/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8426</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>170</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr2/THUMBNAIL/image/gif/85f30c88c59d3a032d68bd9380cbd06b/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9260</xocs:filesize>
+               <xocs:pixel-height>132</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr3/THUMBNAIL/image/gif/56f4821fe31366e9040c26405a7cb536/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8147</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>134</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr4/THUMBNAIL/image/gif/ac3f0b738f05b39472ba99ce82fffe57/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6880</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr5/THUMBNAIL/image/gif/8a14f0dadf74cbd7fce4bcb88c0f34d9/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7630</xocs:filesize>
+               <xocs:pixel-height>101</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr1/HIGHRES/image/jpeg/77ee89568495199b3d17ac2d4405db40/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>679903</xocs:filesize>
+               <xocs:pixel-height>2462</xocs:pixel-height>
+               <xocs:pixel-width>2559</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr2/HIGHRES/image/jpeg/bea34594c0143b40c9b3eb982286f242/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>516772</xocs:filesize>
+               <xocs:pixel-height>1539</xocs:pixel-height>
+               <xocs:pixel-width>2559</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr3/HIGHRES/image/jpeg/8b3414ed947eeb46690337735fb367b4/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>537165</xocs:filesize>
+               <xocs:pixel-height>2881</xocs:pixel-height>
+               <xocs:pixel-width>2362</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr4/HIGHRES/image/jpeg/5ffc083dc7fd38956d475f18611471d3/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>179540</xocs:filesize>
+               <xocs:pixel-height>1072</xocs:pixel-height>
+               <xocs:pixel-width>2559</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/gr5/HIGHRES/image/jpeg/ff32d35bc320501d8fffa76a8dc31819/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>328876</xocs:filesize>
+               <xocs:pixel-height>1184</xocs:pixel-height>
+               <xocs:pixel-width>2559</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-mmc1.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/mmc1/MAIN/application/pdf/d99bcc9d1ca2bf108a1500a682fcd870/mmc1.pdf</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>93786</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-mmc2.zip</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/mmc2/MAIN/application/zip/3529abffdcb2caf6268086917306c58b/mmc2.zip</xocs:ucs-locator>
+               <xocs:file-basename>mmc2</xocs:file-basename>
+               <xocs:filename>mmc2.zip</xocs:filename>
+               <xocs:extension>zip</xocs:extension>
+               <xocs:filesize>3158</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-mmc3.zip</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/mmc3/MAIN/application/zip/710872a2e4175f842dee80b335b88512/mmc3.zip</xocs:ucs-locator>
+               <xocs:file-basename>mmc3</xocs:file-basename>
+               <xocs:filename>mmc3.zip</xocs:filename>
+               <xocs:extension>zip</xocs:extension>
+               <xocs:filesize>2129</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/STRIPIN/image/svg+xml/df0cd7c06fea1aea792d7a512dfddb6d/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>8109</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2352340919304020-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352340919304020/STRIPIN/image/svg+xml/c992d61136817358021c2106e1d11baf/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>6971</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dat" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>DIB</jid>
+            <aid>104049</aid>
+            <ce:article-number>104049</ce:article-number>
+            <ce:pii>S2352-3409(19)30402-0</ce:pii>
+            <ce:doi>10.1016/j.dib.2019.104049</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="reftodoc0010">
+                  <ce:pii>S0301-4797(19)30247-6</ce:pii>
+                  <ce:doi>10.1016/j.jenvman.2019.02.096</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="other" year="2019">The Author(s)</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0010" view="all">The linking of World Bank variables with the SDG6 “water goal”.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2352340919304020/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0015" view="all">The indirect linking of the sustainable development goals.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2352340919304020/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0020" view="all">The workflow of the modelling of SDG interconnections.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2352340919304020/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0025" view="all">Illustration of how multiplex networks can highlight the differences between how the SDG indicators are interconnected in different countries and regions.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2352340919304020/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0030" view="all">The differences between the networks of the linked SDG indicators (Part A) and the study of International Council for Science (Part B) shows how the proposed dataset enriches the knowledge about the interrelationships of the sustainability goals.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0045">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2352340919304020/gr5"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dhead0010">
+               <ce:textfn>Data Article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="title0010">Data-driven multilayer complex networks of sustainable development goals</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S2352340919304020-0b8261c43b7dcc67497d80bb322598b4">
+                  <ce:given-name>Viktor</ce:given-name>
+                  <ce:surname>Sebestyén</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0015">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au2" author-id="S2352340919304020-0f73be7845c31bf1616532bf29c4ee10">
+                  <ce:given-name>Miklós</ce:given-name>
+                  <ce:surname>Bulla</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S2352340919304020-1be4864b97ee3de92104c66bfff2c0ba">
+                  <ce:given-name>Ákos</ce:given-name>
+                  <ce:surname>Rédey</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4" author-id="S2352340919304020-08066d74d3846eb7f89010744460c7cb">
+                  <ce:given-name>János</ce:given-name>
+                  <ce:surname>Abonyi</ce:surname>
+                  <ce:cross-ref refid="aff3" id="crosref0030">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor2" id="crosref0035">
+                     <ce:sup loc="post">∗∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2352340919304020-1a611a4cee2b75909afdaa7e49a05e94">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Institute of Environmental Engineering University of Pannonia, Veszprém, Hungary</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Environmental Engineering University of Pannonia</sa:organization>
+                     <sa:city>Veszprém</sa:city>
+                     <sa:country>Hungary</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Institute of Environmental Engineering University of Pannonia, Veszprem, Hungary</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2352340919304020-6aa9194247651b17a26f56dd8d3575c4">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>National Environmental Council (NEC), Budapest, Hungary</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>National Environmental Council (NEC)</sa:organization>
+                     <sa:city>Budapest</sa:city>
+                     <sa:country>Hungary</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">National Environmental Council (NEC), Budapest, Hungary</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S2352340919304020-c6ac4b0d3db94fe4fcb44f2af0581a49">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>MTA-PE “Lendület” Complex Systems Monitoring Research Group, University of Pannonia, Veszprém, Hungary</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>MTA-PE “Lendület” Complex Systems Monitoring Research Group</sa:organization>
+                     <sa:organization>University of Pannonia</sa:organization>
+                     <sa:city>Veszprém</sa:city>
+                     <sa:country>Hungary</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0020">MTA-PE “Lendulet” Complex Systems Monitoring Research Group, University of Pannonia, Veszprem, Hungary</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:correspondence id="cor2">
+                  <ce:label>∗∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="2" year="2019"/>
+            <ce:date-revised day="25" month="4" year="2019"/>
+            <ce:date-accepted day="15" month="5" year="2019"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">This data article presents the formulation of multilayer network for modelling the interconnections among the sustainable development goals (SDGs), targets and includes the correlation based linking of the sustainable development indicators with the available long-term datasets of The World Bank, 2018 [1]. The spatial distribution of the time series data allows creating country-specific sustainability assessments. In the related research article “Network Model-Based Analysis of the Goals, Targets and Indicators of Sustainable Development for Strategic Environmental Assessment” [2] the similarities of SDGs for ten regions have been modelled in order to improve the quality of strategic environmental assessments. The datasets of the multilayer networks are available on Mendeley [3].</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Sustainability</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Sustainable development goals</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Network analysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Data driven modelling</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Evidence-based decision making</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0035">
+                  <ce:text>Spatial analysis</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0010" view="all">
+                  <ce:display>
+                     <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" colsep="0" rowsep="0" id="undtbl1">
+                        <ce:caption id="cap0010">
+                           <ce:simple-para id="tspara0010" view="all">Specifications table</ce:simple-para>
+                        </ce:caption>
+                        <tgroup cols="2">
+                           <colspec colnum="1" colname="col1" colwidth="24*"/>
+                           <colspec colnum="2" colname="col2" colwidth="71*"/>
+                           <tbody>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">Subject area</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>Network theory, sustainable development, sustainability, spatial assessment</italic>
+                                 </entry>
+                              </row>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">More specific subject area</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>Network model, interconnections of sustainable development goals, country-specific sustainability assessment</italic>
+                                 </entry>
+                              </row>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">Type of data</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>Microsoft Excel spreadsheet (XLS), MATLAB code, text file</italic>
+                                 </entry>
+                              </row>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">How data was acquired</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>The linking of the indicators has been done based on the correlation of the available data. The network files are generated from the correlation among the indicators. The top-down structure of the goals, targets and indicators are available in the literature</italic> 
+                                    <cross-refs refid="bib4 bib5" id="crosrefs0010">[4,5]</cross-refs>
+                                    <italic>.</italic>
+                                 </entry>
+                              </row>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">Data format</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>Generated, analysed</italic>
+                                 </entry>
+                              </row>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experimental factors</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>N/A</italic>
+                                 </entry>
+                              </row>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experimental features</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>The multilayer networks (goals, targets and indicators) have been created with the correlation of the World Bank's variables.</italic>
+                                 </entry>
+                              </row>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">Data source location</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>263 different geographical unit</italic>
+                                 </entry>
+                              </row>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">Data accessibility</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>The data are available in this article and publicly on Mendeley</italic> 
+                                    <cross-ref refid="bib3" id="crosref0045">[3]</cross-ref>.</entry>
+                              </row>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">Related research article</entry>
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <italic>Sebestyén, V., Bulla, M., Rédey, Á., Abonyi, J.: Network Model-Based Analysis of the Goals, Targets and Indicators of Sustainable Development for Strategic Environmental Assessment, Journal of Environmental Management, Vol. 238, pp. 126–135,</italic> 
+                                    <inter-ref xlink:href="https://doi.org/10.1016/j.jenvman.2019.02.096" id="intref0010" xlink:type="simple">https://doi.org/10.1016/j.jenvman.2019.02.096</inter-ref>
+                                    <italic>.</italic>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </ce:table>
+                  </ce:display>
+                  <ce:display>
+                     <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" colsep="0" rowsep="0" id="undtbl2">
+                        <tgroup cols="1">
+                           <colspec colnum="1" colname="col1" colwidth="96*"/>
+                           <tbody>
+                              <row valign="top">
+                                 <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                                    <bold>Value of the Data</bold>
+                                    <list id="ulist0010">
+                                       <list-item id="u0010">
+                                          <label>•</label>
+                                          <para id="p0015" view="all">The dataset can be used to model the synergies and trade-offs among sustainable development goals, targets and indicators.</para>
+                                       </list-item>
+                                       <list-item id="u0015">
+                                          <label>•</label>
+                                          <para id="p0020" view="all">The networks of the SDGs are available for every country and geographical regions can support country-specific assessments.</para>
+                                       </list-item>
+                                       <list-item id="u0020">
+                                          <label>•</label>
+                                          <para id="p0025" view="all">The generated networks of data are suitable for identifying thematic areas and key indicators of long-term sustainability planning.</para>
+                                       </list-item>
+                                       <list-item id="u0025">
+                                          <label>•</label>
+                                          <para id="p0030" view="all">The network can be used as a benchmark example for researchers interested in the development of analysis of multilayer networks.</para>
+                                       </list-item>
+                                    </list>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </ce:table>
+                  </ce:display>
+               </ce:para>
+               <ce:section id="sec1" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0020">Data</ce:section-title>
+                  <ce:para id="p0035" view="all">The dataset presented in this paper defines multilayer networks formed based on time series of macroeconomic variables (“Worldbank all data.xlsx”) linked to the indicators and targets of sustainable development goals (SDGs). The 530 links connecting the World Bank variables <ce:cross-ref refid="bib1" id="crosref0040">[1]</ce:cross-ref> with SDG indicators are listed in the “edge_indicator_variable.xlsx” excel file. The files representing the networks are generated for the analysis in MuxViz, which is a framework for the multilayer analysis and visualization. The first Matlab program VV_study_v1.m calculates the interconnections among the World Bank variables and creates the network files for the further assessments with the WB_preprocess_v1.m Matlab file. The indirect linking of the SDGs (goals to goals and targets to targets) and formulation of the network files is done in the third tool (preprocess_mat_v2.m). The following network files were generated by the own developed MuxViz exporter tool. formulated for analysis in MuxViz:<ce:list id="ulist0015">
+                        <ce:list-item id="u0030">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0040" view="all">Countries_WB_Config.txt: The structure of the multilayer network that includes the relationships between the variables of a given country.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0035">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0045" view="all">SDG_VV_Config.txt: The interconnections of the World Bank variables.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0040">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0050" view="all">SDG_TIV_VIT_Config.txt: The interconnections of the SDG targets based on the World Bank Open Data.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0045">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0055" view="all">SDG_GTIV_VITG_Config.txt: The interconnections of the SDG goals based on the World Bank Open Data.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0050">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0060" view="all">SDG_TT_Config.txt: The interconnections of the SDG targets based on the study of International Council for Science.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0055">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0065" view="all">SDG_GT_TG_Config.txt: The interconnections of the SDG goals based on the study of International Council for Science.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0070" view="all">The structure of the networked data is illustrated in <ce:cross-ref refid="fig1" id="crosref0050">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> that shows the how the time series of World Bank Open Data <ce:cross-ref refid="bib1" id="crosref0040s">[1]</ce:cross-ref> are linked to the sixth sustainable development goal. Based on the correlation calculations and the “top-down” structure of the sustainable development goals, targets and indicators the indirect linking of the targets and goals were completed, as it can be seen on <ce:cross-ref refid="fig2" id="crosref0055">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>. <ce:cross-ref refid="fig3" id="crosref0060">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/> summarizes how the Matlab codes generate the networks. In this data article the following regions were selected for the analysis: the World (WLD), members of the Organisation for Economic Co-operation and Development (OECD) (OED), the Arab World (ARB), Central Europe and the Baltics (CEB), East Asia &amp; Pacific (EAS), East Asia &amp; Central Asia (ECS), the European Union (EUU), Latin America &amp; the Caribbean (LCN), the Middle East &amp; North Africa (MEA), and North America (NAC). The MATLAB code refers to the abbreviations in parentheses.</ce:para>
+                  <ce:para id="p0075" view="all">To illustrate national differences in sustainable development priorities, a multi-layered network of ten major regions of the world is shown on <ce:cross-ref refid="fig4" id="crosref0065">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>. The colors of the nodes represent the communities of the related indicators. <ce:cross-ref refid="fig5" id="crosref0070">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/> shows the relations among the sustainable development goals. The colors of the nodes represent the closeness centrality values. The A part of <ce:cross-ref refid="fig5" id="crosref0075">Fig. 5</ce:cross-ref> is based on the study of the of International Council for Science and the B part is based on the correlation among the linked data.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0025">Experimental design, materials, and methods</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0030">Linking the World Bank indicators with the SDG indicators</ce:section-title>
+                     <ce:para id="p0080" view="all">The most important step of the data generation was the assignment of the 1504 variables of the World Bank open data <ce:cross-ref refid="bib1" id="crosref004w">[1]</ce:cross-ref> to the 169 SDG indicators. This linking was performed by the authors based on their expertise. The targets (169) of the sustainable development goals (17) and the indicators are linked based on the experts of the Inter-Agency and Expert Group on Sustainable Development Goal Indicators <ce:cross-refs refid="bib4 bib5" id="crosrefs0015">[4,5]</ce:cross-refs>.</ce:para>
+                     <ce:para id="p0085" view="all">A part of the resulted network is illustrated in <ce:cross-ref refid="fig1" id="crosref0080">Fig. 1</ce:cross-ref> that shows the linking of World Bank variables with the “Ensure availability and sustainable management of water and sanitation for all” development goal (SDG6). In <ce:cross-ref refid="fig1" id="crosref0085">Fig. 1</ce:cross-ref> the blue colored circles show the SDG goals, targets and indicators. The shortened descriptions are inserted next to the circles. The grey colored circles are the World Bank Open Data variables. Linking variables and indicators has been achieved for all 17 goals. A variable has been linked to only one indicator, but an indicator can be described with multiple variables, so a total of 530 connections have been defined by the authors.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0035">Exploring the internal linking the World Bank indicators</ce:section-title>
+                     <ce:para id="p0090" view="all">If we establish relationships among the variables of the World Bank (e.g.: based on the correlation), we indirectly link the sustainable development indicators, targets and goals.</ce:para>
+                     <ce:para id="p0095" view="all">
+                        <ce:cross-ref refid="fig2" id="crosref0090">Fig. 2</ce:cross-ref> shows an example for indirectly connections of the SDGs. If the variable and SDG indicators have been connected the correlation among the variables also linking the targets and goals.</ce:para>
+                     <ce:para id="p0100" view="all">The interconnections of the SDG targets and goals help to identify the thematic areas of the sustainable strategic planning activities. In this data article a total of 908 correlation-based interconnections have been occurred.</ce:para>
+                     <ce:para id="p0105" view="all">The linking of the variables is based on the Pearson correlation coefficient values. (the variables were connected when the “ρ” exceeded 0.99 with <ce:italic>p</ce:italic> &lt; 0.05 significance level. The availability of the variables varies regions by regions, so countries that have at least 20 years of data were taken into consideration. Considering the sign of correlations can help to explore synergies and compromises in the behaviour mapping of SDGs.</ce:para>
+                     <ce:para id="p0110" view="all">The correlation analysis and the generation of the input files of networks were performed with the published MATLAB/Octave program.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0040">Multilayer network formulation of SDG indicators, targets and goals</ce:section-title>
+                     <ce:para id="p0115" view="all">The networks are also represented by their adjacency matrices. The linking of the World Bank dataset and SDG indicators are represented by the A<ce:inf loc="post">IV</ce:inf> (indicator-variable; 241 × 530) adjanency matrix. The adjacency matrices of A<ce:inf loc="post">GT</ce:inf> (goal-target; 17 × 169) and A<ce:inf loc="post">TI</ce:inf> (target-indicator; 169–241) have been formulated also at Step 1. The correlation based relationships between the World Bank variables generated at Step 2. are stored in the A<ce:inf loc="post">VV</ce:inf> (variable-variable; 530 × 530) matrix.</ce:para>
+                     <ce:para id="p0120" view="all">This representation is beneficial as it allows the modelling relationships among the targets and goals by multiplication of adjacency matrices. The following equations show the formulation of the target level interconnections A<ce:inf loc="post">TT</ce:inf> (target-target; 169 × 169):<ce:display>
+                           <ce:formula id="ufd1">
+                              <mml:math altimg="si1.svg" alttext="Equation 1.">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>A</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>T</mml:mi>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="badbreak">=</mml:mo>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mi>A</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>T</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>T</mml:mi>
+                                          <mml:mi>I</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="goodbreak">·</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mi>A</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>T</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>I</mml:mi>
+                                          <mml:mi>V</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="goodbreak">·</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>A</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>V</mml:mi>
+                                          <mml:mi>V</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="goodbreak">·</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>A</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>I</mml:mi>
+                                          <mml:mi>V</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="goodbreak">·</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>A</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>T</mml:mi>
+                                          <mml:mi>I</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0125" view="all">The interconnections of the SDG goals A<ce:inf loc="post">GG</ce:inf> (goal-goal; 17 × 17) can be modelled with the projection of the A<ce:inf loc="post">GT</ce:inf> (goal-target; 17 × 169) and A<ce:inf loc="post">TT</ce:inf> (target-target; 169 × 169) adjacency matrices.<ce:display>
+                           <ce:formula id="ufd2">
+                              <mml:math altimg="si2.svg" alttext="Equation 2.">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>A</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>G</mml:mi>
+                                          <mml:mi>G</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="badbreak">=</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mi>A</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>T</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>G</mml:mi>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="goodbreak">·</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>A</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>T</mml:mi>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="goodbreak">·</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>A</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>G</mml:mi>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0130" view="all">The data article also generated a network based on the study of International Council for Science (ICSU) <ce:cross-ref refid="bib6" id="crosref0095">[6]</ce:cross-ref>. According to the ICSU study 238 positive, 66 negative and 12 neutral interactions were identified among the SDG targets, which are able for indirectly modelling of the SDG goals. The projection of the goal-level network is similar like in case of World Bank, nevertheless the relationships among the targets A<ce:inf loc="post">TT(ICSU)</ce:inf> are already defined in the study.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0045">Identification of key factors and thematic areas of SDGs</ce:section-title>
+                     <ce:para id="p0135" view="all">The key indicators of SDGs have been identified by centrality analysis of the networks and the clustering of the indicators has been done with community analysis in MuxViz environment. The networks of the SDGs have been attached to the dataset, therefore further investigations are possible.</ce:para>
+                     <ce:para id="p0140" view="all">The modelling steps are presented on <ce:cross-ref refid="fig3" id="crosref0100">Fig. 3</ce:cross-ref>. It should be pointed out, that the order of the steps shown in <ce:cross-ref refid="fig3" id="crosref0105">Fig. 3</ce:cross-ref> are not interchangeable. Finally, a detailed analysis of the networks is done in MuxViz, where the country-level dissimilarities of the interconnections of SDGs can be examined, as well as communities and key indicators of SDGs can be identified.</ce:para>
+                     <ce:para id="p0145" view="all">A comparison of the inferred target-target networks and the network defined by experts from ICSU is depicted in <ce:cross-ref refid="fig5" id="crosref0110">Fig. 5</ce:cross-ref>. As can be seen the proposed data can provide a comprehensive view of how SDGs are interrelated, which interconnections are detailed in Ref. <ce:cross-ref refid="bib2" id="crosref0115">[2]</ce:cross-ref>. With the help of the proposed data and program not only this publication can be reproduced but further detailed analysis can be performed.</ce:para>
+                  </ce:section>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0050">Acknowledgments</ce:section-title>
+               <ce:para id="p0150" view="all">We acknowledge the financial support of <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Széchenyi 2020</ce:grant-sponsor> under the <ce:grant-number refid="gs1">GINOP-2.3.2-15-2016-00016</ce:grant-number>.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:section-title id="sectitle0055">Transparency document</ce:section-title>
+                  <ce:para id="p0155" view="all">The following is the transparency document related to this article:<ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Multimedia component 1</ce:label>
+                           <ce:alt-text role="short" id="alttext0010">Multimedia component 1</ce:alt-text>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S2352340919304020/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:section-title id="sectitle0060">Transparency document</ce:section-title>
+                  <ce:para id="p0160" view="all">Transparency document associated with this article can be found in the online version at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.dib.2019.104049" id="intref0015" xlink:type="simple">https://doi.org/10.1016/j.dib.2019.104049</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="appsec3" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0065">Supplementary data</ce:section-title>
+                  <ce:para id="p0165" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="mmc2">
+                           <ce:label>Multimedia component 2</ce:label>
+                           <ce:alt-text role="short" id="alttext0015">Multimedia component 2</ce:alt-text>
+                           <ce:link locator="mmc2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S2352340919304020/mmc2"/>
+                        </ce:e-component>
+                     </ce:display>
+                     <ce:display>
+                        <ce:e-component id="mmc3">
+                           <ce:label>Multimedia component 3</ce:label>
+                           <ce:alt-text role="short" id="alttext0020">Multimedia component 3</ce:alt-text>
+                           <ce:link locator="mmc3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S2352340919304020/mmc3"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec4" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0070">Supplementary data</ce:section-title>
+                  <ce:para id="p0170" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.dib.2019.104049" id="intref0020" xlink:type="simple">https://doi.org/10.1016/j.dib.2019.104049</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0075">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>The World Bank</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dataset of All Indicators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://data.worldbank.org/indicator?tab=all" id="intref0025" xlink:type="simple">https://data.worldbank.org/indicator?tab=all</ce:inter-ref>
+                              <sb:date-accessed day="6" month="1" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">The World Bank, 2018. Dataset of all indicators. https://data.worldbank.org/indicator?tab=all (accessed: 6 January 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sebestyén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bulla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Á.</ce:given-name>
+                                 <ce:surname>Rédey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Abonyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Network model-based analysis of the goals, targets and indicators of sustainable development for strategic environmental assessment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>238</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>126</sb:first-page>
+                              <sb:last-page>135</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jenvman.2019.02.096" id="intref0030" xlink:type="simple">https://doi.org/10.1016/j.jenvman.2019.02.096</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Sebestyen, V., Bulla, M., Redey, A., Abonyi, J.: Network Model-Based Analysis of the Goals, Targets and Indicators of Sustainable Development for Strategic Environmental Assessment, Journal of Environmental Management, Vol. 238, pp. 126-135, https://doi.org/10.1016/j.jenvman.2019.02.096.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sebestyén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Abonyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Data driven multilayer complex networks of sustainable development goals, Mendeley data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                           </sb:book>
+                           <ce:doi>10.17632/yj3v4pnd68.1</ce:doi>
+                        </sb:host>
+                        <sb:comment>Available online from:</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Sebestyen, V., Abonyi, J., 2019. Data driven multilayer complex networks of Sustainable Development Goals, Mendeley Data, Available online from: doi:10.17632/yj3v4pnd68.1</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transforming Our World: the 2030 Agenda for Sustainable Development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf" id="intref0035" xlink:type="simple">https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf</ce:inter-ref>
+                              <sb:date-accessed day="6" month="1" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">United Nations, 2015. Transforming our World: The 2030 Agenda for Sustainable Development. https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf (accessed 6 January 2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>United Nations Economic and Social Council</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Report of the Inter-Agency and Expert Group on Sustainable Development Goal Indicators. E/CN.3/2016/2Rev.1</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2016</sb:date>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>62</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">United Nations Economic and Social Council, 2016. Report of the Inter-Agency and Expert Group on Sustainable Development Goal Indicators. E/CN.3/2016/2Rev.1, p. 62.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>International Council for Science</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Guide to SDG Interactions: from Science to Implementation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>International Council for Science</sb:name>
+                                 <sb:location>Paris</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>239</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.24948/2017.01" id="intref0040" xlink:type="simple">https://doi.org/10.24948/2017.01</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">International Council for Science, 2017. A Guide to SDG Interactions: from Science to Implementation. International Council for Science. Paris, p. 239. https://doi.org/10.24948/2017.01.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

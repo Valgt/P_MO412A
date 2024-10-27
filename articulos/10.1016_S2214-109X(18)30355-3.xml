@@ -1,0 +1,689 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2214109X18303553</prism:url><dc:identifier>doi:10.1016/S2214-109X(18)30355-3</dc:identifier><eid>1-s2.0-S2214109X18303553</eid><prism:doi>10.1016/S2214-109X(18)30355-3</prism:doi><pii>S2214-109X(18)30355-3</pii><dc:title>Presbyopia and the Sustainable Development Goals </dc:title><prism:publicationName>The Lancet Global Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>dis</pubType><prism:issn>2214109X</prism:issn><prism:volume>6</prism:volume><prism:issueIdentifier>9</prism:issueIdentifier><prism:startingPage>e944</prism:startingPage><prism:endingPage>e945</prism:endingPage><prism:pageRange>e944-e945</prism:pageRange><prism:number>9</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2018-09-30</prism:coverDate><prism:coverDisplayDate>September 2018</prism:coverDisplayDate><prism:copyright>© 2018 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Khanna, Rohit C</dc:creator><dc:creator>Rao, Gullapalli N</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2214109X18303553" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2214109X18303553" rel="scidir"/></coredata><scopus-id>85053819414</scopus-id><scopus-eid>2-s2.0-85053819414</scopus-eid><pubmed-id>30049616</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85053819414" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>286970</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291904</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Global Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETGLOBALHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180723">2018-07-23</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180723">2018-07-23</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180810">2018-08-10</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180810">2018-08-10</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-12-12T12:53:58</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2214109X18303553</xocs:eid>
+      <xocs:pii-formatted>S2214-109X(18)30355-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2214109X18303553</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2214-109X(18)30355-3</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2214109X18X00114</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20181212">2018-12-12T14:57:01.919478Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180901</xocs:date-search-begin>
+      <xocs:date-search-end>20180930</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1532388768">2018-07-23T23:32:48.142335Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2214-109X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>2214109X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>6</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>6</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 6, Issue 9</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>e944</xocs:first-fp>
+      <xocs:last-lp>e945</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>e944</xocs:first-page>
+         <xocs:last-page>e945</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201809</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>dis</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>PRESBYOPIASUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KHANNA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S2214-109X(18)30329-2</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S2214109X18303292</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>BOURNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e888</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e897</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>HOLDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1731</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1739</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>GOERTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>497</xocs:ref-first-fp>
+            <xocs:ref-last-lp>500</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref40">
+            <xocs:ref-normalized-surname>FRICK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1706</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1710</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref50">
+            <xocs:ref-normalized-surname>FINK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-last-lp>164</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref60">
+            <xocs:ref-normalized-surname>EDGERTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1546</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1549</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref70">
+            <xocs:ref-normalized-surname>GILGEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>449</xocs:ref-first-fp>
+            <xocs:ref-last-lp>457</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref80">
+            <xocs:ref-normalized-surname>PEREIRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>401</xocs:ref-first-fp>
+            <xocs:ref-last-lp>412</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref90">
+            <xocs:ref-normalized-surname>REDDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KHANNAX2018Xe944</xocs:refkey3>
+         <xocs:refkey4lp>KHANNAX2018Xe944Xe945</xocs:refkey4lp>
+         <xocs:refkey4ai>KHANNAX2018Xe944XR</xocs:refkey4ai>
+         <xocs:refkey5>KHANNAX2018Xe944Xe945XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2018-07-16T15:18:25Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2214-109X(18)30355-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2214109X18303553</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2214109X18303553</xocs:eid>
+         <xocs:doi>10.1016/S2214-109X(18)30355-3</xocs:doi>
+         <xocs:cid>286970</xocs:cid>
+         <xocs:timestamp>2018-12-12T14:57:01.919478Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-09-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2214109X18303553-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2214109X18303553/MAIN/application/pdf/4ed7d26cd1c31a3a75b8371d628b5d2f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>40468</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2214109X18303553-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2214109X18303553/PREVIEW/image/png/2a5a9eceee73e896f73efd081cd054a8/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>75176</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="dis" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>LANGLO</jid>
+            <aid>1015</aid>
+            <ce:pii>S2214-109X(18)30355-3</ce:pii>
+            <ce:doi>10.1016/S2214-109X(18)30355-3</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S2214-109X(18)30329-2</ce:pii>
+                  <ce:doi>10.1016/S2214-109X(18)30329-2</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="other" year="2018">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Comment</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Comment</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Presbyopia and the Sustainable Development Goals</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S2214109X18303553-138c6177936ed4c7f6c44b3085794f5f">
+                  <ce:given-name>Rohit C</ce:given-name>
+                  <ce:surname>Khanna</ce:surname>
+                  <ce:cross-ref id="cecref10" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref10a" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au20" author-id="S2214109X18303553-a535b02a17400862d3f94c0c2bdda245">
+                  <ce:given-name>Gullapalli N</ce:given-name>
+                  <ce:surname>Rao</ce:surname>
+                  <ce:cross-ref id="cecref20" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cecref10b" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2214109X18303553-3621c50a0cc08ee1ebb4898a73e46b80">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Allen Foster Community Eye Health Research Centre, Gullapalli Pratibha Rao International Centre for Advancement of Rural Eye care, L V Prasad Eye Institute, Hyderabad 500034, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Allen Foster Community Eye Health Research Centre</sa:organization>
+                     <sa:organization>Gullapalli Pratibha Rao International Centre for Advancement of Rural Eye care</sa:organization>
+                     <sa:organization>L V Prasad Eye Institute</sa:organization>
+                     <sa:city>Hyderabad</sa:city>
+                     <sa:postal-code>500034</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2214109X18303553-5bc852feff0fa35489ef6502f8b6f072">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Brien Holden Eye Research Centre, L V Prasad Eye Institute, Banjara Hills, Hyderabad, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Brien Holden Eye Research Centre</sa:organization>
+                     <sa:organization>L V Prasad Eye Institute</sa:organization>
+                     <sa:organization>Banjara Hills</sa:organization>
+                     <sa:city>Hyderabad</sa:city>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">Current global estimates show that approximately 1·1 billion people are affected by presbyopia, nearly a third of whom are 50 years or older.<ce:cross-ref id="cecref30" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> From crude data available, the prevalence of presbyopia is estimated to be 35·6% in people aged 35 years and older and increases to 40·3% for people aged 50 years and older.<ce:cross-ref id="cecref40" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> More than 90% of these individuals are in developing countries.<ce:cross-refs id="cecrefs10" refid="bib1 bib2">
+                     <ce:sup loc="post">1,2</ce:sup>
+                  </ce:cross-refs> Uncorrected presbyopia is associated with difficulty in daily living activities, especially for those in professions demanding a keen eyesight for activities such as reading, writing, weaving, and so on. It also adversely affects quality of life, both in the developed and developing world,<ce:cross-ref id="cecref50" refid="bib3">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> and has a huge impact on productivity.<ce:cross-ref id="cecref60" refid="bib4">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>
+               </ce:para>
+               <ce:para id="para20" view="all">In 2015, the UN announced 17 <ce:inter-ref id="interrefs10" xlink:href="https://sustainabledevelopment.un.org" xlink:type="simple">Sustainable Development Goals (SDGs)</ce:inter-ref>, most of which are related to improving health and productivity. However, there is conflicting evidence from different studies showing that investment in health improves productivity.<ce:cross-refs id="cecrefs20" refid="bib5 bib6 bib7 bib8">
+                     <ce:sup loc="post">5–8</ce:sup>
+                  </ce:cross-refs> It is also known that the global labour productivity has slowed down negatively, affecting the global economy. Hence, the randomised trial by Priya Adhisesha Reddy and colleagues in <ce:italic>The Lancet Global Health</ce:italic> is a useful addition to what is already known about the impact of health interventions on productivity.<ce:cross-ref id="cecref70" refid="bib9">
+                     <ce:sup loc="post">9</ce:sup>
+                  </ce:cross-ref> The study shows that a simple pair of presbyopic glasses in tea workers (mainly women) in India improved their productivity by more than 20%. Moreover, with increasing age, productivity increased in the intervention group, but it decreased in the control group, indicating the adverse effects of uncorrected presbyopia on productivity with increasing age. Productivity in the intervention group also increased with increased compliance to glasses and consequent improvement in quality of life. Nearly 95% of trial participants were willing to pay for the glasses if lost or broken.</ce:para>
+               <ce:para id="para30" view="all">The authors acknowledge the limited generalisability of their findings. Hence, they suggest additional trials in different cohorts in different countries. Although they provided the mean productivity before and after the intervention, no information is available about the median values and the range. The authors are urged to provide this information as it is possible that some participants in the intervention group did not show a significant change in productivity and vice versa. It would be good to understand these additional factors that can influence productivity. Also since the baseline period was in June, 2017, and assessment was done in the peak period (July–October, 2017), there could have been an increased difference in productivity in both groups due to seasonal variation. It would be interesting to see whether this high difference in productivity persists at all ages and in other seasons of the year. As participants were from three estates, it is likely that they were from nearby villages and so a clustering effect cannot be ruled out. The study does not describe the effects of clustering on the results. Finally, as acknowledged by the authors, a placebo effect could not be studied because the control group was not given glasses.</ce:para>
+               <ce:para id="para40" view="all">Prospectively, additional trials in different cohorts in different countries are needed to understand the impact of presbyopic correction on productivity. Functional presbyopia (ie, vision less than N8 restored to N8 with correction) has to be differentiated from objective presbyopia, which includes individuals who need correction both for distance and near vision, to plan for targeted interventions. Research is needed to understand the cost-effectiveness of glasses compared with other interventions such as cataract surgery; and operational research is also needed to develop strategies for broad-scale implementation to improve productivity and contribute to the SDGs.</ce:para>
+               <ce:para id="para50" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>RRA</ce:given-name>
+                                 <ce:surname>Bourne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SR</ce:given-name>
+                                 <ce:surname>Flaxman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Braithwaite</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Magnitude, temporal trends, and projections of the global prevalence of blindness and distance and near vision impairment: a systematic review and meta-analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e888</sb:first-page>
+                              <sb:last-page>e897</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>BA</ce:given-name>
+                                 <ce:surname>Holden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>TR</ce:given-name>
+                                 <ce:surname>Fricke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SM</ce:given-name>
+                                 <ce:surname>Ho</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global vision impairment due to uncorrected presbyopia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Arch Ophthalmol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1731</sb:first-page>
+                              <sb:last-page>1739</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>AD</ce:given-name>
+                                 <ce:surname>Goertz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>WC</ce:given-name>
+                                 <ce:surname>Stewart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>WR</ce:given-name>
+                                 <ce:surname>Burns</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JA</ce:given-name>
+                                 <ce:surname>Stewart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>LA</ce:given-name>
+                                 <ce:surname>Nelson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Review of the impact of presbyopia on quality of life in the developing and developed world</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Ophthalmol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>497</sb:first-page>
+                              <sb:last-page>500</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>KD</ce:given-name>
+                                 <ce:surname>Frick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SM</ce:given-name>
+                                 <ce:surname>Joy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DA</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>KS</ce:given-name>
+                                 <ce:surname>Naidoo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>BA</ce:given-name>
+                                 <ce:surname>Holden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The global burden of potential productivity loss from uncorrected presbyopia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ophthalmology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1706</sb:first-page>
+                              <sb:last-page>1710</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Fink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F</ce:given-name>
+                                 <ce:surname>Masiye</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Health and agricultural productivity: Evidence from Zambia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Health Econ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                              <sb:last-page>164</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>VR</ce:given-name>
+                                 <ce:surname>Edgerton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>GW</ce:given-name>
+                                 <ce:surname>Gardner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y</ce:given-name>
+                                 <ce:surname>Ohira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>KA</ce:given-name>
+                                 <ce:surname>Gunawardena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B</ce:given-name>
+                                 <ce:surname>Senewiratne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Iron-deficiency anaemia and its effect on worker productivity and activity patterns</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1546</sb:first-page>
+                              <sb:last-page>1549</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DD</ce:given-name>
+                                 <ce:surname>Gilgen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>CG</ce:given-name>
+                                 <ce:surname>Mascie-Taylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>LL</ce:given-name>
+                                 <ce:surname>Rosetta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Intestinal helminth infections, anaemia and labour productivity of female tea pluckers in Bangladesh</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trop Med Int Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>449</sb:first-page>
+                              <sb:last-page>457</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref80">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>MJ</ce:given-name>
+                                 <ce:surname>Pereira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>BK</ce:given-name>
+                                 <ce:surname>Coombes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>TA</ce:given-name>
+                                 <ce:surname>Comans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V</ce:given-name>
+                                 <ce:surname>Johnston</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impact of onsite workplace health-enhancing physical activity interventions on worker productivity: a systematic review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Occup Environ Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>401</sb:first-page>
+                              <sb:last-page>412</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref90">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>PA</ce:given-name>
+                                 <ce:surname>Reddy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N</ce:given-name>
+                                 <ce:surname>Congdon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>MacKenzie</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of providing near glasses on productivity among rural Indian tea workers with presbyopia (PROSPER): a randomised trial</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>published online July 23</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs20" xlink:href="http://dx.doi.org/10.1016/S2214-109X(18)30329-2" xlink:type="simple">http://dx.doi.org/10.1016/S2214-109X(18)30329-2</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

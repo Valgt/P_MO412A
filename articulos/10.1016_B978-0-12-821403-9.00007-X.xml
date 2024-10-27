@@ -1,0 +1,1721 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/B978012821403900007X</prism:url><dc:identifier>doi:10.1016/B978-0-12-821403-9.00007-X</dc:identifier><eid>3-s2.0-B978012821403900007X</eid><prism:doi>10.1016/B978-0-12-821403-9.00007-X</prism:doi><pii>B978-0-12-821403-9.00007-X</pii><dc:title>Chapter 3 Off-grid hybrid renewable energy systems and their contribution to sustainable development goals </dc:title><prism:publicationName>Hybrid Energy System Models</prism:publicationName><prism:aggregationType>EBook</prism:aggregationType><pubType>chp</pubType><prism:isbn>9780128214039</prism:isbn><prism:startingPage>75</prism:startingPage><prism:endingPage>89</prism:endingPage><prism:pageRange>75-89</prism:pageRange><dcterms:isPartOf>urn:isbn:978-0-12-821403-9</dcterms:isPartOf><dc:format>text/xml</dc:format><prism:coverDate>2021-12-31</prism:coverDate><prism:coverDisplayDate>2021</prism:coverDisplayDate><prism:copyright>Copyright © 2021 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Bhandari, Binayak</dc:creator><dc:creator>Ahn, Sung-Hoon</dc:creator><dc:description>
+               The seventh Sustainable Development Goals (SDGs) are to provide “Affordable and clean energy” to all by 2030. To achieve this, efforts should be made using renewable energy sources such as solar, wind, hydro, and thermal energy, particularly, in all developing countries to encourage power generation growth and help the environment. Renewable energy is free, abundant, and possesses non-polluting characteristics. Receiving energy from the above alternative energy sources has been around for a long time. In this chapter, the basic requirements and challenges of renewable energy-based power systems along with the role of the off-grid power system in achieving the seventh SDGs are discussed. Examples of several off-grid implementations are presented.
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Off-grid power systems</dcterms:subject><dcterms:subject>Hybrid renewable energy system</dcterms:subject><dcterms:subject>Sustainable development goals</dcterms:subject><dcterms:subject>Clean energy</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/B978012821403900007X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/B978012821403900007X" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="5698">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="6862">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-si2.svg?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="5475">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-si3.svg?httpAccept=%2A%2F%2A</object><object ref="f03-01-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="478" height="236" size="46529">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-01-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-01-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="108" size="9908">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-01-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-02-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="484" height="321" size="91342">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-02-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-02-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="145" size="30088">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-02-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-03-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="325" size="94363">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-03-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-03-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="145" size="30890">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-03-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-04-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="367" size="93177">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-04-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-04-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="30050">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-04-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-05a-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="466" height="277" size="28989">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-05a-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-05a-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="130" size="10488">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-05a-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-05b-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="484" height="245" size="25909">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-05b-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-05b-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="111" size="8562">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-05b-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-05c-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="480" height="285" size="33079">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-05c-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-05c-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="130" size="10567">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-05c-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-06a-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="481" height="275" size="31397">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-06a-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-06a-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="125" size="9157">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-06a-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-06b-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="483" height="272" size="33935">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-06b-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-06b-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="123" size="9600">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-06b-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-07-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="475" height="364" size="43790">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-07-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-07-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="214" height="164" size="10452">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-07-9780128214039.sml?httpAccept=%2A%2F%2A</object><object ref="f03-08-9780128214039" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="484" height="360" size="39981">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-08-9780128214039.jpg?httpAccept=%2A%2F%2A</object><object ref="f03-08-9780128214039" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="9010">https://api.elsevier.com/content/object/eid/3-s2.0-B978012821403900007X-f03-08-9780128214039.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>85126751825</scopus-id><scopus-eid>2-s2.0-85126751825</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85126751825" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>nonserial</xocs:content-family>
+      <xocs:content-type>BK</xocs:content-type>
+      <xocs:cid>779355</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="content">35</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Hybrid Energy System Models</xocs:srctitle>
+      <xocs:normalized-srctitle>HYBRIDENERGYSYSTEMMODELS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20201126">2020-11-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20201127">2020-11-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20201126">2020-11-26</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20201127">2020-11-27</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-11-26T09:12:18</xocs:ew-transaction-id>
+      <xocs:eid>3-s2.0-B978012821403900007X</xocs:eid>
+      <xocs:pii-formatted>B978-0-12-821403-9.00007-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>B978012821403900007X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/B978-0-12-821403-9.00007-X</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>3-s2.0-C20190035017</xocs:hub-eid>
+      <xocs:hub-doi>10.1016/C2019-0-03501-7</xocs:hub-doi>
+      <xocs:timestamp yyyymmdd="20221212">2022-12-12T12:26:31.120142Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210101</xocs:date-search-begin>
+      <xocs:date-search-end>20211231</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1606386259">2020-11-26T10:24:19.612659Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate isbn isbns isbnnorm isbnsnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids content subj subheadings tomb webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref figure table body mmlmath</xocs:articleinfo>
+      <xocs:isbns>
+         <xocs:isbn-primary-formatted purpose="PAPERBACK">978-0-12-821403-9</xocs:isbn-primary-formatted>
+         <xocs:isbn-primary-unformatted purpose="PAPERBACK">9780128214039</xocs:isbn-primary-unformatted>
+         <xocs:isbn-formatted purpose="ONLINE">978-0-12-821404-6</xocs:isbn-formatted>
+         <xocs:isbn-unformatted purpose="ONLINE">9780128214046</xocs:isbn-unformatted>
+      </xocs:isbns>
+      <xocs:display-name>Hybrid Energy System Models</xocs:display-name>
+      <xocs:sort-order>6</xocs:sort-order>
+      <xocs:first-fp>75</xocs:first-fp>
+      <xocs:last-lp>89</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>75</xocs:first-page>
+         <xocs:last-page>89</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-text>2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:editors>
+               <ce:author-group id="ag0010">
+                  <ce:author id="au0010" author-id="C20190035017-f297aca63a2ec51641f139d819939c3d">
+                     <ce:given-name>Asmae</ce:given-name>
+                     <ce:surname>Berrada</ce:surname>
+                  </ce:author>
+                  <ce:affiliation id="af0010" affiliation-id="C20190035017-15d8d9a5ab0012769743a58e7748891e">
+                     <ce:textfn id="tn0010">Professor of Energy, College of Engineering, LERMA Lab, International University of Rabat, Sala El Jadida, Morocco</ce:textfn>
+                     <sa:affiliation>
+                        <sa:organization>Professor of Energy, College of Engineering, LERMA Lab, International University of Rabat</sa:organization>
+                        <sa:city>Sala El Jadida</sa:city>
+                        <sa:country>Morocco</sa:country>
+                     </sa:affiliation>
+                     <ce:source-text id="se0010">Professor of Energy, College of Engineering, LERMA Lab, International University of Rabat, Sala El Jadida, Morocco</ce:source-text>
+                  </ce:affiliation>
+               </ce:author-group>
+               <ce:author-group id="ag0015">
+                  <ce:author id="au0015" author-id="C20190035017-764a487fb62f19926a920718990b213e">
+                     <ce:given-name>Rachid</ce:given-name>
+                     <ce:surname>El Mrabet</ce:surname>
+                  </ce:author>
+                  <ce:affiliation id="af0015" affiliation-id="C20190035017-1c3237d54f8f2496a453db86c4ec8b2a">
+                     <ce:textfn id="tn0015">Senior Expert and General Director of the Public Utility Development Company, Morocco</ce:textfn>
+                     <sa:affiliation>
+                        <sa:organization>Senior Expert and General Director of the Public Utility Development Company</sa:organization>
+                        <sa:country>Morocco</sa:country>
+                     </sa:affiliation>
+                     <ce:source-text id="se0015">Senior Expert and General Director of the Public Utility Development Company, Morocco</ce:source-text>
+                  </ce:affiliation>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>chapter</xocs:document-type>
+      <xocs:document-subtype>chp</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2021 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>OFFGRIDHYBRIDRENEWABLEENERGYSYSTEMSCONTRIBUTIONSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BHANDARI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3.1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3.2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Types of power systems (based on the connection)</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Off-grid or stand-alone power systems</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>A case of Lama Hotel village in Nepal</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Grid-tied power systems</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>A case of New South Wales, Australia</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Hybrid power systems</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.3.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Case study of California, United States</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3.3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Off-grid power systems based on renewable energies</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Solar power system</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Wind power system</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Hydropower system</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3.4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Role of off-grid power systems in attaining sustainable development goals</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3.5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>PROGRESSOFGOALIN</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>IREAGENCY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>OFFGRIDRENEWABLEENERGYSOLUTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>BHANDARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>44</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>AHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>958</xocs:ref-first-fp>
+            <xocs:ref-last-lp>963</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>ADDIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1068</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1079</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>RAHMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-last-lp>160</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>BHANDARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>815</xocs:ref-first-fp>
+            <xocs:ref-last-lp>822</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>BHANDARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-article-title>OFFGRIDSUSTAINABLESMALLSCALEPHOTOVOLTAICPVPROJECTINHIGHALTITUDEREGIONNEPAL</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>ENERGYSTORAGENETMETERINGANILLUSTRATIONOFWHYITSSOVALUABLE</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>IEA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>2019TRACKINGSDG7ENERGYPROGRESSREPORT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>BHANDARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>236</xocs:ref-first-fp>
+            <xocs:ref-last-lp>242</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>DIAF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>968</xocs:ref-first-fp>
+            <xocs:ref-last-lp>987</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>BETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONTHEORYFLOWMACHINES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>UN</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>IEA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ENERGYPOVERTYHOWMAKEMODERNENERGYACCESSUNIVERSAL</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>UN</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>IEA</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>IRENA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>RETHINKINGENERGY2017</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>BALGLOBAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>OFFGRIDSOLARMARKETTRENDSREPORT2016</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BHANDARIX2021X75</xocs:refkey3>
+         <xocs:refkey4lp>BHANDARIX2021X75X89</xocs:refkey4lp>
+         <xocs:refkey4ai>BHANDARIX2021X75XB</xocs:refkey4ai>
+         <xocs:refkey5>BHANDARIX2021X75X89XB</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>B978-0-12-821403-9.00007-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>B978012821403900007X</xocs:pii-unformatted>
+         <xocs:eid>3-s2.0-B978012821403900007X</xocs:eid>
+         <xocs:doi>10.1016/B978-0-12-821403-9.00007-X</xocs:doi>
+         <xocs:cid>779355</xocs:cid>
+         <xocs:timestamp>2020-11-27T04:49:16.985603Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/MAIN/application/pdf/623cfa8f17f3cf7337603a8bbf660b50/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>690700</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>15</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>3-s2.0-B978012821403900007X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/PREVIEW/image/png/71ce73d1379423d82eeaca73380b71b7/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>53711</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/STRIPIN/image/svg+xml/d2681d00f1a48689f04776e4bcb899f0/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>5698</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/STRIPIN/image/svg+xml/032ef6461cc8a066933eb3ed690ecba1/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>6862</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-si3.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/STRIPIN/image/svg+xml/c446924884e16b64f6207ca73165d027/si3.svg</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>5475</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-01-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-01-9780128214039/DOWNSAMPLED/image/jpeg/f7da018435b9209b11b0e866727e4bed/f03-01-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-01-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-01-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46529</xocs:filesize>
+               <xocs:pixel-height>236</xocs:pixel-height>
+               <xocs:pixel-width>478</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-01-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-01-9780128214039/THUMBNAIL/image/gif/73a7eae3df91d0806ed9ea12ef446262/f03-01-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-01-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-01-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9908</xocs:filesize>
+               <xocs:pixel-height>108</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-02-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-02-9780128214039/DOWNSAMPLED/image/jpeg/8eedb65e3fc08d641096e9082e8faeee/f03-02-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-02-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-02-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>91342</xocs:filesize>
+               <xocs:pixel-height>321</xocs:pixel-height>
+               <xocs:pixel-width>484</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-02-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-02-9780128214039/THUMBNAIL/image/gif/669f7d5ca36f5f0b6078b84d865fcc0f/f03-02-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-02-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-02-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>30088</xocs:filesize>
+               <xocs:pixel-height>145</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-03-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-03-9780128214039/DOWNSAMPLED/image/jpeg/9617428ec5b3e41e66f0dea711825723/f03-03-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-03-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-03-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>94363</xocs:filesize>
+               <xocs:pixel-height>325</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-03-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-03-9780128214039/THUMBNAIL/image/gif/c8e4445c621d009ddba60498ae9ad9c8/f03-03-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-03-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-03-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>30890</xocs:filesize>
+               <xocs:pixel-height>145</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-04-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-04-9780128214039/DOWNSAMPLED/image/jpeg/37d2bc240ba269239f9f83c08146492f/f03-04-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-04-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-04-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>93177</xocs:filesize>
+               <xocs:pixel-height>367</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-04-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-04-9780128214039/THUMBNAIL/image/gif/cb01893ff8b356400a9adcade23a8212/f03-04-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-04-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-04-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>30050</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-05a-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-05a-9780128214039/DOWNSAMPLED/image/jpeg/e44183e0a34cece32e3df4dbcea5a5e6/f03-05a-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-05a-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-05a-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28989</xocs:filesize>
+               <xocs:pixel-height>277</xocs:pixel-height>
+               <xocs:pixel-width>466</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-05a-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-05a-9780128214039/THUMBNAIL/image/gif/85e7b33b7be80872efde6c8d1af61150/f03-05a-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-05a-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-05a-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10488</xocs:filesize>
+               <xocs:pixel-height>130</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-05b-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-05b-9780128214039/DOWNSAMPLED/image/jpeg/d5db7eb23ab5e0513398f349f4986f97/f03-05b-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-05b-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-05b-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25909</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>484</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-05b-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-05b-9780128214039/THUMBNAIL/image/gif/a9928dc4c262207208630daff3fcae46/f03-05b-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-05b-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-05b-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8562</xocs:filesize>
+               <xocs:pixel-height>111</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-05c-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-05c-9780128214039/DOWNSAMPLED/image/jpeg/5f0918d30af84193b677d350fd65f6c4/f03-05c-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-05c-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-05c-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33079</xocs:filesize>
+               <xocs:pixel-height>285</xocs:pixel-height>
+               <xocs:pixel-width>480</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-05c-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-05c-9780128214039/THUMBNAIL/image/gif/0f723d2e969d88717d06fc989ba03109/f03-05c-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-05c-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-05c-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10567</xocs:filesize>
+               <xocs:pixel-height>130</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-06a-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-06a-9780128214039/DOWNSAMPLED/image/jpeg/807f52efb3b51dcc8b7e471a730e7690/f03-06a-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-06a-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-06a-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31397</xocs:filesize>
+               <xocs:pixel-height>275</xocs:pixel-height>
+               <xocs:pixel-width>481</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-06a-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-06a-9780128214039/THUMBNAIL/image/gif/c2ddcc4d446ede1a7409843ae72f48b1/f03-06a-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-06a-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-06a-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9157</xocs:filesize>
+               <xocs:pixel-height>125</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-06b-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-06b-9780128214039/DOWNSAMPLED/image/jpeg/89a1aa161b04adf26b99693ea638db4d/f03-06b-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-06b-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-06b-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33935</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>483</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-06b-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-06b-9780128214039/THUMBNAIL/image/gif/26d6aad781984555e8901c78434bd56e/f03-06b-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-06b-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-06b-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9600</xocs:filesize>
+               <xocs:pixel-height>123</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-07-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-07-9780128214039/DOWNSAMPLED/image/jpeg/747c2004c33f3492f286a27991697bc1/f03-07-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-07-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-07-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43790</xocs:filesize>
+               <xocs:pixel-height>364</xocs:pixel-height>
+               <xocs:pixel-width>475</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-07-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-07-9780128214039/THUMBNAIL/image/gif/c0a4e4ada08cd6302a0e26aac5bbecc4/f03-07-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-07-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-07-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10452</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>214</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-08-9780128214039.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-08-9780128214039/DOWNSAMPLED/image/jpeg/92161d69753ee8927e6417f65b35fa74/f03-08-9780128214039.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f03-08-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-08-9780128214039.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39981</xocs:filesize>
+               <xocs:pixel-height>360</xocs:pixel-height>
+               <xocs:pixel-width>484</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B978012821403900007X-f03-08-9780128214039.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B978012821403900007X/f03-08-9780128214039/THUMBNAIL/image/gif/f9e59b2f2a5cbfaf78faa822c5f65988/f03-08-9780128214039.sml</xocs:ucs-locator>
+               <xocs:file-basename>f03-08-9780128214039</xocs:file-basename>
+               <xocs:filename>f03-08-9780128214039.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9010</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:nonserial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <chapter xmlns="http://www.elsevier.com/xml/bk/dtd" docsubtype="chp" id="c0035" version="5.6" xml:lang="en">
+         <info>
+            <ce:pii>B978-0-12-821403-9.00007-X</ce:pii>
+            <ce:doi>10.1016/B978-0-12-821403-9.00007-X</ce:doi>
+            <ce:isbn>978-0-12-821403-9</ce:isbn>
+            <ce:copyright type="full-transfer" year="2021">Elsevier Inc.</ce:copyright>
+         </info>
+         <ce:floats>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 3.1</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">Share of the population with access to electricity, 2018.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0010" role="short">Fig. 3.1</ce:alt-text>
+               <ce:source>(Redrawn from IEA. SDG7: data and projections; 2019. Available: <ce:inter-ref id="ir0010" xlink:href="https://www.iea.org/reports/sdg7-data-and-projections" xlink:type="simple">https://www.iea.org/reports/sdg7-data-and-projections</ce:inter-ref>.)</ce:source>
+               <ce:link id="lk0010" locator="f03-01-9780128214039" xlink:href="pii:B978012821403900007X/f03-01-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3.2</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">An isolated Lama Hotel village in Rasuwa, Nepal.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0015" role="short">Fig. 3.2</ce:alt-text>
+               <ce:link id="lk0015" locator="f03-02-9780128214039" xlink:href="pii:B978012821403900007X/f03-02-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 3.3</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">Solar panel with battery bank house.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0020" role="short">Fig. 3.3</ce:alt-text>
+               <ce:link id="lk0020" locator="f03-03-9780128214039" xlink:href="pii:B978012821403900007X/f03-03-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 3.4</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">A typical Australian home with grid-tied PV system in New South Wales, Australia.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0025" role="short">Fig. 3.4</ce:alt-text>
+               <ce:link id="lk0025" locator="f03-04-9780128214039" xlink:href="pii:B978012821403900007X/f03-04-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 3.5</ce:label>
+               <ce:caption id="ca0030">
+                  <ce:simple-para id="sp0030" view="all">Various types of power systems (A) off-grid power system, (B) grid-tied power system, and (C) hybrid power system.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0030" role="short">Fig. 3.5</ce:alt-text>
+               <ce:link id="lk0030" locator="f03-05a-9780128214039" xlink:href="pii:B978012821403900007X/f03-05a-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:link id="lk0050" locator="f03-05b-9780128214039" xlink:href="pii:B978012821403900007X/f03-05b-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:link id="lk0055" locator="f03-05c-9780128214039" xlink:href="pii:B978012821403900007X/f03-05c-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 3.6</ce:label>
+               <ce:caption id="ca0035">
+                  <ce:simple-para id="sp0035" view="all">Solar cell characteristics (A) voltage-current characteristics and (B) voltage-power characteristics.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0035" role="short">Fig. 3.6</ce:alt-text>
+               <ce:link id="lk0035" locator="f03-06a-9780128214039" xlink:href="pii:B978012821403900007X/f03-06a-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:link id="lk0060" locator="f03-06b-9780128214039" xlink:href="pii:B978012821403900007X/f03-06b-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 3.7</ce:label>
+               <ce:caption id="ca0040">
+                  <ce:simple-para id="sp0040" view="all">Wind turbine power curve.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0040" role="short">Fig. 3.7</ce:alt-text>
+               <ce:link id="lk0040" locator="f03-07-9780128214039" xlink:href="pii:B978012821403900007X/f03-07-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Fig. 3.8</ce:label>
+               <ce:caption id="ca0045">
+                  <ce:simple-para id="sp0045" view="all">Factors affecting off-grid system expansion.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0045" role="short">Fig. 3.8</ce:alt-text>
+               <ce:source>(Redrawn from IRENA, International O¢-grid renewable energy conference. Key findings and recommendations; 2013.)</ce:source>
+               <ce:link id="lk0045" locator="f03-08-9780128214039" xlink:href="pii:B978012821403900007X/f03-08-9780128214039" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 3.1</ce:label>
+               <ce:caption id="ca0050">
+                  <ce:simple-para id="sp0050" view="all">Primary indicators of the global process toward SDG7 targets.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0050" role="short">Table 3.1</ce:alt-text>
+               <ce:source>IEA, IRENA, UNSD, WBG, and WHO, 2019 Tracking SDG7: the energy progress report; 2019.</ce:source>
+               <tgroup cols="3">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2010</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">2017</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">People without electricity access</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">1.2 billion</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">840 million</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">People without clean cooking</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2.96 billion</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">2.90 billion</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Total % energy from renewables</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">16.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">17.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Primary energy intensity</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">5.9<hsp sp="0.12"/>MJ/USD</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">5.1<hsp sp="0.12"/>MJ/USD</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0015" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 3.2</ce:label>
+               <ce:caption id="ca0055">
+                  <ce:simple-para id="sp0055" view="all">Off-grid electricity end-uses in 2017 in MW <ce:cross-ref id="cf0010" refid="bb0015">[2]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="al0055" role="short">Table 3.2</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">End-use sector</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Hydropower</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Solar PV</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Wind</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Bioenergy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">Geothermal</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Industry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">2780</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">50</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Commercial</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">430</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Residential</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">280</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Agriculture</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">210</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Mixed-use (minigrid)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">360</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">310</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">480</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Not known</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">1500</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">–</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <ce:label>Chapter 3</ce:label>
+         <ce:title id="ti0010">Off-grid hybrid renewable energy systems and their contribution to sustainable development goals</ce:title>
+         <ce:author-group id="ag0010">
+            <ce:author author-id="B978012821403900007X-4a610a36cc0231988ade62018a0cc2ad" id="au0010">
+               <ce:given-name>Binayak</ce:given-name>
+               <ce:surname>Bhandari</ce:surname>
+               <ce:cross-ref id="cf0015" refid="af0010">
+                  <ce:sup loc="post">a</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:author author-id="B978012821403900007X-a834a34bc4f413467e4841811223949d" id="au0015">
+               <ce:given-name>Sung-Hoon</ce:given-name>
+               <ce:surname>Ahn</ce:surname>
+               <ce:cross-ref id="cf0020" refid="af0015">
+                  <ce:sup loc="post">b</ce:sup>
+               </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation affiliation-id="B978012821403900007X-89dd4dfa6f857c614afa27210ea9c7b4" id="af0010">
+               <ce:label>a</ce:label>
+               <ce:textfn id="tn0010">Department of Railroad Engineering and Transport Management, Woosong University, Daejeon, South Korea</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Railroad Engineering and Transport Management</sa:organization>
+                  <sa:organization>Woosong University</sa:organization>
+                  <sa:city>Daejeon</sa:city>
+                  <sa:country>South Korea</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="se0010">Department of Railroad Engineering and Transport Management, Woosong University, Daejeon, Korea</ce:source-text>
+            </ce:affiliation>
+            <ce:affiliation affiliation-id="B978012821403900007X-82582c986d308c9df08e3e0283081aa4" id="af0015">
+               <ce:label>b</ce:label>
+               <ce:textfn id="tn0015">Department of Mechanical and Aerospace Engineering, Seoul National University, Seoul, South Korea</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Department of Mechanical and Aerospace Engineering</sa:organization>
+                  <sa:organization>Seoul National University</sa:organization>
+                  <sa:city>Seoul</sa:city>
+                  <sa:country>South Korea</sa:country>
+               </sa:affiliation>
+               <ce:source-text id="se0015">Department of Mechanical and Aerospace Engineering, Seoul National University, Seoul, Korea</ce:source-text>
+            </ce:affiliation>
+         </ce:author-group>
+         <ce:abstract class="author" id="ab0010" view="extended" xml:lang="en"><ce:abstract-sec id="as0010" view="all">
+               <ce:simple-para id="sp0060" view="all">The seventh Sustainable Development Goals (SDGs) are to provide “Affordable and clean energy” to all by 2030. To achieve this, efforts should be made using renewable energy sources such as solar, wind, hydro, and thermal energy, particularly, in all developing countries to encourage power generation growth and help the environment. Renewable energy is free, abundant, and possesses non-polluting characteristics. Receiving energy from the above alternative energy sources has been around for a long time. In this chapter, the basic requirements and challenges of renewable energy-based power systems along with the role of the off-grid power system in achieving the seventh SDGs are discussed. Examples of several off-grid implementations are presented.</ce:simple-para>
+            </ce:abstract-sec></ce:abstract>
+         <ce:keywords class="keyword" id="ks0010" view="extended">
+            <ce:section-title id="st0015">Keywords</ce:section-title>
+            <ce:keyword id="kw0010">
+               <ce:text id="tx0010">Off-grid power systems</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kw0015">
+               <ce:text id="tx0015">Hybrid renewable energy system</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kw0020">
+               <ce:text id="tx0020">Sustainable development goals</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kw0025">
+               <ce:text id="tx0025">Clean energy</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:sections>
+            <ce:section id="s0010" view="all">
+               <ce:label>3.1</ce:label>
+               <ce:section-title id="st0020">Introduction</ce:section-title>
+               <ce:para id="p0010" view="all">According to the Energy Information Administration (EIA) 2019 report, global energy consumption will increase by 28% between 2015 and 2040; a large portion of this energy will be provided by fossil fuels. Fossil fuels such as coal and oil contribute significantly to carbon dioxide emissions, global warming, and air pollution. As a part of the 2015 Paris Agreement, governments around the world are engaged to ramp down greenhouse gas emissions to prevent the adverse effect of climate change. One alternative is to shift the generation of energy from fossil fuels to renewable energy sources. A sharp decrease in fossil fuels reserve worldwide is also a reason to reduce dependency on these nonrenewable energy resources.</ce:para>
+               <ce:para id="p0015" view="all">Global access to electricity has been steadily rising in recent decades. In 2017, the total number of the population without electricity fell below one billion for the first time in decades. The data show that global access to electricity surpassed 87% in 2016 but still far from meeting the universal access goal by 2030. Thus, off-grid power systems can help meet the energy needs of the population in remote places. In addition, remote systems, such as repeater stations and radio telecommunication stations, depend on the off-grid power systems. Many factors must be carefully analyzed before deciding on a full-phase renewable energy-based off-grid power generation system.</ce:para>
+               <ce:para id="p0020" view="all">The majority of the population without access to electricity live in rural areas. <ce:cross-ref id="cf0025" refid="f0010">Fig. 3.1</ce:cross-ref>
+                  <ce:float-anchor refid="f0010"/> shows the percentage of electricity access in Asia, Africa, and Latin American countries. To provide electricity access in an environmentally sustainable manner to these remote population, the off-grid power system with minigird can be a solution. Access to electricity in the developing countries has improved over the years, and the share of renewable energy in the electricity sector has also increased <ce:cross-ref id="cf0030" refid="bb0010">[1]</ce:cross-ref>. Access to reliable and affordable electricity affects the quality of life, access to basic services, and livelihoods <ce:cross-ref id="cf0035" refid="bb0015">[2]</ce:cross-ref>. <ce:cross-ref id="cf0040" refid="t0010">Table 3.1</ce:cross-ref>
+                  <ce:float-anchor refid="t0010"/> compares the electricity access and related data for the years 2010 and 2017.</ce:para>
+               <ce:para id="p0025" view="all">Over the past decade, the deployment of off-grid power and minigrid systems has seen huge progress because technology cost has decreased and efficiency increased <ce:cross-ref id="cf0045" refid="bb0015">[2]</ce:cross-ref>. However, the systems depend on weather conditions which may hinder stable power supply and therefore the use of multiple renewable energy resources to produce power is required. One of the most challenging tasks of the off-grid power system is to balance the load demand and electrical load anomaly detection. Wang and Ahn <ce:cross-ref id="cf0050" refid="bb0020">[3]</ce:cross-ref> proposed an electrical load anomaly detection framework, which includes a hybrid one-step ahead load predictor (OSA-LP), and a rule-engine-based load anomaly detector (RE-AD) to detect the load of the off-grid solar plant in Ngurdoto, Tanzania.</ce:para>
+               <ce:para id="p0030" view="all">Despite the challenges, according to the 2018 IRENA report <ce:cross-ref id="cf0055" refid="bb0015">[2]</ce:cross-ref>, nearly 133 million people in 2016 were served globally by off-grid renewable energy, a sixfold increase from 2011. This is evident from the number of recent publications highlighting the implementation of the off-grid renewable system in various countries and its socioeconomic impacts <ce:cross-refs id="cf0060" refid="bb0025 bb0030 bb0035 bb0040">[4–7]</ce:cross-refs>. The attraction toward the off-grid system is also because of the engagement of diverse stakeholders such as local entrepreneurs, international investors, and financial institutions with customized financing models, such as pay-as-you-go (PAYG) and microfinancing <ce:cross-ref id="cf0065" refid="bb0015">[2]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0035" view="all">This chapter reviews the background of renewable energy systems and the impact of off-grid systems in providing affordable and clean energy to un-electrified areas and finally discusses the role of the off-grid power system in achieving the seventh objective of the SDGs.</ce:para>
+            </ce:section>
+            <ce:section id="s0015" view="all">
+               <ce:label>3.2</ce:label>
+               <ce:section-title id="st0025">Types of power systems (based on the connection)</ce:section-title>
+               <ce:para id="p0040" view="all">A large portion of the global supply of electricity is generated by the fossil-fuel-based power system. However, because of the adverse effect on the environment, restrictions are implied to reduce the use of fossil fuels for energy generation. On the other hand, there is a global trend toward the use of renewable energy-based power systems for expanding, upgrading. and modernizing power systems. The decentralized power generation with renewable energies helps in reducing the dependence on fossil fuels, lower the investment for grid extension, and check various losses incurred during grid extensions. The main challenge in developing a renewable energy-based power system is that the power production fluctuates depending on the availability of energy resources, weather, and climatic conditions.</ce:para>
+               <ce:para id="p0045" view="all">The majority of the household without electricity live in remote and isolated rural areas, mostly in developing countries sparsely scattered over a vast geographic location. Because of economic and technical reasons, the governments often have difficulty in providing electric power to their entire citizen through the centralized grid. The off-grid power system is an alternative to grid extension in rural and isolated areas.</ce:para>
+               <ce:section id="s0020" view="all">
+                  <ce:label>3.2.1</ce:label>
+                  <ce:section-title id="st0030">Off-grid or stand-alone power systems</ce:section-title>
+                  <ce:para id="p0050" view="all">The stand-alone power system is also known as an off-the-grid power system that is not fitted with an electricity distribution system and is independent of the electric grid. Some of the popular electrical power generation systems are photovoltaic systems using PV panel, wind turbine, micro-hydro, and diesel or biofuel generator. An energy storage device such as a battery bank is typically implemented in a stand-alone power system which makes the system expensive.</ce:para>
+                  <ce:para id="p0055" view="all">Remote and isolated power systems depend entirely on renewable energy systems such as repeater tower stations, radio telecommunication stations, etc. Depending on the resource availability at a particular location, two or more renewable energy sources with complementary characters such as Photovoltaic (PV) and Wind hybrid systems can be used to increase the reliability <ce:cross-ref id="cf0070" refid="bb0045">[8]</ce:cross-ref>. Such a system can range from a small home system to a large system that can power a village or an island.</ce:para>
+                  <ce:para id="p0060" view="all">A minigrid is an independent distribution grid that operates in isolation from a centralized national grid. Minigrid serves a limited number of consumers with a small-scale electricity generation system.</ce:para>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2.1.1</ce:label>
+                     <ce:section-title id="st0035">A case of Lama Hotel village in Nepal</ce:section-title>
+                     <ce:para id="p0065" view="all">Lama Hotel village is located at an altitude of 2478<ce:hsp sp="0.12"/>m above sea level and is within the conservation area of Langtang National Park. It is surrounded by high mountains on the east, west, and the north, and it takes 8–10<ce:hsp sp="0.12"/>h of trekking along the Langtang River to reach this place from the nearest motor-able road in Syafrubeshi. It has only seven houses, all in all serving as a temporary staying in for trekkers and a camping site for many dwellers as seen in <ce:cross-ref id="cf0075" refid="f0015">Fig. 3.2</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>.</ce:para>
+                     <ce:para id="p0070" view="all">For decades, the community of Lama Hotel lived without electricity and their life was centered on sun and firewood. Because of the difficult geographical location, there is a feeble chance of national grid extension to this area. Such is the place for an off-grid power system. A team of volunteers including authors designed 2.2<ce:hsp sp="0.12"/>kW off-grid PV system in 2011 which is serving the villagers and thousands of tourists every year <ce:cross-ref id="cf0080" refid="bb0050">[9]</ce:cross-ref>. <ce:cross-ref id="cf0085" refid="f0020">Fig. 3.3</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/> shows the installed PV system with the battery house.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>3.2.2</ce:label>
+                  <ce:section-title id="st0040">Grid-tied power systems</ce:section-title>
+                  <ce:para id="p0075" view="all">On-grid or grid-tied systems allow the excess electricity generated by the system to be added onto the national-grid instead of storing it in batteries. Batteries are inefficient in storing energy and often degrades with time. Grid-tie inverter (GTI) is used in this type of power system to synchronize the phase and frequency of the current to fit the utility grid (50<ce:hsp sp="0.12"/>Hz or 60<ce:hsp sp="0.12"/>Hz). The output voltage is adjusted in such a way that the excess electricity flows outward to the grid. In the case of insufficient electricity production, electricity can be drawn in from the grid. Consumers only need to pay for what they consume after deducting the power they put into the grid. This scheme is called net-metering. Net metering is a national policy to promote private investment in renewable energy-based power production. Net metering uses a bidirectional energy meter (or net meter) which can measure incoming and outgoing current. The other scheme is called Net Billing where prosumers (producers + consumers of electricity) are charged/compensated based on the actual market value of electricity taking into consideration of what they consume against what they supply into the grid.</ce:para>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.2.2.1</ce:label>
+                     <ce:section-title id="st0045">A case of New South Wales, Australia</ce:section-title>
+                     <ce:para id="p0080" view="all">Most of the houses in Australia are connected to the electricity grid that is powered by large power plants using fossil fuels such as coal. Australian government's plan to tackle climate change and harness clean energy from the abundant solar renewable energy introduced solar home programs. That is why the majority of newly built Australian houses have solar panels on their roof and are grid connected without the need for the batteries. The house owners are attracted by the Australian Government subsidy scheme. According to the scheme up to Australian Dollar (AUD) 5000 or 60% rebate is provided by the Australian Government for grid-tied solar power systems. Majority of houses have 5kw - 10<ce:hsp sp="0.12"/>kW PV installation. For example, the cost of 6.5<ce:hsp sp="0.12"/>kW PV system installation is around AUD 7000, of which 60% is refunded as rebate by government needing only about AUD 3000 by the house owner. <ce:cross-ref id="cf0090" refid="f0025">Fig. 3.4</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/> shows a typical house with a grid-tied PV system in New South Wales, Australia.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>3.2.3</ce:label>
+                  <ce:section-title id="st0050">Hybrid power systems</ce:section-title>
+                  <ce:para id="p0085" view="all">Hybrid power systems combine the best of grid-tied and off-grid power systems. Hybrid power systems are less expensive than off-grid power systems because this eliminates the necessity of large battery storage capacity; however, it is expensive than the grid-tied power systems.</ce:para>
+                  <ce:para id="p0090" view="all">Although the grid-tied system can generate power during the outage, the inverter will be shut off and the power produced can neither be sent to the grid nor be used by household because of inverter's anti-islanding protection safety function. The anti-islanding protection feature is an inverter function that senses the problem with power grid, such as power outage, and shuts itself to stop feeding power to the electric grid. The feature assumes that the workers are diapatched for fixing outage; thus, there should be no electricity flow in the grid for the workers’ safety. Unlike the grid-connected system, hybrid power system comprising battery backup can secure power even during grid outages. Hybrid power systems with energy storage can isolate from the grid (called islanding) and can supply power during blackout also.</ce:para>
+                  <ce:para id="p0095" view="all">
+                     <ce:cross-ref id="cf0095" refid="f0030">Fig. 3.5</ce:cross-ref>
+                     <ce:float-anchor refid="f0030"/> shows the schematics of various types of the renewable energy-based power generation system.</ce:para>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.2.3.1</ce:label>
+                     <ce:section-title id="st0055">Case study of California, United States</ce:section-title>
+                     <ce:para id="p0100" view="all">Currently, in the USA, 37 states and Washington, DC offer net metering. Net metering offers the distributed energy producer to put excess power in the electric grid to be used by other consumers. The energy meter can rotate in both directions when the power is sent onto the grid, the meter “spins” backward and vice versa. Thus, net-metering means the total electricity used by consumer at the end of the month after deducting the power put to the grid from the power consumed from the grid.</ce:para>
+                     <ce:para id="p0105" view="all">Modified version of net-metering is called “energy storage net energy metering” and is colloquially called “NEM-paired storage” which has battery storage. NEM-paired storage was codified into law in California in February of 2019 permitting customers to receive credits for stored solar energy sent back to the grid. <ce:cross-ref id="cf0100" refid="bb0055">[10]</ce:cross-ref> California has lower rates for solar energy sent to the grid in the midday while it is higher in the evening. Therefore, grid-tied system (without battery storage) can only receive reduced payback who can export during the day. Contrary to that, hybrid power systems with energy storage can store midday generation and sell it to the grid at the peak time (in the evening). This can have a double benefit: first, it addresses the challenge of “duck curve,” and second, the distributed generator makes more money for the same energy pumped to the grid.</ce:para>
+                  </ce:section>
+               </ce:section>
+            </ce:section>
+            <ce:section id="s0050" view="all">
+               <ce:label>3.3</ce:label>
+               <ce:section-title id="st0060">Off-grid power systems based on renewable energies</ce:section-title>
+               <ce:para id="p0110" view="all">The three end-uses of renewable energy are electricity, heat, and transport. The use of renewables for electricity has grown fastest, because of the rapid expansion of wind, solar, and hydropower technologies. As of 2016, the share of renewables in electricity generation was 24% <ce:cross-ref id="cf0105" refid="bb0060">[11]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0115" view="all">Hydro, wind, and solar energy are the top renewable energy sources in terms of globally installed capacity. Because of the periodic nature of renewable energy sources such as wind and solar, often hybrid renewable energy sources (HRES) are employed for better reliability and the need for smaller energy storage devices. Commercially viable off-grid hybrid renewable energy systems for electricity generation include PV-battery, PV-diesel, wind-battery, wind-diesel, PV-wind-battery, and PV-wind-diesel-battery systems. Bhandari et al. <ce:cross-ref id="cf0110" refid="bb0065">[12]</ce:cross-ref> built the first off-grid hybrid power system comprised of solar photovoltaic, wind, and hydro energy sources in the remote mountainous village in Nepal. Development of off-grid renewables for other productive uses such as cooking, heating is also possible but it is beyond the scope of the present review.</ce:para>
+               <ce:para id="p0120" view="all">According to the IRENA report, the total off-grid capacity in 2017 was 6.6 GW. Solar PV contributes to the majority of use in commercial and residential use while bioenergy has maximum share in industrial use. The detailed end-uses of off-grid renewable power are shown in <ce:cross-ref id="cf0115" refid="t0015">Table 3.2</ce:cross-ref>
+                  <ce:float-anchor refid="t0015"/>.</ce:para>
+               <ce:section id="s0055" view="all">
+                  <ce:label>3.3.1</ce:label>
+                  <ce:section-title id="st0065">Solar power system</ce:section-title>
+                  <ce:para id="p0125" view="all">The solar power system or a PV power system converts sunlight directly into electricity. The power output of a PV array is based on solar irradiance and ambient temperature and is calculated as <ce:cross-ref id="cf0120" refid="bb0070">[13]</ce:cross-ref>
+                     <ce:display>
+                        <ce:formula id="fo0010">
+                           <ce:label>(3.1)</ce:label>
+                           <mml:math altimg="si1.svg" display="block">
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mi mathvariant="italic">pv</mml:mi>
+                              </mml:msub>
+                              <mml:mo linebreak="goodbreak">=</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>η</mml:mi>
+                                 <mml:mi mathvariant="italic">pvg</mml:mi>
+                              </mml:msub>
+                              <mml:mo>⋅</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>A</mml:mi>
+                                 <mml:mi mathvariant="italic">pvg</mml:mi>
+                              </mml:msub>
+                              <mml:mo>⋅</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>G</mml:mi>
+                                 <mml:mi>t</mml:mi>
+                              </mml:msub>
+                              <mml:mo>,</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>η</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>pvg</ce:italic>
+                     </ce:inf> is PV generation efficiency, <ce:italic>A</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>pvg</ce:italic>
+                     </ce:inf> is PV generator area (m<ce:sup loc="post">2</ce:sup>), and <ce:italic>G</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>t</ce:italic>
+                     </ce:inf> is solar irradiation in tilted module plane (W/m<ce:sup loc="post">2</ce:sup>). <ce:cross-ref id="cf0125" refid="f0035">Fig. 3.6</ce:cross-ref>
+                     <ce:float-anchor refid="f0035"/>. shows the voltage and current characteristics for various irradiation levels.</ce:para>
+                  <ce:para id="p0130" view="all">In 2016, more than 124 million people accessed lighting and other electrical services in Africa using solar lights and solar home systems. In Asia, more than 70 million people benefited from solar light and solar home systems in the same year. Bangladesh alone deployed 4.1 million solar systems in 2017 to provide electricity to more than 18 million people in 2017.</ce:para>
+               </ce:section>
+               <ce:section id="s0060" view="all">
+                  <ce:label>3.3.2</ce:label>
+                  <ce:section-title id="st0070">Wind power system</ce:section-title>
+                  <ce:para id="p0135" view="all">The wind turbine is designed to produce power at a wide range of wind speeds. Location plays an important role in the performance and efficiency of a wind turbine. The governing equation for calculating the mechanical power of the wind turbine is given by<ce:display>
+                        <ce:formula id="fo0015">
+                           <ce:label>(3.2)</ce:label>
+                           <mml:math altimg="si2.svg" display="block">
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mi>w</mml:mi>
+                              </mml:msub>
+                              <mml:mo linebreak="goodbreak">=</mml:mo>
+                              <mml:mfrac>
+                                 <mml:mn>1</mml:mn>
+                                 <mml:mn>2</mml:mn>
+                              </mml:mfrac>
+                              <mml:msub>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mi>p</mml:mi>
+                              </mml:msub>
+                              <mml:mfenced close=")" open="(" separators=",">
+                                 <mml:mi>λ</mml:mi>
+                                 <mml:mi>β</mml:mi>
+                              </mml:mfenced>
+                              <mml:mi>ρ</mml:mi>
+                              <mml:msup>
+                                 <mml:mi mathvariant="italic">AV</mml:mi>
+                                 <mml:mn>3</mml:mn>
+                              </mml:msup>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>ρ</ce:italic> is air density (kg/m<ce:sup loc="post">3</ce:sup>), <ce:italic>C</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>p</ce:italic>
+                     </ce:inf> is the power coefficient, <ce:italic>A</ce:italic> is intercepting area of the rotor blades (m<ce:sup loc="post">2</ce:sup>), <ce:italic>V</ce:italic> is average wind speed (m/s), and <ce:italic>λ</ce:italic> is tip speed ratio. The theoretical maximum value of the power coefficient <ce:italic>C</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>p</ce:italic>
+                     </ce:inf> is 0.593, known as Betz's coefficient <ce:cross-ref id="cf0130" refid="bb0075">[14]</ce:cross-ref>. <ce:cross-ref id="cf0135" refid="f0040">Fig. 3.7</ce:cross-ref>
+                     <ce:float-anchor refid="f0040"/> shows the wind turbine power curve for a range of wind velocity.</ce:para>
+               </ce:section>
+               <ce:section id="s0065" view="all">
+                  <ce:label>3.3.3</ce:label>
+                  <ce:section-title id="st0075">Hydropower system</ce:section-title>
+                  <ce:para id="p0140" view="all">Modern-day hydro turbines originated from ancient water wheels. Hydropower provides about 20% of all electricity worldwide. The mechanical power generated by the turbine is given by<ce:display>
+                        <ce:formula id="fo0020">
+                           <ce:label>(3.3)</ce:label>
+                           <mml:math altimg="si3.svg" display="block">
+                              <mml:mi>P</mml:mi>
+                              <mml:mo linebreak="goodbreak">=</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>η</mml:mi>
+                                 <mml:mi mathvariant="italic">total</mml:mi>
+                              </mml:msub>
+                              <mml:mi mathvariant="italic">ρgQH</mml:mi>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>P</ce:italic> is mechanical power output produced at the turbine, <ce:italic>η</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> is hydraulic efficiency of the turbine, <ce:italic>ρ</ce:italic> is the density of water (1000<ce:hsp sp="0.12"/>kg/m<ce:sup loc="post">3</ce:sup>), <ce:italic>g</ce:italic> is the acceleration due to gravity (9.81<ce:hsp sp="0.12"/>m/s<ce:sup loc="post">2</ce:sup>), and <ce:italic>H</ce:italic> is effective pressure head (m).</ce:para>
+                  <ce:para id="p0145" view="all">More than 6.4 million people were served by hydropower-based minigrid in 2016 as reported by IRENA. In Nepal alone, the installed capacity of off-grid micro-hydro is 50<ce:hsp sp="0.12"/>MW from over 2500 systems in 2017 <ce:cross-ref id="cf0140" refid="bb0015">[2]</ce:cross-ref>.</ce:para>
+               </ce:section>
+            </ce:section>
+            <ce:section id="s0070" view="all">
+               <ce:label>3.4</ce:label>
+               <ce:section-title id="st0080">Role of off-grid power systems in attaining sustainable development goals</ce:section-title>
+               <ce:para id="p0150" view="all">All United Nations (UN) member states in 2015 adopted 17 sustainable development goals (SDGs) for peace and prosperity for people and the planet to attain by the year 2030 <ce:cross-ref id="cf0145" refid="bb0080">[15]</ce:cross-ref>. SDGs are intertwined together, that is, one goal contributes to achieving other goals. 7th SDG is to ensure global access to affordable, reliable, sustainable, and modern energy for all. This highlights the importance of energy that contributes to other goals such as ending poverty and improving health, and to the development of education and gender equality.</ce:para>
+               <ce:para id="p0155" view="all">To achieve the goal by 2030, the current pace of electricity expansion must be accelerated. It is estimated that rural electrification using the off-grid systems will supply nearly 60% of the additional generation needed to achieve universal electricity access <ce:cross-ref id="cf0150" refid="bb0085">[16]</ce:cross-ref>. Easy access to electricity will stimulate economic and social development and will lead to an improvement in the quality of life by helping reduce extreme poverty and providing universal primary education. Bhandari et al. <ce:cross-ref id="cf0155" refid="bb0025">[4]</ce:cross-ref> reported on the impact of the off-grid power system in the remote mountainous village in Nepal. The impact of electrification was measured on the household's lighting usage, education, social structure, environment, income, and level of satisfaction.</ce:para>
+               <ce:para id="p0160" view="all">Since 2010, 80% of the 800 million people in Asia gained access to electricity. According to the World Bank report <ce:cross-ref id="cf0160" refid="bb0090">[17]</ce:cross-ref>, Afghanistan, Nepal, and Bhutan are the three countries with the greatest increase in national electricity access rates from 2006 to 2016 where off-grid renewables have played a pivotal role in electrifying rural remote areas. The African continent has sharply increased the deployment of off-grid renewable energy in recent years too, and the population served by such systems grew rapidly from just over 2 million people in 2011 to over 53 million in 2016 <ce:cross-ref id="cf0165" refid="bb0015">[2]</ce:cross-ref>. However, African countries have uneven access to electricity, and the study suggests about 600 million people are still without access to electricity in sub-Saharan Africa <ce:cross-ref id="cf0170" refid="bb0095">[18]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0165" view="all">Accelerating off-grid installations toward achieving the SDGs requires collaborative actions across multiple elements such as financing models, policies and regulations, technology, institutional frameworks, capacity building, and cross-sector linkages <ce:cross-ref id="cf0175" refid="bb0100">[19]</ce:cross-ref> as shown in <ce:cross-ref id="cf0180" refid="f0045">Fig. 3.8</ce:cross-ref>
+                  <ce:float-anchor refid="f0045"/>. Off-grid renewable energy supports basic services, such as health, water, education, and livelihoods through productive end-uses. For larger population coverage, power from the off-grid systems can be integrated into a single distribution grid known as minigrid that is independent of a national grid. These minigrids are considered to be the most economical long-term solution for electricity access as they are flexible in terms of sizing and resource utilization. Off-grid and minigrid solutions powered by renewables already provide electricity to nearly 90 million people <ce:cross-ref id="cf0185" refid="bb0105">[20]</ce:cross-ref> which is evident that the off-grid power system has a bigger role to play in meeting SDGs objectives.</ce:para>
+            </ce:section>
+            <ce:section id="s0075" view="all">
+               <ce:label>3.5</ce:label>
+               <ce:section-title id="st0085">Conclusions</ce:section-title>
+               <ce:para id="p0170" view="all">As of 2019, globally 840 million people are without access to electricity, the majority are concentrated in Sub-Saharan Africa. Although a significant portion of those will have access to reliable electricity by 2030, SDC 7 is likely to be reached partially with the current trend. It has been projected that around 650 million people are likely to remain without access to electricity by 2030 <ce:cross-ref id="cf0190" refid="bb0050">[9]</ce:cross-ref>. A large majority of such people will be in Sub-Saharan Africa.</ce:para>
+               <ce:para id="p0175" view="all">The off-grid power system can play a significant role in providing reliable electricity without adverse environmental impact to the vast population living far from the national grid reach contributing to sustainability. The various options reviewed here offer opportunities to reach the 7th objective of SDGs.</ce:para>
+            </ce:section>
+         </ce:sections>
+         <ce:bibliography id="bi0010" view="all">
+            <ce:section-title id="st0090">References</ce:section-title>
+            <ce:bibliography-sec id="bs0010" view="all">
+               <ce:bib-reference id="bb0010">
+                  <ce:label>[1]</ce:label>
+                  <sb:reference id="rf0010">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>Progress of goal 7 in 2019</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Available</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:e-host>
+                           <ce:inter-ref id="ir0015" xlink:href="https://sustainabledevelopment.un.org/sdg7" xlink:type="simple">https://sustainabledevelopment.un.org/sdg7</ce:inter-ref>
+                           <sb:date>2020</sb:date>
+                        </sb:e-host>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0020">(2020, 21 Jan 2020). Progress of goal 7 in 2019. Available: https://sustainabledevelopment.un.org/sdg7</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0015">
+                  <ce:label>[2]</ce:label>
+                  <sb:reference id="rf0015">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>I. R. E. Agency</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Off-grid renewable energy solutions</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:date>2018</sb:date>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0025">I. R. E. Agency, "Off-grid renewable energy solutions," 2018.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0020">
+                  <ce:label>[3]</ce:label>
+                  <sb:reference id="rf0020">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Wang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.H.</ce:given-name>
+                              <ce:surname>Ahn</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Real-time prediction and anomaly detection of electrical load in a residential community</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Appl Energy</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>259</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2020</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>1</sb:first-page>
+                           <sb:last-page>10</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0030">X. Wang and S. H. Ahn, "Real-time prediction and anomaly detection of electrical load in a residential community," Applied Energy, vol. 259, pp. 1-10, 2020.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0025">
+                  <ce:label>[4]</ce:label>
+                  <sb:reference id="rf0025">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Bhandari</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.T.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>W.S.</ce:given-name>
+                              <ce:surname>Chu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>C.S.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>C.K.</ce:given-name>
+                              <ce:surname>Song</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>P.</ce:given-name>
+                              <ce:surname>Bhandari</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Socio-economic impact of renewable energy-based power system in mountainous villages of Nepal</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Int J Pr Eng Man-GT</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>4</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2017</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>37</sb:first-page>
+                           <sb:last-page>44</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0035">B. Bhandari, K. T. Lee, W. S. Chu, C. S. Lee, C. K. Song, P. Bhandari, et al., "Socio-Economic Impact of Renewable Energy-Based Power System in Mountainous Villages of Nepal," International Journal of Precision Engineering and Manufacturing-Green Technology, vol. 4, pp. 37-44, 2017.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0030">
+                  <ce:label>[5]</ce:label>
+                  <sb:reference id="rf0030">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.H.</ce:given-name>
+                              <ce:surname>Ahn</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.T.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Bhandari</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>G.Y.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>C.S.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>C.K.</ce:given-name>
+                              <ce:surname>Song</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Formation strategy of renewable energy sources for high mountain off-grid system considering sustainability</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J Korean Soc Precis Eng</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>29</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2012</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>958</sb:first-page>
+                           <sb:last-page>963</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0040">S. H. Ahn, K. T. Lee, B. Bhandari, G. Y. Lee, C. S. Lee, and C. K. Song, "Formation Strategy of Renewable Energy Sources for High Mountain Off-grid System Considering Sustainability," Journal of the Korean Society for Precision Engineering, vol. 29, pp. 958-963, 2012.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0035">
+                  <ce:label>[6]</ce:label>
+                  <sb:reference id="rf0035">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Z.</ce:given-name>
+                              <ce:surname>Addin</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>W.</ce:given-name>
+                              <ce:surname>Merida</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Hybrid energy systems for off-grid power supply and hydrogen production based on renewable energy: a techno-economic analysis</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Energy Convers Manag</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>196</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2019</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>1068</sb:first-page>
+                           <sb:last-page>1079</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0045">Z. Addin and W. Merida, "Hybrid energy systems for off-grid power supply and hydrogen production based on renewable energy: A techno-economic analysis," Energy Conversion and Management, vol. 196, pp. 1068-1079, 2019.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0040">
+                  <ce:label>[7]</ce:label>
+                  <sb:reference id="rf0040">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>M.M.</ce:given-name>
+                              <ce:surname>Rahman</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.M.U.H.</ce:given-name>
+                              <ce:surname>Khan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.A.</ce:given-name>
+                              <ce:surname>Ullah</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>X.</ce:given-name>
+                              <ce:surname>Zhang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Kumar</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>A hybrid renewable energy system for a north American off-grid community</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Energy</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>97</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2016</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>151</sb:first-page>
+                           <sb:last-page>160</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0050">M. M. Rahman, M. M. U. H. Khan, M. A. Ullah, X. Zhang, and A. Kumar, "A hybrid renewable energy system for a North American off-grid community," Energy, vol. 97, pp. 151-160, 2016.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0045">
+                  <ce:label>[8]</ce:label>
+                  <sb:reference id="rf0045">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Bhandari</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.-H.</ce:given-name>
+                              <ce:surname>Ahn</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>T.-B.</ce:given-name>
+                              <ce:surname>Ahn</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Optimization of hybrid renewable energy power system for remote installations: case studies for mountain and island</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Int J Precis Eng Manuf</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>17</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2016</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>815</sb:first-page>
+                           <sb:last-page>822</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0055">B. Bhandari, S.-H. Ahn, and T.-B. Ahn, "Optimization of hybrid renewable energy power system for remote installations: Case studies for mountain and island," International Journal of Precision Engineering and Manufacturing, vol. 17, pp. 815-822, 2016.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0050">
+                  <ce:label>[9]</ce:label>
+                  <sb:reference id="rf0050">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Bhandari</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>G.Y.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.T.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>H.S.</ce:given-name>
+                              <ce:surname>Yoon</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.H.</ce:given-name>
+                              <ce:surname>Kim</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.H.</ce:given-name>
+                              <ce:surname>Song</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.S.</ce:given-name>
+                              <ce:surname>Moon</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>R.K.</ce:given-name>
+                              <ce:surname>Maskey</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.H.</ce:given-name>
+                              <ce:surname>Ahn</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Off-grid sustainable small-scale photovoltaic (PV) project in high altitude region of Nepal</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:edited-book>
+                           <sb:conference>Addressing climate change for sustainable development through up-scaling renewable energy technologies, October 12–14, Kathmandu, Nepal</sb:conference>
+                           <sb:date>2011</sb:date>
+                        </sb:edited-book>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0060">Bhandari, B., Lee, G. Y., Lee, K. T., Yoon, H. S., Kim, D. H., Song, S. H., Moon, J. S., Ramesh K. Maskey, Ahn, S. H., 2011, "Off-grid sustainable small-scale Photovoltaic (PV) project in high altitude region of Nepal," Addressing Climate Change For Sustainable Development Through Up-Scaling Renewable Energy Technologies, October 12-14, Kathmandu, Nepal.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0055">
+                  <ce:label>[10]</ce:label>
+                  <sb:reference id="rf0055">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>Energy storage net metering: An Illustration of why it's so valuable</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>from</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:e-host>
+                           <ce:inter-ref id="ir0025" xlink:href="https://www.energystorageconsultants.com/energy-storage-net-metering-an-illustration-of-why-its-so-valuable/" xlink:type="simple">https://www.energystorageconsultants.com/energy-storage-net-metering-an-illustration-of-why-its-so-valuable/</ce:inter-ref>
+                        </sb:e-host>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0065">Energy storage net metering: An Illustration of why it's so valuable, from https://www.energystorageconsultants.com/energy-storage-net-metering-an-illustration-of-why-its-so-valuable/</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0060">
+                  <ce:label>[11]</ce:label>
+                  <sb:reference id="rf0060">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>IEA</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:surname>IRENA</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:surname>UNSD</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:surname>WBG</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:surname>WHO</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>2019 Tracking SDG7: the energy progress report</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:date>2019</sb:date>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0070">IEA, IRENA, UNSD, WBG, and WHO, "2019 Tracking SDG7: The Energy Progress Report," 2019.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0065">
+                  <ce:label>[12]</ce:label>
+                  <sb:reference id="rf0065">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Bhandari</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.T.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>C.S.</ce:given-name>
+                              <ce:surname>Lee</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>C.K.</ce:given-name>
+                              <ce:surname>Song</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>R.K.</ce:given-name>
+                              <ce:surname>Maskey</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.H.</ce:given-name>
+                              <ce:surname>Ahn</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>A novel off-grid hybrid power system comprised of solar photovoltaic, wind, and hydro energy sources</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Appl Energy</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>133</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2014</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>236</sb:first-page>
+                           <sb:last-page>242</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0075">B. Bhandari, K. T. Lee, C. S. Lee, C. K. Song, R. K. Maskey, and S. H. Ahn, "A novel off-grid hybrid power system comprised of solar photovoltaic, wind, and hydro energy sources," Applied Energy, vol. 133, pp. 236-242, 2014.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0070">
+                  <ce:label>[13]</ce:label>
+                  <sb:reference id="rf0070">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Diaf</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>G.</ce:given-name>
+                              <ce:surname>Notton</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Belhamel</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Haddadi</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Louche</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Design and techno-economical optimization for hybrid PV/wind system under various meteorological conditions</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Appl Energy</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>85</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2008</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>968</sb:first-page>
+                           <sb:last-page>987</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0080">S. Diaf, G. Notton, M. Belhamel, M. Haddadi, and A. Louche, "Design and techno-economical optimization for hybrid PV/wind system under various meteorological conditions," Applied Energy, vol. 85, pp. 968-987, 2008.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0075">
+                  <ce:label>[14]</ce:label>
+                  <sb:reference id="rf0075">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>A.</ce:given-name>
+                              <ce:surname>Betz</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Introduction to the theory of flow machines</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:date>1966</sb:date>
+                           <sb:publisher>
+                              <sb:name>Pergamon Press</sb:name>
+                              <sb:location>Oxford</sb:location>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0085">A. Betz, Introduction to the Theory of Flow Machines. Oxford: Pergamon Press, 1966.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0080">
+                  <ce:label>[15]</ce:label>
+                  <sb:reference id="rf0080">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>UN</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>(13 March). Available</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:e-host>
+                           <ce:inter-ref id="ir0035" xlink:href="https://sustainabledevelopment.un.org/?menu=1300" xlink:type="simple">https://sustainabledevelopment.un.org/?menu=1300</ce:inter-ref>
+                        </sb:e-host>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0090">UN. (13 March). Available: https://sustainabledevelopment.un.org/?menu=1300</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0085">
+                  <ce:label>[16]</ce:label>
+                  <sb:reference id="rf0085">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>IEA</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:surname>UNDP</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:surname>INIDO</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Energy poverty how to make modern energy access universal?</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:date>2010</sb:date>
+                           <sb:publisher>
+                              <sb:name>International Energy Agency</sb:name>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0095">IEA, UNDP, and INIDO, "Energy Poverty How to make modern energy access universal?," International Energy Agency 2010.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0090">
+                  <ce:label>[17]</ce:label>
+                  <sb:reference id="rf0090">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>UN</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Access to electricity (% of population)</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:comment>Available:</sb:comment>
+                     <sb:host>
+                        <sb:e-host>
+                           <ce:inter-ref id="ir0045" xlink:href="https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS" xlink:type="simple">https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS</ce:inter-ref>
+                           <sb:date>2019</sb:date>
+                        </sb:e-host>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0100">UN. (2019, 12 March). Access to electricity (% of population). Available: https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0095">
+                  <ce:label>[18]</ce:label>
+                  <sb:reference id="rf0095">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>IEA</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>SDG7: data and projections</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:comment>Available:</sb:comment>
+                     <sb:host>
+                        <sb:e-host>
+                           <ce:inter-ref id="ir0055" xlink:href="https://www.iea.org/reports/sdg7-data-and-projections" xlink:type="simple">https://www.iea.org/reports/sdg7-data-and-projections</ce:inter-ref>
+                           <sb:date>2019</sb:date>
+                        </sb:e-host>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0105">IEA. (2019). SDG7: Data and Projections. Available: https://www.iea.org/reports/sdg7-data-and-projections</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0100">
+                  <ce:label>[19]</ce:label>
+                  <sb:reference id="rf0100">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>IRENA</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>REthinking Energy 2017</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:date>2017</sb:date>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0110">IRENA, "REthinking Energy 2017," 2017.</ce:source-text>
+               </ce:bib-reference>
+               <ce:bib-reference id="bb0105">
+                  <ce:label>[20]</ce:label>
+                  <sb:reference id="rf0105">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:surname>B. a. L. Global</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Off-Grid Solar Market Trends Report 2016</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:date>2016</sb:date>
+                           <sb:publisher>
+                              <sb:name>World Bank Group</sb:name>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+                  <ce:source-text id="se0115">B. a. L. Global, " Off-grid Solar Market Trends Report 2016," World Bank Group 2016.</ce:source-text>
+               </ce:bib-reference>
+            </ce:bibliography-sec>
+         </ce:bibliography>
+      </chapter>
+   </xocs:nonserial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,2267 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2405844023020662</prism:url><dc:identifier>doi:10.1016/j.heliyon.2023.e14859</dc:identifier><eid>1-s2.0-S2405844023020662</eid><prism:doi>10.1016/j.heliyon.2023.e14859</prism:doi><pii>S2405-8440(23)02066-2</pii><dc:title>Land use-land cover change in the Tano basin, Ghana and the implications on sustainable development goals </dc:title><prism:publicationName>Heliyon</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>24058440</prism:issn><prism:volume>9</prism:volume><prism:issueIdentifier>4</prism:issueIdentifier><prism:startingPage>e14859</prism:startingPage><prism:pageRange>e14859</prism:pageRange><prism:number>4</prism:number><articleNumber>e14859</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2023-04-30</prism:coverDate><prism:coverDisplayDate>April 2023</prism:coverDisplayDate><prism:copyright>© 2023 The Author. Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author. Published by Elsevier Ltd.</prism:publisher><dc:creator>Larbi, Isaac</dc:creator><dc:description>
+                  The changes in land use and land cover (LULC) contribute to carbon emissions that lead to climate change and global warming. Obtaining information on LULC change is of necessity to ensure land transformation planning, and anthropogenic and natural impact evaluation. The objective of this study is to analyze the historical changes in LULC in the Tano River Basin of Ghana, to provide scientific information for decision-making on achieving sustainable development. A supervised classification of Landsat images (1986, 2010, and 2020) using the Random Forest algorithm was performed, as well as a post-classification comparison of LULC maps in terms of area and size. A “from–to” matrix was used to identify the changes in LULC that occurred between the periods 1986–2010, 2010–2020, and 1986–2020. The results show an overall classification accuracy of 88.9, 88.5, and 88% for LULC maps for the years 1986, 2010, and 2020, respectively. Between the period 1986 and 2020, there is a conversion of the greater part of dense forest to open forest, and subsequently to settlement and cropland as a major historical LULC change pattern in the Tano basin. Cropland and Settlement increased at the rate of 24.8 km/yr and 1.5 km/yr respectively, while Dense forest and Open forest decreased at the rate of 298.4 km/yr and 173.9 km/yr over the period 1986 to 2020. The study outputs are not only useful for formulating and implementing national policies and programs but also, can contribute to assessing and monitoring progress towards attaining Sustainable Development Goal 13 (climate action).
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Land use change</dcterms:subject><dcterms:subject>Landsat images</dcterms:subject><dcterms:subject>Tano river basin</dcterms:subject><dcterms:subject>Sustainable development goals</dcterms:subject><dcterms:subject>Ghana</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2405844023020662" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2405844023020662" rel="scidir"/></coredata><objects><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="491" height="456" size="130043">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="289" size="151439">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="731" height="451" size="192446">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="176" height="163" size="76356">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="129" size="83674">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="135" size="81719">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2174" height="2018" size="485997">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2167" height="1281" size="1103825">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3236" height="1998" size="1145684">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="505957">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844023020662-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85151410591</scopus-id><scopus-eid>2-s2.0-85151410591</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85151410591" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>313379</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291735</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291795</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291806</xocs:ssid>
+         <xocs:ssid type="subj">291828</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291845</xocs:ssid>
+         <xocs:ssid type="subj">291848</xocs:ssid>
+         <xocs:ssid type="subj">291861</xocs:ssid>
+         <xocs:ssid type="subj">291871</xocs:ssid>
+         <xocs:ssid type="subj">291875</xocs:ssid>
+         <xocs:ssid type="subj">291876</xocs:ssid>
+         <xocs:ssid type="subj">291884</xocs:ssid>
+         <xocs:ssid type="subj">291889</xocs:ssid>
+         <xocs:ssid type="subj">291919</xocs:ssid>
+         <xocs:ssid type="subj">291929</xocs:ssid>
+         <xocs:ssid type="subj">291934</xocs:ssid>
+         <xocs:ssid type="subj">291938</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Heliyon</xocs:srctitle>
+      <xocs:normalized-srctitle>HELIYON</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20230324">2023-03-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20230324">2023-03-24</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20230330">2023-03-30</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20230330">2023-03-30</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-05-17T23:57:17</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2405844023020662</xocs:eid>
+      <xocs:pii-formatted>S2405-8440(23)02066-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2405844023020662</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.heliyon.2023.e14859</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2405844023X0005X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240518">2024-05-18T00:14:28.83276Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20230401</xocs:date-search-begin>
+      <xocs:date-search-end>20230430</xocs:date-search-end>
+      <xocs:year-nav>2023</xocs:year-nav>
+      <xocs:indexeddate epoch="1679702954">2023-03-25T00:09:14.861761Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor orcid primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2405-8440</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24058440</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>9</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>9</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 9, Issue 4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>247</xocs:sort-order>
+      <xocs:first-fp>e14859</xocs:first-fp>
+      <xocs:article-number>e14859</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>e14859</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202304</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2023</xocs:cover-date-text>
+      <xocs:cover-date-start>2023-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2023-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2023</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research Article</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2023 The Author. Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>LANDUSELANDCOVERCHANGEINTANOBASINGHANAIMPLICATIONSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LARBI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>I</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and method</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Study area</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Landsat images and reference data</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mapping, accuracy assessment and change detection of land use-land cover</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>LULC accuracy statistics</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Patterns and changes in land use land cover over the period 1986 to 2020</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Author contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Funding statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Data availability statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>LAMBIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>261</xocs:ref-first-fp>
+            <xocs:ref-last-lp>269</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>HALMY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>101e112</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>MEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15e24</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>WENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>273e284</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>LASTWILDPROJECTVERSION1LWP1GLOBALHUMANFOOTPRINTDATASETGEOGRAPHIC</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>620</xocs:ref-first-fp>
+            <xocs:ref-last-lp>634</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>PIELKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1625</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1626</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>BONGERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>642</xocs:ref-first-fp>
+            <xocs:ref-last-lp>643</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>CHAZDON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-article-number>e1501639</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>ACHARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2540</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2554</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>PONGRATZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-article-number>L08702</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TANORIVERBASININTEGRATEDWATERRESOURCESMANAGEMENTPLAN</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>AWOTWI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>LARBI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>SENTINEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>COPESERCORP170071SENTINELSDATAACCESSANNUALREPORTSENTINELDATAACCESSANNUALREPORT0112201530112016</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>370e384</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>ZOUNGRANA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-last-lp>77</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>LARBI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>CONGALTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>34</xocs:ref-first-fp>
+            <xocs:ref-last-lp>46</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>BREIMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5</xocs:ref-first-fp>
+            <xocs:ref-last-lp>23</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>FORKUOR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>AGRICULTURALLANDUSEMAPPINGINWESTAFRICAUSINGMULTISENSORSATELLITEIMAGERYPHDDISSERTATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>PONTIUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1011</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1016</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>ASUMADUSARKODIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10968</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10982</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>YIRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>187</xocs:ref-first-fp>
+            <xocs:ref-last-lp>199</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>SYLLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6475</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6488</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>ROBERTSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>38</xocs:ref-first-fp>
+            <xocs:ref-last-lp>46</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LARBIX2023Xe14859</xocs:refkey3>
+         <xocs:refkey4ai>LARBIX2023Xe14859XI</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2023-03-21T04:48:58Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2023 The Author. Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2023-04-08T07:50:45.505Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>International Foundation for Science</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>IFS</xocs:funding-agency-acronym>
+            <xocs:funding-agency>International Foundation for Science</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001724</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2661886/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>Dr Isaac Larbi was supported by International Foundation for Science [IFS ref: 1-2-W-6259-1 ]. </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2405-8440(23)02066-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2405844023020662</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2405844023020662</xocs:eid>
+         <xocs:doi>10.1016/j.heliyon.2023.e14859</xocs:doi>
+         <xocs:cid>313379</xocs:cid>
+         <xocs:timestamp>2024-05-18T00:14:28.83276Z</xocs:timestamp>
+         <xocs:cover-date-start>2023-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2023-04-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/MAIN/application/pdf/a2b7898139078237027e5831cf015692/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>3077375</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2405844023020662-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/PREVIEW/image/png/f353877aeb89988a56af0e2388d11b1a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50428</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/gr2/DOWNSAMPLED/image/jpeg/fe358c36d868b55d79944ecb787b2b64/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>130043</xocs:filesize>
+               <xocs:pixel-height>456</xocs:pixel-height>
+               <xocs:pixel-width>491</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/gr3/DOWNSAMPLED/image/jpeg/1d15e207a2c3a64247703d95980b3bcc/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>151439</xocs:filesize>
+               <xocs:pixel-height>289</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/gr1/DOWNSAMPLED/image/jpeg/fe8f6c60644fa24fccf4f22a02873b7b/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>192446</xocs:filesize>
+               <xocs:pixel-height>451</xocs:pixel-height>
+               <xocs:pixel-width>731</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/gr2/THUMBNAIL/image/gif/09030f449ab20060441dfb8373d43e0e/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>76356</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>176</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/gr3/THUMBNAIL/image/gif/b497e39f1ca141b51e7b12ea7aff3c94/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>83674</xocs:filesize>
+               <xocs:pixel-height>129</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/gr1/THUMBNAIL/image/gif/f07d4ff6fbf954220db598dce326d4e6/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>81719</xocs:filesize>
+               <xocs:pixel-height>135</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/HIGHRES/image/jpeg/41e531943dfd71a6cd49ba1c0c6ce689/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>485997</xocs:filesize>
+               <xocs:pixel-height>2018</xocs:pixel-height>
+               <xocs:pixel-width>2174</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/HIGHRES/image/jpeg/514d2799e17ebaf0f4208866ff1de56d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1103825</xocs:filesize>
+               <xocs:pixel-height>1281</xocs:pixel-height>
+               <xocs:pixel-width>2167</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844023020662/HIGHRES/image/jpeg/6f950e2c0ac55f04e0c30297a17449ef/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1145684</xocs:filesize>
+               <xocs:pixel-height>1998</xocs:pixel-height>
+               <xocs:pixel-width>3236</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844023020662-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10HTMSWWZ5X/MAIN/application/pdf/63c8c12a6ab38ce190d392ae5be84699/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>505957</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>HLY</jid>
+            <aid>14859</aid>
+            <ce:article-number>e14859</ce:article-number>
+            <ce:pii>S2405-8440(23)02066-2</ce:pii>
+            <ce:doi>10.1016/j.heliyon.2023.e14859</ce:doi>
+            <ce:copyright type="other" year="2023">The Author</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">(a) Map of the TRB within Ghana and the locations of climate observations (b) rainfall and temperature distribution for the period 1985–2016, (c) elevation, and (d) LULC types [<ce:cross-ref refid="bib15" id="crosref0225">15</ce:cross-ref>].</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0010">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2405844023020662/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Flow chart for land use mapping and change detection.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2405844023020662/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Spatial pattern of LULC types in the Tano basin for the years (a) 1986, (b) 2010 and (c) 2020.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2405844023020662/gr3"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3a" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 3a</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="tspara0010" view="all">Accuracy results based on the classification of the LULC maps (a) Year 1986; Overall accuracy = 88.9%; Kappa = 0.87.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Table 3a</ce:alt-text>
+               <tgroup cols="9">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Open Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Dense Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Settlement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Water bodies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Row total</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">User Accuracy (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Producer Accuracy (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>36</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">90.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">87.8</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Open Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>29</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">37</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">78.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">74.4</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Dense Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>32</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">80.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">88.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Settlement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>34</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">37</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">91.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Water bodies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>11</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Column total</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">41</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">165</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3b" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 3b</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="tspara0015" view="all">Year 2010; Overall accuracy = 88.5%; Kappa = 0.82</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Table 3b</ce:alt-text>
+               <tgroup cols="9">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Open Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Dense Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Settlement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Water bodies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Row total</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">User Accuracy (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Producer Accuracy (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>31</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">86.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">86.6</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Open Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>30</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">76.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">78.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Dense Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>32</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">37</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">86.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">80.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Settlement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>31</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">91.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">96.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Water bodies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>12</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Column total</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">162</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3c" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 3c</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="tspara0020" view="all">Year 2020; Overall accuracy = 88%; Kappa = 0.86</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Table 3c</ce:alt-text>
+               <tgroup cols="9">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Open Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Dense Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Settlement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Water bodies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Row total</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">User Accuracy (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Producer Accuracy (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>26</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">29</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">89.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">83.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Open Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>22</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">26</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">84.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">81.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Dense Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>20</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">87.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">90.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Settlement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>14</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">87.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Water bodies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>6</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Column total</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">27</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="tspara0025" view="all">General characteristics of the downloaded Landsat images.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Table 1</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Date of acquisition Range</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Platform (sensor)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Scene path and row (p, r)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">No. of bands</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2020-01-28; 2019-12-24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Landsat 8 (OLI/TIRS)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">p193r055; p194r055; p195r055</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">11</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2010-10-24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Landsat 7 (ETM+)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">p193r056; p194r056; p195r056</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1986-11-02</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Landsat 4/5 (TM)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="tspara0030" view="all">OLI: Operational Land Imager; ETM+: Enhanced thematic mapper, Thematic Mapper (TM); Bands used: 7, 5, 4, and 2.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="tspara0035" view="all">Classification scheme used for this study as modified from Larbi et al. [<ce:cross-ref refid="bib19" id="crosref0230">19</ce:cross-ref>].</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0045">Table 2</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LULC categories</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Description</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Waterbody</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Areas that are perpetually submerged in either moving or still water, such as lakes, rivers, and reservoirs.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Open Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Primarily a combination of grasses and bushes with a few sparse trees (about 10 trees per hectare).</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Settlement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">artificial surfaces, areas of human settlements, roads, etc.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Irrigated and rain-fed agricultural lands, harvested cropland.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Dense Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Protected woodland, locations with trees that are typically over 5 m tall, and riparian plants and shrubs.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl4" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="tspara0040" view="all">LULC distribution from 1986 to 2020 (area in km<ce:sup loc="post">2</ce:sup>).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0050">Table 4</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">S/N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LULC Class</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1986</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2010</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2020</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">681.3 (4.5%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">588.9 (3.9%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2114.6 (14.0%)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Dense Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8088.9 (53.6%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5945.8 (39.4)%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3889.4 (25.8%)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Open Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5644.8 (37.4%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6182.8 (41.0%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5914.6 (39.2%)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Settlement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">648.7 (4.3%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2364.7 (15.7%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3064.5 (20.3)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Water Bodies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">19.4 (0.1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.9 (0.01)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100.1 (0.7)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="tspara0045" view="all">Note: The values in the bracket indicate percentage area coverage of each LULC type.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl5" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 5</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="tspara0050" view="all">Statistics for LULC change and the rate of change from 1986 to 2020.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0055">Table 5</ce:alt-text>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" role="rowgroup">LULC Type</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="colgroup" namest="col2" nameend="col4">Area change (km<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="colgroup" namest="col5" nameend="col7">Rate of change (km<sup loc="post">2</sup>) per year</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1986–2010</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2010–2020</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1986–2020</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1986–2010</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2010–2020</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1986–2020</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Cropland</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−92.4 (-13.6%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1525.7 (259.1%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">844.5 (39.9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−3.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">152.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">24.8</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Dense Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−2143.2 (-26.5%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−2056.4 (-34.6%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−10145 (260%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−89.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−205.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−298.4</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Open Forest</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">538.0 (9.5%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−268.3 (-4.3%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−5913 (100%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">22.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−26.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−173.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Settlement</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1716.0 (264.5%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">699.8 (29.6%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">51.1 (1.7%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">71.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">70.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Water Bodies</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−18.5 (-94.4%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">99.2 (109.6%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">79.8 (79.7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.3</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="tspara0055" view="all">Note: values in the bracket indicate the percentage change in LULC type; – values show a decrease while + values show an increase.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dhead0010">
+               <ce:textfn>Research article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="title0010">Land use-land cover change in the Tano basin, Ghana and the implications on sustainable development goals</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" orcid="0000-0001-8748-0649" author-id="S2405844023020662-a21d370764d37c8a36ef5b82ee791a63">
+                  <ce:given-name>Isaac</ce:given-name>
+                  <ce:surname>Larbi</ce:surname>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2405844023020662-afc307792e10097723ac285c0dfba879">
+                  <ce:textfn>School of Sustainable Development, University of Environment and Sustainable Development, Somanya, Ghana</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Sustainable Development</sa:organization>
+                     <sa:organization>University of Environment and Sustainable Development</sa:organization>
+                     <sa:city>Somanya</sa:city>
+                     <sa:country>Ghana</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">School of Sustainable Development, University of Environment and Sustainable Development, Somanya, Ghana</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="5" month="9" year="2022"/>
+            <ce:date-revised day="19" month="3" year="2023"/>
+            <ce:date-accepted day="20" month="3" year="2023"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">The changes in land use and land cover (LULC) contribute to carbon emissions that lead to climate change and global warming. Obtaining information on LULC change is of necessity to ensure land transformation planning, and anthropogenic and natural impact evaluation. The objective of this study is to analyze the historical changes in LULC in the Tano River Basin of Ghana, to provide scientific information for decision-making on achieving sustainable development. A supervised classification of Landsat images (1986, 2010, and 2020) using the Random Forest algorithm was performed, as well as a post-classification comparison of LULC maps in terms of area and size. A “from–to” matrix was used to identify the changes in LULC that occurred between the periods 1986–2010, 2010–2020, and 1986–2020. The results show an overall classification accuracy of 88.9, 88.5, and 88% for LULC maps for the years 1986, 2010, and 2020, respectively. Between the period 1986 and 2020, there is a conversion of the greater part of dense forest to open forest, and subsequently to settlement and cropland as a major historical LULC change pattern in the Tano basin. Cropland and Settlement increased at the rate of 24.8 km/yr and 1.5 km/yr respectively, while Dense forest and Open forest decreased at the rate of 298.4 km/yr and 173.9 km/yr over the period 1986 to 2020. The study outputs are not only useful for formulating and implementing national policies and programs but also, can contribute to assessing and monitoring progress towards attaining Sustainable Development Goal 13 (climate action).</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Land use change</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Landsat images</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Tano river basin</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Sustainable development goals</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Ghana</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0020">Introduction</ce:section-title>
+                  <ce:para id="p0010" view="all">Land use and land cover (LULC) change, an old phenomenon, has gained attention due to unchecked human actions that have altered the earth's biophysical properties over time. According to Lambin et al. [<ce:cross-ref refid="bib1" id="crosref0010">1</ce:cross-ref>], LULC change is a disjunct process that, if not checked, can initiate other changes in the system. The causes of changes in LULC have been associated with anthropogenic factors such as deforestation, intensification of agriculture, and rapid urbanization that have greatly altered a large proportion of regions [<ce:cross-refs refid="bib2 bib3 bib4" id="crosrefs0010">2–4</ce:cross-refs>]. According to CIESIN [<ce:cross-ref refid="bib5" id="crosref0015">5</ce:cross-ref>], human activities have affected about 83% of the Earth's land surface. Therefore, obtaining information on LULC patterns is necessary to ensure land transformation planning, anthropogenic and natural impact evaluation [<ce:cross-ref refid="bib6" id="crosref0020">6</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0015" view="all">LULC change, such as the conversion of vegetation to other land use types, may impact the global carbon cycle due to the addition or removal of greenhouse gases from the atmosphere [<ce:cross-ref refid="bib7" id="crosref0025">7</ce:cross-ref>]. Evidence shows that carbon removals and emissions due to changes in forest cover play a vital role in the carbon cycle at global and local scales [<ce:cross-ref refid="bib8" id="crosref0030">8</ce:cross-ref>,<ce:cross-ref refid="bib9" id="crosref0035">9</ce:cross-ref>], and their impact has been included in a recent assessment of carbon changes in the tropics during the 1990–2010 period [<ce:cross-ref refid="bib10" id="crosref0040">10</ce:cross-ref>]. The emission of greenhouse gases due to land use change would lead to global warming and climate change. According to Pongratz et al. [<ce:cross-ref refid="bib11" id="crosref0045">11</ce:cross-ref>], the changes in LULC can also affect the climate through biophysical effects on surface albedo, evapotranspiration, and surface roughness.</ce:para>
+                  <ce:para id="p0020" view="all">In the Tano River Basin (TRB) of Ghana, forest cover plays a vital role in environmental conservation and local climate regulation. The evergreen forest of the TRB, in particular, plays a major role in sequestering carbon and offers tremendous potential for reducing greenhouse gas emissions. However, due to human activity over the past few decades, the TRB's primary rainforest and biodiversity have undergone significant and quick changes [<ce:cross-ref refid="bib12" id="crosref0050">12</ce:cross-ref>]. Logging and timber harvesting within the forest belt has already affected the natural ecosystem to a crucial point [<ce:cross-ref refid="bib12" id="crosref0055">12</ce:cross-ref>]. In the majority of the forest reserves, there is also extensive and noticeable cocoa farming along with gold mining. All of these human activities not only endanger the TRB's vegetation but also complicate the management of the area's natural resources. Apart from a study by Awotwi et al. [<ce:cross-ref refid="bib13" id="crosref0060">13</ce:cross-ref>] on tracking land use and land cover changes brought on by extensive gold mining, urban growth, and agriculture in Ghana's Pra River Basin, which is adjacent to the TRB, little is known about past and potential changes in LULC and their effects on sustainable development in the study region. The study aims to analyze the changes in LULC between the periods of 1986 and 2020 and provide scientific information for decision-making on achieving sustainable development.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0025">Materials and method</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0030">Study area</ce:section-title>
+                     <ce:para id="p0025" view="all">The TRB with an estimated area of about 15,083 km<ce:sup loc="post">2</ce:sup> spans between latitudes 50 N - 70 40′ N and longitudes 20 00′ W- 30 15′ W in Ghana (<ce:cross-ref refid="fig1" id="crosref0065">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>a). Rainfall at the basin is bi-modal with the major season from March to July, minor season from September to November, with August as a short dry spell month (<ce:cross-ref refid="fig1" id="crosref0070">Fig. 1</ce:cross-ref>b). The mean annual rainfall for the basin is about 1390 mm, the temperature is about 25.9 °C and the Relative humidity ranges between 75% and 85% throughout the year [<ce:cross-ref refid="bib14" id="crosref0075">14</ce:cross-ref>]. At the spatial scale, the temperature increases from the south to the North, while rainfall decreases from the south to the north [<ce:cross-ref refid="bib12" id="crosref0080">12</ce:cross-ref>,<ce:cross-ref refid="bib14" id="crosref0085">14</ce:cross-ref>]. The elevation ranges between 0 m and 774 m (<ce:cross-ref refid="fig1" id="crosref0090">Fig. 1</ce:cross-ref>c), with the basin mainly dominated by forest (76.9%) and agriculture (15.2%), with grassland and settlements covering the rest of the area [<ce:cross-ref refid="bib14" id="crosref0095">14</ce:cross-ref>,<ce:cross-ref refid="bib15" id="crosref0100">15</ce:cross-ref>]. Agriculture is the main activity in the basin with extensive cocoa farming taking place in the protected areas. Coconut plantation is also cultivated along the coastal strip of the basin. The basin's population is estimated to be about 2.4 million with a growth rate of about 2.2%/year [<ce:cross-ref refid="bib12" id="crosref0105">12</ce:cross-ref>].</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0035">Landsat images and reference data</ce:section-title>
+                     <ce:para id="p0030" view="all">United States Geological Survey (USGS) archived Landsat images from 1986, 2010, and 2020 with a 30 m spatial range were used for the classification and change detection. The images that were downloaded are already completely corrected and come from Level 2 collections [<ce:cross-ref refid="bib16" id="crosref0110">16</ce:cross-ref>]. The characteristics of the Landsat images used in this research are displayed in <ce:cross-ref refid="tbl1" id="crosref0115">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>.</ce:para>
+                     <ce:para id="p0035" view="all">Additionally, the downloaded images were chosen using a cloud cover threshold of less than 10%. To reduce confusion between cropland and vegetation, all of the images were obtained during the dry season (December–January) [<ce:cross-ref refid="bib17" id="crosref0120">17</ce:cross-ref>,<ce:cross-ref refid="bib18" id="crosref0125">18</ce:cross-ref>]. For training and accuracy evaluation purposes during Landsat image classification, ground-truth data from Google Earth (Spot 5, 2.5 m resolution) and field surveys were gathered. The Congalton [<ce:cross-ref refid="bib19" id="crosref0130">19</ce:cross-ref>] rule-of-thumb theory was applied to ensure that each LULC class received at least 50 points.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0040">Mapping, accuracy assessment and change detection of land use-land cover</ce:section-title>
+                     <ce:para id="p0040" view="all">The non-parametric Random Forest supervised image classification algorithm, a component of the R program, was used to classify the Landsat images [<ce:cross-ref refid="bib20" id="crosref0135">20</ce:cross-ref>]. The land use mapping technique is depicted in <ce:cross-ref refid="fig2" id="crosref0140">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>. A collection of decision trees that are created autonomously by a machine learning algorithm called a random forest. A random collection of training samples (2/3) is used to create the tree of a random forest. The generalization mistakes linked to a single classification tree are overcome by increasing the number of trees during classification by increasing classification accuracy [<ce:cross-ref refid="bib20" id="crosref0145">20</ce:cross-ref>]. Based on the researcher's previous study and previous studies e.g. Refs. [<ce:cross-ref refid="bib18" id="crosref0150">18</ce:cross-ref>,<ce:cross-ref refid="bib21" id="crosref0155">21</ce:cross-ref>], of the study area, a classification system with five classes was implemented and modified: water bodies, cropland, open forest, settlement, and dense forest (<ce:cross-ref refid="tbl2" id="crosref0160">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>). In this research, the algorithm was trained using high-resolution satellite images from Google Earth and ground truth data from a field campaign in 2019. Two-thirds of the training data are used for classification by the algorithm, and one-third of the leftover training samples are used for internal validation or accuracy evaluation.</ce:para>
+                     <ce:para id="p0045" view="all">Using a confusion matrix method, the accuracy of the LULC maps for the years 1986, 2010, and 2020 was evaluated in order to validate the classified images. The kappa coefficient, errors of commission, errors of omission, and accuracy of the producer and consumer could all be evaluated using the confusion matrix formula [<ce:cross-ref refid="bib19" id="crosref0165">19</ce:cross-ref>]. Using a post-classification comparison of the LULC maps method in terms of area of size, the changes in LULC over the 34 years were assessed. A “from-to” matrix method was used to identify the changes in LULC that happened between the time periods 1986–2010, 2010–2020, and 1986–2020. Additionally, the percentage of LULC change and the rate of change over the past 34 years were calculated.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0045">Results</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0050">LULC accuracy statistics</ce:section-title>
+                     <ce:para id="p0050" view="all">
+                        <ce:cross-refs refid="tbl3a tbl3b tbl3c" id="crosrefs0015">Table 3</ce:cross-refs>
+                        <ce:float-anchor refid="tbl3a"/>(a-b)<ce:float-anchor refid="tbl3b"/>
+                        <ce:float-anchor refid="tbl3c"/> shows the results for accuracy assessment of the LULC maps with overall classification accuracy of 88.9%, 88.5% and 88% for the years 1986, 2010 and 2020 respectively. The heterogeneity of the region and the misclassification of cropland as grassland as a result of the use of mono-temporal data may be responsible for the acquired classification accuracy. According to Pontius [<ce:cross-ref refid="bib22" id="crosref0170">22</ce:cross-ref>], the recommended minimum level of accuracy is around 80%, hence in general, the classified LULC maps are acceptable for change analysis.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0055">Patterns and changes in land use land cover over the period 1986 to 2020</ce:section-title>
+                     <ce:para id="p0055" view="all">Presented in <ce:cross-ref refid="fig3" id="crosref0175">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> are the classified land use/cover maps for the Tano basin produced for the years 1986, 2010, and 2020. The basin was initially predominantly dominated by natural vegetation with several protected areas especially in the southern part, with few settlements and agricultural activities. Presented in <ce:cross-ref refid="tbl4" id="crosref0180">Table 4</ce:cross-ref>
+                        <ce:float-anchor refid="tbl4"/> are the results for the area covered by each LULC type. In the year 1986, about 53.6% of the total area of the basin was occupied by dense forest, followed by open Forest (34.7%), with smaller areas occupied by cropland, water and settlement (<ce:cross-ref refid="tbl4" id="crosref0185">Table 4</ce:cross-ref>). In the year 2020, open forest recorded the highest area coverage (39.2%), followed by dense forest (25.8%), settlement (20.3%) and other classes occupying smaller areas.</ce:para>
+                     <ce:para id="p0060" view="all">
+                        <ce:cross-ref refid="tbl5" id="crosref0190">Table 5</ce:cross-ref>
+                        <ce:float-anchor refid="tbl5"/> shows the changes in LULC and the rate of change over the period 1986 to 2020. The results show that between the years 1986 and 2010, about 26.5% of the Dense Forest in the basin was lost to open forest and settlement which showed an increase of 9.6% and 265.5% respectively. The southern part of the basin which was mostly covered by Dense Forest has now become Open Forest while settlement also expanded at the extreme north of the basin. During 2010 to 2020 period, a continuous decrease in dense forest (−34.6%) was noticed, especially in the southern and northwestern part of the basin. At the same time, open Forest has also been converted to cropland, while settlement also shows a similar increase (29.6%) at the extreme north of the basin. The decrease in the dense forest between 1986 and 2010 can be partlybe attributed to the increase in cropland. The rate of change in the LULC type was found to be higher for Dense Forest which shows a decrease of −298.4 km<ce:sup loc="post">2</ce:sup> annually between 1986 and 2020, followed by open forest with an annual rate loss of 173.9 km<ce:sup loc="post">2</ce:sup>, while cropland shows an increase at the rate of 24.8 km<ce:sup loc="post">2</ce:sup>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="discussion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0060">Discussion</ce:section-title>
+                  <ce:para id="p0065" view="all">The LULC patterns and changes over the Tano basin were assessed for the historical period of 1986–2020. In general, the obtained results indicate that there is an increasing human influence in the basin through the development of settlements and cropland, which is causing a decrease in the forest area. According to WRC [<ce:cross-ref refid="bib12" id="crosref0195">12</ce:cross-ref>], land use in the Tano River basin is mostly agricultural, with extensive cocoa farming taking place in the protected areas. In the basin, Agriculture, particularly cocoa, plantain, cassava, maize and oil palm is the main source of employment accounting for about 70% of the Labour force [<ce:cross-ref refid="bib12" id="crosref0200">12</ce:cross-ref>]. This confirms the increase in cropland over the last 39 years in the basin, as also found by Awotwi et al. (2018) in the Pra River basin, an adjacent basin to the Tano basin. Another important activity in the basin is logging. This activity is mostly carried out on concessions granted to timber companies located within the forest belt. The people also rely on fuel wood as their main source of energy, which is obtained from the forest. All these human activities have contributed to the loss of dense and open forests in the basin.</ce:para>
+                  <ce:para id="p0070" view="all">Previous research in Ghana has demonstrated how unsustainable agricultural methods and the expansion of cropland lead to a rise in CO2 emissions [<ce:cross-ref refid="bib23" id="crosref0205">23</ce:cross-ref>]. Therefore, the findings of this research can aid in evaluating and tracking the advancement of SDG 13's (Sustainable Development Goals). For instance, the continuous loss of forest cover in the Tano basin, as discovered by this research, is significant information for the development of indicators required to monitor pertinent CO2 emission goals under SDG 13 (climate action). In its current form (i.e., 2020), LULC can help decision-makers create effective forest management plans that will guarantee the achievement of CO2 reduction goals by 2030. The findings of this research will also produce outputs that will aid in the achievement of other SDGs when applied to biophysical models. For instance, earlier research (e.g. Ref. [<ce:cross-ref refid="bib24" id="crosref0210">24</ce:cross-ref>]) discovered that alterations in LULC (e.g. expansion in cropland and degradation of savanna), increase peak discharge and change people's risk of flooding. These changes can eventually have an impact on water resources in terms of quality and quantity. When suitable steps are taken to control deforestation and land degradation, risks related to climate change, such as floods and droughts, which have been on the rise recently [<ce:cross-ref refid="bib25" id="crosref0215">25</ce:cross-ref>], can also be reduced.</ce:para>
+                  <ce:para id="p0075" view="all">Due to the Tano basin's ongoing population growth and the subsequent expansion of settlements, there will inevitably be a raise in food demand in the near future. To achieve this, policies that will boost agricultural output while preserving forest cover and cutting carbon emissions must be developed and promoted [<ce:cross-ref refid="bib26" id="crosref0220">26</ce:cross-ref>]. The following, among others, are some of the general areas for policy action in an effort to achieve economic prosperity and sustainable development because of the basin's abundant endowment of natural resources: (1) Natural resource management and mining, (2) Biodiversity management, (3) Protected Areas and Forest Management, and (4) Land Management and Forest Restoration. In this regard, the study will help the relevant national authorities to create the necessary natural resource policies necessary for the sustainable use of resources.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" role="conclusion" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sectitle0065">Conclusion</ce:section-title>
+                  <ce:para id="p0080" view="all">This study demonstrated the use of remote sensing and Geographic Information System in mapping the LULC conditions of the Tano basin and the application of post-classification change detection technique to assess the changes in LULC between 1986 and 2020. In general, there was a significant decrease in dense and open forests in the basin. The conversion of forest (dense and open) to cropland and settlement is seen as the major historical LULC change that has occurred at the basin. The study's findings support the findings of earlier research that the study region is experiencing deforestation or loss of vegetation cover. The expansion in cropland and settlement in the study area is an indication of the increase in socio-economic activities and population in the area. The decrease in dense and open forests necessitates the use of sustainable agriculture land management (SALM) practice which can intensify production without necessarily converting the basin's remaining forest. This study only looked at the historical changes in LULC without factoring the future changes, which needs to be considered in future studies. Also, spatial changes in LULC was not captured which is also a limitation.</ce:para>
+               </ce:section>
+               <ce:section id="sec6" view="all">
+                  <ce:section-title id="sectitle0070">Author contribution statement</ce:section-title>
+                  <ce:para id="p0085" view="all">Isaac Larbi: Conceived and designed the experiments; Performed the experiments; Analyzed and interpreted the data; Contributed reagents, materials, analysis tools or data; Wrote the paper.</ce:para>
+               </ce:section>
+               <ce:section id="sec7" view="all">
+                  <ce:section-title id="sectitle0075">Funding statement</ce:section-title>
+                  <ce:para id="p0090" view="all">Dr Isaac Larbi was supported by <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">International Foundation for Science</ce:grant-sponsor> [IFS ref: <ce:grant-number refid="gs1">1-2-W-6259-1</ce:grant-number>].</ce:para>
+               </ce:section>
+               <ce:section id="sec8" view="all">
+                  <ce:section-title id="sectitle0080">Data availability statement</ce:section-title>
+                  <ce:para id="p0095" view="all">Data will be made available on request.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0085">Declaration of interest's statement</ce:section-title>
+               <ce:para id="p0100" view="all">The authors declare no competing interests.</ce:para>
+            </ce:conflict-of-interest>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0090">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.F.</ce:given-name>
+                                 <ce:surname>Lambin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.L.</ce:given-name>
+                                 <ce:surname>Turner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Geist</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Agbola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Angelsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Bruce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.T.</ce:given-name>
+                                 <ce:surname>Coomes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dirzo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Fischer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Folke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>George</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The causes of land-use and land-cover change: moving beyond the myths</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Global Environ. Change</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>261</sb:first-page>
+                              <sb:last-page>269</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0015">Lambin EF, Turner BL, Geist HJ, Agbola SB, Angelsen A, Bruce JW, Coomes OT, Dirzo R, Fischer G, Folke C, George P (2001). The causes of land-use and land-cover change: moving beyond the myths. Global Environmental Change 11(4):261-269.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.W.A.</ce:given-name>
+                                 <ce:surname>Halmy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.E.</ce:given-name>
+                                 <ce:surname>Gessler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Hicke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Salem</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Land use/land cover change detection and prediction in the north-western coastal desert of Egypt using Markov-CA</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Geogr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>101e112</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.apgeog.2015.06.015</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">Halmy, M.W.A., Gessler, P.E., Hicke, J.A., Salem, B.B., 2015. Land use/land cover change detection and prediction in the north-western coastal desert of Egypt using Markov-CA. Appl. Geogr. 63, 101e112. https://doi.org/10.1016/j.apgeog.2015.06.015.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Manzo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Fontinovo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bassani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Allegrini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Petracchini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Assessment of land cover changes in Lampedusa Island (Italy) using Landsat TM and OLI data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Afr. Earth Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15e24</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jafrearsci.2015.05.014</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">Mei, A., Manzo, C., Fontinovo, G., Bassani, C., Allegrini, A., Petracchini, F., 2016. Assessment of land cover changes in Lampedusa Island (Italy) using Landsat TM and OLI data. J. Afr. Earth Sci. 122, 15e24. https://doi.org/10.1016/j.jafrearsci.2015.05.014.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Weng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Land use change analysis in the Zhujiang Delta of China using satellite remote sensing, GIS and stochastic modelling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>273e284</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Weng, Q., 2002. Land use change analysis in the Zhujiang Delta of China using satellite remote sensing, GIS and stochastic modelling. J. Environ. Manag. 64,273e284.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Center for International Earth Science Information Network (CIESIN)</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Last of the Wild Project, Version 1 (LWP-1): Global Human Footprint. Dataset (Geographic)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2002</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wildlife Conservation Society (WCS) and Center for International Earth Science Information Network (CIESIN)</sb:name>
+                                 <sb:location>Palisades, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Center for International Earth Science Information Network (CIESIN), (2002) Last of the Wild Project, Version 1 (LWP-1): Global Human Footprint. Dataset (Geographic). Wildlife Conservation Society (WCS) and Center for International Earth Science Information Network (CIESIN), Palisades, NY.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.Z.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integration of multiple data sources to simulate the dynamics of land systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sensors</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>620</sb:first-page>
+                              <sb:last-page>634</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.3390/s8020620</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Deng, X. Z., Su, H. B., &amp; Zhan, J. Y. (2008). Integration of multiple data sources to simulate the dynamics of land systems. Sensors, 8(2), 620-634. https://doi.org/10.3390/s8020620</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Pielke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Land use and climate change</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>310</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1625</sb:first-page>
+                              <sb:last-page>1626</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">Pielke, R. A. (2005). Land use and climate change. Science, vol. 310, pp. 1625-1626.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bongers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Chazdon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Poorter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pena-Claros</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The potential of secondary forests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>348</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6235</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>642</sb:first-page>
+                              <sb:last-page>643</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">Bongers F, Chazdon RL, Poorter L, Pena-Claros M. (2015). The potential of secondary forests. Science 348(6235), 642- 643.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Chazdon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.N.</ce:given-name>
+                                 <ce:surname>Broadbent</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.A.</ce:given-name>
+                                 <ce:surname>Rozendaal</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e1501639</sb:article-number>
+                           <ce:doi>10.1126/sciadv.1501639</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">Chazdon RL, Broadbent EN, Rozendaal DMA, et al. (2016). Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics. Sci. Adv. 2(5), e1501639. doi:10.1126/sciadv.1501639.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Achard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Beuchle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mayaux</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of tropical deforestation rates and related carbon losses from 1990 to 2010</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Global Change Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2540</sb:first-page>
+                              <sb:last-page>2554</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/gcb.12605</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Achard F, Beuchle R, Mayaux P, et al.. Determination of tropical deforestation rates and related carbon losses from 1990 to 2010. Global Change Biol. 20(8), 2540-2554 (2014). doi:10.1111/gcb.12605</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pongratz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Reick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Raddatz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Claussen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biogeophysical versus biogeochemical climate response to historical anthropogenic land cover change</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geophys. Res. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:article-number>L08702</sb:article-number>
+                           <ce:doi>10.1029/2010GL043010</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Pongratz, J., Reick, C. H., Raddatz, T., and Claussen, M. (2010). Biogeophysical versus biogeochemical climate response to historical anthropogenic land cover change, Geophys. Res. Lett., 37, L08702, doi: 10.1029/2010GL043010.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WRC</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tano River Basin- Integrated Water Resources Management Plan</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Water Resources Commission (WRC)</sb:name>
+                                 <sb:location>Accra</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">WRC (2012). Tano River Basin- Integrated Water Resources Management Plan. Water Resources Commission (WRC), Accra.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Awotwi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Kwame Anornu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Quaye‐Ballard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Annor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Monitoring land use and land cover changes due to extensive gold mining, urban expansion, and agriculture in the Pra River Basin of Ghana, 1986–2025</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Land Degrad. Dev.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>13</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/ldr.3093</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">Awotwi, A. Kwame Anornu, G.K., Quaye-Ballard, J.A., Annor, T. (2018). Monitoring land use and land cover changes due to extensive gold mining, urban expansion, and agriculture in the Pra River Basin of Ghana, 1986-2025. Land Degrad Dev.1-13. DOI: 10.1002/ldr.3093</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Larbi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.C.C.</ce:given-name>
+                                 <ce:surname>Hountondji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Q.</ce:given-name>
+                                 <ce:surname>Dotse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Nyamekye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.E.</ce:given-name>
+                                 <ce:surname>Adeyeri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Koubodana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.E.</ce:given-name>
+                                 <ce:surname>Odoom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Asare</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Local climate change projections and impact on the surface hydrology of the Vea Catchment, West Africa</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nord. Hydrol</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.2166/nh.2021.096</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">Larbi, I., Hountondji, F.C.C., Dotse, S.Q., Mama, D., Nyamekye, C., Adeyeri, O.E., Koubodana, H.D., Odoom, P.R.E. and Asare, Y.M. (2021). Local climate change projections and impact on the surface hydrology of the Vea Catchment, West Africa. Hydrology Research. https://doi.org/10.2166/nh.2021.096</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Sentinel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>COPE-SERCO-RP-17-0071 - Sentinels Data Access Annual Report Sentinel Data Access Annual Report (01/12/2015 – 30/11/2016</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2016</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://sentinels.copernicus.eu/web/sentinel/sentinel-data-access" id="intref0010" xlink:type="simple">https://sentinels.copernicus.eu/web/sentinel/sentinel-data-access</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">Sentinel (2016). COPE-SERCO-RP-17-0071 - Sentinels Data Access Annual Report Sentinel Data Access Annual Report (01/12/2015 - 30/11/2016). https://sentinels.copernicus.eu/web/sentinel/sentinel-data-access</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Change detection using Landsat time series: a review of frequencies, preprocessing, algorithms, and applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ISPRS J. Photogrammetry Remote Sens.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>130</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>370e384</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.isprsjprs.2017.06.013</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">Zhu, Z., 2017. Change detection using Landsat time series: a review of frequencies, preprocessing, algorithms, and applications. ISPRS J. Photogrammetry Remote Sens. 130, 370e384. https://doi.org/10.1016/j.isprsjprs.2017.06.013.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.B.</ce:given-name>
+                                 <ce:surname>Zoungrana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Conrad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Amekudzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Thiel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Da</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Land use/cover response to rainfall variability: a comparing analysis between NDVI and EVI in the Southwest of Burkina Faso</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Climate</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                              <sb:last-page>77</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Zoungrana, B.J.B., Conrad, C., Amekudzi, L.K., Thiel, M. and Da, E.D. 2015. Land use/cover response to rainfall variability: a comparing analysis between NDVI and EVI in the Southwest of Burkina Faso. Climate, 3, pp.63-77.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Larbi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Forkuor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.C.C.</ce:given-name>
+                                 <ce:surname>Hountondji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Agyare</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Predictive Land use change under business as usual and afforestation scenarios in the Vea Catchment, West Africa</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Adv. Remote Sensing and GIS</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.23953/cloud.ijarsg.416</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">Larbi, I., Forkuor, G., Hountondji, F.C.C, Agyare, W. A., and Mama, D. (2019). Predictive Land use change under business as usual and afforestation scenarios in the Vea Catchment, West Africa, International Journal of Advanced Remote Sensing and GIS, Volume 8, Issue 1, pp. ISSN 2320 - 0243, DOI: https://doi.org/10.23953/cloud.ijarsg.416.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Congalton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review of assessing the accuracy of classification of remotely sensed data a review of assessing the accuracy of classifications of remotely sensed data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Remote Sens. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>34</sb:first-page>
+                              <sb:last-page>46</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0034‐4257 (91)90048‐B</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">Congalton, R. G. (1991). A review of assessing the accuracy of classification of remotely sensed data a review of assessing the accuracy of classifications of remotely sensed data. Remote Sensing of Environment, 37(1), 34-46. https://doi.org/10.1016/0034-4257 (91)90048-B</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Breiman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Random forests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Machine Learn</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5</sb:first-page>
+                              <sb:last-page>23</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Breiman L. (2001). Random forests. Machine Learn. 45, 5-23</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Forkuor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Agricultural Land Use Mapping in West Africa Using Multi-Sensor Satellite Imagery.PhD Dissertation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Julius-Maximilians-Universität</sb:name>
+                                 <sb:location>Würzburg</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">Forkuor, G. 2014. Agricultural Land Use Mapping in West Africa Using Multi-sensor Satellite Imagery.PhD dissertation, Julius-Maximilians-Universitat, Wurzburg.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Pontius</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantification error versus location error in comparison of categorical maps</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Photogramm. Eng. Remote Sensing</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1011</sb:first-page>
+                              <sb:last-page>1016</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">Pontius, G.R. 2000. Quantification error versus location error in comparison of categorical maps. Photogramm. Eng. Remote Sensing, 66, pp.1011-1016.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Asumadu-Sarkodie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Owusu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The relationship between carbon dioxide and agriculture in Ghana: a comparison of VECM and ARDL model</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Pollut. Control Ser.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10968</sb:first-page>
+                              <sb:last-page>10982</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">Asumadu-Sarkodie, S. and Owusu, P.A. 2016. The relationship between carbon dioxide and agriculture in Ghana: A comparison of VECM and ARDL model. Environmental Science and Pollution Research, 23(11), pp.10968-10982.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Diekkrüger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Steup</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.Y.</ce:given-name>
+                                 <ce:surname>Bossa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling land use change impacts on water resources in a tropical West African catchment (Dano, Burkina Faso)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hydrol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>537</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>187</sb:first-page>
+                              <sb:last-page>199</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">Yira, Y., Diekkruger, B., Steup, G. and Bossa, A.Y. 2017. Modeling land use change impacts on water resources in a tropical West African catchment (Dano, Burkina Faso). J. Hydrol., 537, pp.187-199.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Sylla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Giorgi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Pal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gibba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kebe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nikiema</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Projected changes in the annual cycle of high-intensity precipitation events over West Africa for the late twenty-first century</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Clim.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6475</sb:first-page>
+                              <sb:last-page>6488</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">Sylla, M.B., Giorgi, F., Pal, J.S., Gibba, P., Kebe, I. and Nikiema, M. 2015. Projected changes in the annual cycle of high-intensity precipitation events over West Africa for the late twenty-first century. J. Clim., 28, pp.6475-6488.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Robertson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Swinton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reconciling agricultural productivity and environmental integrity: a grand challenge for agriculture</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front. Ecol. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>38</sb:first-page>
+                              <sb:last-page>46</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">Robertson, G.P. and Swinton, S.M. 2005. Reconciling agricultural productivity and environmental integrity: a grand challenge for agriculture. Frontiers in Ecology and the Environment, 3(1), pp.38-46.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

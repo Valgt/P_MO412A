@@ -1,0 +1,519 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0308521X20306910</prism:url><dc:identifier>doi:10.1016/j.agsy.2020.102873</dc:identifier><eid>1-s2.0-S0308521X20306910</eid><prism:doi>10.1016/j.agsy.2020.102873</prism:doi><pii>S0308-521X(20)30691-0</pii><dc:title>Editorial: Impacts of COVID-19 on agricultural and food systems worldwide and on progress to the sustainable development goals </dc:title><prism:publicationName>Agricultural Systems</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>0308521X</prism:issn><prism:volume>183</prism:volume><prism:startingPage>102873</prism:startingPage><prism:pageRange>102873</prism:pageRange><articleNumber>102873</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2020-08-31</prism:coverDate><prism:coverDisplayDate>August 2020</prism:coverDisplayDate><prism:copyright>Crown Copyright © 2020 Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><dc:creator>Stephens, Emma C.</dc:creator><dc:creator>Martin, Guillaume</dc:creator><dc:creator>van Wijk, Mark</dc:creator><dc:creator>Timsina, Jagadish</dc:creator><dc:creator>Snow, Val</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0308521X20306910" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0308521X20306910" rel="scidir"/></coredata><scopus-id>85084981288</scopus-id><scopus-eid>2-s2.0-85084981288</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85084981288" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271139</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291839</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Agricultural Systems</xocs:srctitle>
+      <xocs:normalized-srctitle>AGRICULTURALSYSTEMS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200520">2020-05-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200520">2020-05-20</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200522">2020-05-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200522">2020-05-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-06-25T14:55:44</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0308521X20306910</xocs:eid>
+      <xocs:pii-formatted>S0308-521X(20)30691-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0308521X20306910</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.agsy.2020.102873</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0308521X20X00059</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200625">2020-06-25T14:10:07.784349Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200801</xocs:date-search-begin>
+      <xocs:date-search-end>20200831</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1589958545">2020-05-20T07:09:05.473277Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0308-521X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0308521X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>183</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>183</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 183</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>102873</xocs:first-fp>
+      <xocs:article-number>102873</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>102873</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202008</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>Crown Copyright © 2020 Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EDITORIALIMPACTSCOVID19AGRICULTURALFOODSYSTEMSWORLDWIDEPROGRESSSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>STEPHENS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Immediate impacts</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Food security</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Labour availability</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Farm system resilience</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Agricultural system connectivity</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Other impacts and questions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Capturing and learning from these effects</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>ELSEVIER</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>IVANOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>101922</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>LABORDE</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>TORERO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>588</xocs:ref-first-fp>
+            <xocs:ref-last-lp>589</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>STEPHENSX2020X102873</xocs:refkey3>
+         <xocs:refkey4ai>STEPHENSX2020X102873XE</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2022-05-22T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-05-22T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">Crown Copyright © 2020 Published by Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0308-521X(20)30691-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0308521X20306910</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0308521X20306910</xocs:eid>
+         <xocs:doi>10.1016/j.agsy.2020.102873</xocs:doi>
+         <xocs:cid>271139</xocs:cid>
+         <xocs:timestamp>2020-06-25T14:10:07.784349Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-08-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0308521X20306910-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0308521X20306910/MAIN/application/pdf/28b782b4aba24ae949b09ca688909332/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>358863</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0308521X20306910-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0308521X20306910/PREVIEW/image/png/8e5ccc8daf4ebedbd153135fe25c031b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59750</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>AGSY</jid>
+            <aid>102873</aid>
+            <ce:article-number>102873</ce:article-number>
+            <ce:pii>S0308-521X(20)30691-0</ce:pii>
+            <ce:doi>10.1016/j.agsy.2020.102873</ce:doi>
+            <ce:copyright type="crown" year="2020"/>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="dh0005">
+               <ce:textfn id="tn0005">Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0005">Editorial: Impacts of COVID-19 on agricultural and food systems worldwide and on progress to the sustainable development goals</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author author-id="S0308521X20306910-74b4b89fa0655cd624fc6212dd0a50e6" id="au0005">
+                  <ce:given-name>Emma C.</ce:given-name>
+                  <ce:surname>Stephens</ce:surname>
+                  <ce:cross-ref id="cf0005" refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cf0010" refid="cr0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S0308521X20306910-36f89eab8de2a11b87b236346c3c351b" id="au0010">
+                  <ce:given-name>Guillaume</ce:given-name>
+                  <ce:surname>Martin</ce:surname>
+                  <ce:cross-ref id="cf0015" refid="af0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author author-id="S0308521X20306910-188cd69be49932f719740751500b362b" id="au0015">
+                  <ce:given-name>Mark</ce:given-name>
+                  <ce:surname>van Wijk</ce:surname>
+                  <ce:cross-ref id="cf0020" refid="af0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author author-id="S0308521X20306910-71887909d6e2c775c80e2692406e572a" id="au0020">
+                  <ce:given-name>Jagadish</ce:given-name>
+                  <ce:surname>Timsina</ce:surname>
+                  <ce:cross-ref id="cf0025" refid="af0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author author-id="S0308521X20306910-5c24e18ae164fd6551a9b620e826aeee" id="au0025">
+                  <ce:given-name>Val</ce:given-name>
+                  <ce:surname>Snow</ce:surname>
+                  <ce:cross-ref id="cf0030" refid="af0025">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation affiliation-id="S0308521X20306910-54751466dc6f1e664c12721f7c5dcce2" id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0010">Agriculture and Agri-Food Canada, Lethbridge Research and Development Centre, Lethbridge, Alberta, Canada</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Agriculture and Agri-Food Canada</sa:organization>
+                     <sa:organization>Lethbridge Research and Development Centre</sa:organization>
+                     <sa:city>Lethbridge</sa:city>
+                     <sa:state>Alberta</sa:state>
+                     <sa:country>Canada</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">Agriculture and Agri-Food Canada, Lethbridge Research and Development Centre, Lethbridge, Alberta, Canada</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0308521X20306910-742cf29f235ef0c7ba590310aae256d1" id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0015">INRAE-AGIR, F-31320 Auzeville, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>INRAE-AGIR</sa:organization>
+                     <sa:city>Auzeville</sa:city>
+                     <sa:postal-code>F-31320</sa:postal-code>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0010">Université de Toulouse, INPT, INP-PURPAN, INRAE, AGIR, F-31320 Auzeville, France</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0308521X20306910-c85ef99150940a0c1fc65cfd56056df3" id="af0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0020">International Livestock Research Institute, Quito, Ecuador</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>International Livestock Research Institute</sa:organization>
+                     <sa:city>Quito</sa:city>
+                     <sa:country>Ecuador</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0015">International Livestock Research Institute, Quito, Ecuador</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0308521X20306910-0f1d7b0589df3d19b4b92fb278bd0dc4" id="af0020">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="tn0025">Institute for Study and Development Worldwide, Sydney, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute for Study and Development Worldwide</sa:organization>
+                     <sa:city>Sydney</sa:city>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0020">Institute for Study and Development Worldwide, Sydney, Australia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S0308521X20306910-cc8544bf7b2000c4ccb0d3c40a65b32c" id="af0025">
+                  <ce:label>e</ce:label>
+                  <ce:textfn id="tn0030">AgResearch – Lincoln Research Centre, PB 4749, Christchurch 8140, New Zealand</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>AgResearch – Lincoln Research Centre</sa:organization>
+                     <sa:city>Christchurch 8140</sa:city>
+                     <sa:state>PB</sa:state>
+                     <sa:postal-code>4749</sa:postal-code>
+                     <sa:country>New Zealand</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0025">AgResearch – Lincoln Research Centre, PB 4749, Christchurch 8140, New Zealand, ORCID 0000-0002-6911-8184</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0005">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">The COVID-19 pandemic has resulted in immediate, serious, and worldwide human health issues. Necessary counter measures to the virus, e.g. quarantines and other restrictions, will remain in place for many months and have uncertain end dates. International efforts to control the virus by limiting human movement is inevitably causing economic shocks and social costs that will affect the functioning of agricultural and food systems worldwide.</ce:para>
+                  <ce:para id="p0010" view="all">We are already witnessing the indirect effects of the pandemic on agricultural systems across the globe. Massively decreased demand for restaurant and commercial food services in combination with restrictions in labour, processing capacity and/or storage has led to farmers discarding their output <ce:italic>en masse</ce:italic>. Quarantine measures are severely affecting labour availability for key time-critical farming from sowing vegetable crops to picking fruit. As the crisis develops, these impacts are likely to become more widely and deeply felt in agricultural sectors and national economies.</ce:para>
+                  <ce:para id="p0015" view="all">The significance and severity of the pandemic, and its likely impact on agriculture worldwide, calls for substantial reflection in both the short- and long-term. We need to understand the immediate consequences for the global network of agricultural and food systems on which we rely so heavily. We should track unexpected risks, weaknesses and systemic shifts to understand short-term effects as well as those that may be long-lasting or permanent.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0010">Immediate impacts</ce:section-title>
+                  <ce:para id="p0020" view="all">From the vantage point of the Editorial team, we have identified several dimensions of concern with respect to COVID-19 and agricultural systems - although this list is early and limited and so is inevitably incomplete.</ce:para>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st0015">Food security</ce:section-title>
+                     <ce:para id="p0025" view="all">Of immediate concern is the disruption to food systems and impact on food security (<ce:cross-ref id="cf0035" refid="bb0020">Torero, 2020</ce:cross-ref>). Food distribution channels of almost all countries across the income spectrum have been highly disrupted, with strong negative consequences for the most vulnerable. There is widespread media coverage of sudden decreases in food security due to:<ce:list id="l0005">
+                           <ce:list-item id="li0005">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0030" view="all">loss of income from workers who are fully or partially furloughed affecting their ability to purchase food;</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0010">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0035" view="all">stay-at-home orders and restricted physical access to food markets and/or indigenous food gathering activities;</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0015">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0040" view="all">closure or diminished capacity of institutions that support food social safety nets, such as food banks and school feeding programs; and</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0020">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0045" view="all">market disruptions such as issues with the ability of supermarkets to rapidly restock from centralised distribution systems following unprecedented demand (i.e. panic buying) for pantry staples.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0025">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0050" view="all">wastage of fresh vegetables, fruits and milk due to inability by farmers or entrepreneurs to transport them from point of production to local markets or supermarkets in nearby towns or cities.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para id="p0055" view="all">How will these shocks ripple outwards to affect broader agricultural systems? What are the likely effects on subsistence systems where farmers and households, that are already food insecure, have less resilience against such large disruptions? How will the international, national and local market disruptions to consumption affect larger scale commercial farm systems, as they contend with volatile market signals and disrupted supply chains?</ce:para>
+                     <ce:para id="p0060" view="all">Will these disruptions be temporary? Or will these sudden negative shocks to food security cause permanent changes in food systems? How will this impact producers, agricultural and food systems in different sectors, industries, regions and economic circumstances?</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st0020">Labour availability</ce:section-title>
+                     <ce:para id="p0065" view="all">A second emerging issue concerns labour availability in the agri-food sector. Labour has been suddenly restricted in many regions due to quarantine measures and loss of workforce from COVID-19 deaths and serious illness. There have been substantial restrictions on international labour movements and worker programs that are critical to agricultural production in some sectors or that have caused bottlenecks. Anecdotally, this seems particularly severe in horticulture, livestock production systems, and processing but also for planting and harvesting of crops that are relatively labour-intensive. The timing of labour needs is often inflexible for seasonally produced foods. Resolving these labour shortages and designing working conditions that are safe for workers and the community, is of critical importance in order to secure future growing seasons and avoid disastrous consequences for future food security and supply.</ce:para>
+                     <ce:para id="p0070" view="all">If COVID-19 is not contained, implying that free and safe movement of agri-food workers will not be attainable for the foreseeable future, how will our agricultural and food systems cope with this loss? Will emergency measures, such as recruiting temporary domestic volunteers or chartering special flights and paying workers during quarantines be sufficient? Can we make workers safer given that many are in dormitory style housing and/or work on assembly lines that are incompatible with maintaining physical distancing? If workers cannot be safe, and be perceived to be so, while the virus is circulating in the community, what will the effects on food systems be? Can all regions fill their labour shortages sufficiently? What different approaches to this problem might there be? Will there be major and permanent changes in international agri-food labour availability and movements and, if so, how might agricultural systems adapt?</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st0025">Farm system resilience</ce:section-title>
+                     <ce:para id="p0075" view="all">A third clear domain of concern is farm system resilience to the COVID-19 pandemic. Which systems are resilient, and which are not? Are small farms, that primarily use family labour and so are less dependent on externally hired labour, more resilient than large farms which depend on external labour? What technological measures could to be adopted to reduce dependency on human labour and gain efficiency in farming? What are the short- and long-term consequences of unequal access to resilience tools and measures? How will local, regional, national and international agricultural systems respond to large losses of agricultural production during the pandemic? Which countermeasures against the virus will have very long-term effects? How can we reorient our agricultural systems to function optimally in a post-COVID-19 world? What is the role of agricultural policy in boosting resilience of agricultural systems? Do our policies need to change going forward or are we already well equipped to safeguard our agricultural systems from similar shocks in the future? What does the COVID-19 pandemic reveal about the overall functioning of our agricultural systems?</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="st0030">Agricultural system connectivity</ce:section-title>
+                     <ce:para id="p0080" view="all">The COVID-19 pandemic is having an impact on international relationships far beyond the agri-food sector's labour force. This includes announcements of export restrictions across several countries that limit global agri-food trade and market access (see for example <ce:cross-ref id="cf0040" refid="bb0015">Laborde and IFPRI, 2020</ce:cross-ref>). The agri-food sector is highly connected internationally. Ports that shut down or reduce activity, vastly reduced freight capacity on commercial flights for agricultural goods, and other broad global supply chain disruptions due to the COVID-19 crisis (<ce:cross-ref id="cf0045" refid="bb0010">Ivanov, 2020</ce:cross-ref>) have the potential to limit critical access to agricultural inputs and markets. This may negatively impact agricultural productivity for current and future seasons. The suddenness and severity of these shutdowns leave little scope for identifying suitable domestic substitutes in the short term but may spur less reliance on global agri-food value chains in the future. Some nations are also exploring more domestic ‘food sovereignty’ in order to address emerging domestic food security concerns due to COVID-19. These actions have serious implications for our current globalized agri-food trading system and is potentially one of the most important impacts on the current food system.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="st0035">Other impacts and questions</ce:section-title>
+                     <ce:para id="p0085" view="all">Other myriad unanswered questions include understanding the impacts and consequences of:<ce:list id="l0010">
+                           <ce:list-item id="li0030">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0090" view="all">wholesale shifts in market prices and the relative value of agricultural outputs on our agricultural management choices;</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0035">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0095" view="all">new competition for critical inputs, especially water, due to increasing emphasis on public health and sanitation systems;</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0040">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0100" view="all">impacts of supply chain and processing disruptions on animal welfare;</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0045">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0105" view="all">existing economic inequality and relative resilience of agricultural systems, as well as other social network systems reliant on agricultural income generation and stability;</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0050">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0110" view="all">the compound effects of so many human system shocks and the behaviour of the natural capital systems that support agriculture overall; and</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0055">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0115" view="all">disruptions to research and monitoring programmes, perhaps particularly to those of PhD students and postdoctoral fellows that face time limitations.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="li0060">
+                              <ce:label>•</ce:label>
+                              <ce:para id="p0120" view="all">How will COVID-19 impact progress towards the SDGs?</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0040">Capturing and learning from these effects</ce:section-title>
+                  <ce:para id="p0125" view="all">We, the Editorial team of <ce:italic>Agricultural Systems</ce:italic>, believe that it is important to capture the immediate effects of the COVID-19 pandemic on agricultural and food systems in their broadest senses. Thus, we are launching a fast-track Special Issue on existing and potential impacts of COVID-19 on agricultural and food systems, calling on our readership, which is well placed around the world, to submit manuscripts describing already-observed outcomes and impacts. The link to the full call follows. We hope this will improve our collective understanding of the many short and long term challenges posed by COVID-19 by broad contributions from the agricultural systems research community. Articles in this Special Issue will be profiled under <ce:cross-ref id="cf0050" refid="bb0005">Elsevier's (2020)</ce:cross-ref> COVID-19 response.</ce:para>
+                  <ce:para id="p0130" view="all">Call for submissions link: <ce:inter-ref id="ir0005" xlink:href="https://www.journals.elsevier.com/agricultural-systems/call-for-papers/immediate-impacts-of-covid-19-on-agricultural-and-food-syste" xlink:type="simple">https://www.journals.elsevier.com/agricultural-systems/call-for-papers/immediate-impacts-of-covid-19-on-agricultural-and-food-syste</ce:inter-ref>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0045">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>Elsevier, 2020</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Elsevier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel Coronavirus Resource Directory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0010" xlink:href="https://www.elsevier.com/novel-coronavirus-covid-19;" xlink:type="simple">https://www.elsevier.com/novel-coronavirus-covid-19;</ce:inter-ref>
+                              <sb:date>2020</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>verified 29 April 2020</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="se0030">Elsevier (2020) Novel Coronavirus Resource Directory (https://www.elsevier.com/novel-coronavirus-covid-19; verified 29 April 2020)</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>Ivanov, 2020</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ivanov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Predicting the impacts of epidemic outbreaks on global supply chains: a simulation-based analysis on the coronavirus outbreak (COVID-19/SARS-CoV-2) case</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Transp. Res. Part E</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>136</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>101922</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.tre.2020.101922</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0035">Ivanov, D. (2020) Predicting the impacts of epidemic outbreaks on global supply chains: A simulation-based analysis on the coronavirus outbreak (COVID-19/SARS-CoV-2) case. Transportation Research Part E: Logistics and Transportation Review. 136:101922 (doi:10.1016/j.tre.2020.101922)</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>Laborde and International Food Policy Research Institute, 2020</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Laborde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>International Food Policy Research Institute</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Food Export Restrictions during the Covid-19 crisis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="ir0015" xlink:href="https://public.tableau.com/profile/laborde6680#!/vizhome/ExportRestrictionsTracker/FoodExportRestrictionsTracker;" xlink:type="simple">https://public.tableau.com/profile/laborde6680#!/vizhome/ExportRestrictionsTracker/FoodExportRestrictionsTracker;</ce:inter-ref>
+                              <sb:date>2020</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">Laborde D, and International Food Policy Research Institute (2020) Food Export Restrictions during the Covid-19 crisis (https://public.tableau.com/profile/laborde6680#!/vizhome/ExportRestrictionsTracker/FoodExportRestrictionsTracker; verified 29 April 2020)</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>Torero, 2020</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Torero</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Without food, there can be no exit from the pandemic. Countries must join forces to avert a global food crisis from COVID-19</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>580</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>588</sb:first-page>
+                              <sb:last-page>589</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/d41586-020-01181-3</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0045">Torero, M. (2020) Without food, there can be no exit from the pandemic. Countries must join forces to avert a global food crisis from COVID-19. Nature 580: 588-589 (doi:10.1038/d41586-020-01181-3)</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

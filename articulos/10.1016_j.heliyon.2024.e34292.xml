@@ -1,0 +1,623 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2405844024103234</prism:url><dc:identifier>doi:10.1016/j.heliyon.2024.e34292</dc:identifier><eid>1-s2.0-S2405844024103234</eid><prism:doi>10.1016/j.heliyon.2024.e34292</prism:doi><pii>S2405-8440(24)10323-4</pii><dc:title>Letter to the editor of Heliyon re: Mapping sustainability reporting research with the UN's sustainable development goal. Heliyon 9 (2023) e18510 </dc:title><prism:publicationName>Heliyon</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>cor</pubType><prism:issn>24058440</prism:issn><prism:volume>10</prism:volume><prism:issueIdentifier>14</prism:issueIdentifier><prism:startingPage>e34292</prism:startingPage><prism:pageRange>e34292</prism:pageRange><prism:number>14</prism:number><articleNumber>e34292</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-07-30</prism:coverDate><prism:coverDisplayDate>30 July 2024</prism:coverDisplayDate><prism:copyright>© 2024 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Elango, Bakthavachalam</dc:creator><dc:description>
+                  This letter to the editor discusses an investigation on sustainability reporting research in line with the UN's Sustainable Development Goals (SDGs). There was an error found in the Compound Annual Growth Rate (CAGR) calculation in the original research, which was rectified by applying the correct formula. Despite this error, the study's outcomes remained unaffected. It concludes by emphasizing the importance of a systematic approach in academic writing to learn from errors and avoid similar mistakes in the future.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Bibliometrics</dcterms:subject><dcterms:subject>CAGR</dcterms:subject><dcterms:subject>Compound Annual Growth Rate</dcterms:subject><dcterms:subject>Calculation Error</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2405844024103234" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2405844024103234" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="95102">https://api.elsevier.com/content/object/eid/1-s2.0-S2405844024103234-si1.svg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85198556362</scopus-id><scopus-eid>2-s2.0-85198556362</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85198556362" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>313379</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291735</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291795</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291806</xocs:ssid>
+         <xocs:ssid type="subj">291828</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291845</xocs:ssid>
+         <xocs:ssid type="subj">291848</xocs:ssid>
+         <xocs:ssid type="subj">291861</xocs:ssid>
+         <xocs:ssid type="subj">291871</xocs:ssid>
+         <xocs:ssid type="subj">291875</xocs:ssid>
+         <xocs:ssid type="subj">291876</xocs:ssid>
+         <xocs:ssid type="subj">291884</xocs:ssid>
+         <xocs:ssid type="subj">291889</xocs:ssid>
+         <xocs:ssid type="subj">291919</xocs:ssid>
+         <xocs:ssid type="subj">291929</xocs:ssid>
+         <xocs:ssid type="subj">291934</xocs:ssid>
+         <xocs:ssid type="subj">291938</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Heliyon</xocs:srctitle>
+      <xocs:normalized-srctitle>HELIYON</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240709">2024-07-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240709">2024-07-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240716">2024-07-16</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240716">2024-07-16</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-10-10T19:57:11</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2405844024103234</xocs:eid>
+      <xocs:pii-formatted>S2405-8440(24)10323-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2405844024103234</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.heliyon.2024.e34292</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2405844023X00279</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20241010">2024-10-10T20:04:51.477501Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20240730</xocs:date-search-begin>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1720541272">2024-07-09T16:07:52.44553Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast orcid primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2405-8440</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24058440</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>10</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>10</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>14</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>14</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 10, Issue 14</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>659</xocs:sort-order>
+      <xocs:first-fp>e34292</xocs:first-fp>
+      <xocs:article-number>e34292</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>e34292</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20240730</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>30 July 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-07-30</xocs:cover-date-start>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Correspondence</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>cor</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>LETTEREDITORHELIYONREMAPPINGSUSTAINABILITYREPORTINGRESEARCHUNSSUSTAINABLEDEVELOPMENTGOALHELIYON92023E18510</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ELANGO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Funding</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Data availability statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>RAMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>e18510</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ELANGO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>331</xocs:ref-first-fp>
+            <xocs:ref-last-lp>337</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>ELANGO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>522</xocs:ref-first-fp>
+            <xocs:ref-last-lp>523</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ELANGOX2024Xe34292</xocs:refkey3>
+         <xocs:refkey4ai>ELANGOX2024Xe34292XB</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-07-08T04:36:51Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2405-8440(24)10323-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2405844024103234</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2405844024103234</xocs:eid>
+         <xocs:doi>10.1016/j.heliyon.2024.e34292</xocs:doi>
+         <xocs:cid>313379</xocs:cid>
+         <xocs:timestamp>2024-10-10T20:04:51.477501Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-07-30</xocs:cover-date-start>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2405844024103234-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844024103234/MAIN/application/pdf/0bbc07c188360a970c0eb89b7fec7d5f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>268365</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>2</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2405844024103234-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844024103234/PREVIEW/image/png/da292278523682246189ebe653e22aa5/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50836</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2405844024103234-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405844024103234/image/svg+xml/9ead199e5e9ea4cd60c3bbab4acab86f/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>95102</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="cor" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>HLY</jid>
+            <aid>34292</aid>
+            <ce:article-number>e34292</ce:article-number>
+            <ce:pii>S2405-8440(24)10323-4</ce:pii>
+            <ce:doi>10.1016/j.heliyon.2024.e34292</ce:doi>
+            <ce:copyright type="other" year="2024">The Author(s)</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="tspara0010" view="all">Comparison of growth of publications and citations.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0010">Table 1</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" role="rowgroup">Year</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="colgroup" namest="col2" nameend="col3">Total Publications</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="colgroup" namest="col4" nameend="col5">Total Citations</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Growth by authors' CAGR</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Growth by CAGR (1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Growth by authors' CAGR</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Growth by CAGR (1)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2012</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">107</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">107</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">57</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2013</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">123</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">130</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">74</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">103</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2014</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">141</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">159</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">96</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">187</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2015</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">161</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">193</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">124</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">338</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2016</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">185</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">235</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">161</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">611</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2017</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">212</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">286</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">209</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1105</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2018</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">243</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">349</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">271</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1999</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2019</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">279</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">424</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">352</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3617</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2020</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">320</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">517</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">456</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6544</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2021</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">367</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">629</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">592</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">11839</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2022</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">421</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">766</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">767</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">21419</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="colgroup" namest="col1" nameend="col5">Rounded-off</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="dhead0010">
+               <ce:textfn>Correspondence article*</ce:textfn>
+            </ce:dochead>
+            <ce:title id="title0010">Letter to the editor of Heliyon re: Mapping sustainability reporting research with the UN's sustainable development goal. Heliyon 9 (2023) e18510</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" orcid="0000-0002-8938-0155" author-id="S2405844024103234-28a6cf016762dc64b30087051649ced8">
+                  <ce:given-name>Bakthavachalam</ce:given-name>
+                  <ce:surname>Elango</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2405844024103234-b566c11db6d56a7e87162b987c7a03ca">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Library and Information Science, Rajagiri College of Social Sciences, Kochi, 683 104, Kerala, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Library and Information Science</sa:organization>
+                     <sa:organization>Rajagiri College of Social Sciences</sa:organization>
+                     <sa:city>Kochi</sa:city>
+                     <sa:state>Kerala</sa:state>
+                     <sa:postal-code>683 104</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Department of Library and Information Science, Rajagiri College of Social Sciences, Kochi 683 104, Kerala, India</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2405844024103234-5e6266f1caf859c6af1fbb576ee29277">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Centre of Excellence in Journalology, Rajagiri College of Social Sciences, Kochi, 683 104, Kerala, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Centre of Excellence in Journalology</sa:organization>
+                     <sa:organization>Rajagiri College of Social Sciences</sa:organization>
+                     <sa:city>Kochi</sa:city>
+                     <sa:state>Kerala</sa:state>
+                     <sa:postal-code>683 104</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">Centre of Excellence in Journalology, Rajagiri College of Social Sciences, Kochi 683 104, Kerala, India</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="10" month="5" year="2024"/>
+            <ce:date-accepted day="8" month="7" year="2024"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">This letter to the editor discusses an investigation on sustainability reporting research in line with the UN's Sustainable Development Goals (SDGs). There was an error found in the Compound Annual Growth Rate (CAGR) calculation in the original research, which was rectified by applying the correct formula. Despite this error, the study's outcomes remained unaffected. It concludes by emphasizing the importance of a systematic approach in academic writing to learn from errors and avoid similar mistakes in the future.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+               <ce:keyword id="pc_x5IPTZY1ws">
+                  <ce:text>Bibliometrics</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>CAGR</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Compound Annual Growth Rate</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Calculation Error</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0020">Introduction</ce:section-title>
+                  <ce:para id="p0010" view="all">A recent investigation [<ce:cross-ref refid="bib1" id="crosref0020">1</ce:cross-ref>] examined the landscape of sustainability reporting research in relation to the Sustainable Development Goals set by the United Nations. Using bibliometric and science mapping techniques, the study examined patterns in research related to sustainability reporting based on the Scopus database and highlighted a significant increase in publications and citations after 2015. This increase is consistent with the increasing recognition of the SDGs. In addition, the research identified several key themes in sustainability reporting research, such as stakeholder engagement, corporate governance, sustainable development objectives, climate change, and global reporting initiatives. Finally, the study used social network analysis to examine the interconnectedness of the SDGs as presented in sustainability reporting literature and highlighted the importance of SDGs 9 and 12 as key themes.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="discussion" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0025">Discussion</ce:section-title>
+                  <ce:para id="p0015" view="all">The authors record an increase in publications on sustainability reporting, which shows a steady increase from 107 in 2012 to 766 in 2022 and the number of citations has been increased from 57 in 2012 to 21419 in 2022 [<ce:cross-ref refid="bib1" id="crosref0025">1</ce:cross-ref>]. To take this development into account, the authors calculated the average Compound Annual Growth Rate (CAGR) at 14.67 % for the total number of publications and 29.69 % for the total number of citations (see page 7). An evaluation of the CAGR value revealed an error in the calculation process. Since the authors did not provide the CAGR formula, we assume that they used the following formula (Elango 2019) [<ce:cross-ref refid="bib2" id="crosref0030">2</ce:cross-ref>]:<ce:display>
+                        <ce:formula id="fd1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.svg" alttext="Equation 1.">
+                              <mml:mrow>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mi>A</mml:mi>
+                                 <mml:mi>G</mml:mi>
+                                 <mml:mi>R</mml:mi>
+                                 <mml:mo linebreak="badbreak">=</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:msup>
+                                          <mml:mrow>
+                                             <mml:mo stretchy="true">(</mml:mo>
+                                             <mml:mfrac>
+                                                <mml:msub>
+                                                   <mml:mi>V</mml:mi>
+                                                   <mml:mrow>
+                                                      <mml:mi>f</mml:mi>
+                                                      <mml:mi>i</mml:mi>
+                                                      <mml:mi>n</mml:mi>
+                                                      <mml:mi>a</mml:mi>
+                                                      <mml:mi>l</mml:mi>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                                <mml:msub>
+                                                   <mml:mi>V</mml:mi>
+                                                   <mml:mrow>
+                                                      <mml:mi>b</mml:mi>
+                                                      <mml:mi>e</mml:mi>
+                                                      <mml:mi>g</mml:mi>
+                                                      <mml:mi>i</mml:mi>
+                                                      <mml:mi>n</mml:mi>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                             </mml:mfrac>
+                                             <mml:mo stretchy="true">)</mml:mo>
+                                          </mml:mrow>
+                                          <mml:mfrac>
+                                             <mml:mn>1</mml:mn>
+                                             <mml:mrow>
+                                                <mml:mi>t</mml:mi>
+                                                <mml:mo>−</mml:mo>
+                                                <mml:mn>1</mml:mn>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                       </mml:msup>
+                                       <mml:mo>−</mml:mo>
+                                       <mml:mn>1</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mo stretchy="true">)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo>*</mml:mo>
+                                 <mml:mn>100</mml:mn>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where, t is the number of years.</ce:para>
+                  <ce:para id="p0020" view="all">By substituting the respective values into <ce:cross-ref refid="fd1" id="crosref0035">Formula 1</ce:cross-ref> above, the CAGR is calculated to be 21.75 % for total publications and 80.92 % for total citations. After reviewing these calculated values, it appears that the numbers presented by the authors may contain inaccuracies. To authenticate the calculated value, the methodology advocated by Elango (2019: 2024) [<ce:cross-ref refid="bib2" id="crosref0040">2</ce:cross-ref>,<ce:cross-ref refid="bib3" id="crosref0045">3</ce:cross-ref>] is used in this correspondence. An analysis of the results (<ce:cross-ref refid="tbl1" id="crosref0050">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>) revealed that the authors used an incorrect formula that led to inaccuracies, while the exact <ce:cross-ref refid="fd1" id="crosref0055">formula 1</ce:cross-ref> corrects this error. For example, the number of publications should increase from 107 in 2012 to 766 in 2022. Using the authors' CAGR value (14.67 %), the projected increase is 421, resulting in a shortfall of 345. The number of citations should increase from 57 in 2012 to 21,419 in 2022. The authors' CAGR value (29.69 %) implies a potential increase to 767, resulting in a deficit of 20,652. Compared to the actual number of citations in 2022, the estimated value based on the authors' CAGR value appears to be significantly lower. This allows everyone to verify that the calculated CAGR is error-free.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="conclusion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0030">Conclusion</ce:section-title>
+                  <ce:para id="p0025" view="all">Despite the presence of an error in the CAGR calculation, the study's results remained unaffected. Academic writing requires that researchers demonstrate a thorough and systematic approach to gain valuable insight from the errors highlighted in the conclusion and to use this understanding to prevent similar errors in future cases. Furthermore, it is important to emphasize that this communication focuses on the identification and analysis of errors rather than on individual researchers.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" view="all">
+                  <ce:section-title id="sectitle0035">Funding</ce:section-title>
+                  <ce:para id="p0030" view="all">None.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:section-title id="sectitle0040">Data availability statement</ce:section-title>
+                  <ce:para id="p0035" view="all">This manuscript includes all the information required to support the conclusions.</ce:para>
+               </ce:section>
+               <ce:section id="sec6" view="all">
+                  <ce:section-title id="sectitle0045">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0040" view="all">
+                     <ce:bold>Bakthavachalam Elango:</ce:bold> Conceptualization, Formal analysis, Investigation, Writing – original draft, Writing – review &amp; editing.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0050">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0045" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0055">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Raman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Nair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Shivdas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bhukya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Viswanathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Subramaniam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Nedungadi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mapping sustainability reporting research with the UN's sustainable development goal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Heliyon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e18510</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">R. Raman, V.K. Nair, A. Shivdas, R. Bhukya, P.K. Viswanathan, N. Subramaniam, P. Nedungadi, Mapping sustainability reporting research with the UN's sustainable development goal. Heliyon 9 (2023) e18510.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Elango</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Calculation errors in bibliometrics: the case of CAGR</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>COLLNET J. Sci. Inf. Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>331</sb:first-page>
+                              <sb:last-page>337</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">B. Elango, Calculation errors in bibliometrics: The case of CAGR. COLLNET J. Scientomet. Inf. Manage. 13 (2019) 331-337.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Elango</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>G-20 countries and research collaboration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>522</sb:first-page>
+                              <sb:last-page>523</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">B. Elango, G-20 countries and research collaboration. Curr. Sci. 126 (2024) 522-523.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

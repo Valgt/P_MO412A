@@ -1,0 +1,514 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2468266717301007</prism:url><dc:identifier>doi:10.1016/S2468-2667(17)30100-7</dc:identifier><eid>1-s2.0-S2468266717301007</eid><prism:doi>10.1016/S2468-2667(17)30100-7</prism:doi><pii>S2468-2667(17)30100-7</pii><dc:title>Tobacco control in the Sustainable Development Goals: a precarious inclusion? </dc:title><prism:publicationName>The Lancet Public Health</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>cor</pubType><prism:issn>24682667</prism:issn><prism:volume>2</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>e258</prism:startingPage><prism:pageRange>e258</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2017-06-30</prism:coverDate><prism:coverDisplayDate>June 2017</prism:coverDisplayDate><prism:copyright>© 2017 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Small, Roy</dc:creator><dc:creator>Linou, Natalia</dc:creator><dc:creator>Webb, Douglas</dc:creator><dc:creator>Dhaliwal, Mandeep</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2468266717301007" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2468266717301007" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="946" height="202" size="10593">https://api.elsevier.com/content/object/eid/1-s2.0-S2468266717301007-si1.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85020022541</scopus-id><scopus-eid>2-s2.0-85020022541</scopus-eid><pubmed-id>29253365</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85020022541" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>314890</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Public Health</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETPUBLICHEALTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170530">2017-05-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170530">2017-05-30</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170607">2017-06-07</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170607">2017-06-07</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-05-30T03:55:43</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2468266717301007</xocs:eid>
+      <xocs:pii-formatted>S2468-2667(17)30100-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2468266717301007</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S2468-2667(17)30100-7</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2468266717X00066</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190530">2019-05-30T03:00:47.261275Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170601</xocs:date-search-begin>
+      <xocs:date-search-end>20170630</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1496190110">2017-05-31T00:21:50.788274Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav table body affil articletitle auth authfirstini authfull authlast doctopic pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2468-2667</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24682667</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>2</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>2</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 2, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>e258</xocs:first-fp>
+      <xocs:pages>
+         <xocs:first-page>e258</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201706</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>cor</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>TOBACCOCONTROLINSUSTAINABLEDEVELOPMENTGOALSAPRECARIOUSINCLUSION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SMALL</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:refers-to>
+         <xocs:refers-to-doi>10.1016/S2468-2667(17)30053-1</xocs:refers-to-doi>
+         <xocs:refers-to-pii-unformatted>S2468266717300531</xocs:refers-to-pii-unformatted>
+      </xocs:refers-to>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e157</xocs:ref-first-fp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20"/>
+         <xocs:ref-info refid="sbref30"/>
+         <xocs:ref-info refid="sbref40"/>
+         <xocs:ref-info refid="sbref50"/>
+         <xocs:ref-info refid="sbref60"/>
+         <xocs:ref-info refid="sbref70"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SMALLX2017Xe258</xocs:refkey3>
+         <xocs:refkey4ai>SMALLX2017Xe258XR</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2017-05-17T11:04:22Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2468-2667(17)30100-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2468266717301007</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2468266717301007</xocs:eid>
+         <xocs:doi>10.1016/S2468-2667(17)30100-7</xocs:doi>
+         <xocs:cid>314890</xocs:cid>
+         <xocs:timestamp>2019-05-30T03:00:47.261275Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-06-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2468266717301007-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468266717301007/MAIN/application/pdf/01da1acad8702773e11781dfb9b474eb/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>40460</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2468266717301007-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468266717301007/PREVIEW/image/png/93c02f827c13e0930097bffd39bbb143/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>74047</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468266717301007-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468266717301007/STRIPIN/image/gif/30a998ff74e7bd3656321f77f1c4e4fa/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>10593</xocs:filesize>
+               <xocs:pixel-height>202</xocs:pixel-height>
+               <xocs:pixel-width>946</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="cor" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>LANPUB</jid>
+            <aid>92</aid>
+            <ce:pii>S2468-2667(17)30100-7</ce:pii>
+            <ce:doi>10.1016/S2468-2667(17)30100-7</ce:doi>
+            <ce:document-thread>
+               <ce:refers-to-document id="cereftodoc10">
+                  <ce:pii>S2468-2667(17)30053-1</ce:pii>
+                  <ce:doi>10.1016/S2468-2667(17)30053-1</ce:doi>
+               </ce:refers-to-document>
+            </ce:document-thread>
+            <ce:copyright type="other" year="2017">The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY-NC-ND 4.0 license</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="cedoct10">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="cedoct20">
+                  <ce:text>Correspondence</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <ce:floats>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table</ce:label>
+               <ce:caption id="cecap10">
+                  <ce:simple-para id="spara10" role="caption" view="all">Tobacco-related and comparator terms in Sustainable Development Goals design fora</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6" altimg="si1.gif">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <thead>
+                     <row valign="bottom" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Web-based submissions containing a search term</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>National consultations containing a search term</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Mentions across the global thematic consultation final reports</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Mentions across the high-level reports</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <bold>Overall score</bold>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">HIV/AIDS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2139</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">61</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">244</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2524</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Reproductive</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">768</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">41</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">211</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1069</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Maternal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">809</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">71</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">26</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">955</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Non-communicable diseases</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">457</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">593</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Malaria</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">374</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">455</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Tobacco-related terms</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">219</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">14<cross-ref id="cecref10" refid="tbl1fn1">
+                              <sup loc="post">*</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">255</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Alcohol</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">177</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">225</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Obesity</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">103</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4<cross-ref id="cecref20" refid="tbl1fn1">
+                              <sup loc="post">*</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">131</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl1fn1">
+                  <ce:label>*</ce:label>
+                  <ce:note-para id="cenpara10" view="all">All in the health thematic consultation.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="cedoch10">
+               <ce:textfn>Correspondence</ce:textfn>
+            </ce:dochead>
+            <ce:title id="cetitle10">Tobacco control in the Sustainable Development Goals: a precarious inclusion?</ce:title>
+            <ce:author-group id="aug10">
+               <ce:author id="au10" author-id="S2468266717301007-e2dd28ccef68e3a1931f8a24fecff37d">
+                  <ce:given-name>Roy</ce:given-name>
+                  <ce:surname>Small</ce:surname>
+                  <ce:cross-ref id="cecref30" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au20" author-id="S2468266717301007-2d1f1aa9edefa1d51ce2815c73e9ea68">
+                  <ce:given-name>Natalia</ce:given-name>
+                  <ce:surname>Linou</ce:surname>
+                  <ce:cross-ref id="cecref40" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au30" author-id="S2468266717301007-360ca8d1a0326f093a46a55e6bfe87ff">
+                  <ce:given-name>Douglas</ce:given-name>
+                  <ce:surname>Webb</ce:surname>
+                  <ce:cross-ref id="cecref50" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au40" author-id="S2468266717301007-79b95f2f246e4a878ab17399a08b162d">
+                  <ce:given-name>Mandeep</ce:given-name>
+                  <ce:surname>Dhaliwal</ce:surname>
+                  <ce:cross-ref id="cecref60" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Health and Innovative Financing HIV, Health and Development Group, Bureau for Policy and Programme Support, UNDP, New York, NY 10017, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Health and Innovative Financing HIV</sa:organization>
+                     <sa:organization>Health and Development Group</sa:organization>
+                     <sa:organization>Bureau for Policy and Programme Support</sa:organization>
+                     <sa:organization>UNDP</sa:organization>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:postal-code>10017</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para10" view="all">The <ce:italic>Lancet Public Health</ce:italic> editorial in April, 2017, called for tobacco control to be “firmly anchored in the Sustainable Development Goals (SDGs)”.<ce:cross-ref id="cecref70" refid="bib1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> As development practitioners, we are cognisant that governments face tough resourcing and implementation decisions to achieve this ambitious agenda (17 goals and 169 targets). Despite inclusion of a specific target for implementation of the WHO Framework Convention on Tobacco Control (FCTC; target 3.a), there is a risk that tobacco control will remain a focus for the health community only.</ce:para>
+               <ce:para id="para20" view="all">To gain insight about how tobacco control featured in the SDG design process, we looked at: 27 970 web-based submissions; 72 reports of national consultations; and nine reports of <ce:inter-ref id="interrefs10" xlink:href="https://www.worldwewant2030.org/sitemap" xlink:type="simple">global thematic consultations</ce:inter-ref> organised around themes such as inequality, health, conflict, and fragility. We also looked at five high-level UN synthesis reports of discussions.<ce:cross-refs id="cecrefs10" refid="bib2 bib3 bib4 bib5 bib6">
+                     <ce:sup loc="post">2–6</ce:sup>
+                  </ce:cross-refs> We did a keyword search for terms associated with tobacco, the WHO FCTC, and comparator health issues historically included in development discourse. Tobacco control was discussed far less frequently than many other health priorities, ranking third-to-last in composite score (<ce:cross-ref id="cecref80" refid="tbl1">table</ce:cross-ref>
+                  <ce:float-anchor refid="tbl1"/>). National consultation reports from top cigarette-consuming and producing countries, such as China and Indonesia, did not mention tobacco. The WHO FCTC itself was mentioned very infrequently, (only in six web-based submissions and one health thematic consultation). It was not mentioned once in any of the high-level reports or the 72 national consultations, even though most national consultations were from Parties to the Convention. The Open Working Group tasked to <ce:inter-ref id="interrefs20" xlink:href="https://sustainabledevelopment.un.org/owg.html" xlink:type="simple">design a proposal</ce:inter-ref> for the SDGs met regularly over 2 years, yet the WHO FCTC was only introduced during the 11th of 13 sessions.</ce:para>
+               <ce:para id="para30" view="all">Although inclusion of target 3.a is an important accomplishment, it does not itself guarantee strengthened tobacco control efforts. We are concerned that without advocacy the WHO FCTC might not be reflected in national sustainable development frameworks. Governments should be supported to improve understanding of the shared responsibility across sectors in meeting treaty obligations.<ce:cross-ref id="cecref90" refid="bib7">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> Emphasis should be placed on capacity building for coordination and policy coherence across SDG goals and targets and preventing industry interference. Learning from the global HIV response, strong civil society will be crucial for creating urgency for action. World No Tobacco Day offers an opportunity to advocate for improved integration of tobacco control in development planning, governance, and financing.</ce:para>
+               <ce:para id="para40" role="acknowledgement" view="all">We declare no competing interests.</ce:para>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="bibl10" view="all">
+               <ce:section-title id="cestitle10">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec10" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>The Lancet Public Health</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The power of a treaty</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Public Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e157</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new global partnership: eradicate poverty and transform economies through sustainable development. The report of the High-Level Panel of Eminent Persons on the Post-2015 Development Agenda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs30" xlink:href="http://www.post2015hlp.org/wp-content/uploads/2013/05/UN-Report.pdf" xlink:type="simple">http://www.post2015hlp.org/wp-content/uploads/2013/05/UN-Report.pdf</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed April 17, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN Development Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The global conversation begins: emerging views for a new development agenda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs40" xlink:href="http://www.undp.org/content/dam/undp/library/MDG/english/global-conversation-begins-web.pdf" xlink:type="simple">http://www.undp.org/content/dam/undp/library/MDG/english/global-conversation-begins-web.pdf</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed April 17, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref40">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN Development Group</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A million voices: the world we want</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs50" xlink:href="http://www.undp.org/content/undp/en/home/librarypage/mdg/a-million-voices--the-world-we-want.html" xlink:type="simple">http://www.undp.org/content/undp/en/home/librarypage/mdg/a-million-voices--the-world-we-want.html</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed April 17, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref50">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>UN Global Compact</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Corporate Sustainability and the United Nations Post-2015 Development Agenda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs60" xlink:href="http://www.unglobalcompact.org/docs/news_events/9.1_news_archives/2013_06_18/UNGC_Post2015_Report.pdf" xlink:type="simple">http://www.unglobalcompact.org/docs/news_events/9.1_news_archives/2013_06_18/UNGC_Post2015_Report.pdf</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed April 17, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref60">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Sustainable Development Solutions Network</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An action agenda for sustainable development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs70" xlink:href="http://unsdsn.org/news/2013/06/06/an-action-agenda-for-sustainable-development-networks-issues-report/" xlink:type="simple">http://unsdsn.org/news/2013/06/06/an-action-agenda-for-sustainable-development-networks-issues-report/</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed April 17, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref70">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>WHO Framework Convention Secretariat and UNDP</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tobacco Control Governance in Sub-Saharan Africa</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interrefs80" xlink:href="http://www.undp.org/content/undp/en/home/librarypage/hiv-aids/tobacco-control-governance-in-sub-saharan-africa.html" xlink:type="simple">http://www.undp.org/content/undp/en/home/librarypage/hiv-aids/tobacco-control-governance-in-sub-saharan-africa.html</ce:inter-ref>
+                              <sb:date>2016</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>(accessed April 17, 2017).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

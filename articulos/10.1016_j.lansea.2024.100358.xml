@@ -1,0 +1,830 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2772368224000088</prism:url><dc:identifier>doi:10.1016/j.lansea.2024.100358</dc:identifier><eid>1-s2.0-S2772368224000088</eid><prism:doi>10.1016/j.lansea.2024.100358</prism:doi><pii>S2772-3682(24)00008-8</pii><dc:title>Call for action: presenting constituency-level data on population, health and socioeconomic wellbeing related to 2030 Sustainable Development Goals for India </dc:title><prism:publicationName>The Lancet Regional Health - Southeast Asia</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>cor</pubType><prism:issn>27723682</prism:issn><prism:volume>22</prism:volume><prism:startingPage>100358</prism:startingPage><prism:pageRange>100358</prism:pageRange><articleNumber>100358</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2024-03-31</prism:coverDate><prism:coverDisplayDate>March 2024</prism:coverDisplayDate><prism:copyright>© 2024 The Author(s). Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Ltd.</prism:publisher><dc:creator>Subramanian, S.V.</dc:creator><dc:creator>Patnaik, Amar</dc:creator><dc:creator>Kim, Rockli</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2772368224000088" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2772368224000088" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="671" height="416" size="103882">https://api.elsevier.com/content/object/eid/1-s2.0-S2772368224000088-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="136" size="8833">https://api.elsevier.com/content/object/eid/1-s2.0-S2772368224000088-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2973" height="1845" size="708363">https://api.elsevier.com/content/object/eid/1-s2.0-S2772368224000088-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85185609207</scopus-id><scopus-eid>2-s2.0-85185609207</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85185609207" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>779826</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291682</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>The Lancet Regional Health - Southeast Asia</xocs:srctitle>
+      <xocs:normalized-srctitle>LANCETREGIONALHEALTHSOUTHEASTASIA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240219">2024-02-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240219">2024-02-19</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240219">2024-02-19</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240219">2024-02-19</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-03-05T20:58:53.21525Z</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2772368224000088</xocs:eid>
+      <xocs:pii-formatted>S2772-3682(24)00008-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2772368224000088</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.lansea.2024.100358</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2772368224X00037</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240311">2024-03-11T08:57:08.63047Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20240301</xocs:date-search-begin>
+      <xocs:date-search-end>20240331</xocs:date-search-end>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1708388615">2024-02-20T00:23:35.101296Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body acknowledge affil articletitle auth authfirstini authfull authlast doctopic grantsponsor grantsponsorid orcid pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2772-3682</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>27723682</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>22</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>22</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 22</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>100358</xocs:first-fp>
+      <xocs:article-number>100358</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>100358</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202403</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>March 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-03-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2024-03-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Correspondence</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>cor</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Author(s). Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>CALLFORACTIONPRESENTINGCONSTITUENCYLEVELDATAPOPULATIONHEALTHSOCIOECONOMICWELLBEINGRELATED2030SUSTAINABLEDEVELOPMENTGOALSFORINDIA</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SUBRAMANIAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Contributors</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Data sharing statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>NITIAAYOG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SDGINDIAINDEXBASELINEREPORT2018</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>SUBRAMANIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HOWDATACANEMPOWERMPSSERVEPEOPLEBETTER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>SUBRAMANIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INDIASDGPLEDGEGOALSTRATEGYAPPLY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>BLOSSOM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>67</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>100375</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>SUBRAMANIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROGRESSSUSTAINABLEDEVELOPMENTGOALINDICATORSIN707DISTRICTSINDIAAQUANTITATIVEMIDLINEASSESSMENTUSINGNATIONALFAMILYHEALTHSURVEYS20162021</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>GOVERNMENTINDIAMINISTRYLABOUREMPLOYMENTLOKSABHAUNSTARREDQUESTIONNO674</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ceotherref9000"/>
+         <xocs:ref-info refid="sref12"/>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>NFHSPOLICYTRACKERFORPARLIAMENTARYCONSTITUENCIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>e1464</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>REORGANISATIONDISTRICTSINANDHRAPRADESHTURNINGOUTATICKLISHJOB</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>DAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DELIMITATIONCHANGINGINDIAPOLITICALMAP</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SUBRAMANIANX2024X100358</xocs:refkey3>
+         <xocs:refkey4ai>SUBRAMANIANX2024X100358XS</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-01-16T05:42:39Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Author(s). Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-02-25T21:33:05.455Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Bill &amp; Melinda Gates Foundation</xocs:funding-agency-matched-string>
+            <xocs:funding-id>INV-002992</xocs:funding-id>
+            <xocs:funding-agency-acronym>BMGF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Bill and Melinda Gates Foundation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000865</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>Funding: This study was supported by a grant from the Bill &amp; Melinda Gates Foundation INV-002992. The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2772-3682(24)00008-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2772368224000088</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2772368224000088</xocs:eid>
+         <xocs:doi>10.1016/j.lansea.2024.100358</xocs:doi>
+         <xocs:cid>779826</xocs:cid>
+         <xocs:timestamp>2024-03-11T08:57:08.63047Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-03-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2024-03-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2772368224000088-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2772368224000088/MAIN/application/pdf/fd2d11fcc59e8f34944d5bb929079053/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>216668</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2772368224000088-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2772368224000088/PREVIEW/image/png/421827620c5e2e8d095db4d18d678c74/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>84109</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2772368224000088-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2772368224000088/gr1/DOWNSAMPLED/image/jpeg/ae280e3a7af15b4d2e19cec65db3e2ab/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>103882</xocs:filesize>
+               <xocs:pixel-height>416</xocs:pixel-height>
+               <xocs:pixel-width>671</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2772368224000088-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2772368224000088/gr1/THUMBNAIL/image/gif/57e3950bc205e258aa81a3bed29e9587/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8833</xocs:filesize>
+               <xocs:pixel-height>136</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2772368224000088-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2772368224000088/HIGHRES/image/jpeg/785d919172a14ea275846fa35fb41d04/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>708363</xocs:filesize>
+               <xocs:pixel-height>1845</xocs:pixel-height>
+               <xocs:pixel-width>2973</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="cor" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>LANSEA</jid>
+            <aid>100358</aid>
+            <ce:article-number>100358</ce:article-number>
+            <ce:pii>S2772-3682(24)00008-8</ce:pii>
+            <ce:doi>10.1016/j.lansea.2024.100358</ce:doi>
+            <ce:copyright type="other" year="2024">The Author(s)</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic id="dtopic0010">
+                  <ce:text>Analysis and Interpretation</ce:text>
+               </ce:doctopic>
+               <ce:doctopic id="dtopic0020">
+                  <ce:text>Correspondence</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Distribution of parliamentary constituencies (count) for 33 Sustainable Development Goal (SDG) indicators by constituency status. Notes: For the selection of indicators, we used a published study that provided an assessment across these indicators for the districts of India,<ce:cross-ref refid="bib6" id="crosref0100">
+                        <ce:sup loc="post">6</ce:sup>
+                     </ce:cross-ref> and to derive the constituency estimates, we utilize a previously published methodology.<ce:cross-ref refid="bib5" id="crosref0105">
+                        <ce:sup loc="post">5</ce:sup>
+                     </ce:cross-ref>
+                  </ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2772368224000088/gr1"/>
+            </ce:figure>
+         </ce:floats>
+         <simple-head>
+            <ce:dochead id="dhead0010">
+               <ce:textfn>Correspondence</ce:textfn>
+            </ce:dochead>
+            <ce:title id="title0010">Call for action: presenting constituency-level data on population, health and socioeconomic wellbeing related to 2030 Sustainable Development Goals for India</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" orcid="0000-0003-2365-4165" author-id="S2772368224000088-2653911fc6e9181d6184048c16bc8b5d">
+                  <ce:given-name>S.V.</ce:given-name>
+                  <ce:surname>Subramanian</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0020">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au2" author-id="S2772368224000088-159437418332f0a428320274780d9e8f">
+                  <ce:given-name>Amar</ce:given-name>
+                  <ce:surname>Patnaik</ce:surname>
+                  <ce:cross-ref refid="aff3" id="crosref0025">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au3" orcid="0000-0002-9864-3957" author-id="S2772368224000088-beb294711daed30ffee9c91e785379f7">
+                  <ce:given-name>Rockli</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="aff4" id="crosref0030">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff5" id="crosref0035">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2772368224000088-7846a414e22b001ec8b1fb0050d03207">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Harvard Center for Population and Development Studies, 9 Bow Street, Cambridge, MA, 02138, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Harvard Center for Population and Development Studies</sa:organization>
+                     <sa:address-line>9 Bow Street</sa:address-line>
+                     <sa:city>Cambridge</sa:city>
+                     <sa:state>MA</sa:state>
+                     <sa:postal-code>02138</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Professor of Population Health and Geography, Harvard Center for Population and Development Studies, 9 Bow Street Cambridge, MA, 02138, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2772368224000088-91660217bad06e5f46523c6553e6f244">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Social and Behavioral Sciences, Harvard T. H. Chan School of Public Health, Boston, MA, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Social and Behavioral Sciences</sa:organization>
+                     <sa:organization>Harvard T. H. Chan School of Public Health</sa:organization>
+                     <sa:city>Boston</sa:city>
+                     <sa:state>MA</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">Department of Social and Behavioral Sciences, Harvard T. H. Chan School of Public Health, Boston, MA, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S2772368224000088-eae728e48bd35c8694b221c5a8dab28a">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Member of Parliament, Rajya Sabha, Government of India, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Member of Parliament</sa:organization>
+                     <sa:organization>Rajya Sabha</sa:organization>
+                     <sa:organization>Government of India</sa:organization>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0020">Member of Parliament, Rajya Sabha, Government of India</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff4" affiliation-id="S2772368224000088-cfb3c8f69077cb133a87410deb634be0">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Division of Health Policy and Management, College of Health Science, Korea University, Seoul, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Division of Health Policy and Management</sa:organization>
+                     <sa:organization>College of Health Science</sa:organization>
+                     <sa:organization>Korea University</sa:organization>
+                     <sa:city>Seoul</sa:city>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0025">Assistant Professor, Division of Health Policy and Management, College of Health Science, Korea University, Seoul, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff5" affiliation-id="S2772368224000088-1b8192a56f0c4276b06184a49e6858f3">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Interdisciplinary Program in Precision Public Health, Department of Public Health Sciences, Graduate School of Korea University, Seoul, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Interdisciplinary Program in Precision Public Health</sa:organization>
+                     <sa:organization>Department of Public Health Sciences</sa:organization>
+                     <sa:organization>Graduate School of Korea University</sa:organization>
+                     <sa:city>Seoul</sa:city>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0030">Interdisciplinary Program in Precision Public Health, Department of Public Health Sciences, Graduate School of Korea University, Seoul, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. Harvard Center for Population and Development Studies, 9 Bow Street, Cambridge, MA, 02138, USA.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Harvard Center for Population and Development Studies</sa:organization>
+                     <sa:organization>9 Bow Street</sa:organization>
+                     <sa:city>Cambridge</sa:city>
+                     <sa:state>MA</sa:state>
+                     <sa:postal-code>02138</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="10" year="2023"/>
+            <ce:date-revised day="4" month="1" year="2024"/>
+            <ce:date-accepted day="16" month="1" year="2024"/>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0010" view="all">India is committed to the 2030 Sustainable Development Goals (SDG) targets.<ce:cross-ref refid="bib1" id="crosref0040">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref> Accomplishing the SDGs will require strong and sustained political support and accountability, not just at the national level but at the level of the 543 parliamentary constituencies with elected representatives, referred to as the Members of Parliament (MPs).<ce:cross-ref refid="bib2" id="crosref0045">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+                  <ce:sup loc="post">,</ce:sup>
+                  <ce:cross-ref refid="bib3" id="crosref0050">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref> However, readily available data related to SDG indicators is lacking for constituencies. This occurs because the populations served by a district (a unit at which data is typically made available) and a constituency are not the same; a constituency can have parts of a district or multiple districts intersecting it or vice versa.<ce:cross-ref refid="bib4" id="crosref0055">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref> Building on prior research,<ce:cross-ref refid="bib5" id="crosref0060">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref>
+                  <ce:sup loc="post">,</ce:sup>
+                  <ce:cross-ref refid="bib6" id="crosref0065">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref> we present a data resource of 33 SDG indicators related to population, health and socioeconomic well-being for the 543 parliamentary constituencies that the MPs can utilize to assess the progress their respective constituencies have made so far and what needs to be done to accomplish the targets by 2030 (<ce:cross-ref refid="fig1" id="crosref0070">Fig. 1</ce:cross-ref>
+                  <ce:float-anchor refid="fig1"/>; also see <ce:inter-ref xlink:href="https://geographicinsights.iq.harvard.edu/PC-SDG-Progress" id="intref0010" xlink:type="simple">https://geographicinsights.iq.harvard.edu/PC-SDG-Progress</ce:inter-ref>).</ce:para>
+               <ce:para id="p0015" view="all">For indicators such as adolescent pregnancy, multidimensional poverty, access to electricity and women having bank accounts, a vast majority of the constituencies are on course to achieving the targets or have already achieved the targets in 2021. On the other hand, for indicators such as health insurance, access to basic services, and an array of women’s well-being and gender inequality indicators (e.g., girl child marriage, intimate partner violence, contraceptive use) more than two-thirds to three-fourths of the constituencies are not on track to achieving the targets by 2030. Despite national success in indicators such as improved sanitation or neonatal mortality, 119 and 218 constituencies, respectively, are not on-course to achieving these targets. Similarly, targets related to access to basic services, including clean fuel for cooking, hand-washing facilities, or improved water quality, also remain out of reach in a large majority of the constituencies.</ce:para>
+               <ce:para id="p0020" view="all">In a recent Q&amp;A session in the parliament on the request for constituency-level data for evaluating a particular program on registered agricultural laborers, the Minister for Labour and Employment acknowledged no data was being maintained at the constituency-level.<ce:cross-ref refid="bib7" id="crosref0075">
+                     <ce:sup loc="post">7</ce:sup>
+                  </ce:cross-ref> Furthermore, several Lok Sabha members have asked the Government of India on the status of SDG Indicators at sub-national levels in the Parliament.<ce:cross-ref refid="bib8" id="crosref0060a">
+                     <ce:sup loc="post">8</ce:sup>
+                  </ce:cross-ref>
+                  <ce:sup loc="post">,</ce:sup>
+                  <ce:cross-ref refid="bib9" id="crosref0065r">
+                     <ce:sup loc="post">9</ce:sup>
+                  </ce:cross-ref> This fundamental data gap needs to be addressed for MPs in order for them to function effectively in serving the needs of their constituents.</ce:para>
+               <ce:para id="p0025" view="all">Having constituency-level data is a critical pre-requisite for the success of the District Development Coordination and Monitoring Committees (DISHA). The DISHA was established to provide a quarterly review of all development activity and, importantly, to ensure better coordination among the elected and administrative representatives for efficient functioning. However, in the absence of constituency-level data, the MP who chairs these meetings cannot get an accurate assessment of the progress of the various programs for his or her constituents as only district data is made available by the district administrator. Since the MPs are directly responsible and accountable to their constituents, the availability of development data at the constituency-level at the DISHA meetings can substantially empower the MPs to function effectively in a targeted manner. Outside of formal governmental engagement, timely and accessible constituency-level data can also bring a data-oriented approach to MPs engagement with civil society and other stakeholders to prioritize issues most important to their constituents.</ce:para>
+               <ce:para id="p0030" view="all">While attempts have been made to create a reliable constituency-level data resource,<ce:cross-ref refid="bib10" id="crosref0080">
+                     <ce:sup loc="post">10</ce:sup>
+                  </ce:cross-ref>
+                  <ce:sup loc="post">,</ce:sup>
+                  <ce:cross-ref refid="bib11" id="crosref0085">
+                     <ce:sup loc="post">11</ce:sup>
+                  </ce:cross-ref> a more durable solution is needed such that all micro datasets be consistently geo-tagged for parliamentary and assembly constituencies. The discordance in the populations that are served by districts and constituencies and the inefficiencies they bring to development governance make a compelling case for establishing a national commission to systematically explore and develop a strategy for harmonizing these two critical policy units. For instance, recently Andhra Pradesh, which was due for reconstituting its 13 districts since its separation from Telangana in 2014, decided to largely use the number and geometry of 25 of its 26 parliamentary constituencies to create the new districts.<ce:cross-ref refid="bib12" id="crosref0090">
+                     <ce:sup loc="post">12</ce:sup>
+                  </ce:cross-ref> There is a delimitation scheduled for reconstituting the number and geometry of parliamentary and assembly constituencies in 2026,<ce:cross-ref refid="bib13" id="crosref0095">
+                     <ce:sup loc="post">13</ce:sup>
+                  </ce:cross-ref> and it would be timely to consider possibilities for harmonizing the populations served by the districts and parliamentary constituencies.</ce:para>
+               <ce:para id="p0035" view="all">Recent years have seen India’s elected officials engage publicly and more consistently in articulating and shaping policy agendas. Creating a robust constituency-level data surveillance and monitoring system on the health and well-being of their population can bring the necessary political synergy and accountability needed to accomplish the SDGs.</ce:para>
+               <ce:section id="sec1" view="all">
+                  <ce:section-title id="sectitle0010">Contributors</ce:section-title>
+                  <ce:para id="p0040" view="all">Conceptualization and Design: SVS; Data Acquisition and Analysis: RK; Data Interpretation: SVS, AP, RK; Writing of the Manuscript: SVS, AP, RK; Overall Supervision: SVS.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:section-title id="sectitle0015">Data sharing statement</ce:section-title>
+                  <ce:para id="p0045" view="all">Parliamentary Constituency estimates for SDG indicators are geo-visualized in an interactive dashboard: <ce:inter-ref xlink:href="https://geographicinsights.iq.harvard.edu/PC-SDG-Progress" id="intref0015" xlink:type="simple">https://geographicinsights.iq.harvard.edu/PC-SDG-Progress</ce:inter-ref>. The data source underlying this work is publicly available and can be accessed from <ce:inter-ref xlink:href="https://dhsprogram.com/data/available-datasets.cfm" id="intref0020" xlink:type="simple">https://dhsprogram.com/data/available-datasets.cfm</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0020">Declaration of interests</ce:section-title>
+               <ce:para id="p0050" view="all">None.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0025">Acknowledgements</ce:section-title>
+               <ce:para id="p0055" view="all">We are grateful to Hyejun Chi for her assistance in data analysis, and Akhil Kumar for his contribution in data analysis, visualization, and insightful comments on the draft.</ce:para>
+               <ce:para id="p0060" view="all">Funding: This study was supported by a grant from the <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/100000865" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Bill &amp; Melinda Gates Foundation</ce:grant-sponsor> INV-002992. The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0030">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>NITI Aayog</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SDG India Index baseline report, 2018</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Government of India, New Delhi, India</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://www.niti.gov.in/sites/default/files/2020-07/SDX_Index_India_Baseline_Report_21-12-2018.pdf" id="interref0010" xlink:type="simple">https://www.niti.gov.in/sites/default/files/2020-07/SDX_Index_India_Baseline_Report_21-12-2018.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>Accessed January 28, 2024</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Aayog N. SDG India Index baseline report, 2018. New Delhi, India; 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Subramanian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How data can empower MPs to serve people better</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2023</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Indian Express</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://geographicinsights.iq.harvard.edu/sites/projects.iq.harvard.edu/files/geographicinsights2/files/IE_OpEd_MP_Feb17_2023.pdf" id="interref0015" xlink:type="simple">https://geographicinsights.iq.harvard.edu/sites/projects.iq.harvard.edu/files/geographicinsights2/files/IE_OpEd_MP_Feb17_2023.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>Accessed January 28, 2024</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Subramanian SV. How data can empower MPs to serve people better. The Indian Express 2023.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Subramanian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>India, its SDG pledge goal, and the strategy to apply</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2023</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Hindu</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://geographicinsights.iq.harvard.edu/sites/projects.iq.harvard.edu/files/geographicinsights2/files/the_hindu_sdg_oped_may1_2023.pdf" id="interref0020" xlink:type="simple">https://geographicinsights.iq.harvard.edu/sites/projects.iq.harvard.edu/files/geographicinsights2/files/the_hindu_sdg_oped_may1_2023.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>Accessed January 28, 2024</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">Subramanian SV. India, its SDG pledge goal, and the strategy to apply. The Hindu 2023.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Blossom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Swaminathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Joe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Subramanian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Robust parliamentary constituency estimates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Econ Polit Wkly</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>19</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>67</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://geographicinsights.iq.harvard.edu/files/geographicinsights2/files/robust_parliamentary_constituency_estimates_geographic_data_science_approaches.pdf" id="interref0020a" xlink:type="simple">https://geographicinsights.iq.harvard.edu/files/geographicinsights2/files/robust_parliamentary_constituency_estimates_geographic_data_science_approaches.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>Accessed January 28, 2024</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">Blossom JC, Swaminathan A, Joe W, Kim R, Subramanian S. Robust parliamentary constituency estimates. Economic Political Weekly 2019; 54(19): 67.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Swaminathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Estimating the burden of child malnutrition across parliamentary constituencies in India: a methodological comparison</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100375</sb:article-number>
+                           <ce:doi>10.1016/j.ssmph.2019.100375</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">Kim R, Swaminathan A, Kumar R, et al. Estimating the burden of child malnutrition across parliamentary constituencies in India: a methodological comparison. 2019; 7: 100375.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Subramanian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ambade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progress on sustainable development goal indicators in 707 districts of India: a quantitative mid-line assessment using the National Family Health Surveys, 2016 and 2021</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2023</sb:date>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.lansea.2023.100155</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Subramanian SV, Ambade M, Kumar A, et al. Progress on sustainable development goal indicators in 707 districts of India: a quantitative mid-line assessment using the National Family Health Surveys, 2016 and 2021. 2023; 13.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Government of India Ministry of Labour and Employment Lok Sabha unstarred question no. 674</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2023</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://sansad.in/getFile/loksabhaquestions/annex/1711/AU674.pdf?source=pqals" id="interref0025" xlink:type="simple">https://sansad.in/getFile/loksabhaquestions/annex/1711/AU674.pdf?source=pqals</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>Accessed January 28, 2024</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Government of India Ministry of Labour and Employment Lok Sabha unstarred question no. 674. 2023.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <ce:other-ref id="ceotherref9000">
+                        <ce:textref>Government of India Ministry of Planning Lok Sabha Unstarred Question no. 4609; 2023. <ce:inter-ref xlink:href="https://sansad.in/getFile/loksabhaquestions/annex/1711/AU4609.pdf?source=pqals" id="interref0040" xlink:type="simple">https://sansad.in/getFile/loksabhaquestions/annex/1711/AU4609.pdf?source=pqals</ce:inter-ref>. Accessed January 28, 2024.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <ce:other-ref id="sref12">
+                        <ce:textref>Government of India Ministry of Planning Lok Sabha Unstarred Question no. 2893; 2023. <ce:inter-ref xlink:href="https://sansad.in/getFile/loksabhaquestions/annex/1714/AU2893.pdf?source=pqals" id="interref0045" xlink:type="simple">https://sansad.in/getFile/loksabhaquestions/annex/1714/AU2893.pdf?source=pqals</ce:inter-ref>. Accessed January 28, 2024.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Geographic Insights Lab</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>NFHS policy tracker for parliamentary constituencies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2023</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://geographicinsights.iq.harvard.edu/nfhs-tracker-pc" id="intref0025" xlink:type="simple">https://geographicinsights.iq.harvard.edu/nfhs-tracker-pc</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>Accessed January 28, 2024</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">Lab GI. NFHS policy tracker for parliamentary constituencies. 2023. https://geographicinsights.iq.harvard.edu/nfhs-tracker-pc</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Subramanian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Estimating vulnerability to COVID-19 in India</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet Glob Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e1464</sb:article-number>
+                           <ce:doi>10.1016/S2214-109X(20)30427-7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">Kim R, Subramanian S. Estimating vulnerability to COVID-19 in India. The Lancet Global Health 2020; 8(12): e1464.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Reorganisation of districts in Andhra Pradesh turning out to be a ticklish job</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Economic Times</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://economictimes.indiatimes.com/news/politics-and-nation/reorganisation-of-districts-in-andhra-pradesh-turning-out-to-be-a-ticklish-job/articleshow/79233623.cms" id="intref0030" xlink:type="simple">https://economictimes.indiatimes.com/news/politics-and-nation/reorganisation-of-districts-in-andhra-pradesh-turning-out-to-be-a-ticklish-job/articleshow/79233623.cms</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">Reorganisation of districts in Andhra Pradesh turning out to be a ticklish job. The Economic Times; 2020. p. https://economictimes.indiatimes.com/news/politics-and-nation/reorganisation-of-districts-in-andhra-pradesh-turning-out-to-be-a-ticklish-job/articleshow/79233623.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Das</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Delimitation, and the changing India political map</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2023</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Indian Express</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://indianexpress.com/article/political-pulse/delimitation-and-the-changing-india-political-map-8950367/" id="intref0035" xlink:type="simple">https://indianexpress.com/article/political-pulse/delimitation-and-the-changing-india-political-map-8950367/</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>Accessed January 28, 2024</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">Das A. Delimitation, and the changing India political map. The Indian Express; 2023. p. https://indianexpress.com/article/political-pulse/delimitation-and-the-changing-india-political-map-8950367/.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

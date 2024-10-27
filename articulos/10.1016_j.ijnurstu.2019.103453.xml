@@ -1,0 +1,841 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0020748919302603</prism:url><dc:identifier>doi:10.1016/j.ijnurstu.2019.103453</dc:identifier><eid>1-s2.0-S0020748919302603</eid><prism:doi>10.1016/j.ijnurstu.2019.103453</prism:doi><pii>S0020-7489(19)30260-3</pii><dc:title>Task shifting to attain Sustainable Development Goals and Universal Health Coverage: What are the consequences to the nursing and midwifery profession? </dc:title><prism:publicationName>International Journal of Nursing Studies</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>00207489</prism:issn><prism:volume>102</prism:volume><prism:startingPage>103453</prism:startingPage><prism:pageRange>103453</prism:pageRange><articleNumber>103453</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2020-02-29</prism:coverDate><prism:coverDisplayDate>February 2020</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Pallangyo, Eunice S.</dc:creator><dc:creator>Ndirangu, Eunice</dc:creator><dc:creator>Mwasha, Loveluck</dc:creator><dc:creator>Lyimo, Mary</dc:creator><dc:creator>Namukwaya, Carolyne</dc:creator><dc:creator>Premji, Shahirose</dc:creator><dc:creator>Squires, Allison</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0020748919302603" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0020748919302603" rel="scidir"/></coredata><scopus-id>85075999717</scopus-id><scopus-eid>2-s2.0-85075999717</scopus-eid><pubmed-id>31780099</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85075999717" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271253</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291823</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="subj">291918</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Nursing Studies</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALNURSINGSTUDIES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20191102">2019-11-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20191102">2019-11-02</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200203">2020-02-03</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200203">2020-02-03</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-02-03T08:46:32</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0020748919302603</xocs:eid>
+      <xocs:pii-formatted>S0020-7489(19)30260-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0020748919302603</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijnurstu.2019.103453</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0020748919X00139</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20201012">2020-10-12T05:38:12.995133Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200201</xocs:date-search-begin>
+      <xocs:date-search-end>20200229</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1572679700">2019-11-02T07:28:20.725263Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0020-7489</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00207489</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>102</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>102</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 102</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>103453</xocs:first-fp>
+      <xocs:article-number>103453</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>103453</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202002</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-02-29</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Editorial</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>TASKSHIFTINGATTAINSUSTAINABLEDEVELOPMENTGOALSUNIVERSALHEALTHCOVERAGECONSEQUENCESNURSINGMIDWIFERYPROFESSION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PALLANGYO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>A case example: the advanced practice nurse and midwife role in East Africa</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conflict of interests</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>DOLAMO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>GIRAMONTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>573</xocs:ref-first-fp>
+            <xocs:ref-last-lp>576</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0001"/>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>HORROCKS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>819</xocs:ref-first-fp>
+            <xocs:ref-last-lp>823</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0002"/>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>JONATHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1034</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>MARTINEZGONZALEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0003">
+            <xocs:ref-normalized-surname>MSUYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>74</xocs:ref-first-fp>
+            <xocs:ref-last-lp>82</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>PUTTURAJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>RIDGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-last-lp>161</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SCOPEPRACTICEFORNURSESMIDWIVESINTANZANIA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TASKSHIFTINGGLOBALRECOMMENDATIONSGUIDELINES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>NURSINGMIDWIFERYINHISTORYWORLDHEALTHORGANIZATION19482017</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>HANDBOOKMONITORINGEVALUATIONHUMANRESOURCESFORHEALTHSPECIALAPPLICATIONSFORLOWMIDDLEINCOMECOUNTRIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WORKINGFORHEALTHGROWTHINVESTINGINHEALTHWORKFORCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013">
+            <xocs:ref-normalized-surname>YANKAUER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-last-lp>276</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PALLANGYOX2020X103453</xocs:refkey3>
+         <xocs:refkey4ai>PALLANGYOX2020X103453XE</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-02-03T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-02-03T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0020-7489(19)30260-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0020748919302603</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0020748919302603</xocs:eid>
+         <xocs:doi>10.1016/j.ijnurstu.2019.103453</xocs:doi>
+         <xocs:cid>271253</xocs:cid>
+         <xocs:timestamp>2020-10-12T05:38:12.995133Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-02-29</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0020748919302603-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0020748919302603/MAIN/application/pdf/25f3e99c2f047d9ab4ee193162143d55/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>259752</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0020748919302603-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0020748919302603/PREVIEW/image/png/edde2c42bf3c9e53efc5edd23b618a75/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68669</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>NS</jid>
+            <aid>103453</aid>
+            <ce:article-number>103453</ce:article-number>
+            <ce:pii>S0020-7489(19)30260-3</ce:pii>
+            <ce:doi>10.1016/j.ijnurstu.2019.103453</ce:doi>
+            <ce:copyright type="unknown" year="2019"/>
+         </item-info>
+         <simple-head>
+            <ce:article-footnote>
+               <ce:note-para id="notep0001a" view="all">This editorial is part of an editorial series highlighting nurses’ and midwives’ contribution to achieving United Nations Sustainable Development Goals in the run up to 2020, declared by the United Nations ‘the year of the Nurse and Midwife’.</ce:note-para>
+            </ce:article-footnote>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Guest Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Task shifting to attain Sustainable Development Goals and Universal Health Coverage: What are the consequences to the nursing and midwifery profession?</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S0020748919302603-b9d9d95249e73cbe63063760f6de5ec3">
+                  <ce:given-name>Eunice S.</ce:given-name>
+                  <ce:surname>Pallangyo</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0002" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0002" author-id="S0020748919302603-07a9faa5caa6415348e66ba555e2f1b5">
+                  <ce:given-name>Eunice</ce:given-name>
+                  <ce:surname>Ndirangu</ce:surname>
+                  <ce:cross-ref id="crf0003" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0003" author-id="S0020748919302603-aa52b41233725a1aef056278515c8d3d">
+                  <ce:given-name>Loveluck</ce:given-name>
+                  <ce:surname>Mwasha</ce:surname>
+                  <ce:cross-ref id="crf0004" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0004" author-id="S0020748919302603-0513d21835b18f5da0b6f9622f4f1f68">
+                  <ce:given-name>Mary</ce:given-name>
+                  <ce:surname>Lyimo</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0005" author-id="S0020748919302603-9a374cc6ab64d40f04519c3332a487e0">
+                  <ce:given-name>Carolyne</ce:given-name>
+                  <ce:surname>Namukwaya</ce:surname>
+                  <ce:cross-ref id="crf0006" refid="aff0003">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0006" author-id="S0020748919302603-e2704e5a08295394ffe418679209c0f9">
+                  <ce:given-name>Shahirose</ce:given-name>
+                  <ce:surname>Premji</ce:surname>
+                  <ce:cross-ref id="crf0007" refid="aff0004">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0007" author-id="S0020748919302603-ff4018e0fbaf83b9be9adc73d1cd3c07">
+                  <ce:given-name>Allison</ce:given-name>
+                  <ce:surname>Squires</ce:surname>
+                  <ce:cross-ref id="crf0008" refid="aff0005">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S0020748919302603-8b2507729bacada54fb0b558ffacd91a">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">School of Nursing and Midwifery, Aga Khan University, Dar es Salaam, Tanzania</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Nursing and Midwifery</sa:organization>
+                     <sa:organization>Aga Khan University</sa:organization>
+                     <sa:city>Dar es Salaam</sa:city>
+                     <sa:country>Tanzania</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">aSchool of Nursing and Midwifery, Aga Khan University, Dar es Salaam-, Tanzania</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S0020748919302603-35389b6394ac8338ff50746b3081e707">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">School of Nursing and Midwifery, Aga Khan University, Nairobi, Kenya</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Nursing and Midwifery</sa:organization>
+                     <sa:organization>Aga Khan University</sa:organization>
+                     <sa:city>Nairobi</sa:city>
+                     <sa:country>Kenya</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0002">bSchool of Nursing and Midwifery, Aga Khan University, Nairobi-, Kenya</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0003" affiliation-id="S0020748919302603-f5d1662d2b8bce09dba4a5798b9d4375">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="cetextfn0003">School of Nursing and Midwifery, Aga Khan University, Kampala, Uganda</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Nursing and Midwifery</sa:organization>
+                     <sa:organization>Aga Khan University</sa:organization>
+                     <sa:city>Kampala</sa:city>
+                     <sa:country>Uganda</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0003">cSchool of Nursing and Midwifery, Aga Khan University, Kampala-, Uganda</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0004" affiliation-id="S0020748919302603-4862839a33960b6693b5b3a142b94e5f">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="cetextfn0004">School of Nursing, Faculty of Health, York University, Toronto, ON M3J, 1P3, Canada</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Nursing, Faculty of Health</sa:organization>
+                     <sa:organization>York University</sa:organization>
+                     <sa:city>Toronto</sa:city>
+                     <sa:state>ON</sa:state>
+                     <sa:postal-code>M3J, 1P3</sa:postal-code>
+                     <sa:country>Canada</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0004">dSchool of Nursing, Faculty of Health, York University, Toronto, ON, M3J, 1P3, Canada</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0005" affiliation-id="S0020748919302603-b928a7c17fe2e6cd46b4699db13a8549">
+                  <ce:label>e</ce:label>
+                  <ce:textfn id="cetextfn0005">Rory Meyers College of Nursing, New York University, 433 First Avenue, New York, NY 10010, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Rory Meyers College of Nursing</sa:organization>
+                     <sa:organization>New York University</sa:organization>
+                     <sa:address-line>433 First Avenue</sa:address-line>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:postal-code>10010</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0005">eRory Meyers College of Nursing, New York University, 433 First Avenue, New York, NY, 10010, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1001" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="cesectitle1002">Introduction</ce:section-title>
+                  <ce:para id="para0001" view="all">Internationally, there is consensus that nurses and midwives are important contributors to strengthening health systems, addressing the increasing healthcare demands and patient care outcomes, and in meeting the global health agenda (<ce:cross-ref id="crf0009" refid="bib0007">Martínez-González et al., 2015</ce:cross-ref>; <ce:cross-ref id="crf0010" refid="bib0009">Putturaj and Prashanth, 2017</ce:cross-ref>; <ce:cross-ref id="crf0011" refid="bib0002">Giramonti and Kogan, 2018</ce:cross-ref>; <ce:cross-ref id="crf0012" refid="bib0013">World Health Organization (WHO), 2017</ce:cross-ref>). In Europe, for example, a systematic review of several trials was conducted to compare physician-led-care with nurse-led-care under task shifting model in primary care (<ce:cross-ref id="crf0013" refid="bib0007">Martínez-González et al., 2015</ce:cross-ref>; <ce:cross-ref id="crf0014" refid="bib0004">Horrocks et al., 2002</ce:cross-ref>). These trials indicated that nurse led care which is mainly provided by nurse practitioners improved patients health outcomes similar to physician led care (<ce:cross-ref id="crf0015" refid="bib0007">Martínez-González et al., 2015</ce:cross-ref>; <ce:cross-ref id="crf0016" refid="bib0004">Horrocks et al., 2002</ce:cross-ref>). The nurse practitioners performed much higher in identifying abnormalities, completing records, communication, following treatment protocols and patients satisfaction as compared with physician led care (<ce:cross-ref id="crf0017" refid="bib0007">Martínez-González et al., 2015</ce:cross-ref>; <ce:cross-ref id="crf0018" refid="bib0004">Horrocks et al., 2002</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0002" view="all">The World Health Organization formally approved the Addis Ababa Task Shifting Declaration in 2008 as a widely accepted strategy of dealing with critical shortage of human resource for health. Task shifting – also known as task sharing – is the transfer of less specialized skills and tasks to less specialized and/or differently trained cadre of healthcare providers of various disciplines, particularly nurses and midwives (<ce:cross-ref id="crf0019" refid="bib0012">World Health Organization (WHO), 2008</ce:cross-ref>). The causes for initiation of task shifting and advanced practice role are similar, all including redistribution of tasks for improving healthcare coverage and quality through expanded scope of practice that is tailored to meet the demand for healthcare services. The need for providing primary care including care of <ce:italic>acute illness, preventive care counseling and education</ce:italic>, and <ce:italic>continuing care for chronic disease</ce:italic> also led to the establishment of the advanced practice nursing/midwifery in several countries (<ce:cross-ref id="crf0020" refid="bib0016">Yankauer and Sullivan, 1982</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0003" view="all">Although the roles of advanced practice nurses and midwives are not simply defined by task shifting advanced practitioners like nurse practitioners and nurse midwives are often the first recipients of task shifting. The International Council of Nurses defines Advanced Practice/Practitioner as a registered nurse (at masters level and above) with the expert knowledge base, complex decision-making skills and clinical competencies for expanded practice (<ce:cross-ref id="crf0021" refid="bib0005">International Council of Nurses (ICN), 2008</ce:cross-ref>). The advanced practice role for nurses and midwives was established in different countries as early as 1940s (albeit informally). Though the roles began as a way to reduce the healthcare costs associated with physician delivered care, increase patient access to care (most often in rural areas), and address acute shortages of physicians (<ce:cross-ref id="crf0022" refid="bib0004">Horrocks et al., 2002</ce:cross-ref>; <ce:cross-ref id="crf0023" refid="bib0016">Yankauer and Sullivan, 1982</ce:cross-ref>) it has proved to be lifesaving and important for improving quality of care. The expansion of professional autonomy of nursing/midwifery and recognition of the existing expertise or practice are also crucial reasons for advanced practice.</ce:para>
+                  <ce:para id="para0004" view="all">The Advanced Practice/Practitioners are prepared and endorsed by specific national authorities to work autonomously, make independent diagnoses, and decide on the treatment plan to provide patient care in an advanced and extended clinical roles (or other setting-education, research etc.) (<ce:cross-ref id="crf0024" refid="bib0004">Horrocks et al., 2002</ce:cross-ref>; <ce:cross-ref id="crf0025" refid="bib0001">Dolamo, 2018</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0005" view="all">Task shifting, however, can occur at any level of preparation for a nurse. It could include, but is not limited to, having community health workers conduct patient education for HIV/AIDS prevention or enrolled/practical/vocational nurses assuming responsibility for more complex intravenous infusions and medication administration responsibilities. In many cases, nurses and midwives are already performing various tasks out of their established scope due to the gaps in the labor market. Task shifting can formalize undertaking these tasks and provide nurses and midwives the required support for efficient execution of the roles.</ce:para>
+                  <ce:para id="para0006" view="all">East African countries, like other sub-Saharan nations, face a critical shortage of healthcare providers and this problem is predicted to exacerbate (<ce:cross-ref id="crf0026" refid="bib0014">World Health Organization, 2009</ce:cross-ref>). Also similar to other countries, the acute shortages, the demand for Universal Health Coverage and primary care provision is heading to the redistribution of tasks among healthcare professionals including establishment of advanced practice nursing and midwifery. Both advanced practice nursing and task shifting are currently crucial in the East African region based on the high demand for fulfilling the Sustainable Development Goals and Universal Health Coverage. However, this development requires critical reflection and political positioning in terms of its effect to Nursing and Midwifery practice in East Africa.</ce:para>
+                  <ce:para id="para0007" view="all">Nurses and Midwives comprise the largest group of healthcare professionals as in most countries, assume multiple responsibilities, spend more time with patients than most other cadres and, perform more wide range of clinical tasks in healthcare systems (<ce:cross-ref id="crf0027" refid="bib0007">Martínez-González et al., 2015</ce:cross-ref>). Unfortunately, there is limited evidence in this context about the outcomes of expanded roles to patient care provided by nurses and midwives or the consequences to the practitioners themselves. Although some low-income countries have realized the need for building capacity focused on encouraging evidence-based practice by nurses and midwives (<ce:cross-ref id="crf0028" refid="bib0003">Gray, 2019</ce:cross-ref>; <ce:cross-ref id="crf0029" refid="bib0010">Ridge et al., 2018</ce:cross-ref>), there are shortfalls in these nations. Notably, there is a challenge to balance the urgency of implementing the task shifting and health system strengthening, with formal educational preparation for these new roles. In addition, supportive policies to ensure that nurses and midwives in advanced practice are recognized and guided, based on the professional qualifications are lacking (<ce:cross-ref id="crf0030" refid="bib0009">Putturaj and Prashanth, 2017</ce:cross-ref>; <ce:cross-ref id="crf0031" refid="bib0008">Msuya, 2017</ce:cross-ref>). So far, only South Africa has well-established programmes in various advanced practice specializations in Africa (<ce:cross-ref id="crf0032" refid="bib0001">Dolamo, 2018</ce:cross-ref>; <ce:cross-ref id="crf0033" refid="bib0003">Gray, 2019</ce:cross-ref>). Several low- and middle- income countries are implementing task shifting and advanced practice nursing approaches for achieving Universal Health Coverage whilst also meeting the Sustainable Development Goals without policy frameworks or legislation (<ce:cross-ref id="crf0034" refid="bib0009">Putturaj and Prashanth, 2017</ce:cross-ref>; <ce:cross-ref id="crf0035" refid="bib0002">Giramonti and Kogan, 2018</ce:cross-ref>; <ce:cross-ref id="crf0036" refid="bib0013">World Health Organization (WHO), 2017</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0008" view="all">World Health Organization's Global Strategy on Human Resources for Health: Workforce 2030 and the Global Strategic Directions for Strengthening Nursing and Midwifery 2016–2020 is currently working to ensure the availability of quality, cost-effective and acceptable nursing and midwifery care based on community needs (<ce:cross-ref id="crf0037" refid="bib0013">World Health Organization (WHO), 2017</ce:cross-ref>). The World Health Organization envisaged that a greater political will, effective leadership and an enabling environment is required to ensure that nurses and midwives are adequately motivated, satisfied and empowered to discharge their duties effectively in order to meet the Sustainable Development Goals and Universal Health Coverage (<ce:cross-ref id="crf0038" refid="bib0013">World Health Organization (WHO), 2017</ce:cross-ref>). An example where this vision applies in the Tanzanian healthcare system is the dominating medical model, where doctors/clinical officers are main decision makers of patients care and leaders in all healthcare facilities regardless of competencies, experience and capacities in leadership. This has negative consequences to nurses and midwives including unnecessary delay in decisions related to care. Subsequently patients are affected by this situation, which may sometimes result into reduced access to care, long waiting time for consultations and denied services. This traditional model undermines the major contributions and capacities, which nurses and midwives have in the Tanzanian health systems. Efforts need to be directed into patient care outcome against power dynamics and protection of professional territories.</ce:para>
+                  <ce:para id="para0009" view="all">We propose that the efforts to achieve Sustainable Development Goals and Universal Health Coverage are dependent on the establishment of the advanced practice nursing/practitioners’ role and task shifting in countries that have not officially adapted the system or where the role is in a nascent form (<ce:cross-ref id="crf0039" refid="bib0013">World Health Organization (WHO), 2017</ce:cross-ref>). The support for development of professional infrastructure and the evaluation of the effectiveness of expanded roles is necessary to ensure patient safety and quality care and a critical part of capacity building in health for the region (<ce:cross-ref id="crf0040" refid="bib0010">Ridge et al., 2018</ce:cross-ref>). These efforts may include, but are not limited to, standards of legislation, accreditation to institutionalize and acknowledge the services and expertise of advanced practice nursing and all who are involved in task shifting, as well as certification and graduate level education (<ce:cross-ref id="crf0041" refid="bib0009">Putturaj and Prashanth, 2017</ce:cross-ref>; <ce:cross-ref id="crf0042" refid="bib0001">Dolamo, 2018</ce:cross-ref>). Standardized educational preparation and adequate training is the cornerstone for meeting these requirements.</ce:para>
+               </ce:section>
+               <ce:section id="sec0001" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="cesectitle0002">A case example: the advanced practice nurse and midwife role in East Africa</ce:section-title>
+                  <ce:para id="para0010" view="all">Generally, the task shifting practices are extensive in all health facilities across all cadres of health workers in East Africa particularly in HIV/AIDS and, reproductive and child health services in urban and rural areas (<ce:cross-ref id="crf0043" refid="bib0006">Jonathan et al., 2016</ce:cross-ref>). In Tanzania, there is a defined scope of practice derived from structured task shifting that has fostered the development of advanced practice nurses and midwives (<ce:cross-ref id="crf0044" refid="bib0011">Tanzania Nursing and Midwifery Council (TNMC), 2014</ce:cross-ref>). The research evidence and anecdotal data show, however, that nurses and midwives perform several advanced roles including prescribing and minor surgical procedures often without educational preparation and recognition (<ce:cross-ref id="crf0045" refid="bib0008">Msuya, 2017</ce:cross-ref>). Similar to other low income countries, policy frameworks, legislation, and standards for professional practice in the new roles is lacking and require policy adjustments as well as the development of legal protections in the extended new roles (<ce:cross-ref id="crf0046" refid="bib0006">Jonathan et al., 2016</ce:cross-ref>). Tanzanian scholars recommended the development of policies and guidelines for structuring the implementation of task shifting in the country. Nonetheless, the necessary work to help with the harmonization of important aspects of the expanded roles including educational programmes/training, mentorship and supervision is still in progress (<ce:cross-ref id="crf0047" refid="bib0008">Msuya, 2017</ce:cross-ref> 
+                     <ce:cross-ref id="crf0048" refid="bib0006">Jonathan et al., 2016</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0011" view="all">Innovative educational curricula within the context of East Africa are required to equip nurses and midwives in advanced practice roles with the knowledge, skills, and abilities to address healthcare demands and socio-political contextual issues more effectively and efficiently. The potential aspects of the curricula should be considered to focus on building the capacities for: Innovation, Leadership, Politics, Pluralism of thought, theory, Interdisciplinary/Intradisciplinarity within program and Public health. This is also in line with Sustainable Development Goals 3 target 3, which stresses on the development of adequate training, education and skills which are relevant to the needs of the population and the profession (<ce:cross-ref id="crf0049" refid="bib0015">World Health Organization, 2016</ce:cross-ref>). This investment for better health will contribute to improved economic growth and achievement of other Sustainable Development Goals (<ce:cross-ref id="crf0050" refid="bib0015">World Health Organization, 2016</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0012" view="all">To succeed as a strategy, task shifting and advanced practice role development in the profession must be simultaneously accompanied by curriculum development that is specific to the local context, facilitates knowledge transfer to practitioners in ways that can scale up services as quickly as possible, and is accompanied by policies, regulations, and legislation that protects both nurses/midwives and patients. This will complement the recommendations from research and anecdotal evidence in East Africa, which suggest granting autonomy for practice through legislation for advanced practitioner roles. The training of the advanced practitioners in Nursing and Midwifery will support the efforts in transforming the health system and improve health outcomes.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" role="conclusion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="cesectitle0003">Conclusion</ce:section-title>
+                  <ce:para id="para0013" view="all">Nurses and midwives are critical for achieving the Sustainable Development Goals and Universal Health Coverage. While the task shifting may be conceptually impressive both for meeting the health agenda in the region as well as for patients and professionals, performing this informally may be catastrophic in terms of quality of care for patients and the protection of the professionals involved. Put simply: task shifting requires strengthening the non-physical aspects of health system infrastructure in order to optimize its effects on patient outcomes and population health.</ce:para>
+               </ce:section>
+               <ce:section id="sec0003" view="all">
+                  <ce:section-title id="cesectitle0004">Conflict of interests</ce:section-title>
+                  <ce:para id="para0015" view="all">The authors declare no competing interests.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0005">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>Dolamo, 2018</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.L.</ce:given-name>
+                                 <ce:surname>Dolamo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Maintaining nursing practice standards while changing with times: SANC perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomed. J. Sci. Tech. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.26717/BJSTR.2018.04.001103</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">Dolamo B.L., Maintaining nursing practice standards while changing with times: SANC perspective. Biomed. J. Sci. Tech. Res. DOI:10.26717/BJSTR.2018.04.001103, 2018.4(5).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>Giramonti and Kogan, 2018</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Giramonti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Kogan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pediatric penile surgery by a nurse practitioner in the operating room</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Pediatr. Urol. Co.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>573</sb:first-page>
+                              <sb:last-page>576</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">Giramonti K.M. and Kogan B.A., Pediatric penile surgery by a nurse practitioner in the operating room. J. Pediatr. Urol. Co., 2018.4(6): p. 573–576.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>Gray, 2019</ce:label>
+                     <ce:other-ref id="othref0001">
+                        <ce:textref>Gray D., Expanding Nursing Education, Collaboration, and Access to Care in Botswana. 2019, International Council of Nurses. <ce:inter-ref id="interref0001" xlink:href="https://2019.icnvoicetolead.com/case-study/expanding-nursing-education-collaboration-and-access" xlink:type="simple">https://2019.icnvoicetolead.com/case-study/expanding-nursing-education-collaboration-and-access</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>Horrocks et al., 2002</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Horrocks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Salisbury</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Primary care: systematic review of whether nurse practitioners working in primary care can provide equivalent care to doctors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>324</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>819</sb:first-page>
+                              <sb:last-page>823</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">Horrocks S., Anderson E., and Salisbury C., Primary care: systematic review of whether nurse practitioners working in primary care can provide equivalent care to doctors. BMJ2002.324: p. 819–23.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>International Council of Nurses (ICN) 2008</ce:label>
+                     <ce:other-ref id="othref0002">
+                        <ce:textref>International Council of Nurses (ICN), The Scope of Practice, Standards and Competencies of the Advanced Practice Nurse in ICN Regulation Series. 2008, International Council of Nurses: Switzerland.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>Jonathan et al., 2016</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jonathan</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Task-shifting in the provision of HIV/AIDS, reproductive and child health (RCH) services in Tanzania: exploring the views and experiences of health managers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Publ. Health Epidemiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1034</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Jonathan M., et al., Task-shifting in the provision of HIV/AIDS, reproductive and child health (RCH) services in Tanzania: exploring the views and experiences of health managers. J. Publ. Health Epidemiol.2016.2(3): p. 1034.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>Martínez-González et al., 2015</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Martínez-González</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impact of physician–nurse task shiftingin primary care on the course of disease: a systematic review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Hum. Resour. Health</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1186/s12960-015-0049-8</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">Martínez-González N.A., et al., The impact of physician–nurse task shiftingin primary care on the course of disease: a systematic review. Hum. Resour. Health2015. DOI 10.1186/s12960-015-0049-8.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>Msuya, 2017</ce:label>
+                     <sb:reference id="othref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Msuya</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Descriptive study of nursing scope of practice in rural medically underserved areas of Africa, South of the Sahara</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Afr. Nurs. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>74</sb:first-page>
+                              <sb:last-page>82</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007a">Msuya, M., et al., 2017. Descriptive study of nursing scope of practice in rural medically underserved areas of Africa, South of the Sahara. Int. J. Afr. Nurs. Sci. 6, 74-82.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>Putturaj and Prashanth, 2017</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Putturaj</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.S.</ce:given-name>
+                                 <ce:surname>Prashanth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancing the autonomy of Indian nurses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Indian J. Med. Ethics</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0002" xlink:href="https://doi.org/10.20529/IJME.2017.058" xlink:type="simple">https://doi.org/10.20529/IJME.2017.058</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">Putturaj M. and Prashanth N.S., Enhancing the autonomy of Indian nurses. Indian J. Med. Ethics. DOI: https://doi.org/10.20529/IJME.2017.058, 2017.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Ridge et al., 2018</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Ridge</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The meaning of “capacity building” for the nurse workforce in sub-Saharan Africa: an integrative review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Nurs. Stud.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                              <sb:last-page>161</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">Ridge L.J., et al., The meaning of “capacity building” for the nurse workforce in sub-Saharan Africa: an integrative review. Int. J. Nurs. Stud.2018.86 p. 151–161.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>Tanzania Nursing and Midwifery Council (TNMC) 2014</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Tanzania Nursing and Midwifery Council (TNMC)</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Scope of Practice for Nurses and Midwives in Tanzania</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>TNMC</sb:name>
+                                 <sb:location>Dar es Salaam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">Tanzania Nursing and Midwifery Council (TNMC), Scope of Practice for Nurses and Midwives in Tanzania. 2014, TNMC: Dar es Salaam.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>World Health Organization (WHO) 2008</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Health Organization (WHO)</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Task Shifting: Global Recommendations and Guidelines</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>WHO</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">World Health Organization (WHO), Task Shifting: Global Recommendations and Guidelines. 2008, WHO.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>World Health Organization (WHO) 2017</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Health Organization (WHO)</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nursing and Midwifery in the History of the World Health Organization 1948–2017</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0013">World Health Organization (WHO), Nursing and Midwifery in the History of the World Health Organization 1948–2017. 2017, World Health Organization: Geneva.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>World Health Organization 2009</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Health Organization</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Handbook on Monitoring and Evaluation of Human Resources for Health: With Special Applications for low- and Middle-Income Countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0014">World Health Organization, Handbook on Monitoring and Evaluation of Human Resources for Health: With Special Applications for low- and Middle-Income Countries. World Health Organization, 2009.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>World Health Organization 2016</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Health Organization</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Working for Health and Growth: Investing in the Health Workforce</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Health Organization</sb:name>
+                                 <sb:location>Geneva</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0015">World Health Organization, Working for Health and Growth: Investing in the Health Workforce. 2016: World Health OrganizationGeneva.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>Yankauer and Sullivan, 1982</ce:label>
+                     <sb:reference id="sbref0013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Yankauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sullivan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The new health professionals: three examples</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Publ. Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                              <sb:last-page>276</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0016">Yankauer A. and Sullivan J., The new health professionals: three examples. Publ. Health, 1982.3: p. 249–76</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

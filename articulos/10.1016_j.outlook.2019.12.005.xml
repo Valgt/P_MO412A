@@ -1,0 +1,835 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0029655419307390</prism:url><dc:identifier>doi:10.1016/j.outlook.2019.12.005</dc:identifier><eid>1-s2.0-S0029655419307390</eid><prism:doi>10.1016/j.outlook.2019.12.005</prism:doi><pii>S0029-6554(19)30739-0</pii><dc:title>Building a culture of health to attain the sustainable development goals </dc:title><prism:publicationName>Nursing Outlook</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>00296554</prism:issn><prism:volume>68</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>129</prism:startingPage><prism:endingPage>133</prism:endingPage><prism:pageRange>129-133</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2020-04-30</prism:coverDate><prism:coverDisplayDate>March–April 2020</prism:coverDisplayDate><prism:copyright>© 2020 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Hassmiller, Susan B.</dc:creator><dc:creator>Kuehnert, Paul</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0029655419307390" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0029655419307390" rel="scidir"/></coredata><scopus-id>85083038904</scopus-id><scopus-eid>2-s2.0-85083038904</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85083038904" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272472</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291918</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Nursing Outlook</xocs:srctitle>
+      <xocs:normalized-srctitle>NURSINGOUTLOOK</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200214">2020-02-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200214">2020-02-14</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200413">2020-04-13</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200413">2020-04-13</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-04-13T20:59:09</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0029655419307390</xocs:eid>
+      <xocs:pii-formatted>S0029-6554(19)30739-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0029655419307390</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.outlook.2019.12.005</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0029655420X00029</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20201012">2020-10-12T05:43:03.758858Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200301</xocs:date-search-begin>
+      <xocs:date-search-end>20200430</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1581722188">2020-02-14T23:16:28.790892Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast footnotes pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0029-6554</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00296554</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>68</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>68</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 68, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>129</xocs:first-fp>
+      <xocs:last-lp>133</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>129</xocs:first-page>
+         <xocs:last-page>133</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202003</xocs:start-date>
+         <xocs:end-date>202004</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>March–April 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-03-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Guest Editorial</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>BUILDINGACULTUREHEALTHATTAINSUSTAINABLEDEVELOPMENTGOALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HASSMILLER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Leveraging Education to Attain the SDGs</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Building the Evidence to Attain the SDGs</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Policy: Moving From Evidence to Action</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ENROLLMENTGRADUATIONSINBACCALAUREATEGRADUATEPROGRAMSINNURSINGSERIESINTEGRATEDPOSTSECONDARYEDUCATIONDATASYSTEMIPEDSCOMPLETIONSSURVEYSERIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0001"/>
+         <xocs:ref-info refid="othref0002"/>
+         <xocs:ref-info refid="sbref0002"/>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>INFANTMORTALITYRATE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>COURVILLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>FUTURENURSINGLEADINGCHANGEADVANCINGHEALTH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0212">
+            <xocs:ref-normalized-surname>MIYAMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>658</xocs:ref-first-fp>
+            <xocs:ref-last-lp>663</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>NEUMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>NURSINGSSOCIALPOLICYSTATEMENTESSENCEPROFESSION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0003"/>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>PITTMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ACTIVATINGNURSINGADDRESSUNMETNEEDS21STCENTURY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>REYSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>858</xocs:ref-first-fp>
+            <xocs:ref-last-lp>870</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>NURSINGEDUCATIONPATHPOPULATIONHEALTHIMPROVEMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0111">
+            <xocs:ref-normalized-surname>ROSA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>628</xocs:ref-first-fp>
+            <xocs:ref-last-lp>641</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SUSTAINABLEDEVELOPMENTREPORTUNITEDSTATES2018</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0511">
+            <xocs:ref-normalized-surname>SQUIRES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>642</xocs:ref-first-fp>
+            <xocs:ref-last-lp>648</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>SQUIRES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0211">
+            <xocs:ref-normalized-surname>UPVALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>649</xocs:ref-first-fp>
+            <xocs:ref-last-lp>657</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HASSMILLERX2020X129</xocs:refkey3>
+         <xocs:refkey4lp>HASSMILLERX2020X129X133</xocs:refkey4lp>
+         <xocs:refkey4ai>HASSMILLERX2020X129XS</xocs:refkey4ai>
+         <xocs:refkey5>HASSMILLERX2020X129X133XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-04-13T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-04-13T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 Elsevier Inc. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0029-6554(19)30739-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0029655419307390</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0029655419307390</xocs:eid>
+         <xocs:doi>10.1016/j.outlook.2019.12.005</xocs:doi>
+         <xocs:cid>272472</xocs:cid>
+         <xocs:timestamp>2020-10-12T05:43:03.758858Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-03-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0029655419307390-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0029655419307390/MAIN/application/pdf/617d1aeb39557a2b7330c302c7ba2034/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>354524</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0029655419307390-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0029655419307390/PREVIEW/image/png/574cecdd7533caa4398f0d945e2f22a5/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>88664</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edi" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>YMNO</jid>
+            <aid>1529</aid>
+            <ce:pii>S0029-6554(19)30739-0</ce:pii>
+            <ce:doi>10.1016/j.outlook.2019.12.005</ce:doi>
+            <ce:copyright type="full-transfer" year="2020">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <simple-head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Guest Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Building a culture of health to attain the sustainable development goals</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S0029655419307390-28a9bead19589542bc2a8db61876ff07">
+                  <ce:given-name>Susan B.</ce:given-name>
+                  <ce:surname>Hassmiller</ce:surname>
+                  <ce:degrees>PhD, RN, FAAN</ce:degrees>
+                  <ce:cross-ref id="crf0001" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0002" author-id="S0029655419307390-a6b0525e149a02a712b5851b25479149">
+                  <ce:given-name>Paul</ce:given-name>
+                  <ce:surname>Kuehnert</ce:surname>
+                  <ce:degrees>DNP, RN, FAAN</ce:degrees>
+                  <ce:cross-ref id="cr6" refid="fn1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S0029655419307390-3e9c1a85a0fbddf70f6e128a94c02dc7">
+                  <ce:textfn id="cetextfn0001">Robert Wood Johnson Foundation, Princeton, NJ</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Robert Wood Johnson Foundation</sa:organization>
+                     <sa:city>Princeton</sa:city>
+                     <sa:state>NJ</sa:state>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">Robert Wood Johnson Foundation, Princeton, NJ</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">
+                     <ce:italic>Corresponding author:</ce:italic> Susan B. Hassmiller, Robert Wood Johnson Foundation, 50 College Road East, Princeton, NJ 08540-6614</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Robert Wood Johnson Foundation</sa:organization>
+                     <sa:address-line>50 College Road East</sa:address-line>
+                     <sa:city>Princeton</sa:city>
+                     <sa:state>NJ</sa:state>
+                     <sa:postal-code>08540-6614</sa:postal-code>
+                  </sa:affiliation>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="np2" view="all">President and CEO of the Public Health Accreditation Board.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="26" month="11" year="2019"/>
+            <ce:date-accepted day="22" month="12" year="2019"/>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para0001" view="all">Many health systems, community development organizations, business leaders, philanthropic organizations, public health officials, and policy-makers in the United States increasingly believe that greater health and well-being can only be achieved by addressing the social determinants of health. These complex social and environmental factors—such as where we are born and live, the strength of our families and communities, and the quality of our education—shape our health over our lifetimes. The Robert Wood Johnson Foundation (RWJF), the nation's largest health philanthropy, for example, committed itself in 2015 to work alongside others to build a national Culture of Health that provides everyone in America a fair and just opportunity for health and well-being. Achieving health equity—defined as everyone having a fair and just opportunity to be healthier—is essential to building a Culture of Health.</ce:para>
+               <ce:para id="para0002" view="all">Building a Culture of Health and attaining the United Nation's sustainable development goals (SDGs) are similar and have overlapping goals: The language and terminology differ, but the outcome seeks to create a healthier, and more just and equitable world. Both recognize the pivotal role that health plays in well-being. The SDGs, as <ce:cross-ref id="crf0005a" refid="bib0015">Rosa et al. (2019)</ce:cross-ref>. note, “place health in the widest social, economic, and environmental context and imply that health workers, policy makers, and the public need a new focus on health—on achieving and promoting health, providing an environment in which people can flourish and prevent diseases—rather than just concentrating on health care” (<ce:cross-ref id="crf0005b" refid="bib0015">Rosa et al., 2019</ce:cross-ref>, p. 16–17). A Culture of Health and the SDGs address many of the challenges that our world faces, including those related to poverty, inequality, climate, environmental degradation, prosperity, peace, and justice. Both are aspirational: They imagine a world far better than the one we inhabit today, where everyone has access to health care, enough to eat, and an opportunity to thrive.</ce:para>
+               <ce:para id="para0003" view="all">It can be tempting for Americans to dismiss the SDGs as an initiative intended for developing countries and simply irrelevant to a high-income country that boasts of its access to advanced medical technology. After all, the United States ranks as the top consumer of sophisticated diagnostic imaging equipment and prescription drugs (<ce:cross-ref id="crf0002" refid="bib0014">Squires &amp; Anderson, 2015</ce:cross-ref>). While many Americans <ce:italic>do</ce:italic> benefit from the latest medical innovations, far too many Americans lag behind. Among our peer nations, we spend the most on health care, but have the poorest health outcomes. African-American infants, for example, died at twice the rate of white infants in their first year of life in 2017 (<ce:cross-ref id="crf0003" refid="bib0005">Center for Disease Control and Prevention [CDC], 2017</ce:cross-ref>). For the second year in a row, life expectancy decreased for Americans (<ce:cross-ref id="crf0004" refid="bib0004">Centers for Disease Control and Prevention</ce:cross-ref>). The SDGs call for universal health care, but not everyone in America has access to affordable care. The Flint water crisis unequivocally demonstrated that not all Americans can depend on clean water and sanitation. Equally pressing is the need for the United States to take stronger action on climate change and sustainable development; it is clear that our excesses directly impact poorer countries around the globe (<ce:cross-ref id="crf0005" refid="bib0013">SDG USA &amp; SDSN, 2018</ce:cross-ref>).</ce:para>
+               <ce:para id="para0004" view="all">The previous issue, January–February 2017, focused on the Sustainable Development Goals and in that issue <ce:italic>Nursing Outlook</ce:italic> makes the case that nurses and midwives must be integral players in achieving a more fair and just society in which everyone has the opportunity to live their best and healthiest lives. Nurses—at nearly 4 million strong and consistently named the most trusted professionals—are perfectly positioned to partner with others to build a Culture of Health and attain the SDGs in the United States. The foundation of professional nursing is rooted in concern for the social, emotional, and physical needs of the poor and disadvantaged (<ce:cross-ref id="crf0006" refid="bib0008">Neumann, 2010</ce:cross-ref>). Nurses provide holistic care, and they are trained to understand a person's life and how it affects his or her health. Over the past decade, the nursing field in the United States has built its capacity to enable more nurses than ever to take on leadership roles to build a Culture of Health and attain the SDGs. The nursing profession has partnered with a wide variety of organizations to advance the landmark recommendations from the Institute of Medicine report, <ce:italic>The Future of Nursing: Leading Change, Advancing Health</ce:italic> (<ce:cross-ref id="crf0007" refid="bib0007">Institute of Medicine [IOM], 2011</ce:cross-ref>). The percentage of registered nurses who hold a bachelor's of science in nursing or higher is at an all-time high, with a national average of about 56%, up from about 49% in 2010 (<ce:cross-ref id="crf0008" refid="bib0006">Courville &amp; Green, 2019</ce:cross-ref>). Nine states removed all statutory barriers that restricted nurse practitioner practice, expanding access to high-quality health care and increased consumer choice (<ce:cross-ref id="crf0009" refid="bib0003">Campaign for Action, 2018</ce:cross-ref>). The nursing profession has also taken strides to increase the diversity of its workforce. The number of minority RN graduates increased by 43%, and the number of male RN graduates increased by 29% between 2010 and 2017 (<ce:cross-ref id="crf0010" refid="bib0001">American Association of Colleges of Nursing [AACN], 2018</ce:cross-ref>).</ce:para>
+               <ce:para id="para0005" view="all">Furthermore, many nurses have taken on new and emerging roles as health systems have experimented with ways to strengthen primary and preventive care and more carefully manage health as part of broader efforts to expand access to care, improve quality, and reduce costs (<ce:cross-ref id="crf0011" refid="bib0010">Pittman, 2019</ce:cross-ref>). Nurses, for example, are key team members of the Camden Coalition, which provides coordinated medical, behavioral, and social services to patients with complex health and social needs. These patients typically make up 5% of our population, but account for 50% of our annual health care spending. The Camden Coalition implements evidence-based interventions and pilots new models that address chronic illness and social barriers to good health. Collaboration is key to the program's ability to address the complex needs of patients. The care team, which includes a nurse, a social worker, and a community health worker who call in specialized staff as needed for benefits, housing, legal services, and other needs, links patients to resources throughout the community, including primary care, transportation, housing, and wrap-around services. The care team works with each individual to create a customized care plan, centered on each patient's own goals and wishes, to help realize each patient's highest level of health and well-being (<ce:cross-ref id="crf0016" refid="bib0002">Camden Coalition of Healthcare Providers</ce:cross-ref>, n.d.). The Camden Coalition is simultaneously building a Culture of Health and helping to attain SDGs #1 (no poverty), #2 (zero hunger), #3 (good health and well-being), #10 (reduced inequalities), and #17 (partnerships for goals).</ce:para>
+               <ce:para id="para0007" view="all">Rosa et al. argue that “the SDGs are nursing action items for our time” (<ce:cross-ref id="crf0005c" refid="bib0015">Rosa et al., 2019</ce:cross-ref>, p. 6)—and indeed, they must be. Nurses and midwives can lead and partner with others on efforts to meet the SDGs across the continuum of nursing education, research, and policy. In addition, nurses must collaborate and forge partnerships across health professions, other sectors, and communities in each of the SDG areas to attain the goals. Only in working together across a wide variety of sectors will it be possible to achieve success.</ce:para>
+               <ce:section id="sec0001" view="all">
+                  <ce:section-title id="cesectitle0004">Leveraging Education to Attain the SDGs</ce:section-title>
+                  <ce:para id="para0008" view="all">If nurses are to realize their potential for helping the United States to attain the SDGs, nursing education should provide nurses with the tools to understand the ways that everyone's health is connected at the local, regional, national, and global levels—and to collaborate with others toward global well-being. <ce:cross-ref id="crf0115a" refid="bib0016">Upvall and Luzincourt (2019)</ce:cross-ref> stress that global citizenship—defined as “awareness, caring, and embracing cultural diversity while promoting social justice and sustainability, coupled with a sense of responsibility to act” (<ce:cross-ref id="crf0012" refid="bib0011">Reysen &amp; Katzarska‐Miller, 2013</ce:cross-ref>, p. 858)—is crucial to attaining the SDGs. They call for nursing education leaders to incorporate global citizen and social justice concepts into the curricula, noting there is “ample opportunity” to include the SDGs in future nursing standards guidelines. If nursing organizations are reluctant to cite the SDGs in professional standards due to their time-bound nature, Upvall and Luzincourt state that nursing organizations could include the concept of a “global citizen” in all professional standards to foster community engagement locally and globally (<ce:cross-ref id="crf0015a" refid="bib0016">Upvall &amp; Luzincourt, 2019</ce:cross-ref>, p. 4). The authors also stress the importance of ensuring that nurses and nursing students understand global issues and their connection to the local level, including health inequities—and get involved in addressing these health inequities (<ce:cross-ref id="crf0116a" refid="bib0016">Upvall and Luzincourt, 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0009" view="all">As part of our efforts to build a Culture of Health, RWJF has convened public health nursing leaders and nursing education experts to consider how to better incorporate the social determinants of health into the nursing curricula. A white paper, <ce:italic>Nursing Education and the Path to Population Health Improvement,</ce:italic> explores promising models of nursing education to improve population health (<ce:cross-ref id="crf0013" refid="bib0012">RWJF, 2019</ce:cross-ref>). We agree with Upvall and Luzincourt that nursing faculty and students must increase their engagement with their community through multiple clinical experiences beyond the acute care settings and across the curriculum (<ce:cross-ref id="crf0017a" refid="bib0016">Upvall &amp; Luzincourt, 2019</ce:cross-ref>). All schools of nursing should consider replicating a curriculum that exemplifies a broader knowledge base in population health, such as the one at the University of Central Florida's College of Nursing. Nursing students must attain 45 hours of community experience at both the beginning and end of the nursing program. Clinical placements are often interprofessional and include educating the public and working with the underserved across the lifespan. A nursing faculty member, for example, collaborated with a School of Medicine faculty member to provide a mobile clinic for migrant farmworkers and their families. A multidisciplinary team, consisting of nursing, social work, pharmacy, physical therapy, and medical students provide health care and develop as global citizens while learning about each other's fields. Over 100 farm workers are seen during the clinic, and they receive referrals to follow-up care at a nearby community health clinic (<ce:cross-ref id="crf0018a" refid="bib0016">Upvall &amp; Luzincourt, 2019</ce:cross-ref>). Revamping nursing curricula to incorporate the social determinants of health and the concepts of global citizen and social justice are important first steps to prepare more nurses to build a Culture of Health and to attain the SDGs in the United States.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="all">
+                  <ce:section-title id="cesectitle0005">Building the Evidence to Attain the SDGs</ce:section-title>
+                  <ce:para id="para0010" view="all">Nursing research provides the evidence for interventions that will help to advance a Culture of Health and attain the SDGs in the United States. In this issue, Squires states that research is critical to meet the SDGs, and that more nursing research needs to focus on patients and communities, rather than workplace interventions (<ce:cross-ref id="crf0002z" refid="bib0018">Squires, 2019</ce:cross-ref>). She also calls for nursing researchers to collaborate with health care colleagues and social scientists to ensure that nursing perspectives are included in future policies that emerge from the evidence. One way that RWJF is fostering collaboration between nurses, their health care colleagues, and social scientists is through our Interdisciplinary Research Leaders program. Under this leadership program, teams of researchers and community partners use applied research—informing and supporting critical work being done in communities—to accelerate that work and advance health and equity. One Interdisciplinary Research Leaders team consists of a licensed professional midwife, Rebecca Polston, LPM, LM, and two social scientists, Rachel Hardemann, PhD, MPH, an assistant professor at the Mayo Clinic, and Katy Kozhimannil, PhD, MPA, an associate professor at the University of Minnesota. Polston owns Roots Midwifery and Birth Center, Minnesota's first and only African American-owned-and-operated birth center. Their research is investigating the ways that community-connected and culturally centered clinical and support services can disrupt the well-worn pathways between social determinants and birth outcomes that have produced disparate outcomes for African-American infants for more than 100 years. Their research will bring Polston's experience and ideas for improving quality of care into the literature, which Squires notes is rare in the United States, since few midwives meet the criteria to work at tier 1 research universities (<ce:cross-ref id="crf0002l" refid="bib0018">Squires, 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0011" view="all">Many of the researchers who apply to the RWJF Interdisciplinary Research Leaders program, including Hardemann and Kozhimannil, express frustration that tenure-track professors are seldom rewarded for community and policy engagement in their promotion and tenure reviews—a sentiment that Squires tackles as well. Squires calls for schools of nursing to create a “policy track” for promotion and tenure. Academics pursuing this track would have PhD-level research methods training and would obtain funding for evaluation and policy analysis studies, collaborate with other researchers, and have teaching and service requirements. Squires contends that a “policy track” could help nursing meet the SDGs, address the need for nurse faculty with policy expertise, and ensure that nurses sit at more policy-making tables (<ce:cross-ref id="crf0002i" refid="bib0018">Squires, 2019</ce:cross-ref>). A “policy track” could be an innovative way to promote nursing leadership in the policy-making arena, where evidence can get implemented to improve lives.</ce:para>
+               </ce:section>
+               <ce:section id="sec0003" view="all">
+                  <ce:section-title id="cesectitle0006">Policy: Moving From Evidence to Action</ce:section-title>
+                  <ce:para id="para0012" view="all">While education and research provide the training and evidence base for nurses to work toward meeting the SDGs, policy-making at the local, national, and global levels offers the avenue to pursue systemic change. Miyamoto and Cook state that the nursing profession has “viable solutions to the most challenging health policy debates because of its unique connection to patients, populations and systems” (<ce:cross-ref id="crf0018t" refid="bib0017">Miyamoto &amp; Cook, 2019</ce:cross-ref>, p. 3). They add that the nursing profession's leadership, research, and education directly support the SDGs, even when not directly stated (<ce:cross-ref id="crf0018q" refid="bib0017">Miyamoto &amp; Cook, 2019</ce:cross-ref>). The key, then, is for more nurses in the United States to become involved in policy-making to spur change.</ce:para>
+                  <ce:para id="para0013" view="all">Rosa et al. assert that nurses, as the largest health professions segment, could help to attain the SDGs by incorporating an SDG framework into daily personal and professional actions. Combatting climate change is an area where nurses, at nearly 4 million strong, can make an impact by conserving more and consuming less in their personal lives and by getting involved in efforts to make their health systems more sustainable (<ce:cross-ref id="crf0005y" refid="bib0015">Rosa et al., 2019</ce:cross-ref>). It will, however, take far more than altering personal and professional habits to attain the SDGs; it will take systemic policy change at the local, national, and global levels. More nurses need to sit at policy-making tables; form multisector and cross-sector partnerships with leaders from education, transportation, community development, and the environment; and get involved in leadership efforts to take actions to attain the SDGs, particularly at the local level, where the policy environment often is currently more conducive to positive change. Nurses also need to work at the national level to prevent actions that threaten SDG attainment as long as the United States remains party to “the rise in nationalist perspectives...that has often promoted economic protectionism, polarization, and policies that exclude members of certain religious, ethnic and socioeconomic groups” (<ce:cross-ref id="crf0005l" refid="bib0015">Rosa et al., 2019</ce:cross-ref>, p. 10). The Nursing Community Coalition, for example, successfully countered the current Administration's policy of separating migrant children from their families at the border (<ce:cross-ref id="crf0018u" refid="bib0017">Miyamoto &amp; Cook, 2019</ce:cross-ref>).</ce:para>
+                  <ce:para id="para0014" view="all">Rosa et al. list several promising ideas to encourage more nurses to get involved in policy-making. These include requiring every nursing student to take a policy and politics course; for students and nurses in practice to have opportunities to intern with policy organizations or NGOs; and for nursing leaders to build relationships with policy-makers to fully integrate nursing's contributions (<ce:cross-ref id="crf0015y" refid="bib0015">Rosa et al., 2019</ce:cross-ref>). RWJF is increasing the number of nurses involved in policy through the Nurses on Boards Coalition, which aims to place 10,000 nurses on non-nursing boards by 2020. To date, nearly 6,000 nurses report serving on boards (<ce:cross-ref id="crf0014" refid="bib0009">Nurses on Boards Coalition</ce:cross-ref>, n.d.).</ce:para>
+                  <ce:para id="para0015" view="all">Rosa et al. state that the “most substantive contribution” that nurses in high-income countries like the United States can make to promote the SDG agenda is to bring about change in our own country through advocacy and demonstrating the benefits of nurse-led care (Rosa et al., p. 18). Patricia Pittman, a professor at The George Washington University, recently published a policy paper concluding that nurses are uniquely positioned to coordinate partnerships and provide the kind of holistic, patient-centered care that can address the social determinants of health (<ce:cross-ref id="crf0015" refid="bib0010">Pittman, 2019</ce:cross-ref>). We hope nurses in the United States will pay close attention to the 2020 release of the National Academy of Medicine consensus study on The Future of Nursing 2020–2030. Funded by RWJF, the study will extend the vision for the nursing profession into 2030 and chart a path for the nursing profession to help our nation create a Culture of Health, reduce health disparities, and improve the health and well-being of the US population in the 21st century. The sweeping call to action from this study will require all nurses across the care continuum to get involved.</ce:para>
+               </ce:section>
+               <ce:section id="sec0004" role="conclusion" view="all">
+                  <ce:section-title id="cesectitle0007">Conclusion</ce:section-title>
+                  <ce:para id="para0016" view="all">This special issue of <ce:italic>Nursing Outlook</ce:italic> lays the groundwork for US nurses to join the global movement to meet the SDGs by strengthening nursing education, research, and policy; forming strong cross-sector partnerships with leaders from education, transportation, community development, and the environment; and advocating for strong local, national, and global policies to create a sustainable, inclusive, and just world. In taking an active role in building a Culture of Health in the United States and attaining the SDGs, nurses and midwives will do our part to create a better world for future generations.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <simple-tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0009">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>American Association of Colleges of Nursing 2018</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>American Association of Colleges of Nursing</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enrollment and graduations in Baccalaureate and Graduate Programs in Nursing (series); Integrated Postsecondary Education Data System (IPEDS), completions survey (series)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2018</sb:date>
+                              <sb:publisher>
+                                 <sb:name>US Census Bureau, Population Division</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">American Association of Colleges of Nursing, 2018, Enrollment and graduations in Baccalaureate and Graduate Programs in Nursing (series); Integrated Postsecondary Education Data System (IPEDS), completions survey (series); US Census Bureau, Population Division.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>2</ce:label>
+                     <ce:other-ref id="othref0001">
+                        <ce:textref>Camden Coalition of Healthcare Providers. One-pager. Retrieved from: <ce:inter-ref id="interref0001" xlink:href="https://www.camdenhealth.org/wp-content/uploads/2018/11/one-pager-final.pdf" xlink:type="simple">https://www.camdenhealth.org/wp-content/uploads/2018/11/one-pager-final.pdf</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>Campaign for Action 2018</ce:label>
+                     <ce:other-ref id="othref0002">
+                        <ce:textref>Campaign for Action. “Current activity on removing barriers to practice and care” March 14, 2018. Retrieved from: <ce:inter-ref id="interref0002" xlink:href="https://campaignforaction.org/resource/current-activity-removing-barriers-to-practice-and-care/" xlink:type="simple">https://campaignforaction.org/resource/current-activity-removing-barriers-to-practice-and-care/</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>Centers for Disease Control and Prevention</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Centers for Disease Control and Prevention</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>User Guide to the 2016 Period Linked Birth/Infant Death Public Use File. P. 80</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0003" xlink:href="https://www.cdc.gov/reproductivehealth/maternalinfanthealth/infantmortality.htm" xlink:type="simple">https://www.cdc.gov/reproductivehealth/maternalinfanthealth/infantmortality.htm</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">Centers for Disease Control and Prevention. “Mortality in the United States, 2016”. NCHS Data Brief. No. 273. December2017. Retrieved from: https://www.cdc.gov/nchs/hus/contents2016.htm.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Centers for Disease Control and Prevention 2017</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Centers for Disease Control and Prevention</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Infant mortality rate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2017</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0004" xlink:href="https://www.cdc.gov/nchs/hus/contents2016.htm" xlink:type="simple">https://www.cdc.gov/nchs/hus/contents2016.htm</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">Centers for Disease Control and Prevention. Infant mortality rate. 2017. Retrieved from: https://www.cdc.gov/nchs/hus/contents2016.htm</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>Courville and Green, 2019</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Courville</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Green</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New resource highlights nurses heeding the call to earn their BSN</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Campaign for Action Blog</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>Retrieved from:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0005" xlink:href="https://campaignforaction.org/new-resource-highlights-nurses-heeding-the-call-to-earn-their-bsn/" xlink:type="simple">https://campaignforaction.org/new-resource-highlights-nurses-heeding-the-call-to-earn-their-bsn/</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">Courville, M. and J. Green. “New resource highlights nurses heeding the call to earn their BSN” Campaign for Action Blog. 2019. Retrieved from: https://campaignforaction.org/new-resource-highlights-nurses-heeding-the-call-to-earn-their-bsn/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>Institute of Medicine 2011</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Institute of Medicine</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The future of nursing; leading change, advancing health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2011</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The National Academies Press</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0006" xlink:href="https://www.nap.edu/catalog/12956/the-future-of-nursing-leading-change-advancing-health" xlink:type="simple">https://www.nap.edu/catalog/12956/the-future-of-nursing-leading-change-advancing-health</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">Institute of Medicine. The future of nursing; leading change, advancing health. Washington, DC: The National Academies Press, 2011. Retrieved from: https://www.nap.edu/catalog/12956/the-future-of-nursing-leading-change-advancing-health</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>Miyamoto and Cook, 2019</ce:label>
+                     <sb:reference id="sbref0212">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Miyamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The procurement of the UN sustainable development goals and the American national policy agenda of nurses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nursing outlook</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>658</sb:first-page>
+                              <sb:last-page>663</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0314">Miyamoto, S., &amp; Cook, E. (2019). The procurement of the UN sustainable development goals and the American national policy agenda of nurses. Nursing outlook, 67(6), 658-663.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>Neumann, 2010</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Neumann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nursing's social policy statement: The essence of the profession</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Nurses Association</sb:name>
+                                 <sb:location>Silver Spring, MD</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0007" xlink:href="https://essentialguidetonursingpractice.files.wordpress.com/2012/07/pages-from-essential-guide-to-nursing-practice-chapter-1.pdf" xlink:type="simple">https://essentialguidetonursingpractice.files.wordpress.com/2012/07/pages-from-essential-guide-to-nursing-practice-chapter-1.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">Neumann, C.E. (2010). Nursing's social policy statement: The essence of the profession. American Nurses Association: Silver Spring, MD. Retrieved from: https://essentialguidetonursingpractice.files.wordpress.com/2012/07/pages-from-essential-guide-to-nursing-practice-chapter-1.pdf</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>9</ce:label>
+                     <ce:other-ref id="othref0003">
+                        <ce:textref>Nurses on Boards Coalition. Retrieved from: <ce:inter-ref id="interref0008" xlink:href="https://www.nursesonboardscoalition.org/" xlink:type="simple">https://www.nursesonboardscoalition.org/</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Pittman, 2019</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Pittman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Activating Nursing to Address the Unmet Needs of the 21st Century</sb:maintitle>
+                              <sb:subtitle>Background Paper for the NAM Committee on Nursing 2030</sb:subtitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2019</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0009" xlink:href="https://publichealth.gwu.edu/sites/default/files/downloads/HPM/Activating%20Nursing%20To%20Address%20Unmet%20Needs%20In%20The%2021st%20Century.pdf" xlink:type="simple">https://publichealth.gwu.edu/sites/default/files/downloads/HPM/Activating%20Nursing%20To%20Address%20Unmet%20Needs%20In%20The%2021st%20Century.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>accessed 3.12.19</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">Pittman, P.2019. Activating Nursing to Address the Unmet Needs of the 21st Century: Background Paper for the NAM Committee on Nursing 2030. Retrieved from: https://publichealth.gwu.edu/sites/default/files/downloads/HPM/Activating%20Nursing%20To%20Address%20Unmet%20Needs%20In%20The%2021st%20Century.pdf (accessed 3.12.19).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>Reysen and Katzarska-Miller, 2013</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Reysen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Katzarska-Miller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A model of global citizenship: Antecedents and outcomes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Psychology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>858</sb:first-page>
+                              <sb:last-page>870</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">Reysen, S. &amp; Katzarska-Miller, I. (2013). A model of global citizenship: Antecedents and outcomes. International Journal of Psychology, 48(5), 858-870.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>Robert Wood Johnson Foundation 2019</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Robert Wood Johnson Foundation</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nursing education and the path to population health improvement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Princeton</sb:name>
+                                 <sb:location>New Jersey</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0010" xlink:href="https://campaignforaction.org/wp-content/uploads/2019/03/NursingEducationPathtoHealthImprovement.pdf" xlink:type="simple">https://campaignforaction.org/wp-content/uploads/2019/03/NursingEducationPathtoHealthImprovement.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">Robert Wood Johnson Foundation. (2019) Nursing education and the path to population health improvement. New Jersey: Princeton. Retrieved from: https://campaignforaction.org/wp-content/uploads/2019/03/NursingEducationPathtoHealthImprovement.pdf</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Rosa et al., 2019</ce:label>
+                     <sb:reference id="sbref0111">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.E.</ce:given-name>
+                                 <ce:surname>Rosa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Kurth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Sullivan-Marx</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shamian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.K.</ce:given-name>
+                                 <ce:surname>Shaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Crisp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nursing and midwifery advocacy to lead the United Nations Sustainable Development Agenda</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nursing outlook</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>628</sb:first-page>
+                              <sb:last-page>641</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0114">Rosa, W. E., Kurth, A. E., Sullivan-Marx, E., Shamian, J., Shaw, H. K., Wilson, L. L., &amp; Anderson, C. (2019). Nursing and midwifery advocacy to lead the United Nations Sustainable Development Agenda. Nursing outlook, 67(6), 628-641.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>SDG USA &amp; Sustainable Development Solutions Network 2018</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>SDG USA &amp; Sustainable Development Solutions Network</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sustainable Development Report of the United States 2018</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2018</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Retrieved from:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0011" xlink:href="https://www.sdgusa.org/uploads/SDGreport2018.pdf" xlink:type="simple">https://www.sdgusa.org/uploads/SDGreport2018.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0013">SDG USA &amp; Sustainable Development Solutions Network. (2018). Sustainable Development Report of the United States 2018. Retrieved fromhttps://www.sdgusa.org/uploads/SDGreport2018.pdf</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>Squires, 2019</ce:label>
+                     <sb:reference id="sbref0511">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Squires</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>US nursing and midwifery research capacity building opportunities to achieve the United Nations sustainable development goals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nursing outlook</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>642</sb:first-page>
+                              <sb:last-page>648</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0514">Squires, A. (2019). US nursing and midwifery research capacity building opportunities to achieve the United Nations sustainable development goals. Nursing outlook, 67(6), 642-648.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>Squires and Anderson, 2015</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Squires</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>US health care from a global perspective: Spending, use of services, prices, and health in 13 countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Commonwealth Fund</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>16</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0014">Squires, D., &amp; Anderson, C. (2015). US health care from a global perspective: Spending, use of services, prices, and health in 13 countries. The Commonwealth Fund, 15(3), 1-16.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>Upvall and Luzincourt, 2019</ce:label>
+                     <sb:reference id="sbref0211">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Upvall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Luzincourt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global citizens, healthy communities: Integrating the sustainable development goals into the nursing curriculum</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nursing outlook</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>649</sb:first-page>
+                              <sb:last-page>657</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0214">Upvall, M. J., &amp; Luzincourt, G. (2019). Global citizens, healthy communities: Integrating the sustainable development goals into the nursing curriculum. Nursing outlook, 67(6), 649-657.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

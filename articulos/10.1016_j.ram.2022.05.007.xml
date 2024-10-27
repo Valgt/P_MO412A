@@ -1,0 +1,522 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0325754122000505</prism:url><dc:identifier>doi:10.1016/j.ram.2022.05.007</dc:identifier><eid>1-s2.0-S0325754122000505</eid><prism:doi>10.1016/j.ram.2022.05.007</prism:doi><pii>S0325-7541(22)00050-5</pii><dc:title>Microbiología, bioeconomía y objetivos de desarrollo sostenible </dc:title><prism:publicationName>Revista Argentina de Microbiología</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>03257541</prism:issn><prism:volume>54</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>71</prism:startingPage><prism:endingPage>73</prism:endingPage><prism:pageRange>71-73</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2022-06-30</prism:coverDate><prism:coverDisplayDate>April–June 2022</prism:coverDisplayDate><prism:copyright>© 2022 Published by Elsevier España, S.L.U. on behalf of Asociación Argentina de Microbiología.</prism:copyright><prism:publisher>Published by Elsevier España, S.L.U. on behalf of Asociación Argentina de Microbiología.</prism:publisher><dc:creator>García de Salamone, Inés Eugenia</dc:creator><dc:description/><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Asociación Argentina de Microbiología</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S0325754122000505" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0325754122000505" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="157793">https://api.elsevier.com/content/object/eid/1-s2.0-S0325754122000505-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85131912263</scopus-id><scopus-eid>2-s2.0-85131912263</scopus-eid><pubmed-id>35710148</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85131912263" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>287516</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291783</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Revista Argentina de Microbiología</xocs:srctitle>
+      <xocs:normalized-srctitle>REVISTAARGENTINADEMICROBIOLOGIA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220613">2022-06-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220613">2022-06-13</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220613">2022-06-13</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220613">2022-06-13</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2022-06-13T14:59:59</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0325754122000505</xocs:eid>
+      <xocs:pii-formatted>S0325-7541(22)00050-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0325754122000505</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ram.2022.05.007</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0325754122X00035</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20221228">2022-12-28T13:44:49.796514Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220401</xocs:date-search-begin>
+      <xocs:date-search-end>20220630</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1655134017">2022-06-13T15:26:57.224233Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil altitemtitle articletitle auth authfirstini authfull authlast pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0325-7541</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03257541</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>54</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>54</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 54, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>1</xocs:sort-order>
+      <xocs:first-fp>71</xocs:first-fp>
+      <xocs:last-lp>73</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>71</xocs:first-page>
+         <xocs:last-page>73</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202204</xocs:start-date>
+         <xocs:end-date>202206</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April–June 2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Editorial</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 Published by Elsevier España, S.L.U. on behalf of Asociación Argentina de Microbiología.</xocs:copyright-line>
+      <xocs:normalized-article-title>MICROBIOLOGIABIOECONOMIAYOBJETIVOSDEDESARROLLOSOSTENIBLE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GARCIADESALAMONE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>I</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>Bibliografía</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>AGUILAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>CORLETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36</xocs:ref-first-fp>
+            <xocs:ref-last-lp>41</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>DISALVO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>108</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>AGRICULTURALLYIMPORTANTFUNGIFORSUSTAINABLEAGRICULTUREPERSPECTIVEFORDIVERSITYCROPPRODUCTIVITY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>NATURALARBUSCULARMYCORRHIZALCOLONIZATIONWHEATMAIZECROPSUNDERDIFFERENTAGRICULTURALPRACTICES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>GARCIADESALAMONE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>74</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MICROBIALINTERVENTIONSINAGRICULTUREENVIRONMENT</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>MANUFACTURINGQUALITYCONTROLINOCULANTSPARADIGMCIRCULARAGRICULTURE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>QUIZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GARCIADESALAMONEX2022X71</xocs:refkey3>
+         <xocs:refkey4lp>GARCIADESALAMONEX2022X71X73</xocs:refkey4lp>
+         <xocs:refkey4ai>GARCIADESALAMONEX2022X71XI</xocs:refkey4ai>
+         <xocs:refkey5>GARCIADESALAMONEX2022X71X73XI</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2022-06-02T00:31:24Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Asociación Argentina de Microbiología</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/03257541_UNBOUNDED_FB">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 Published by Elsevier España, S.L.U. on behalf of Asociación Argentina de Microbiología.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0325-7541(22)00050-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0325754122000505</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0325754122000505</xocs:eid>
+         <xocs:doi>10.1016/j.ram.2022.05.007</xocs:doi>
+         <xocs:cid>287516</xocs:cid>
+         <xocs:timestamp>2022-12-28T13:44:49.796514Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-06-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0325754122000505-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0325754122000505/MAIN/application/pdf/ab48ef40a7264946a1e6374a496227c6/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>235336</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0325754122000505-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0325754122000505/PREVIEW/image/png/66f43196a4bd2f75c726c6465fcf927a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56319</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0325754122000505-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>157793</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:102LG3NJ0TP/MAIN/application/pdf/ce492022191a261948cc8b2790249bf7/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="es" docsubtype="sco">
+         <item-info>
+            <jid>RAM</jid>
+            <aid>501</aid>
+            <ce:pii>S0325-7541(22)00050-5</ce:pii>
+            <ce:doi>10.1016/j.ram.2022.05.007</ce:doi>
+            <ce:copyright type="unknown" year="2022"/>
+         </item-info>
+         <head>
+            <ce:dochead id="doh0005">
+               <ce:textfn>Editorial</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Microbiología, bioeconomía y objetivos de desarrollo sostenible</ce:title>
+            <ce:alt-title xml:lang="en">Microbiology, Bioeconomy and Sustainable Development Goals</ce:alt-title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S0325754122000505-1e7e847f95678f020a7289c638caf411">
+                  <ce:given-name>Inés Eugenia</ce:given-name>
+                  <ce:surname>García de Salamone</ce:surname>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0325754122000505-87ea426a26b2a4a5cf11ee25f3de1785">
+                  <ce:textfn>Facultad de Agronomía, Universidad de Buenos Aires. Editora de Revista Argentina de Microbiología, Buenos Aires, Argentina</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Facultad de Agronomía, Universidad de Buenos Aires. Editora de Revista Argentina de Microbiología</sa:organization>
+                     <sa:city>Buenos Aires</sa:city>
+                     <sa:country>Argentina</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="23" month="5" year="2022"/>
+            <ce:date-accepted day="23" month="5" year="2022"/>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="par0005" view="all">Nuestro planeta está en emergencia porque ha pasado de la estabilidad del Holoceno, cuando las características de la biósfera y de la atmósfera fluctuaban dentro de intervalos relativamente estrechos, a una nueva época denominada Antropoceno, en la que los humanos constituyen el motor dominante del cambio en el sistema terrestre<ce:cross-ref id="crf0005" refid="bib0010">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>.</ce:para>
+               <ce:para id="par0010" view="all">Varios análisis interdisciplinarios establecieron nueve límites ecológicos que definen el techo planetario y once dimensiones, que constituyen la base social. Este enfoque ha sido plasmado en la definición para el año 2030 de los 17 Objetivos de Desarrollo Sostenible (ODS) de las Naciones Unidas, en 2015 <ce:cross-ref id="crf0010" refid="bib0020">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>. Los tres pilares de la sostenibilidad, la ecología, la economía y los aspectos socio-culturales, son dinámicos, tanto en el espacio como en el tiempo, y dependen de los avances tecnológicos y los vaivenes políticos que se van sucediendo. Globalmente, se han propuesto distintas estrategias para favorecer la sostenibilidad. Entre los modelos técnico-económicos se encuentra la <ce:italic>bioeconomía</ce:italic>, una economía en la que los componentes básicos para la elaboración de materiales, productos químicos y energía derivan de recursos biológicos renovables<ce:cross-ref id="crf0015" refid="bib0005">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>. Este nuevo paradigma productivo integra todos los conceptos incluidos en los modelos de economía verde y circular, y agrega la importancia del conocimiento de la biodiversidad, el funcionamiento de los ecosistemas y los procesos biológicos.</ce:para>
+               <ce:para id="par0015" view="all">Para no exceder los límites planetarios, la bioeconomía plantea pasar del aprovechamiento de los combustibles fósiles o de la fotosíntesis de decenas de millones de años al aprovechamiento de la fotosíntesis y otros procesos biológicos en tiempo real. Así, la producción de biomasa, como fuente de carbono, y las biorrefinerías, en reemplazo de las refinerías de petróleo, son sus componentes centrales. Esta megatendencia mundial se desarrolla en varias dimensiones y se define como la integración de una agricultura sostenible con una industrialización inteligente, que permite conservar o incrementar los servicios ecosistémicos y el manejo adaptativo de los sistemas productivos mediante el gerenciamiento de la heterogeneidad ambiental.</ce:para>
+               <ce:para id="par0020" view="all">En este contexto, es claro que la ecología microbiana del suelo y la sostenibilidad agrícola y ambiental están estrechamente vinculadas. La salud del suelo y el crecimiento de las plantas dependen directamente de la comunidad microbiana edáfica<ce:cross-ref id="crf0020" refid="bib0030">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref>. El déficit ecológico es la diferencia entre la huella ecológica y la capacidad de un ecosistema y se vincula directamente con el mantenimiento del carbono orgánico edáfico<ce:cross-ref id="crf0025" refid="bib0020">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>. Este es el principal bioindicador de salud de los suelos y depende de la presencia de raíces vegetales y del ambiente edáfico que las rodea denominado <ce:italic>rizósfera</ce:italic>. Allí es donde las raíces vegetales aportan compuestos carbonados que favorecen la actividad de los microorganismos edáficos y ocurren la mayoría de los procesos microbiológicos que permiten la vida en nuestro planeta. La superficie de la raíz o <ce:italic>rizoplano</ce:italic> es el lugar donde se produce el intercambio de señales químicas que definen las interacciones <ce:italic>microorganismos-planta-suelo</ce:italic>. Si bien la capacidad edáfica para almacenar carbono es muy variable en el espacio y en el tiempo, es claro que se debe lograr la descarbonización de la atmósfera y la recarbonización del suelo para alcanzar la sostenibilidad<ce:cross-ref id="crf0030" refid="bib0020">
+                     <ce:sup loc="post">4</ce:sup>
+                  </ce:cross-ref>. Esto brindará beneficios múltiples vinculados con la seguridad alimentaria y la posibilidad de adaptación al cambio climático y de su mitigación. El suelo es un ambiente heterogéneo y un enorme reservorio de diversidad genética, nutrientes y microorganismos, que son los encargados del ciclado de nutrientes para sostener la vida. La composición de las comunidades microbianas en el suelo sin influencia de la raíz y en la rizósfera es muy diferente, lo que sugiere una fuerte selectividad, que aumenta en los ambientes microbianos no edáficos propios de las plantas, como la <ce:italic>endósfera</ce:italic> (hábitat dentro de los órganos vegetales aéreos y subterráneos) y la <ce:italic>filósfera</ce:italic> (hábitat circunscrito a las superficies vegetales).</ce:para>
+               <ce:para id="par0025" view="all">Hay diferentes tipos de interacciones microorganismos-planta-suelo, que abarcan un amplio espectro, entre beneficiosas y patogénicas<ce:cross-ref id="crf0035" refid="bib0025">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref>. Estas interacciones son muy complejas y dependientes de las especies vegetales involucradas, del tipo de suelo y de las condiciones ambientales, incluidas las nutricionales, climáticas y antropogénicas, que pueden generar distintos tipos de estreses abióticos y bióticos.</ce:para>
+               <ce:para id="par0030" view="all">En cada sistema, cada planta es el resultado de todas las interacciones entre esta y los microorganismos asociados, que, en su conjunto, pueden describirse como <ce:italic>microbiota o microbioma.</ce:italic> La planta y su microbioma, que es el conjunto de genomas microbianos, son muy dependientes uno del otro. Este concepto relativamente nuevo considera que el microbioma contribuye como una proporción significativa al genoma secundario de la planta huésped, por lo cual, la planta y su microbioma asociado podrían funcionar como un metaorganismo denominado holobionte<ce:cross-ref id="crf0040" refid="bib0030">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref>. Esto se vincula con el concepto del fenotipo radical extendido y ambos constituyen herramientas que se deberían utilizar en los programas de obtención de nuevos genotipos vegetales para favorecer la sostenibilidad de los agroecosistemas. En este sentido, las comunidades microbianas de la rizósfera y de la endósfera pueden conducir la protección del vegetal frente a patógenos en dos capas protectoras distintas. Así, el éxito de los patógenos en lograr la infección está determinado por las interacciones complejas que ocurren en la parte subterránea del sistema suelo-microorganismos-planta.</ce:para>
+               <ce:para id="par0035" view="all">La manipulación y la ingeniería del microbioma rizosférico son innovaciones biotecnológicas alineadas con varios ODS<ce:cross-refs id="crfs0005" refid="bib0020 bib0025">
+                     <ce:sup loc="post">4,5</ce:sup>
+                  </ce:cross-refs>, que reducen el empleo de insumos químicos derivados del petróleo, como fertilizantes sintéticos y fitosanitarios, mientras mantienen o mejoran los rendimientos de los cultivos<ce:cross-refs id="crfs0010" refid="bib0015 bib0030">
+                     <ce:sup loc="post">3,6</ce:sup>
+                  </ce:cross-refs>. Entre las estrategias de modificación de los rasgos de las plantas, la señalización química puede inducir funciones microbianas benéficas, fomentar la diversidad microbiana a través de la provisión de diferentes exudados y recursos específicos, que pueden provocar el enriquecimiento selectivo de ciertos microorganismos; por ejemplo, el de los hongos formadores de micorrizas, asociaciones simbióticas que ocurren en la mayoría de las plantas y favorecen su nutrición y salud<ce:cross-ref id="crf0045" refid="bib0015">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref>. La magnitud de la micorrización natural es considerada un bioindicador de la salud del suelo, que responde a las prácticas de manejo y puede promoverse con la aplicación de algunas bacterias rizosféricas benéficas. En sistemas degradados por el monocultivo, las labranzas o el elevado nivel de uso de fertilizantes y fitosanitarios, se han observado reducciones significativas de la micorrización natural y de la diversidad microbiana del suelo, cuando se comparan con sus respectivos sistemas prístinos. Por esto, es preciso caracterizar la micorrización natural en condiciones de campo en cada agroecosistema<ce:cross-ref id="crf0050" refid="bib0015">
+                     <ce:sup loc="post">3</ce:sup>
+                  </ce:cross-ref>.</ce:para>
+               <ce:para id="par0040" view="all">Entre las estrategias microbianas para disminuir el impacto ambiental negativo y lograr asociaciones óptimas entre microorganismos y plantas, se incluye la aplicación de bioinsumos microbianos<ce:cross-ref id="crf0055" refid="bib0025">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref>. Estos son formulaciones biotecnológicas que pueden favorecer el crecimiento de las plantas y la sostenibilidad porque pueden incluir bacterias rizosféricas, endófitas o epífitas y completar nichos o espacios vacantes. También pueden provocar disrupciones que facilitan la introducción y selección de otros microorganismos benéficos.</ce:para>
+               <ce:para id="par0045" view="all">Las distintas estrategias pueden influir en forma colaborativa a mejorar el acceso a los reservorios de nutrientes del suelo, disminuir la incidencia y severidad de las enfermedades, aumentar la tolerancia al estrés y mejorar la colonización rizosférica<ce:cross-ref id="crf0060" refid="bib0030">
+                     <ce:sup loc="post">6</ce:sup>
+                  </ce:cross-ref>. La conciencia respecto de los problemas ambientales permite inferir que los bioinsumos son necesarios para aumentar la sostenibilidad<ce:cross-ref id="crf0065" refid="bib0025">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref>. Los bioinsumos pueden contener sustancias de diversos tipos, de origen natural, agentes biológicos, principalmente microorganismos, macroorganismos y sustancias inorgánicas. Los bioinsumos pueden ser formulados con un solo componente de los mencionados o con distintos tipos de mezclas y se pueden aplicar sobre plantas, semillas, suelo o sustratos para favorecer la productividad, calidad y salud de los cultivos. La supervivencia de cualquier microorganismo en un bioinsumo es fundamental para definir la tecnología de aplicación y dosificación del producto<ce:cross-ref id="crf0070" refid="bib0025">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref>. En todo el mundo, el mercado de bioinsumos está en expansión, por ello es necesario enfocarse en lograr alta efectividad y más estabilidad de estos productos en el tiempo<ce:cross-ref id="crf0075" refid="bib0025">
+                     <ce:sup loc="post">5</ce:sup>
+                  </ce:cross-ref>. Estos criterios de calidad deben estar bien establecidos, en concordancia con la normativa vigente y también con cuestiones éticas, como evitar la inclusión en las formulaciones de aquellos microorganismos que sean potenciales patógenos vegetales, animales o de humanos.</ce:para>
+               <ce:para id="par0050" view="all">Se sabe que los agroecosistemas sustentables son aquellos capaces de lograr la mayor producción con la menor cantidad de impactos negativos para el ambiente. Se podría reducir o eliminar el uso de insumos químicos, pero se requiere un mayor conocimiento de las interrelaciones en el agroecosistema e información para el desarrollo de bioinsumos eficientes y de alta calidad. El conocimiento de la ecología microbiana rizosférica es una herramienta que brinda alternativas promisorias y amplias para favorecer la bioeconomía, en línea con los ODS de las Naciones Unidas. Existen muchas alternativas conocidas que requieren desarrollos comerciales y hay gran potencial para generar otras nuevas. La eficiencia de los bioinsumos puede ser mejorada significativamente a través del mejoramiento vegetal, de la calidad de los inoculantes junto al ajuste y el monitoreo de la microbiología del suelo<ce:cross-refs id="crfs0015" refid="bib0015 bib0025">
+                     <ce:sup loc="post">3,5</ce:sup>
+                  </ce:cross-refs>.</ce:para>
+               <ce:para id="par0055" view="all">En los últimos años, la investigación del <ce:italic>microbioma vegetal</ce:italic> se ha beneficiado enormemente de los esfuerzos interdisciplinarios traídos de las ciencias -ómicas, ingeniería, biología teórica, experimental y/o computacional y estadística, para generar conocimientos cuantitativos en interacciones <ce:italic>suelo-microorganismos-planta</ce:italic>. Sin embargo, aún es necesario definir en cuáles actividades intervienen los microbiomas autóctonos y cómo aquellos resultantes de la manipulación y la bioingeniería se pueden implementar de manera segura y efectiva en condiciones de campo a gran escala, para aumentar los niveles de producción en el marco de la sostenibilidad.</ce:para>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0005">Bibliografía</ce:section-title>
+               <ce:bibliography-sec id="bibs0015" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Aguilar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Twardowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wohlgemuth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bioeconomy for sustainable development</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnology Journal</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/biot.201800638</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>Corlett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Anthropocene concept in ecology and conservation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trends in Ecology &amp; Evolution</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36</sb:first-page>
+                              <sb:last-page>41</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.tree.2014.10.007</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Di Salvo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Groppa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.E.</ce:given-name>
+                                 <ce:surname>García de Salamone</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Natural arbuscular mycorrhizal colonization of wheat and maize crops under different agricultural practices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>A.N.</ce:given-name>
+                                       <ce:surname>Yadav</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>S.</ce:given-name>
+                                       <ce:surname>Mishra</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>D.</ce:given-name>
+                                       <ce:surname>Kour</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>N.</ce:given-name>
+                                       <ce:surname>Yadav</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>A.</ce:given-name>
+                                       <ce:surname>Kumar</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Agriculturally Important Fungi for Sustainable Agriculture, : Perspective for Diversity and Crop Productivity.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer Nature</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>108</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>4</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>FAO. State of knowledge of soil biodiversity. Status, challenges and potentialities, Report 2020. Rome, FAO, Organization of the United Nations 2020, pp. 618.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.E.</ce:given-name>
+                                 <ce:surname>García de Salamone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Esquivel-Cote</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Hernández-Melchor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Alarcón</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Manufacturing and Quality Control of Inoculants from the Paradigm of Circular Agriculture</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>D.</ce:given-name>
+                                       <ce:surname>Singh</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>V.</ce:given-name>
+                                       <ce:surname>Gupta</ce:surname>
+                                    </sb:editor>
+                                    <sb:editor>
+                                       <ce:given-name>R.</ce:given-name>
+                                       <ce:surname>Prabha</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Microbial Interventions in Agriculture and Environment</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>2</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2019</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Singapore</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                              <sb:last-page>74</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Quiza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>St-Arnaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Yergeau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Harnessing phytomicrobiome signaling for rhizosphere microbiome engineering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Frontiers in Plant Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>11</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
