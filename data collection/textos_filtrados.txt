@@ -1,0 +1,223 @@
+Spatial inequalities in education status and its determinants in Pakistan: A district-level modelling in the context of sustainable development Goal-4
+© 2022 Elsevier Ltd. All rights reserved.
+Achieving Sustainable Development Goal (SDG)-4 prerequisites quality education provisioning. In this context, we present important insights and references for educational interventions/investments to be tailored to local necessities in Pakistan. Several spatial statistical models such as the Global Moran's I-based spatial autocorrelation, multivariate clustering, and the Cluster and Outlier model are used to explore geographic heterogeneities and patterns. Additionally, significant determinants among several socio-economic, spatio-environmental, and infrastructural variables are identified for education status (EdS) using regression. As a result, a large geographic inequality regarding EdS is found in Pakistan. While a strong spatial association is evident, the districts in northern Punjab are identified as significant hotspots—higher EdS clusters (∼22% of total districts, 95% confidence). Majority of the 44% poorly performing districts belong to Balochistan province (95% confidence). Overall, the educational status in Punjab is higher as compared with other provinces. We find that four out of seven potential factors (i.e., poverty, urbanization, electricity accessibility, and school infrastructure) are statistically significant determinants of EdS. Among these, poverty is the most strongly associated (mean coefficient value −18.848) factor to control EdS. The results have important implications to decision-making for immediate or gradual actions in the context of spatially equitable provisioning of quality education through an informed prioritization (i.e., low performing districts). Based on the findings, while rigorous measures are needed for low performing regions and the identified determinants to improve education status, this study sheds light on the mechanisms to achieve SDG4, consequently promoting human well-being through educating communities.
+articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast footnotes highlightsabst orcid primabst ref
+© 2022 Elsevier Ltd. All rights reserved.
+Exploring geographies of education status
+Identifying determinants of education status
+Geographies of education status in Pakistan
+Exploring determinants of education status
+Ordinary least squares vs geographically weighted regression model
+Implications for policy and SDGs
+Limitations and the way forward
+© 2022 Elsevier Ltd. All rights reserved.
+Schematic of overall workflow to conduct the present study.
+District level geographies of education status (EdS) in Pakistan. (a) spatial distribution of EdS presented using one standard deviation— showing how much the EdS values diverge from the mean. (b) multivariate spatial clustering assessment results based on the machine learning-based algorithm. The clusters are identified using education score, school infrastructure, poverty, household dependency, employment status, access to electricity, accessibility to transportation, and urbanization level. The bar-chart shows the number of districts identified in each statistically distinct spatial group (95% confidence). The patterned (diagonal lined) districts are not included in the study at this stage due to data unavailability.
+Box-plot showing the average scores (standardized) of each variable for all the districts designated in the specific group determined by the machine learning-based multivariate spatial clustering. The colors of the lines are corresponding to the groups in
+Spatial autocorrelation analysis results: (a) Global Moran's I-based autocorrelation. (b) LISA-based identification of statistically significant (p = 0.05) hotspots (clusters of higher EdS), cold-spots (clusters of low EdS), and outliers. The patterned (diagonal lined) districts are not included in the study at this stage due to data unavailability.
+GWR-based local regression coefficients.
+Spatial distribution of (a) standardized residual from the geographically weighted regression model and (b) geographic distribution of local R
+Bivariate maps of EdS and statistically significant factors from socio-economic, spatio-environmental, and infrastructural variables.
+Details on different determinants used as explanatory variables in the analysis.
+Measured by a school infrastructure score based on physical infrastructure of schools in each district. This score is based on the availability of electricity, water, toilet, and boundary wall in a school along with a building condition satisfaction. All these physical aspects make EdS in a district better (
+Poverty is one of the key factors considered for education globally (Ansong, Ansong, Ampomah, & Adjabeng, 2015;
+It is estimated as the ratio of elderly and non-adult population (65 and 0–14 years old) to the population in working-age group (i.e., between 14 and 64 years). It is an important variable of socio-economic conditions of a society as higher dependency ratio leads to lesser financial incentives in a family leading to lesser opportunities to afford/pursue education (Ansong, Ansong, Ampomah, & Adjabeng, 2015).
+It is estimated as percentage of waged and salaried population (both male and female) of each district to its total population. The employment status is a key indicator of socio-economic conditions. Higher employment status ensures income, which is a primary driver of education affordability (Ansong, Ansong, Ampomah, & Adjabeng, 2015).
+Accessibility to transportation is one of the key spatio-environmental factors of schooling in developing countries like Pakistan (Ansong, Ansong, Ampomah, & Adjabeng, 2015;
+Urbanization factor is also an important factor and it can potentially influence the spatial inequality of EdS among different districts (Ansong, Ansong, Ampomah, & Adjabeng, 2015;
+Results from the ordinary least squares regression analysis.
+Results from the geographically weighted regression analysis.
+Note. SD = Standard Deviation, Min. = Minimum value, Max. = Maximum value.
+Spatial inequalities in education status and its determinants in Pakistan: A district-level modelling in the context of sustainable development Goal-4
+Department of Geography, Hong Kong Baptist University, Hong Kong Special Administrative Region
+Hong Kong Special Administrative Region
+Department of Geography, Hong Kong Baptist University, Hong Kong Special Administrative Region
+University of Agriculture Faisalabad, Pakistan
+University of Agriculture Faisalabad, Pakistan
+Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University, Hong Kong Special Administrative Region
+Department of Land Surveying and Geo-Informatics
+The Hong Kong Polytechnic University
+Hong Kong Special Administrative Region
+Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University, Hong Kong Special Administrative Region
+Department of Geography, Government College University Faisalabad, Pakistan
+Department of Geography, Government College University Faisalabad, Pakistan
+Corresponding author. Hong Kong Baptist University, Office AAB-1222, Academic and Administration Building 224 Waterloo Rd, Kowloon Tong, Hong Kong Special Administrative Region.
+Academic and Administration Building 224 Waterloo Rd
+Hong Kong Special Administrative Region
+Achieving Sustainable Development Goal (SDG)-4 prerequisites quality education provisioning. In this context, we present important insights and references for educational interventions/investments to be tailored to local necessities in Pakistan. Several spatial statistical models such as the Global Moran's I-based spatial autocorrelation, multivariate clustering, and the Cluster and Outlier model are used to explore geographic heterogeneities and patterns. Additionally, significant determinants among several socio-economic, spatio-environmental, and infrastructural variables are identified for education status (EdS) using regression. As a result, a large geographic inequality regarding EdS is found in Pakistan. While a strong spatial association is evident, the districts in northern Punjab are identified as significant hotspots—higher EdS clusters (∼22% of total districts, 95% confidence). Majority of the 44% poorly performing districts belong to Balochistan province (95% confidence). Overall, the educational status in Punjab is higher as compared with other provinces. We find that four out of seven potential factors (i.e., poverty, urbanization, electricity accessibility, and school infrastructure) are statistically significant determinants of EdS. Among these, poverty is the most strongly associated (mean coefficient value −18.848) factor to control EdS. The results have important implications to decision-making for immediate or gradual actions in the context of spatially equitable provisioning of quality education through an informed prioritization (i.e., low performing districts). Based on the findings, while rigorous measures are needed for low performing regions and the identified determinants to improve education status, this study sheds light on the mechanisms to achieve SDG4, consequently promoting human well-being through educating communities.
+Being the fundamental right of every citizen, education is the strength and foundation of a country as it drives the development of a nation (
+Educational System, particularly primary level, in developing countries like Pakistan faces multitude challenges and consequently, the countries suffer from an extensive education crisis (
+Though Pakistan has a comparable gross domestic product (GDP) per capita relative to other neighbor developing countries, Pakistan stands low in the Human Development class according to the Human Development Index.
+Several researchers have outlined a number of challenges related to low education quality/status in different regions globally (
+Notably, before resolving the issues related to lower EdS, it is desirable to identify the nature of hindering barriers such as the associated factors, and how they vary across space (
+Ansong, Ansong, Ampomah, & Adjabeng, 2015
+In connection to this, the key objectives of this study include identification and examination of geographic heterogeneity in EdS in Pakistan at national scale using district level assessments via spatial distributional approaches, and evaluating several determinants of EdS. These analyses could progressively provide insights to promote a contextual understanding of education requirements in Pakistan. Such district-level location intelligence-based insights are particularly valuable information to act as key references for policy making, actions for effective service delivery, and initiatives for tailored educational programs, which is more beneficial to improve overall EdS and consequently move towards the achievement of SGD-4 than would otherwise be possible.
+The present study is conducted in a number of steps including: defining and collection of data on several representative indicators (education, socio-economic aspects, spatio-environmental factors, and infrastructure) and other spatial datasets (i.e., vector data of administrative boundaries), assessment of spatial inequality in educational status using geo-information models, and evaluating different determinants of educational status. As mentioned above, the administrative unit used in this study is the “district” level as most of the local planning and decision-making in Pakistan happens at this level. The analyses are conducted on 112 districts covering Punjab, Sindh, Balochistan, and Khyber Pakhtunkhwa (KPK) provinces in Pakistan. It is noted that though it would be ideal to conduct the analysis for all districts in Pakistan, the unavailability of data on indicators, particularly socio-economic, limits the inclusion of the districts from Gilgit Baltistan, Azad Jammu&Kashmir, and the Federally Administered Tribal Areas (FATA: merged in KPK in 2018). As the assessments are primarily made in a spatial environment, a geo-information data repository is established for data storage, retrieval, and analyses. The ArcGIS Pro. software from the Environmental Systems Research Institute (ESRI) is used for data visualization and several spatial analyses. The comprehensive schematic for overall workflow is presented in
+To represent the EdS of each district, an education score is computed following the approach of the Education for All Development Index presented by the United Nations Educational, Scientific and Cultural Organization (
+Access is measured using the gross enrollment rate for school-going-age children (6–10 years old), which is more commonly used indicator to capture access. Educational attainment can be captured using the indicators representing continual survival in schools such as completion of primary school education, survival rates, years of schooling, and persistence to next educational level. In this study, the survival rates to 5th grade is used to measure the attainment as reported by the National Education Management Information System (
+Exploring geographies of education status
+To explore the spatial inconsistencies in EdS across the study area, a vector layer of districts is used and the education scores are appended to its data table. To evaluate the distribution of EdS across all districts, thematic maps are produced. Furthermore, an unsupervised classification-based multivariate machine learning algorithm is applied to EdS and several socio-economic, spatio-environmental, and infrastructural variables (
+In addition, to identify the spatial patterns in the EdS, if any, we firstly apply a spatial autocorrelation technique using the Global Moran's I method. This assessment helps us identify if there is any global relationship between space and EdS (i.e., either the geographic distribution of EdS is clustered, dispersed, or random). Later, a Local Indicators for Spatial Association (LISA)-based assessment is carried out to identify the statistically significant (p = 0.05) localized hotspots (regions with higher EdS), cold spots (regions with lower EdS), and outliers. This situation explains that if localized patterns are identified in the data, there is at least 95% confidence. This evaluation is particularly helpful to highlight the priority intervention areas for appropriate measures and designing the feasible as well as informed action plans. It is noted that the conceptualization of spatial relationships for both global and local models in our study is based on contiguity spatial weight matrix because the data is in vector polygons (i.e., districts). Hence, there is no need to specify a particular distance bandwidth/threshold as it is being decided based on the number of sharing boundaries between different districts.
+Identifying determinants of education status
+Identifying determinants of EdS is essential to drive effective decision-making and policy development for further improvements in educational system—leading to SDG-4 achievement. Hence, the selection of controlling factors should represent the reality of the study area so that the results are accordingly useful for references to decision-making. However, while considering the reality of the study area (Pakistan in this case) could result in a long list of independent variables influencing EdS, their availability at the scale of measure, especially in developing countries, is a matter of concern. This is primarily due to lack of data aggregation and absence of centralized data repositories in most of the developing countries. In addition, the problem of multicollinearity in fitting a multivariate regression model should also be avoided to achieve unbiased results (
+Before modelling the relationship, we compute the variance inflation factor (VIF) to check the multicollinearity among the variables (
+Compared with the OLS model, which is a global evaluation, the GWR accounts for any local relationship between the dependent and explanatory variables assuming that this relation is spatially dynamic. In GWR method, local regressions are constructed to compute local coefficients via providing higher weights to neighboring data points (
+In addition, for the sake of visualization and effective communication of findings, the identified statistically significant determinants are used to prepare bivariate choropleth maps (i.e., EdS and each determinant). This visualization helps us evaluate the quantitative relationship between EdS and individual statistically significant determinant in a spatial sense.
+Geographies of education status in Pakistan
+The results for overall spatial distribution of EdS in Pakistan at district level are presented in
+Based on the multivariate spatial clustering analysis, two spatially distinct statistically significant at p = 0.05) groups are identified (i.e., districts in blue and yellow colors in
+Among the identified statistically distinct spatial groups based on multivariate spatial clustering analysis, the EdS of blue group is close to third quartile value reflecting a higher status of education in these districts (
+The results from the global Moran's I-based spatial autocorrelation shows a statistically significant clustering for the EdS in Pakistan (
+Exploring determinants of education status
+The results from the OLS regression model are presented in
+The summary of the results from the GWR model are presented in
+In order to understand the spatial inconsistency of the relationship among EdS and several explanatory variables, the local regression coefficients are presented in
+The geographic distribution for the standardized residuals from the GWR model does not represent any obvious under or over prediction pattern (
+Ordinary least squares vs geographically weighted regression model
+Though the residual distribution in both cases (i.e., for OLS and GWR models) does not show any spatial pattern—showing the reliability of the models—it is observed that the GWR model outperforms the OLS model in several aspects. Firstly, while the highest variance explained by the GWR model is 76% (
+Ansong, Ansong, Ampomah, & Adjabeng, 2015
+Given the fact that initiatives to provide quality education are globally well recognized as integral to achieving SDGs (
+One significant finding in this study is the spatial disparity among regions regarding EdS (
+Another important contribution of this study is in terms of modelling approach. For instance, the GWR method is proved to have more potential than the typical OLS regression approach. Likewise, the performance of the GWR model from this study turns out to be much better than the one previously proposed by
+Ansong, Ansong, Ampomah, & Adjabeng, 2015
+Our results also indicate that in Pakistan, urbanization level is a statistically significant factor behind the EdS of a district (94% confidence,
+Implications for policy and SDGs
+As SDG-4 is among the category 1 of the national prioritized SDGs agenda in Pakistan (
+Ministry of Planning Development & Reform, 2018
+Ansong, Ansong, Ampomah, & Adjabeng, 2015
+The significant association between EdS and several explanatory variables shows the interconnectedness between different SDGs as well (Asadikia et al., 2021; Bali Swain & Ranganathan, 2021;
+Given that fact that the education is integral to strengthen the social capital of community resilience in Pakistan and beyond (
+Bali Swain and Ranganathan (2021)
+Limitations and the way forward
+Though the core objective of this study is to evaluate the geographic patterns of EdS and its determinants in Pakistan, the study has few limitations. One of the key limitations is regarding the data availability. For example, it was not possible to include all of the districts in Pakistan in the analyses due to unavailability of the data on the exploratory variables at the scale of this study. The two major concerns for this data limitation are the hampering of data collection in many areas of Pakistan due to several security concerns, and in some areas the districted are newly created. Similarly, the data used in this study are from 2017 and the nature of the performed analyses is static. Whereas, due to change in policies and the boundaries of districts for administrative purpose, the EdS becomes spatio-temporally dynamic issue. In light of this, the present assessments act as the benchmark to conduct national scale district level evaluation. Similarly, while the spatial aspects are well evaluated in this study, the temporal dynamic is yet to be analyzed, which represents an interesting research question for future studies. Similar analyses could be performed when the new data becomes available and the results could be compared with the ones presented here to see the differences. These further assessments can provide opportunities to analyze the effectiveness of adopted policies and strategic action plans devised to improve the EdS.
+In addition to this, future studies might also consider fitting other latest models (i.e., spatial lag model, multivariate regressions, machine learning, and Forest-based Classification and Regression approaches) to have more insights regarding this problem. Such application might help understanding if these approaches outperform OLS and GWR models in the case of Pakistan and other regions. In addition, though selected based on literature and the availability of data at the scale of our study (i.e., district), the number of explanatory variables used in this study are lower as the multi-collinearity needs to be addressed among the explanatory variables. This situation could have limited the opportunity to capture the direct association between several other variables to determine the EdS. Hence, other set of variables within the domains of socio-economic, capacity building, and institutional development could also be tested after checking their multicollinearity to expand our understanding regarding the controlling factors of education status in Pakistan and beyond. Such assessment could progressively allow regional comparisons of controlling variables to see if the same conditions are driving education status in regions with similar socio-economic, and institutional conditions (i.e., Pakistan, India, Bangladesh, etc.). Nevertheless, the presented approach, results, and implications of this study are noteworthy despite the above-mentioned limitations.
+Despite its importance, education in Pakistan has not received its deserved due attention as the country struggles to cope with manifold challenges. This study empirically fills the knowledge gap regarding geographical heterogeneities in EdS and its significant determinants in a spatial context in Pakistan. To do so, several geo-information models have been employed and inequalities in education status across the region are specifically identified to support actions in the context of SDG-4 achievement in Pakistan. The integration of cartographic outputs, evaluations of spatial association, and identification of significant influencing factors from socio-economic, spatio-environmental, and infrastructural domains provide interesting results. First, a large geographic disparity is evident in the EdS of districts in Pakistan with districts in Punjab province being relatively better as compared to other provinces. Based on the results, rigorous measures in Balochistan province are recommended to improve the situation of education status. Second, while a positive spatial autocorrelation is evident in the EdS across districts, the hotspots (clusters of higher performance) of higher EdS are identified in northern districts in Punjab (95% confidence). Third, based on the multivariate machine learning-based analysis, the statistically distinct (95% confidence) low-performing group is facing larger poverty and lacks particularly in school infrastructure and accessibility to electricity. Among seven potential factors, four are statistically significantly associated with EdS in Pakistan including school poverty (negative association), urbanization level, access to electricity, and infrastructure—ordered in high-to-low association. Thus, focusing these factors particularly in low performing districts is imperative to improve the situation of EdS in future. In a nutshell, the present study provides valuable acumens for better primary education planning in Pakistan based on systematic integration of spatial information modelling, regression, and cartographic techniques. Conclusively, this study presents location intelligence-based district level important insights and valuable references to support Pakistan's efforts to meet the 2030 Targets of SDG-4 in particular and other SDGs in general.
+No specific funds were available for this research. The first author is thankful to all the institutes for the provisioning of relevant data to conduct this valuable study. The research is conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. All the data used for several analyses are freely available and the resources are mentioned within the paper.
+Analyzing spatial and non-spatial factors that influence educational quality of primary schools in emerging regions of Ethiopia: Evidence from geospatial analysis and administrative time series data
+Journal of Geography and Regional Planning
+Abraha, A.T., 2019. Analyzing spatial and non-spatial factors that influence educational quality of primary schools in emerging regions of Ethiopia: Evidence from geospatial analysis and administrative time series data. Journal of Geography and Regional Planning 12, 10-19.
+Poverty data: Pakistan [WWW Document]
+Ailaan, A., 2017. Pakistan District Education Rankings.
+Determinants of education quality: What makes students' perception different?
+Open Review of Educational Research
+Akareem, H.S., Hossain, S.S., 2016. Determinants of education quality: what makes students’ perception different? Open Review of Educational Research 3, 52-67.
+Socioeconomic determinants of primary school children dropout: A case study of Pakistan
+International Journal of Educational Management
+Demystifying the aspect of quality in higher education: Insights from Saudi Arabia
+Allam, Z., 2020. Demystifying the Aspect of Quality in Higher Education: Insights From Saudi Arabia. SAGE Open 10, 2158244019899057.
+Factors contributing to spatial inequality in academic achievement in Ghana: Analysis of district-level factors using geographically weighted regression
+Ansong, D., Ansong, E.K., Ampomah, A.O., Adjabeng, B.K., 2015a. Factors contributing to spatial inequality in academic achievement in Ghana: Analysis of district-level factors using geographically weighted regression. Applied Geography 62, 136-146.
+A spatio-temporal analysis of academic performance at the Basic Education Certificate Examination in Ghana
+Gendered geographical inequalities in junior high school enrollment
+Systematic prioritisation of SDGs: Machine learning approach
+Asadikia, A., Rajabifard, A., Kalantari, M., 2021. Systematic prioritisation of SDGs: Machine learning approach. World Development 140, 105269.
+Bali Swain and Ranganathan, 2021
+Modeling interlinkages between sustainable development goals using network analysis
+Bali Swain, R., Ranganathan, S., 2021. Modeling interlinkages between sustainable development goals using network analysis. World Development 138, 105136.
+A contextual framework for primary education: Fostering information literacy in Pakistan
+Global Knowledge, Memory and Communication
+Batool, S.H., Webber, S., 2019a. A contextual framework for primary education: fostering information literacy in Pakistan. Global Knowledge, Memory and Communication 68, 164-176.
+Mapping the state of information literacy education in primary schools: The case of Pakistan
+Batool, S.H., Webber, S., 2019b. Mapping the state of information literacy education in primary schools: The case of Pakistan. Library & Information Science Research 41, 123-131.
+The pathway to progress on SDG 4 requires the global education architecture to focus on foundational learning and to hold ourselves accountable for achieving it
+International Journal of Educational Development
+Beeharry, G., 2021. The pathway to progress on SDG 4 requires the global education architecture to focus on foundational learning and to hold ourselves accountable for achieving it. International Journal of Educational Development 82, 102375.
+Education in Pakistan: Are low-cost private schools closing the gender gap?
+International Journal of Educational Development
+Bizenjo, S., 2020. Education in Pakistan: Are low-cost private schools closing the gender gap? International Journal of Educational Development 77, 102209.
+Education for development, CD for Peace: Producing the “globally competitive” child
+Boulton, A., 2010. Education for development, CD for Peace: Producing the “globally competitive” child. Geoforum 41, 329-336.
+Analyzing spatial distribution and accessibility of primary schools in Bishoftu Town, Ethiopia
+Bulti, D.T., Bedada, T.B., Diriba, L.G., 2019. Analyzing spatial distribution and accessibility of primary schools in Bishoftu Town, Ethiopia. Spatial Information Research 27, 227-236.
+Determinants of public education spending in 21 OECD democracies, 1980–2001
+Journal of European Public Policy
+Busemeyer, M.R., 2007. Determinants of public education spending in 21 OECD democracies, 1980-2001. Journal of European Public Policy 14, 582-610.
+An overview of India's primary school education policies and outcomes 2005–2011
+Geography of income and education inequalities in Mexico: Evidence from small area estimation and exploratory spatial analysis
+European Journal of Development Research
+Clement, M., Piaser, L., 2021. Geography of Income and Education Inequalities in Mexico: Evidence from Small Area Estimation and Exploratory Spatial Analysis. European Journal of Development Research.
+Why education is not helping the poor. Findings from Uganda
+Datzberger, S., 2018. Why education is not helping the poor. Findings from Uganda. World Development 110, 124-139.
+When the lights go on: Household electrification and educational outcomes in rural India
+Dave, M., 2013. When the lights go on: Household electrification and educational outcomes in rural India. Georgetown University.
+Geographically weighted regression: The analysis of spatially varying relationships
+Fotheringham, A.S., Brunsdon, C., Charlton, M., 2003. Geographically weighted regression: the analysis of spatially varying relationships. John Wiley & Sons.
+Does public infrastructure affect human capital? The effect of improved transport connectivity on children's education in the Philippines
+Francisco, K.A., Tanaka, M., 2019. Does public infrastructure affect human capital? The effect of improved transport connectivity on children's education in the Philippines. Economics of Education Review 73, 101927.
+The absolute and relative values of education and the inequality of educational opportunity: Trends in access to education in postwar Japan
+Research in Social Stratification and Mobility
+Fujihara, S., Ishida, H., 2016. The absolute and relative values of education and the inequality of educational opportunity: Trends in access to education in postwar Japan. Research in Social Stratification and Mobility 43, 25-37.
+Imbalance in spatial accessibility to primary and secondary schools in China: Guidance for education sustainability
+A competency framework to assess and activate education for sustainable development: Addressing the UN sustainable development goals 4.7 challenge
+Sustainability in higher education: What is happening in Pakistan?
+International Journal of Sustainability in Higher Education
+Habib, M.N., Khalil, U., Khan, Z., Zahid, M., 2021. Sustainability in higher education: what is happening in Pakistan? International Journal of Sustainability in Higher Education 22, 681-706.
+Geospatial analysis and research on social and spatial inequality of compulsory education: A case study of Hangzhou, China
+He, G., Huang, Q., 2021. Geospatial Analysis and Research on Social and Spatial Inequality of Compulsory Education: A Case Study of Hangzhou, China. Complexity 2021, 6265751.
+Data clustering: 50 years beyond K-means
+Jain, A.K., 2010. Data clustering: 50 years beyond K-means. Pattern Recognition Letters 31, 651-666.
+An introduction to statistical learning
+Geographically weighted regression analysis of the spatially varying relationship between farming viability and contributing factors in Ohio
+Jiang, Z., Xu, B., 2014. Geographically weighted regression analysis of the spatially varying relationship between farming viability and contributing factors in Ohio. Regional Science Policy & Practice 6, 69-83.
+The status of early childhood education in Pakistan: Inside stories
+Contemporary Issues in Early Childhood
+Khan, M.A., 2018. The status of early childhood education in Pakistan: Inside stories. Contemporary Issues in Early Childhood 19, 310-317.
+Spatial and gender inequality in the Kenya certificate of primary education examination results
+Kimosop, P.K., Otiso, K.M., Ye, X., 2015. Spatial and gender inequality in the Kenya certificate of primary education examination results. Applied Geography 62, 44-61.
+Qualitative inquiry into local education administration in Pakistan
+International Journal of Educational Development
+Komatsu, T., 2009. Qualitative inquiry into local education administration in Pakistan. International Journal of Educational Development 29, 219-226.
+Determinants of schooling for boys and girls in Nigeria under a policy of free primary education
+Lincove, J.A., 2009. Determinants of schooling for boys and girls in Nigeria under a policy of free primary education. Economics of Education Review 28, 474-484.
+Primary education quality in francophone Sub-Saharan Africa: Determinants of learning achievement and efficiency considerations
+Michaelowa, K., 2001. Primary education quality in francophone Sub-Saharan Africa: Determinants of learning achievement and efficiency considerations. World Development 29, 1699-1716.
+Ministry of Planning Development & Reform, 2018
+Ministry of Planning Development & Reform
+Pakistan's national framework on sustainable development Goals (Sdgs)
+Ministry of Planning Development & Reform, 2018. Pakistan’s National Framework on Sustainable Development Goals ( Sdgs ).
+Impact of use of technology on student learning outcomes: Evidence from a large-scale experiment in India
+Naik, G., Chitre, C., Bhalla, M., Rajan, J., 2020. Impact of use of technology on student learning outcomes: Evidence from a large-scale experiment in India. World Development 127, 104736.
+Transforming our world: The 2030 agenda for sustainable development
+Nations, U., 2015. Transforming our world: the 2030 Agenda for sustainable development, United Nations.
+Infrastructure provision, gender, and poverty in Indian slums
+Pakistan social and living standards measurement
+PSLM, 2020. Pakistan Social And Living Standards Measurement. Islamabad, Pakistan.
+Dynamic efficiency of primary education in Brazil: Socioeconomic and infrastructure influence on school performance
+Queiroz, M.V.A.B., Sampaio, R.M.B., Sampaio, L.M.B., 2020. Dynamic efficiency of primary education in Brazil: Socioeconomic and infrastructure influence on school performance. Socio-Economic Planning Sciences 70, 100738.
+Applied regression analysis: A research tool
+Disaster resilience in Pakistan: A comprehensive multi-dimensional spatial profiling
+Sajjad, M., 2021. Disaster resilience in Pakistan: A comprehensive multi-dimensional spatial profiling. Applied Geography 126, 102367.
+Annual status of education report
+Pakistan education Statistics 2016-17
+National Education Management Information System
+Budgetary allocations, literacy rate and number of primary schools in district Peshawar, Pakistan: Linkages and empirical evidence
+FWU JOURNAL OF SOCIAL SCIENCES
+Shams, K., 2017. Budgetary Allocations, Literacy Rate and Number of Primary Schools in District Peshawar, Pakistan: Linkages and Empirical Evidence. FWU JOURNAL OF SOCIAL SCIENCES 11, 56-63.
+The geography of energy and education: Leaders, laggards, and lessons for achieving primary and secondary school electrification
+Renewable and Sustainable Energy Reviews
+Sovacool, B.K., Ryan, S.E., 2016. The geography of energy and education: Leaders, laggards, and lessons for achieving primary and secondary school electrification. Renewable and Sustainable Energy Reviews 58, 107-123.
+Solar electrification & education attainment: A case study of rural Bajaur agency, Pakistan
+Journal of Solar Energy Research
+Ullah, A., Bangash, S., Rahman, S., 2018. Solar Electrification & Education Attainment: A Case Study of Rural Bajaur Agency, Pakistan. Journal of Solar Energy Research 3, 147-153.
+Education for all development index (EDI)
+UNESCO, 2012. Education for All Development Index (EDI). Global.
+The many Meanings of quality education: Politics of Targets and indicators in SDG4
+Unterhalter, E., 2019. The Many Meanings of Quality Education: Politics of Targets and Indicators in SDG4. Global Policy 10, 39-51.
+Heterogeneous determinants of educational achievement and inequality across urban China
+Valerio Mendoza, O.M., 2018. Heterogeneous determinants of educational achievement and inequality across urban China. China Economic Review 51, 129-148.
+Group-based educational inequalities in India: Have major education policy interventions been effective?
+International Journal of Educational Development
+Varughese, A.R., Bairagya, I., 2020. Group-based educational inequalities in India: Have major education policy interventions been effective? International Journal of Educational Development 73, 102159.
+Measuring spatial distributions of secondary education achievement in Australia
+Applied Spatial Analysis and Policy
+Vidyattama, Y., Li, J., Miranti, R., 2019. Measuring Spatial Distributions of Secondary Education Achievement in Australia. Applied Spatial Analysis and Policy 12, 493-514.
+Spatial variability of sustainable development goals in China: A provincial level evaluation
+A tale of north and south: Balanced and sustainable development of primary education in Ningxia, China
+Spatial and socio-demographic determinants of South East Queensland students' school cycling
+Wati, K., Tranter, P.J., 2015. Spatial and socio-demographic determinants of South East Queensland students’ school cycling. Journal of Transport Geography 47, 23-36.
+Spatio-temporal analysis of educational convenience in ethnic mountainous areas with road network constraints—a case study of Yunnan Province, China
+A spatial sufficiency analysis for primary schools; A case study of Burdur
+Hacettepe Universitesi Egitim Fakultesi Dergisi-Hacettepe University Journal of Education
+Yenice, M.S., 2013. A Spatial Sufficiency Analysis for Primary Schools; A Case Study of Burdur. Hacettepe Universitesi Egitim Fakultesi Dergisi-Hacettepe University Journal of Education 28, 430-439.
+Opportunity or new poverty trap: Rural-urban education disparity and internal migration in China
+Zhang, H., 2017. Opportunity or new poverty trap: Rural-urban education disparity and internal migration in China. China Economic Review 44, 112-124.
